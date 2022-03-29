@@ -1,0 +1,129 @@
+1648590941980	geckodriver	INFO	Listening on 127.0.0.1:56770
+1648590945043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileNDVxHf"
+1648590945447	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileNDVxHf\\search.json.mozlz4", (void 0)))
+1648590947705	Marionette	INFO	Listening on port 56779
+1648590948207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1648593935055	Marionette	INFO	Stopped listening on port 56779
+[Parent 4132, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 4132, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 4132, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+st_mozprofileP6Q9Di\\search.json.mozlz4", (void 0)))
+1648590960211	Marionette	INFO	Listening on port 56832
+1648590960641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1648593968553	Marionette	INFO	Stopped listening on port 56832
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+n\\AppData\\Local\\Temp\\rust_mozprofileXr7FW2\\search.json.mozlz4", (void 0)))
+1648593338137	Marionette	INFO	Listening on port 55475
+1648593338451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XiW-l_2i5aVoH8u79KLQHFanU8pv7NVYiw1EHy6cTgU.js line 1 > eval line 2668 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648593953088	Marionette	INFO	Stopped listening on port 55475
+archSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileiHQhwB\\search.json.mozlz4", (void 0)))
+1648593591557	Marionette	INFO	Listening on port 63512
+1648593591946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648593954936	Marionette	INFO	Stopped listening on port 63512
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileBSHA46"
+1648593669953	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileBSHA46\\search.json.mozlz4", (void 0)))
+1648593671958	Marionette	INFO	Listening on port 63670
+1648593672276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648593955835	Marionette	INFO	Stopped listening on port 63670
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+n\\AppData\\Local\\Temp\\rust_mozprofilevybsy3\\search.json.mozlz4", (void 0)))
+1648593688849	Marionette	INFO	Listening on port 63754
+1648593689068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648593960860	Marionette	INFO	Stopped listening on port 63754
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+n\\AppData\\Local\\Temp\\rust_mozprofileq07i5z\\search.json.mozlz4", (void 0)))
+1648593716718	Marionette	INFO	Listening on port 63841
+1648593716940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648593971343	Marionette	INFO	Stopped listening on port 63841
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648593980473	geckodriver	INFO	Listening on 127.0.0.1:65327
+1648593983531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileSE1XvF"
+1648593983872	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofileSE1XvF\\search.json.mozlz4", (void 0)))
+1648593986406	Marionette	INFO	Listening on port 65336
+1648593986733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XiW-l_2i5aVoH8u79KLQHFanU8pv7NVYiw1EHy6cTgU.js line 1 > eval line 7565 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XiW-l_2i5aVoH8u79KLQHFanU8pv7NVYiw1EHy6cTgU.js line 1 > eval line 4575 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be remov1648594485627	Marionette	I1648594488552	Marionette	INFO	Stopped listening on port 65336
+tings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+\Kamen\\AppData\\Local\\Temp\\rust_mozprofiley4BGmw"
+1648594213772	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofiley4BGmw\\search.json.mozlz4", (void 0)))
+1648594215739	Marionette	INFO	Listening on port 49169
+1648594216101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.premierleague.com/resources/prod/89ca2b2-3842/scripts/main.min.js, line 1: TypeError: e is undefined
+JavaScript error: https://www.premierleague.com/resources/prod/89ca2b2-3842/scripts/main.min.js, line 1: TypeError: e is undefined
+JavaScript error: https://www.premierleague.com/resources/prod/89ca2b2-3842/scripts/main.min.js, line 1: TypeError: e is undefined
+1648594484726	Marionette	INFO	Stopped listening on port 49169
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+\\rust_mozprofileyvcEsm\\search.json.mozlz4", (void 0)))
+1648594232987	Marionette	INFO	Listening on port 49254
+1648594233234	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.premierleague.com/resources/prod/89ca2b2-3842/scripts/main.min.js, line 1: TypeError: e is undefined
+JavaScript error: https://www.premierleague.com/resources/prod/89ca2b2-3842/scripts/main.min.js, line 1: TypeError: e is undefined
+JavaScript error: https://www.premierleague.com/resources/prod/89ca2b2-3842/scripts/main.min.js, line 1: TypeError: e is undefined
+1648594483622	Marionette	INFO	Stopped listening on port 49254
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+n\\AppData\\Local\\Temp\\rust_mozprofile01RcLu\\search.json.mozlz4", (void 0)))
+1648594363728	Marionette	INFO	Listening on port 56581
+1648594363791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.premierleague.com/resources/prod/89ca2b2-3842/scripts/main.min.js, line 1: TypeError: e is undefined
+JavaScript error: https://www.premierleague.com/resources/prod/89ca2b2-3842/scripts/main.min.js, line 1: TypeError: e is undefined
+JavaScript error: https://www.premierleague.com/resources/prod/89ca2b2-3842/scripts/main.min.js, line 1: TypeError: e is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XiW-l_2i5aVoH8u79KLQHFanU8pv7NVYiw1EHy6cTgU.js line 1 > eval line 4932 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648594482958	Marionette	INFO	Stopped listening on port 56581
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+bled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofile2i5sEd\\search.json.mozlz4", (void 0)))
+1648594431582	Marionette	INFO	Listening on port 56709
+1648594431879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.premierleague.com/resources/prod/89ca2b2-3842/widgets/pl_hero.min.js, line 1: TypeError: t is null
+JavaScript warning: https://sync.ecal.com/button/v1/bundle.cae4e49.js?_=1646802989002, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sync.ecal.com/button/v1/bundle.cae4e49.js?_=1646802989002, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648594482186	Marionette	INFO	Stopped listening on port 56709
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+bled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamen\\AppData\\Local\\Temp\\rust_mozprofilebn7fbM\\search.json.mozlz4", (void 0)))
+1648594458815	Marionette	INFO	Listening on port 56825
+1648594458940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.premierleague.com/resources/prod/89ca2b2-3842/scripts/main.min.js, line 1: TypeError: e is undefined
+JavaScript error: https://www.premierleague.com/resources/prod/89ca2b2-3842/scripts/main.min.js, line 1: TypeError: e is undefined
+JavaScript error: https://www.premierleague.com/resources/prod/89ca2b2-3842/scripts/main.min.js, line 1: TypeError: e is undefined
+1648594461148	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1648594481335	Marionette	INFO	Stopped listening on port 56825
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
