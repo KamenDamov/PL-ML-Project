@@ -1,0 +1,648 @@
+,id,firstname,lastname,age,nationality,height,weight,injured,teamID,teamname,appearences,lineups,minutes,position,rating,captain,subIn,subOut,bench,totalShots,shotsOn,totalGoals,goalsConceded,goalAssists,goalSaves,totalPasses,keyPasses,passAccuracy,totalTackles,blocks,interceptions,duelsTotal,duelsWon,dribbleAttempts,dribblesSuccess,dribblesPast,foulsDrawn,foulsCommitted,cardsYel,cardsYelRed,cardsRed,penaltyWon,penaltyCommited,penaltyScored,penaltyMissed,penaltySaved,season
+0,160,Michel,Vorm,38,Netherlands,183 cm,84 kg,False,47,Tottenham,0,0,0,Goalkeeper,,False,0,0,9,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+1,162,Toby Albertine Maurits,Alderweireld,33,Belgium,186 cm,81 kg,False,47,Tottenham,33,33,2958,Defender,6.966666,False,0,1,5,16,4,2,,2,,1616,12,79,40,32,31,226,117,1,0,,4,18,7,0,0,,,0,0,,2019/2020
+2,642,Sergio Leonel,Agüero del Castillo,33,Argentina,173 cm,70 kg,False,50,Manchester City,24,18,1456,Attacker,7.160869,False,6,10,8,76,28,16,,3,,285,18,79,7,1,3,114,43,40,24,,9,9,1,0,0,2,,2,1,,2019/2020
+3,2795,Gylfi Þór,Sigurðsson,33,Iceland,186 cm,79 kg,False,45,Everton,35,28,2562,Midfielder,6.854285,False,7,9,7,46,14,2,,3,,850,52,82,50,4,37,250,103,30,16,,23,34,3,0,0,,,1,0,,2019/2020
+4,18757,Leighton,Baines,37,England,170 cm,74 kg,False,45,Everton,8,4,402,Defender,6.887500,False,4,2,23,1,0,0,,,,134,7,76,10,2,5,35,21,4,2,,4,1,0,0,0,,,0,0,,2019/2020
+5,18774,Wes,Morgan,37,Jamaica,186 cm,101 kg,False,46,Leicester,11,4,429,Defender,6.680000,False,7,0,31,4,2,0,,,,217,0,67,4,3,7,49,26,2,2,,1,4,0,0,0,,,0,0,,2019/2020
+6,18789,Heurelho,da Silva Gomes,40,Brazil,191 cm,91 kg,False,38,Watford,0,0,0,Goalkeeper,,False,0,0,38,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+7,18795,José,Holebas,37,Greece,184 cm,77 kg,False,38,Watford,14,11,1024,Defender,6.478571,False,3,2,10,6,3,0,,,,303,11,68,26,4,3,146,74,16,7,,6,18,5,0,0,,1,0,0,,2019/2020
+8,18801,Sebastian,Prödl,34,Austria,194 cm,92 kg,False,38,Watford,1,1,57,Defender,6.700000,False,0,1,1,2,0,0,,,,6,0,54,,0,0,5,3,0,0,,0,1,0,0,0,,,0,0,,2019/2020
+9,18818,Pablo Javier,Zabaleta Girod,35,Argentina,176 cm,74 kg,False,48,West Ham,10,6,589,Defender,6.580000,False,4,1,23,0,0,0,,,,188,3,74,18,3,14,65,37,3,2,,9,7,2,0,0,,,0,0,,2019/2020
+10,18864,Charlie John,Daniels,36,England,178 cm,75 kg,False,35,Bournemouth,2,2,127,Defender,6.450000,False,0,1,1,0,0,0,,,,28,2,68,1,0,1,5,3,0,0,,0,0,0,0,0,,,0,0,,2019/2020
+11,18865,Simon,Francis,35,England,183 cm,90 kg,False,35,Bournemouth,15,10,965,Defender,6.692857,False,5,0,9,3,0,0,,,,393,5,72,13,12,20,120,66,7,4,,1,7,4,1,0,,,0,0,,2019/2020
+12,18879,Andrew,Surman,35,England,178 cm,73 kg,False,35,Bournemouth,5,2,233,Midfielder,6.450000,False,3,1,27,1,0,0,,,,103,1,67,4,0,1,20,9,0,0,,1,1,1,0,0,,,0,0,,2019/2020
+13,18975,David Petrus Wenceslaus Henri,Pröpper,31,Netherlands,185 cm,79 kg,False,51,Brighton,35,32,2830,Midfielder,6.722857,False,3,4,4,29,8,1,,2,,1502,29,82,64,8,38,302,156,64,46,,18,31,4,0,0,,,0,0,,2019/2020
+14,18982,Glenn,Murray,38,England,183 cm,80 kg,False,51,Brighton,23,7,786,Attacker,6.550000,False,16,5,30,18,5,1,,1,,103,3,62,5,2,1,141,57,5,0,,15,15,0,0,0,,,0,0,,2019/2020
+15,19079,Alexander Banor,Tettey,36,Norway,180 cm,76 kg,False,71,Norwich,30,28,2351,Midfielder,6.713333,False,2,15,5,23,4,1,,1,,1139,5,86,23,9,43,169,80,20,15,,7,21,5,0,0,,,0,0,,2019/2020
+16,19171,Mark,Bunn,35,England,183 cm,77 kg,False,66,Aston Villa,,,,Goalkeeper,,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019/2020
+17,19186,Ahmed Eissa,El Mohamady Abdel Fattah,34,Egypt,183 cm,75 kg,False,66,Aston Villa,18,11,1026,Defender,6.727777,False,7,2,21,5,1,1,,1,,397,22,80,19,5,13,111,60,11,7,,5,13,1,0,0,,,0,0,,2019/2020
+18,19533,José Ignacio,Peleteiro Ramallo,30,Spain,180 cm,70 kg,False,66,Aston Villa,10,4,333,Midfielder,6.600000,False,6,4,17,6,1,0,,1,,73,4,71,3,0,3,38,13,8,7,,2,6,0,0,0,,,0,0,,2019/2020
+19,138936,Kaine,Kesler Hayden,18,England,,,False,66,Aston Villa,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+20,3245,Jonathan Adjo,Kodjia,33,Côte d'Ivoire,191 cm,77 kg,False,66,Aston Villa,6,0,112,Attacker,6.433333,False,6,0,12,2,0,0,,,,15,1,50,,0,0,16,9,3,1,,2,1,1,0,0,,,0,0,,2019/2020
+21,12555,Richairo,Zivkovic,26,Netherlands,187 cm,73 kg,False,62,Sheffield Utd,5,0,107,Attacker,6.340000,False,5,0,9,1,0,0,,,,16,2,92,2,0,0,23,3,3,0,,1,1,0,0,0,,,0,0,,2019/2020
+22,18796,Daryl,Janmaat,33,Netherlands,185 cm,80 kg,False,38,Watford,8,7,608,Defender,6.912500,False,1,2,5,4,0,0,,1,,204,6,78,14,2,7,39,22,7,5,,1,5,1,0,0,,,0,0,,2019/2020
+23,18848,Sam John,Woods,24,England,185 cm,76 kg,False,52,Crystal Palace,0,0,0,Defender,,False,0,0,7,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+24,18905,Yoshinori,Muto,30,Japan,179 cm,72 kg,False,34,Newcastle,8,2,207,Attacker,6.512500,False,6,1,15,1,0,0,,,,27,1,73,3,0,0,26,12,9,5,,3,2,0,0,0,,,0,0,,2019/2020
+25,19050,Aaron Frank,Mooy,32,Australia,174 cm,68 kg,False,51,Brighton,14,10,862,Midfielder,6.851612,False,4,5,4,33,8,0,,2,,790,40,79,37,7,23,233,101,56,38,,11,13,1,0,0,,,0,0,,2019/2020
+26,19178,Alan,Hutton,35,Scotland,185 cm,72 kg,False,66,Aston Villa,,,,Defender,,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019/2020
+27,20055,Nya Jerome,Kirby,22,England,174 cm,,False,52,Crystal Palace,0,0,0,Midfielder,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+28,82022,Oskar,Buur Rasmussen,24,Denmark,180 cm,70 kg,False,39,Wolves,0,0,0,Defender,,False,0,0,15,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+29,82948,Jordan Andrew,Davies,24,Wales,178 cm,74 kg,False,51,Brighton,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+30,90497,Winston Wiremu,Reid,34,New Zealand,190 cm,87 kg,False,48,West Ham,0,0,0,Defender,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+31,125705,Taylor,Perry,21,England,180 cm,72 kg,False,39,Wolves,0,0,0,Midfielder,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+32,138914,Jordan James Chattenton,Thomas,21,England,182 cm,69 kg,False,71,Norwich,1,0,0,Defender,,False,1,0,4,0,0,0,,,,0,0,0,,0,0,1,0,0,0,,0,0,0,0,0,,,0,0,,2019/2020
+33,144709,Joseph,Tetteh Anang,22,England,190 cm,72 kg,False,48,West Ham,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+34,144715,Bernardo,Rusa,22,Brazil,,,False,48,West Ham,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+35,147834,Archie,Mair,21,Scotland,198 cm,86 kg,False,71,Norwich,0,0,0,Goalkeeper,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+36,153506,Indiana,Denchev Vassilev,21,USA,175 cm,72 kg,False,66,Aston Villa,4,0,47,Midfielder,6.275000,False,4,0,12,1,0,0,,,,7,0,56,,0,0,4,2,1,1,,1,0,0,0,0,,,0,0,,2019/2020
+37,190595,Lukas Bornhøft,Jensen,23,Denmark,198 cm,90 kg,False,44,Burnley,0,0,0,Goalkeeper,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+38,264438,Max,Thompson,20,England,,,False,44,Burnley,1,0,2,Attacker,,False,1,0,9,0,0,0,,,,0,0,0,,0,0,1,0,0,0,,0,0,0,0,0,,,0,0,,2019/2020
+39,266203,John-Kymani,Linton Michael Gordon,19,England,,,False,52,Crystal Palace,0,0,0,Attacker,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+40,84,Wesley,Moraes Ferreira da Silva,26,Brazil,191 cm,93 kg,False,66,Aston Villa,21,21,1790,Attacker,6.819047,False,0,8,0,35,18,5,,1,,263,11,72,15,2,4,274,110,24,12,,14,43,3,0,0,,,0,1,,2019/2020
+41,727,Reiss Luke,Nelson,23,England,175 cm,71 kg,False,42,Arsenal,17,7,627,Attacker,6.675000,False,10,6,20,11,4,1,,,,177,9,86,11,2,3,87,36,32,17,,8,8,1,0,0,,,0,0,,2019/2020
+42,899,Andreas Hugo,Hoelgebaum Pereira,26,Brazil,178 cm,71 kg,False,33,Manchester United,25,18,1490,Midfielder,6.633333,False,7,13,14,37,14,1,,3,,551,32,78,24,0,7,212,70,33,20,,16,27,3,0,0,,,0,0,,2019/2020
+43,1826,Sébastien Romain Teddy,Haller,28,Côte d'Ivoire,190 cm,82 kg,False,48,West Ham,32,24,2262,Attacker,6.984375,False,8,4,9,56,27,7,,1,,505,24,68,22,5,8,621,297,40,24,,38,46,1,0,0,1,,0,0,,2019/2020
+44,2283,David Luiz,Moreira Marinho,35,Brazil,189 cm,84 kg,False,42,Arsenal,33,32,2811,Defender,6.733333,False,1,1,4,23,8,2,,1,,1531,4,83,28,37,32,188,98,8,5,,14,30,5,0,2,,5,0,0,,2019/2020
+45,2700,Alireza,Jahanbakhsh Jirandeh,29,Iran,180 cm,76 kg,False,51,Brighton,10,3,307,Attacker,6.922222,False,7,3,16,12,2,2,,,,84,4,70,8,0,3,46,23,15,8,,7,2,0,0,0,,,0,0,,2019/2020
+46,8924,Michael Robin,Verrips,26,Netherlands,195 cm,85 kg,False,62,Sheffield Utd,0,0,0,Goalkeeper,,False,0,0,12,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+47,18756,Maarten,Stekelenburg,40,Netherlands,197 cm,92 kg,False,45,Everton,0,0,0,Goalkeeper,,False,0,0,24,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+48,18798,Adrian Joseph,Mariappa,36,Jamaica,180 cm,78 kg,False,38,Watford,20,15,1509,Defender,6.495000,False,5,0,14,3,0,0,,,,338,4,68,20,7,11,142,70,1,1,,7,20,5,1,0,,,0,0,,2019/2020
+49,18827,Carlos Alberto,Sánchez Moreno,36,Colombia,182 cm,82 kg,False,48,West Ham,6,1,113,Midfielder,6.440000,False,5,1,17,0,0,0,,,,48,0,79,1,0,2,9,4,1,1,,0,2,0,0,0,,,0,0,,2019/2020
+50,18850,Giovanni Donald,McGregor,23,England,176 cm,,False,52,Crystal Palace,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+51,18859,Artur,Boruc,42,Poland,193 cm,87 kg,False,35,Bournemouth,0,0,0,Goalkeeper,,False,0,0,38,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+52,18900,Sung-Yeung,Ki,33,Korea Republic,189 cm,75 kg,False,34,Newcastle,3,1,136,Midfielder,6.666666,False,2,1,4,0,0,0,,,,59,2,87,1,0,3,13,8,2,2,,3,1,0,0,0,,,0,0,,2019/2020
+53,19209,Fikayo,Tomori,25,England,185 cm,75 kg,False,49,Chelsea,15,15,1293,Defender,7.013333,False,0,2,12,7,3,1,,,,1006,4,86,29,7,22,125,78,12,9,,6,7,3,0,0,,,0,0,,2019/2020
+54,19481,Jack Christian,Rodwell,31,England,188 cm,70 kg,False,62,Sheffield Utd,1,0,15,Midfielder,6.300000,False,1,0,8,0,0,0,,,,2,0,100,,0,0,1,0,0,0,,0,0,0,0,0,,,0,0,,2019/2020
+55,19593,Tomer,Hemed,35,Israel,186 cm,80 kg,False,51,Brighton,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+56,37146,Rhu-endly Aurelio Jean-Carlo,Martina,33,Curaçao,185 cm,77 kg,False,45,Everton,0,0,0,Defender,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+57,41301,Gonçalo Bento,Soares Cardoso,22,Portugal,189 cm,,False,48,West Ham,0,0,0,Defender,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+58,68124,Nikola,Tavares,23,Croatia,188 cm,,False,52,Crystal Palace,0,0,0,Defender,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+59,180771,Mace Lewin,Goodridge,23,England,180 cm,,False,44,Burnley,0,0,0,Midfielder,,False,0,0,10,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+60,618,Danilo Luiz,da Silva,31,Brazil,184 cm,78 kg,False,50,Manchester City,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+61,877,Moise Bioty,Kean,22,Italy,182 cm,67 kg,False,45,Everton,29,6,834,Attacker,6.657142,False,23,6,30,30,13,2,,2,,96,10,71,6,0,5,150,53,48,25,,11,27,1,0,0,,,0,0,,2019/2020
+62,971,Panagiotis,Retsos,24,Greece,186 cm,79 kg,False,62,Sheffield Utd,0,0,0,Defender,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+63,1107,Filip,Benković,25,Croatia,194 cm,80 kg,False,46,Leicester,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+64,1457,Henrikh,Mkhitaryan,33,Armenia,177 cm,75 kg,False,42,Arsenal,3,1,111,Midfielder,6.433333,False,2,1,3,2,0,0,,,,55,2,84,,0,0,19,6,7,2,,2,2,1,0,0,,,0,0,,2019/2020
+65,1462,Lucas,Torreira Di Pascua,26,Uruguay,168 cm,64 kg,False,42,Arsenal,29,17,1509,Midfielder,6.779310,False,12,9,16,21,6,1,,1,,793,14,83,31,8,34,182,101,23,17,,43,24,7,0,0,,,0,0,,2019/2020
+66,1624,José Manuel,Reina Páez,40,Spain,188 cm,92 kg,False,66,Aston Villa,12,12,1080,Goalkeeper,6.716666,False,0,0,4,0,0,0,20,,33,231,1,66,,0,0,12,9,0,0,,4,1,1,0,0,,,0,0,1,2019/2020
+67,1649,Patrick,Cutrone,24,Italy,183 cm,75 kg,False,39,Wolves,12,3,291,Attacker,6.633333,False,9,3,17,11,4,2,,,,41,2,66,4,1,2,64,24,5,3,,9,5,0,0,0,,,0,0,,2019/2020
+68,2295,Olivier,Giroud,36,France,192 cm,93 kg,False,49,Chelsea,18,12,999,Attacker,6.961111,False,6,12,13,39,19,8,,,,204,8,70,8,1,2,154,70,4,3,,9,17,1,0,0,,,0,0,,2019/2020
+69,2299,Pedro Eliezer,Rodríguez Ledesma,35,Spain,169 cm,65 kg,False,49,Chelsea,11,8,661,Attacker,7.010000,False,3,3,16,22,10,1,,1,,262,17,82,15,0,9,82,40,21,12,,11,8,1,0,0,,,0,0,,2019/2020
+70,2412,Felipe,Anderson Pereira Gomes,29,Brazil,175 cm,70 kg,False,48,West Ham,25,20,1506,Attacker,6.858333,False,5,14,9,23,8,1,,4,,705,25,69,46,1,22,269,139,92,63,,24,17,1,0,0,,,0,0,,2019/2020
+71,2475,Roberto Maximiliano,Pereyra,31,Argentina,182 cm,77 kg,False,38,Watford,28,17,1649,Midfielder,6.577777,False,11,12,16,21,9,3,,,,522,20,81,20,0,14,198,78,53,20,,33,21,4,0,0,1,,1,0,,2019/2020
+72,2674,Rui Pedro,dos Santos Patrício,34,Portugal,190 cm,84 kg,False,39,Wolves,38,38,3420,Goalkeeper,6.850000,False,0,0,0,0,0,0,40,,91,441,0,60,,0,2,17,14,0,0,,6,0,0,0,0,,,0,0,2,2019/2020
+73,2777,Isaac,Ajayi Success,26,Nigeria,186 cm,86 kg,False,38,Watford,5,0,65,Attacker,6.525000,False,5,0,12,1,1,0,,,,13,1,76,,0,1,17,3,3,1,,2,2,1,0,0,,,0,0,,2019/2020
+74,2925,Dennis,Praet,28,Belgium,181 cm,78 kg,False,46,Leicester,27,12,1131,Midfielder,6.642307,False,15,12,22,16,3,1,,2,,443,9,83,33,1,17,143,63,25,12,,13,18,2,0,0,,1,0,0,,2019/2020
+75,18809,Gerard,Deulofeu Lázaro,28,Spain,177 cm,73 kg,False,38,Watford,28,25,2109,Attacker,6.896428,False,3,14,3,64,21,4,,5,,578,44,80,33,0,25,300,118,105,62,,22,27,3,0,0,1,,1,0,,2019/2020
+76,19182,Axel,Tuanzebe,25,England,186 cm,75 kg,False,33,Manchester United,5,2,186,Defender,6.100000,False,3,0,12,0,0,0,,,,120,0,71,2,0,5,28,8,3,0,,3,3,0,0,0,,,0,0,,2019/2020
+77,19194,Tammy,Bakumo-Abraham,25,England,190 cm,80 kg,False,49,Chelsea,34,25,2221,Attacker,6.882352,False,9,16,9,88,40,15,,3,,272,21,64,8,2,6,338,137,35,16,,24,17,2,0,0,1,,0,0,,2019/2020
+78,30812,Ignacio,Pussetto,27,Argentina,180 cm,74 kg,False,38,Watford,7,0,67,Midfielder,6.350000,False,7,0,14,0,0,0,,,,17,0,52,7,1,3,28,12,5,2,,2,3,1,0,0,,,0,0,,2019/2020
+79,46792,Pablo,Marí Villar,29,Spain,193 cm,87 kg,False,42,Arsenal,2,2,114,Defender,7.000000,False,0,1,0,0,0,0,,,,85,0,85,2,0,1,10,6,0,0,,0,2,0,0,0,,,0,0,,2019/2020
+80,113,Georges-Kévin,Nkoudou Mbida,27,France,172 cm,75 kg,False,47,Tottenham,1,0,2,Midfielder,,False,1,0,1,1,0,0,,,,0,0,0,,0,0,1,0,0,0,,0,0,0,0,0,,,0,0,,2019/2020
+81,569,Gedson,Carvalho Fernandes,23,Portugal,182 cm,71 kg,False,47,Tottenham,7,0,61,Midfielder,6.550000,False,7,0,15,1,0,0,,,,33,2,75,2,0,1,15,6,8,2,,2,0,0,0,0,,,0,0,,2019/2020
+82,884,Sergio Germán,Romero,35,Argentina,192 cm,87 kg,False,33,Manchester United,0,0,0,Goalkeeper,,False,0,0,35,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+83,1458,Mesut,Özil,34,Germany,180 cm,76 kg,False,42,Arsenal,18,18,1449,Midfielder,6.950000,False,0,11,4,9,3,1,,2,,738,39,87,17,0,5,117,52,22,16,,18,14,1,0,0,,,0,0,,2019/2020
+84,2664,Mahmoud Ahmed Ibrahim,Hassan,28,Egypt,180 cm,71 kg,False,66,Aston Villa,34,20,1951,Midfielder,6.726470,False,14,14,17,50,17,6,,1,,273,21,68,38,2,25,294,128,64,30,,32,35,3,1,0,1,,0,0,,2019/2020
+85,2767,Leon Aderemi,Balogun,34,Nigeria,190 cm,88 kg,False,51,Brighton,0,0,0,Defender,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+86,2812,Albian Afrim,Ajeti,25,Switzerland,183 cm,78 kg,False,48,West Ham,9,0,130,Attacker,6.450000,False,9,0,28,3,0,0,,,,12,2,54,1,0,0,22,2,2,0,,0,6,0,0,0,,,0,0,,2019/2020
+87,2927,Michy,Batshuayi Tunga,29,Belgium,184 cm,76 kg,False,49,Chelsea,16,1,226,Attacker,6.518750,False,15,1,27,15,2,1,,1,,64,3,81,4,1,0,47,18,8,4,,4,4,0,0,0,,,0,0,,2019/2020
+88,18763,James Patrick,McCarthy,32,Republic of Ireland,180 cm,72 kg,False,52,Crystal Palace,33,16,1668,Midfielder,6.796875,False,17,5,22,12,3,0,,,,609,18,73,82,5,24,220,122,10,7,,18,31,9,0,0,,,0,0,,2019/2020
+89,18780,Rachid,Ghezzal,30,Algeria,182 cm,70 kg,False,46,Leicester,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+90,18845,Patrick John Miguel,van Aanholt,32,Netherlands,176 cm,74 kg,False,52,Crystal Palace,29,29,2511,Defender,6.893103,False,0,4,0,27,6,3,,2,,987,32,80,43,9,45,171,83,38,16,,8,9,0,0,0,,,1,0,,2019/2020
+91,18868,Jack Benjamin,Simpson,26,England,190 cm,83 kg,False,35,Bournemouth,4,1,238,Defender,6.250000,False,3,0,20,1,0,0,,,,65,1,67,5,0,2,26,14,5,4,,1,1,0,0,0,,,0,0,,2019/2020
+92,18876,Jordon,Ibe,27,England,176 cm,81 kg,False,35,Bournemouth,2,0,48,Attacker,6.550000,False,2,0,8,0,0,0,,,,14,0,68,2,0,0,7,5,2,1,,2,0,0,0,0,,,0,0,,2019/2020
+93,18877,Nathan Nnamdi Ugochukwu Benjam,Asigboro Ofoborh,23,Nigeria,175 cm,,False,35,Bournemouth,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+94,18882,Lys,Mousset,26,France,184 cm,80 kg,False,62,Sheffield Utd,30,11,1232,Attacker,6.696666,False,19,11,22,37,9,6,,4,,168,12,63,9,0,4,218,73,41,28,,14,24,1,0,0,,,0,0,,2019/2020
+95,18908,Charles Joseph John,Hart,35,England,196 cm,91 kg,False,44,Burnley,0,0,0,Goalkeeper,,False,0,0,29,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+96,18944,Maya,Yoshida,34,Japan,189 cm,78 kg,False,41,Southampton,8,6,558,Defender,6.387500,False,2,0,17,5,3,0,,,,211,0,75,8,2,4,43,27,1,1,,5,3,1,0,0,,,0,0,,2019/2020
+97,19104,John David,Lundstram,28,England,181 cm,78 kg,False,62,Sheffield Utd,34,26,2455,Midfielder,6.850000,False,8,5,9,43,10,5,,3,,972,21,82,46,4,33,235,99,37,18,,12,27,5,0,0,,,0,0,,2019/2020
+98,30816,Stefano,Okaka Chuka,33,Italy,186 cm,82 kg,False,38,Watford,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+99,50101,Fousseni,Diabaté,27,Mali,175 cm,60 kg,False,46,Leicester,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+100,102,Djibril,Sidibé,30,France,182 cm,71 kg,False,45,Everton,25,18,1820,Defender,7.020000,False,7,3,13,12,3,0,,4,,745,19,77,83,3,40,250,144,25,14,,19,24,3,0,0,,,0,0,,2019/2020
+101,287,Dejan,Lovren,33,Croatia,188 cm,84 kg,False,40,Liverpool,10,9,777,Defender,7.000000,False,1,1,11,5,1,0,,1,,566,1,82,13,6,10,106,70,1,1,,8,4,1,0,0,,,0,0,,2019/2020
+102,300,Georginio Gregion Emile,Wijnaldum,32,Netherlands,175 cm,69 kg,False,40,Liverpool,37,35,2948,Midfielder,6.789189,False,2,15,2,36,15,4,,,,1476,18,89,38,4,17,299,141,74,41,,32,15,0,0,0,,,0,0,,2019/2020
+103,662,Tanguy,Ndombèlé Alvaro,26,France,181 cm,76 kg,False,47,Tottenham,21,12,1010,Midfielder,6.852380,False,9,10,15,9,4,2,,2,,541,12,85,24,3,14,167,97,49,38,,29,14,3,0,0,,,0,0,,2019/2020
+104,896,Adilson Angel,Abreu de Almeida Gomes,22,England,168 cm,56 kg,False,33,Manchester United,2,0,19,Midfielder,6.750000,False,2,0,5,0,0,0,,,,11,2,83,,0,0,1,0,0,0,,0,1,0,0,0,,,0,0,,2019/2020
+105,1442,Sead,Kolašinac,29,Bosnia and Herzegovina,183 cm,85 kg,False,42,Arsenal,26,19,1699,Defender,6.723076,False,7,5,10,4,0,0,,2,,770,10,86,29,4,25,154,88,21,16,,16,20,4,0,0,,,0,0,,2019/2020
+106,1454,Mattéo Elias Kenzo,Guendouzi Olié,23,France,185 cm,68 kg,False,42,Arsenal,24,19,1747,Midfielder,6.833333,False,5,4,10,11,5,0,,1,,1018,12,83,31,7,29,218,116,43,24,,49,17,6,0,0,1,,0,0,,2019/2020
+107,1756,Ryan,Kent,26,England,172 cm,65 kg,False,40,Liverpool,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+108,2284,Emerson,Palmieri dos Santos,28,Italy,176 cm,63 kg,False,49,Chelsea,15,13,1025,Defender,6.906666,False,2,3,9,13,7,0,,,,611,19,82,23,1,18,99,68,16,12,,16,4,3,0,0,,,0,0,,2019/2020
+109,2500,Fabián Cornelio,Balbuena González,31,Paraguay,188 cm,82 kg,False,48,West Ham,17,13,1173,Defender,6.615384,False,4,0,25,10,4,1,,,,360,1,57,17,5,26,133,74,2,2,,2,6,2,0,0,,,0,0,,2019/2020
+110,2710,Sofiane,Boufal,29,Morocco,170 cm,60 kg,False,41,Southampton,20,8,758,Midfielder,6.547368,False,12,7,19,18,7,0,,2,,223,15,78,16,0,4,212,96,86,53,,20,25,2,0,0,,1,0,0,,2019/2020
+111,3240,Jean-Philippe,Gbamin,27,Côte d'Ivoire,186 cm,83 kg,False,45,Everton,2,1,135,Midfielder,6.700000,False,1,0,1,0,0,0,,,,50,0,71,4,0,1,21,11,3,2,,2,2,0,0,0,,,0,0,,2019/2020
+112,18764,Morgan,Schneiderlin,33,France,181 cm,75 kg,False,45,Everton,15,12,1004,Midfielder,6.706666,False,3,5,7,6,0,0,,,,483,4,83,31,3,21,100,52,3,3,,2,18,5,1,0,,,0,0,,2019/2020
+113,18842,Mamadou,Sakho,32,France,187 cm,83 kg,False,52,Crystal Palace,14,11,932,Defender,6.292857,False,3,2,5,0,0,0,,,,472,1,87,7,5,20,58,30,5,4,,2,3,1,0,1,,,0,0,,2019/2020
+114,19550,Beni,Tangama Baningime,24,Congo DR,178 cm,70 kg,False,45,Everton,0,0,0,Midfielder,,False,0,0,10,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+115,21636,Frédéric,Guilbert,28,France,178 cm,70 kg,False,66,Aston Villa,25,22,2041,Defender,6.788000,False,3,3,9,8,3,0,,2,,516,14,67,74,10,49,336,164,48,23,,21,36,7,0,0,,,0,0,,2019/2020
+116,25287,Kevin,Danso,24,Austria,190 cm,89 kg,False,41,Southampton,6,3,276,Defender,6.483333,False,3,1,19,1,0,0,,1,,97,2,63,6,3,2,42,18,7,3,,2,4,1,1,0,,,0,0,,2019/2020
+117,130420,Jake,Vokins,22,England,180 cm,,False,41,Southampton,1,1,90,Defender,6.700000,False,0,0,7,1,0,0,,,,46,1,79,2,0,0,5,3,1,0,,1,0,0,0,0,,,0,0,,2019/2020
+118,137301,Alexander William,Cochrane,22,England,173 cm,70 kg,False,51,Brighton,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+119,138786,Ellis Reco,Simms,21,England,183 cm,73 kg,False,45,Everton,0,0,0,Attacker,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+120,176,Erik,Lamela,30,Argentina,181 cm,79 kg,False,47,Tottenham,25,12,1210,Midfielder,6.783333,False,13,8,15,29,10,2,,1,,453,19,79,24,3,8,209,86,44,30,,26,30,3,0,0,1,,0,0,,2019/2020
+121,396,Ralf Sebastian,Fährmann,34,Germany,197 cm,98 kg,False,71,Norwich,1,1,22,Goalkeeper,6.200000,False,0,1,19,0,0,0,2,,1,5,0,62,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,0,2019/2020
+122,409,Nabil,Bentaleb,28,Algeria,187 cm,78 kg,False,34,Newcastle,12,8,749,Midfielder,6.716666,False,4,2,6,4,0,0,,,,348,8,76,23,2,19,104,50,10,8,,5,19,2,0,0,,,0,0,,2019/2020
+123,619,Eric,García Martret,21,Spain,182 cm,76 kg,False,50,Manchester City,13,8,790,Defender,6.815384,False,5,2,12,2,1,0,,,,678,2,90,6,0,18,59,25,8,6,,2,9,1,0,0,,,0,0,,2019/2020
+124,741,Jesús,Vallejo Lázaro,25,Spain,184 cm,79 kg,False,39,Wolves,2,1,162,Defender,6.300000,False,1,0,11,0,0,0,,,,91,0,76,1,3,2,15,8,1,1,,1,2,1,0,0,,,0,0,,2019/2020
+125,748,Daniel,Ceballos Fernández,26,Spain,179 cm,70 kg,False,42,Arsenal,24,18,1698,Midfielder,6.958333,False,6,12,10,13,3,0,,2,,1100,29,84,45,3,32,241,116,36,27,,35,19,1,0,0,,,0,0,,2019/2020
+126,908,Anthony,Martial,27,France,181 cm,76 kg,False,33,Manchester United,32,31,2640,Attacker,7.153125,False,1,17,1,80,40,17,,6,,574,31,80,15,1,5,339,124,97,50,,41,28,1,0,0,1,,0,1,,2019/2020
+127,1446,Zechariah Joshua Henry,Medley,22,England,195 cm,90 kg,False,42,Arsenal,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+128,1465,Pierre-Emerick,Aubameyang,33,Gabon,187 cm,80 kg,False,42,Arsenal,36,35,3139,Attacker,7.172222,False,1,3,1,93,42,22,,3,,590,26,71,31,1,14,264,101,38,17,,20,14,3,0,1,,,2,0,,2019/2020
+129,2049,Ibrahim,Amadou,29,France,183 cm,81 kg,False,71,Norwich,11,8,757,Midfielder,6.654545,False,3,1,12,6,1,0,,,,321,1,87,18,5,16,69,38,2,2,,2,8,1,0,0,,1,0,0,,2019/2020
+130,18753,Adama,Traoré Diarra,26,Spain,178 cm,86 kg,False,39,Wolves,37,27,2605,Attacker,7.278378,False,10,9,11,43,12,4,,9,,530,48,75,33,3,13,570,338,246,183,,77,39,1,0,0,,,0,0,,2019/2020
+131,18980,José Heriberto,Izquierdo Mena,30,Colombia,171 cm,73 kg,False,51,Brighton,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+132,19067,Philip,Heise,31,Germany,184 cm,78 kg,False,71,Norwich,0,0,0,Defender,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+133,19078,Marco,Stiepermann,31,Germany,190 cm,86 kg,False,71,Norwich,24,14,1184,Midfielder,6.412500,False,10,14,20,19,6,0,,,,289,14,64,20,3,5,194,67,29,17,,15,22,6,0,0,,,0,0,,2019/2020
+134,19081,Tom,Trybull,29,Germany,181 cm,72 kg,False,71,Norwich,16,14,1138,Midfielder,6.637500,False,2,10,16,11,2,0,,,,566,3,89,39,5,16,171,79,7,6,,11,26,2,0,0,,,0,0,,2019/2020
+135,19087,Dennis,Srbeny,28,Germany,190 cm,83 kg,False,71,Norwich,8,0,39,Attacker,6.633333,False,8,0,18,2,1,1,,,,13,0,47,5,0,0,26,9,5,2,,0,1,0,0,0,,,0,0,,2019/2020
+136,21999,Björn Lionel,Engels,28,Belgium,193 cm,83 kg,False,66,Aston Villa,17,15,1446,Defender,6.741176,False,2,1,6,8,1,1,,,,545,2,82,11,17,28,110,71,1,1,,5,5,1,0,0,,2,0,0,,2019/2020
+137,47326,Roberto,Jiménez Gago,36,Spain,192 cm,94 kg,False,48,West Ham,0,0,0,Goalkeeper,7.025000,False,0,0,0,0,0,0,18,,36,86,0,43,,0,0,5,5,0,0,,1,0,0,0,0,,,0,0,0,2019/2020
+138,138809,Arnau,Puigmal Martínez,21,Spain,173 cm,,False,33,Manchester United,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+139,152963,Ebeguowen Owen,Otasowie,21,USA,191 cm,88 kg,False,39,Wolves,0,0,0,Midfielder,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+140,83,Arnaut Danjuma Adam,Groeneveld,25,Netherlands,178 cm,74 kg,False,35,Bournemouth,14,6,626,Attacker,6.535714,False,8,4,13,13,4,0,,,,179,5,77,4,0,8,77,32,38,21,,5,0,0,0,0,,,0,0,,2019/2020
+141,163,Serge Alain Stéphane,Aurier,30,Côte d'Ivoire,176 cm,76 kg,False,47,Tottenham,33,31,2706,Defender,6.951515,False,2,7,4,13,4,1,,5,,1013,33,78,93,6,47,411,224,64,39,,22,41,3,1,0,,2,0,0,,2019/2020
+142,166,Juan Marcos,Foyth,24,Argentina,179 cm,69 kg,False,47,Tottenham,4,1,66,Defender,6.466666,False,3,1,10,0,0,0,,,,46,1,61,7,0,1,19,12,4,2,,1,2,1,0,0,,,0,0,,2019/2020
+143,614,Claudio Andrés,Bravo Muñoz,39,Chile,184 cm,80 kg,False,50,Manchester City,4,3,346,Goalkeeper,6.425000,False,1,0,28,0,0,0,7,,8,91,0,74,,0,0,2,2,1,1,,0,0,0,0,0,,,0,0,0,2019/2020
+144,634,David Josué,Jiménez Silva,36,Spain,173 cm,67 kg,False,50,Manchester City,27,22,1833,Midfielder,7.355555,False,5,12,11,47,18,6,,10,,1324,50,87,26,3,13,171,86,44,33,,20,20,0,0,0,,,0,0,,2019/2020
+145,1439,Héctor,Bellerín Moruno,27,Spain,178 cm,74 kg,False,42,Arsenal,15,13,1159,Defender,6.628571,False,2,3,7,7,2,1,,,,468,3,74,20,4,19,128,54,31,18,,3,15,2,0,0,,,0,0,,2019/2020
+146,1447,Ignacio,Monreal Eraso,36,Spain,179 cm,72 kg,False,42,Arsenal,3,3,270,Defender,6.733333,False,0,0,0,1,0,0,,,,155,3,85,1,1,3,25,11,4,2,,1,1,0,0,0,,,0,0,,2019/2020
+147,1448,Shkodran,Mustafi,30,Germany,184 cm,82 kg,False,42,Arsenal,15,13,1206,Defender,6.986666,False,2,1,5,11,4,0,,1,,691,3,80,17,6,18,130,88,3,3,,3,14,2,0,0,,,0,0,,2019/2020
+148,1578,Giovani,Lo Celso,26,Argentina,177 cm,68 kg,False,47,Tottenham,14,11,963,Midfielder,6.811111,False,3,6,3,18,3,0,,2,,820,29,85,51,4,9,281,136,51,32,,45,28,5,0,0,,,0,0,,2019/2020
+149,1945,Mbwana,Ally Samatta,30,Tanzania,183 cm,77 kg,False,66,Aston Villa,14,11,946,Attacker,6.664285,False,3,6,3,17,3,1,,,,117,10,69,6,0,1,178,73,15,9,,18,9,1,0,0,,,0,0,,2019/2020
+150,2741,Mathew David,Ryan,30,Australia,184 cm,82 kg,False,51,Brighton,38,38,3420,Goalkeeper,6.978947,False,0,0,0,0,0,0,54,,117,966,0,78,1,0,2,18,15,0,0,,4,0,0,0,0,,,0,0,0,2019/2020
+151,18802,Etienne,Capoue,34,France,189 cm,80 kg,False,38,Watford,30,30,2632,Midfielder,6.900000,False,0,5,0,19,1,0,,3,,1166,20,79,75,11,68,351,186,40,23,,39,57,8,0,0,,1,0,0,,2019/2020
+152,18811,Adalberto,Peñaranda Maestre,25,Venezuela,185 cm,83 kg,False,38,Watford,0,0,0,Attacker,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+153,18867,Diego,Rico Salguero,29,Spain,183 cm,76 kg,False,35,Bournemouth,27,27,2336,Defender,7.074074,False,0,4,10,11,3,0,,4,,730,35,66,61,7,84,237,129,24,13,,22,18,6,0,0,,,0,0,,2019/2020
+154,18895,Florian,Lejeune,31,France,189 cm,89 kg,False,34,Newcastle,6,4,441,Defender,6.766666,False,2,1,8,4,3,2,,,,136,1,69,8,2,10,43,24,5,4,,4,6,0,0,0,,,0,0,,2019/2020
+155,18965,Martín,Montoya Torralbo,31,Spain,175 cm,73 kg,False,51,Brighton,27,23,1901,Defender,6.711111,False,4,10,11,8,3,0,,1,,768,21,74,57,5,24,205,103,29,10,,15,27,5,0,0,,,0,0,,2019/2020
+156,18978,Florin,Andone,29,Romania,180 cm,78 kg,False,51,Brighton,3,1,72,Attacker,6.300000,False,2,0,2,1,1,1,,,,7,1,66,1,1,0,19,10,7,2,,3,2,0,0,1,,,0,0,,2019/2020
+157,18998,Víctor,Camarasa Ferrando,28,Spain,183 cm,76 kg,False,52,Crystal Palace,1,0,5,Midfielder,6.300000,False,1,0,11,0,0,0,,,,3,0,100,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,,2019/2020
+158,47251,Dimitri,Foulquier,29,Guadeloupe,183 cm,72 kg,False,38,Watford,3,1,58,Defender,6.400000,False,2,1,8,0,0,0,,,,8,0,82,1,0,2,5,3,2,2,,0,0,0,0,0,,,0,0,,2019/2020
+159,47370,Borja,González Tomás,30,Spain,186 cm,83 kg,False,66,Aston Villa,2,0,16,Attacker,6.350000,False,2,0,5,0,0,0,,,,4,0,62,1,0,0,5,1,0,0,,0,0,0,0,0,,,0,0,,2019/2020
+160,44,Rodrigo,Hernández Cascante,26,Spain,191 cm,82 kg,False,50,Manchester City,35,29,2488,Midfielder,7.131428,False,6,8,7,24,9,3,,2,,2395,34,91,50,5,26,311,170,34,31,,32,43,8,0,0,,,0,0,,2019/2020
+161,617,Ederson,Santana de Moraes,29,Brazil,188 cm,86 kg,False,50,Manchester City,35,35,3072,Goalkeeper,6.794285,False,0,0,0,0,0,0,31,,68,773,1,86,2,0,3,22,16,0,0,,2,2,3,0,1,,,0,0,0,2019/2020
+162,622,Aymeric,Laporte,28,Spain,191 cm,86 kg,False,50,Manchester City,15,14,1104,Defender,7.046666,False,1,8,3,4,2,1,,,,1062,3,92,13,5,20,76,48,3,2,,9,9,1,0,0,,,0,0,,2019/2020
+163,623,Benjamin,Mendy,28,France,185 cm,85 kg,False,50,Manchester City,19,18,1497,Defender,6.726315,False,1,6,9,10,1,0,,2,,975,20,87,18,2,16,127,53,27,19,,1,12,3,0,0,,,0,0,,2019/2020
+164,626,John,Stones,28,England,188 cm,70 kg,False,50,Manchester City,16,12,1119,Defender,6.918750,False,4,1,9,6,1,0,,,,975,2,94,16,3,9,96,66,5,5,,1,5,0,0,0,,,0,0,,2019/2020
+165,627,Kyle,Walker,32,England,178 cm,70 kg,False,50,Manchester City,29,28,2397,Defender,6.986206,False,1,6,8,14,3,1,,4,,1717,18,87,28,6,28,195,96,31,23,,15,27,5,0,0,,,0,0,,2019/2020
+166,633,İlkay,Gündoğan,32,Germany,180 cm,80 kg,False,50,Manchester City,31,21,2015,Midfielder,6.922580,False,10,5,15,33,8,2,,1,,1794,33,91,27,5,31,150,70,24,18,,14,16,7,0,0,,1,1,1,,2019/2020
+167,641,Oleksandr,Zinchenko,26,Ukraine,175 cm,64 kg,False,50,Manchester City,19,13,1272,Midfielder,6.900000,False,6,1,11,16,3,0,,,,1097,21,89,31,0,17,126,62,9,3,,2,13,1,1,0,,,0,0,,2019/2020
+168,855,João Pedro,Cavaco Cancelo,28,Portugal,182 cm,74 kg,False,50,Manchester City,17,13,1205,Defender,7.218750,False,4,1,21,15,3,0,,,,913,17,88,40,2,21,183,104,53,37,,8,17,4,0,0,,,0,0,,2019/2020
+169,1853,Bruno André,Cavaco Jordão,24,Portugal,180 cm,73 kg,False,39,Wolves,1,0,6,Midfielder,6.700000,False,1,0,12,0,0,0,,,,4,1,66,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,,2019/2020
+170,18829,Jack,Wilshere,30,England,172 cm,68 kg,False,48,West Ham,8,2,211,Midfielder,6.262500,False,6,2,14,0,0,0,,,,62,0,80,1,0,1,34,16,4,1,,8,1,0,0,0,,,0,0,,2019/2020
+171,18851,Maximilian,Meyer,27,Germany,173 cm,67 kg,False,52,Crystal Palace,17,6,649,Midfielder,6.533333,False,11,5,27,9,2,0,,,,157,4,85,19,1,7,90,43,13,6,,16,6,1,0,0,,,0,0,,2019/2020
+172,18861,Nathan Benjamin,Aké,27,Netherlands,180 cm,75 kg,False,35,Bournemouth,29,29,2505,Defender,6.993103,False,0,2,1,25,7,2,,2,,1060,7,83,31,29,36,190,107,3,3,,13,9,2,0,0,,,0,0,,2019/2020
+173,18964,Bernardo,Fernandes da Silva Junior,27,Brazil,186 cm,76 kg,False,51,Brighton,14,7,675,Defender,6.881818,False,7,3,16,7,2,0,,,,243,4,65,27,3,6,99,69,12,8,,3,3,1,0,0,,,0,0,,2019/2020
+174,19075,Moritz,Leitner,30,Germany,174 cm,69 kg,False,71,Norwich,9,7,686,Midfielder,6.744444,False,2,3,6,8,0,0,,,,492,7,86,16,4,9,74,38,9,7,,10,8,1,0,0,,,0,0,,2019/2020
+175,19187,Jack,Grealish,27,England,175 cm,68 kg,False,66,Aston Villa,36,36,3234,Midfielder,7.377777,False,0,1,0,73,23,8,,6,,1164,91,84,29,12,22,471,289,117,73,,167,34,8,0,0,,,0,1,,2019/2020
+176,19197,Scott,Carson,37,England,183 cm,85 kg,False,50,Manchester City,0,0,0,Goalkeeper,,False,0,0,10,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+177,19236,Muhamed,Bešić,30,Bosnia and Herzegovina,180 cm,80 kg,False,62,Sheffield Utd,9,2,245,Midfielder,6.777777,False,7,2,21,4,2,0,,,,84,1,78,8,0,1,36,22,7,7,,2,6,2,0,0,,,0,0,,2019/2020
+178,153403,Alexandre Tounde Dimitri,Jankewitz,21,Switzerland,,,False,41,Southampton,0,0,0,Midfielder,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+179,199312,Brandon Leroy,Pierrick Keutcha,21,England,182 cm,79 kg,False,52,Crystal Palace,2,0,13,Attacker,,False,2,0,17,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+180,280,Alisson Ramsés,Becker,30,Brazil,193 cm,91 kg,False,40,Liverpool,29,29,2545,Goalkeeper,6.900000,False,0,1,0,0,0,0,25,1,58,681,1,85,,0,1,9,7,0,0,,1,1,0,0,1,,,0,0,0,2019/2020
+181,281,Caoimhin,Kelleher,24,Republic of Ireland,188 cm,,False,40,Liverpool,0,0,0,Goalkeeper,,False,0,0,7,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+182,283,Trent,Alexander-Arnold,24,England,175 cm,69 kg,False,40,Liverpool,38,35,3176,Defender,7.389473,False,3,4,3,44,13,4,,13,,1871,87,75,55,9,45,235,100,51,21,,9,22,5,0,0,,,0,0,,2019/2020
+183,284,Joe,Gomez,25,England,188 cm,77 kg,False,40,Liverpool,28,22,1999,Defender,6.946153,False,6,1,15,1,0,0,,,,1750,5,85,23,8,38,199,112,11,8,,13,21,7,0,0,,1,0,0,,2019/2020
+184,286,Joël Andre,Job Matip,31,Cameroon,195 cm,90 kg,False,40,Liverpool,9,8,703,Defender,7.187500,False,1,1,8,4,1,1,,,,466,1,83,13,4,12,87,66,2,2,,6,7,0,0,0,,,0,0,,2019/2020
+185,289,Andrew,Robertson,28,Scotland,178 cm,64 kg,False,40,Liverpool,36,34,3113,Defender,7.213888,False,2,4,2,22,6,2,,12,,2086,61,82,54,7,38,238,122,44,22,,13,18,2,0,0,,,0,0,,2019/2020
+186,290,Virgil,van Dijk,31,Netherlands,193 cm,92 kg,False,40,Liverpool,38,38,3420,Defender,7.278947,False,0,0,0,31,15,5,,1,,2903,9,88,23,15,40,320,239,4,3,,25,16,1,0,0,,,0,0,,2019/2020
+187,292,Jordan,Henderson,32,England,182 cm,67 kg,False,40,Liverpool,30,26,2244,Midfielder,7.262068,False,4,10,5,20,8,4,,5,,1568,27,80,63,4,30,206,116,28,17,,12,31,2,0,0,,,0,0,,2019/2020
+188,294,Naby Laye,Keïta,27,Guinea,172 cm,64 kg,False,40,Liverpool,18,9,814,Midfielder,7.205555,False,9,8,18,12,7,2,,3,,602,15,90,30,0,10,116,72,26,23,,10,9,1,0,0,,,0,0,,2019/2020
+189,296,James Philip,Milner,36,England,175 cm,70 kg,False,40,Liverpool,22,9,926,Midfielder,6.819047,False,13,2,18,12,4,2,,2,,650,10,80,16,3,7,101,51,11,10,,12,11,4,0,0,,,2,0,,2019/2020
+190,299,Fábio Henrique,Tavares,29,Brazil,188 cm,78 kg,False,40,Liverpool,28,22,2074,Midfielder,6.964285,False,6,1,8,12,4,2,,3,,1373,19,81,62,2,34,242,132,12,9,,20,32,6,0,0,,,0,0,,2019/2020
+191,629,Kevin,De Bruyne,31,Belgium,181 cm,68 kg,False,50,Manchester City,35,32,2800,Midfielder,7.985714,False,3,12,4,99,31,13,,20,,1554,137,81,45,4,18,291,138,81,48,,28,26,3,0,0,,,2,0,,2019/2020
+192,631,Philip,Foden,22,England,171 cm,70 kg,False,50,Manchester City,23,9,892,Midfielder,7.133333,False,14,5,27,34,15,5,,2,,437,20,89,14,0,6,123,62,30,25,,13,12,0,0,0,,,0,0,,2019/2020
+193,635,Riyad,Mahrez,31,Algeria,179 cm,67 kg,False,50,Manchester City,33,21,1941,Attacker,7.521212,False,12,9,17,74,32,11,,9,,988,62,88,28,1,18,252,119,89,52,,29,13,0,0,0,5,,1,0,,2019/2020
+194,636,Bernardo,Mota Veiga de Carvalho e Silva,28,Portugal,173 cm,64 kg,False,50,Manchester City,34,23,2029,Midfielder,7.121212,False,11,10,14,52,15,6,,7,,1240,53,90,36,1,24,222,110,55,40,,20,23,5,0,0,,1,0,0,,2019/2020
+195,640,Fernando Luiz,Rosa,37,Brazil,179 cm,67 kg,False,50,Manchester City,30,26,2398,Midfielder,7.000000,False,4,3,10,17,2,0,,1,,1996,8,89,50,16,25,250,154,13,13,,17,26,8,1,1,,1,0,0,,2019/2020
+196,643,Gabriel Fernando,de Jesus,25,Brazil,175 cm,73 kg,False,50,Manchester City,34,21,2026,Attacker,7.115151,False,13,9,14,101,48,14,,7,,527,32,85,17,1,11,292,131,59,44,,29,27,3,0,0,,,0,1,,2019/2020
+197,645,Raheem,Sterling,28,England,170 cm,69 kg,False,50,Manchester City,33,30,2659,Attacker,7.206250,False,3,11,6,99,38,20,,1,,967,48,81,27,2,15,340,144,107,55,,40,30,5,0,0,3,,0,2,,2019/2020
+198,18812,Adrián,San Miguel del Castillo,35,Spain,190 cm,80 kg,False,40,Liverpool,11,9,873,Goalkeeper,6.381818,False,2,0,29,0,0,0,10,,18,187,0,68,1,0,0,6,6,0,0,,1,0,1,0,0,,,0,0,0,2019/2020
+199,152982,Cole,Palmer,20,England,,,False,50,Manchester City,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+200,17,Christian,Pulisic,24,USA,172 cm,69 kg,False,49,Chelsea,25,19,1727,Midfielder,6.916000,False,6,11,10,63,26,9,,4,,534,31,79,23,0,6,318,128,108,55,,30,14,0,0,0,2,,0,0,,2019/2020
+201,293,Curtis,Jones,21,England,185 cm,75 kg,False,40,Liverpool,6,1,122,Midfielder,6.783333,False,5,1,15,6,2,1,,,,107,0,83,4,0,2,21,9,4,3,,0,3,0,0,0,,,0,0,,2019/2020
+202,297,Alex,Oxlade-Chamberlain,29,England,180 cm,70 kg,False,40,Liverpool,30,17,1489,Midfielder,6.806896,False,13,17,17,40,10,4,,1,,583,17,80,18,1,22,178,75,49,29,,14,17,1,0,0,,,0,0,,2019/2020
+203,302,Roberto Firmino,Barbosa de Oliveira,31,Brazil,181 cm,76 kg,False,40,Liverpool,38,34,3003,Attacker,7.018421,False,4,20,4,99,39,9,,8,,924,53,78,37,3,7,342,131,90,52,,16,29,0,0,0,,,0,0,,2019/2020
+204,304,Sadio,Mané,30,Senegal,175 cm,69 kg,False,40,Liverpool,35,31,2755,Attacker,7.274285,False,4,12,5,77,36,18,,7,,901,59,81,44,0,13,446,205,110,69,,51,46,3,0,0,2,,0,0,,2019/2020
+205,305,Divock,Okoth Origi,27,Belgium,185 cm,75 kg,False,40,Liverpool,28,7,704,Attacker,6.746153,False,21,7,30,14,6,4,,1,,139,8,55,12,0,4,126,58,26,12,,16,12,1,0,0,1,,0,0,,2019/2020
+206,306,Mohamed,Salah Ghaly,30,Egypt,175 cm,71 kg,False,40,Liverpool,34,33,2888,Attacker,7.447058,False,1,13,4,132,59,19,,10,,749,61,75,16,1,8,276,99,83,50,,18,17,1,0,0,1,,3,0,,2019/2020
+207,1101,Takumi,Minamino,27,Japan,174 cm,68 kg,False,40,Liverpool,10,2,243,Attacker,6.470000,False,8,2,15,8,2,0,,,,95,1,85,3,0,0,43,12,10,4,,3,7,0,0,0,,,0,0,,2019/2020
+208,2273,Kepa,Arrizabalaga Revuelta,28,Spain,189 cm,84 kg,False,49,Chelsea,33,33,2970,Goalkeeper,6.566666,False,0,0,5,0,0,0,47,,55,748,0,79,1,0,1,12,11,0,0,,5,0,0,0,0,,,0,0,0,2019/2020
+209,2278,Marcos,Alonso Mendoza,32,Spain,188 cm,84 kg,False,49,Chelsea,18,15,1430,Defender,7.188235,False,3,3,12,30,8,4,,2,,750,25,79,28,2,20,177,97,19,12,,15,16,4,0,0,1,,0,0,,2019/2020
+210,2280,César,Azpilicueta Tanco,33,Spain,178 cm,76 kg,False,49,Chelsea,36,36,3230,Defender,7.155555,False,0,1,2,29,6,2,,6,,1965,45,79,86,21,67,363,205,21,12,,15,40,1,0,0,,,0,0,,2019/2020
+211,2282,Andreas,Bødtker Christensen,26,Denmark,187 cm,82 kg,False,49,Chelsea,21,21,1754,Defender,6.900000,False,0,3,14,7,2,0,,,,1194,4,90,38,8,29,193,120,4,4,,10,17,5,0,0,,,0,0,,2019/2020
+212,2285,Antonio,Rüdiger,29,Germany,190 cm,85 kg,False,49,Chelsea,20,19,1710,Defender,7.025000,False,1,1,4,12,3,2,,,,1295,5,85,28,9,16,165,96,4,3,,8,19,3,0,0,,,0,0,,2019/2020
+213,2289,Jorge Luiz,Frello Filho,31,Italy,180 cm,65 kg,False,49,Chelsea,31,27,2383,Midfielder,7.026666,False,4,8,8,12,4,4,,2,,1995,23,84,66,5,64,274,123,21,13,,30,27,10,0,0,,1,3,0,,2019/2020
+214,2290,N'Golo,Kanté,31,France,168 cm,68 kg,False,49,Chelsea,22,20,1733,Midfielder,6.990909,False,2,3,2,18,6,3,,,,963,27,81,44,5,44,234,96,38,24,,10,45,4,0,0,,,0,0,,2019/2020
+215,2291,Mateo,Kovačić,28,Croatia,178 cm,78 kg,False,49,Chelsea,31,23,2073,Midfielder,7.070967,False,8,8,11,21,5,1,,3,,1675,29,87,63,1,22,301,186,90,77,,38,20,8,0,0,,,0,0,,2019/2020
+216,2678,Diogo José,Teixeira da Silva,26,Portugal,178 cm,68 kg,False,39,Wolves,34,27,2298,Attacker,6.826470,False,7,21,7,69,26,7,,1,,671,29,79,28,0,9,434,183,133,66,,61,42,4,0,0,,,0,0,,2019/2020
+217,2933,Ben,Chilwell,26,England,178 cm,77 kg,False,46,Leicester,27,27,2376,Defender,6.840740,False,0,2,1,16,6,3,,3,,1295,35,77,43,6,28,295,147,50,19,,30,29,3,0,0,,,0,0,,2019/2020
+218,19035,Harvey,Elliott,19,England,170 cm,,False,40,Liverpool,2,0,6,Midfielder,6.700000,False,2,0,12,0,0,0,,,,10,0,45,,0,0,2,1,2,1,,0,0,0,0,0,,,0,0,,2019/2020
+219,19545,Reece,James,23,England,183 cm,82 kg,False,49,Chelsea,24,16,1510,Defender,7.057142,False,8,3,13,18,3,0,,2,,873,25,79,36,8,22,236,123,42,30,,21,22,1,0,0,,,0,0,,2019/2020
+220,159,Hugo,Lloris,36,France,188 cm,82 kg,False,47,Tottenham,21,21,1808,Goalkeeper,7.076190,False,0,1,0,0,0,0,23,,81,318,0,65,,0,1,9,6,0,0,,1,0,0,0,0,,,0,0,1,2019/2020
+221,164,Benjamin,Thomas Davies,29,Wales,181 cm,76 kg,False,47,Tottenham,18,16,1432,Defender,6.794444,False,2,3,8,7,1,0,,,,610,9,75,28,12,22,170,90,18,9,,8,27,6,0,0,,,0,0,,2019/2020
+222,168,Davinson,Sánchez Mina,26,Colombia,187 cm,81 kg,False,47,Tottenham,29,27,2430,Defender,6.853571,False,2,1,8,7,3,0,,,,1326,1,81,44,28,34,218,117,10,8,,12,27,6,0,0,,,0,0,,2019/2020
+223,175,Eric,Dier,28,England,188 cm,88 kg,False,47,Tottenham,19,15,1342,Midfielder,6.763157,False,4,2,17,8,1,0,,2,,738,7,79,21,9,21,170,95,4,4,,4,19,5,0,0,,1,0,0,,2019/2020
+224,178,Lucas,Rodrigues Moura da Silva,30,Brazil,172 cm,72 kg,False,47,Tottenham,35,25,2246,Midfielder,6.851428,False,10,14,12,56,14,4,,4,,568,35,72,57,2,15,511,250,109,72,,63,30,3,0,0,,,0,0,,2019/2020
+225,180,Oliver,Skipp,22,England,175 cm,70 kg,False,47,Tottenham,7,1,73,Midfielder,6.550000,False,6,1,23,0,0,0,,,,34,0,80,2,2,0,9,2,0,0,,0,1,0,0,0,,,0,0,,2019/2020
+226,182,Harry,Winks,26,England,178 cm,65 kg,False,47,Tottenham,31,26,2226,Midfielder,6.800000,False,5,10,10,14,2,0,,,,1529,18,86,40,8,36,182,92,21,15,,23,24,9,0,0,,,0,0,,2019/2020
+227,186,Heung-Min,Son,30,Korea Republic,183 cm,78 kg,False,47,Tottenham,30,28,2485,Midfielder,7.086666,False,2,10,2,81,38,11,,10,,675,42,83,23,0,19,323,119,107,62,,27,17,0,0,2,1,,0,1,,2019/2020
+228,907,Romelu,Lukaku Menama,29,Belgium,190 cm,93 kg,False,33,Manchester United,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+229,2287,Ross,Barkley,29,England,189 cm,76 kg,False,49,Chelsea,21,13,1104,Midfielder,6.940000,False,8,9,15,40,12,1,,4,,550,24,87,16,2,7,150,70,40,27,,15,9,0,0,0,,,0,0,,2019/2020
+230,2292,Ruben,Loftus-Cheek,26,England,191 cm,88 kg,False,49,Chelsea,7,2,205,Midfielder,6.671428,False,5,2,9,4,0,0,,1,,119,1,88,,1,2,20,9,4,4,,3,2,0,0,0,,,0,0,,2019/2020
+231,2298,Callum,Hudson-Odoi,22,England,182 cm,76 kg,False,49,Chelsea,22,7,851,Attacker,6.886363,False,15,3,18,21,4,1,,5,,354,20,87,10,0,5,118,52,48,27,,13,11,1,0,0,,,0,0,,2019/2020
+232,2735,Pierre-Emile,Kordt Højbjerg,27,Denmark,187 cm,84 kg,False,41,Southampton,33,30,2751,Midfielder,6.866666,False,3,1,4,46,11,0,,1,,1423,30,77,80,5,46,388,210,52,40,,36,46,5,0,0,,1,0,0,,2019/2020
+233,18742,Matthew James,Doherty,30,Republic of Ireland,183 cm,90 kg,False,39,Wolves,36,32,2840,Defender,6.850000,False,4,6,5,35,16,4,,3,,1105,21,72,55,4,40,402,233,48,28,,18,28,1,0,0,1,1,0,0,,2019/2020
+234,18902,Robert Kenedy,Nunes do Nascimento,26,Brazil,182 cm,77 kg,False,49,Chelsea,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+235,19032,Kouassi Ryan,Sessegnon,22,England,178 cm,70 kg,False,47,Tottenham,6,4,341,Midfielder,6.520000,False,2,1,15,1,0,0,,,,123,2,67,6,0,3,33,18,6,4,,2,4,0,0,0,,1,0,0,,2019/2020
+236,19220,Mason,Mount,23,England,178 cm,70 kg,False,49,Chelsea,37,32,2874,Midfielder,6.937837,False,5,12,6,78,29,7,,5,,1064,52,85,37,3,16,324,125,71,40,,38,37,3,0,0,1,,0,0,,2019/2020
+237,138793,Harvey David,White,21,England,171 cm,60 kg,False,47,Tottenham,0,0,0,Midfielder,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+238,149550,Japhet,Tanganga,23,England,184 cm,,False,47,Tottenham,6,6,526,Defender,6.950000,False,0,1,9,3,1,0,,,,163,1,80,17,6,11,77,45,7,6,,4,8,1,0,0,,,0,0,,2019/2020
+239,156428,Brandon Anthony,Austin,23,England,188 cm,82 kg,False,47,Tottenham,0,0,0,Goalkeeper,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+240,184,Harry,Kane,29,England,188 cm,86 kg,False,47,Tottenham,29,29,2590,Attacker,7.258620,False,0,3,0,81,37,18,,2,,369,27,66,18,7,6,382,162,55,28,,44,37,4,0,0,1,,2,0,,2019/2020
+241,190,Cédric Ricardo,Alves Soares,31,Portugal,172 cm,67 kg,False,42,Arsenal,5,3,250,Defender,6.860000,False,2,3,3,1,1,1,,,,79,1,76,8,0,3,25,13,2,2,,1,6,0,0,0,,,0,0,,2019/2020
+242,244,Steven Charles,Bergwijn,25,Netherlands,178 cm,78 kg,False,47,Tottenham,14,8,704,Attacker,6.842857,False,6,6,6,9,4,3,,1,,210,13,85,10,0,1,77,35,18,8,,10,7,2,0,0,1,,0,0,,2019/2020
+243,1117,Kieran,Tierney,25,Scotland,178 cm,70 kg,False,42,Arsenal,15,12,992,Defender,6.840000,False,3,6,7,6,2,1,,1,,346,6,75,20,4,9,88,53,15,12,,12,8,2,0,0,,1,0,0,,2019/2020
+244,1161,Emile,Smith Rowe,22,England,182 cm,79 kg,False,42,Arsenal,2,1,97,Midfielder,6.600000,False,1,1,3,0,0,0,,,,30,0,86,1,0,1,8,4,3,2,,1,0,0,0,0,,,0,0,,2019/2020
+245,1438,Bernd,Leno,30,Germany,190 cm,83 kg,False,42,Arsenal,30,30,2650,Goalkeeper,7.080000,False,0,1,0,0,0,0,41,,113,578,0,72,,0,0,18,14,1,1,,4,0,2,0,0,,,0,0,1,2019/2020
+246,1440,Rob,Holding,27,England,189 cm,75 kg,False,42,Arsenal,8,6,580,Defender,6.775000,False,2,1,12,2,0,0,,,,306,0,84,4,6,5,49,25,4,2,,3,4,1,0,0,,,0,0,,2019/2020
+247,1460,Bukayo,Saka,21,England,178 cm,65 kg,False,42,Arsenal,26,19,1755,Attacker,6.746153,False,7,9,13,13,4,1,,5,,550,21,80,36,3,12,223,103,55,32,,28,22,6,0,0,,,0,0,,2019/2020
+248,1464,Granit,Xhaka,30,Switzerland,185 cm,82 kg,False,42,Arsenal,31,30,2590,Midfielder,6.932258,False,1,5,1,11,3,1,,2,,1677,16,84,45,16,21,305,147,32,25,,32,56,10,0,0,,1,0,0,,2019/2020
+249,1467,Alexandre,Lacazette,31,France,175 cm,73 kg,False,42,Arsenal,30,22,1878,Attacker,7.036666,False,8,13,12,52,26,10,,4,,386,24,72,31,0,7,302,126,47,24,,45,44,8,0,0,1,,0,0,,2019/2020
+250,1468,Edward,Nketiah,23,England,175 cm,72 kg,False,42,Arsenal,13,7,633,Attacker,6.575000,False,6,5,7,15,5,2,,,,105,5,70,7,0,2,84,34,17,10,,10,16,0,0,1,,,0,0,,2019/2020
+251,2726,Kurt Happy,Zouma,28,France,190 cm,96 kg,False,49,Chelsea,28,25,2342,Defender,6.967857,False,3,1,10,15,5,0,,,,1840,1,86,23,14,58,230,150,12,8,,14,30,6,0,0,,1,0,0,,2019/2020
+252,2997,Łukasz,Fabiański,37,Poland,190 cm,83 kg,False,48,West Ham,25,25,2119,Goalkeeper,6.756000,False,0,2,0,0,0,0,36,,72,291,0,51,2,0,1,19,16,1,1,,2,1,1,0,0,,,0,0,1,2019/2020
+253,3246,Nicolas,Pépé,27,Côte d'Ivoire,178 cm,68 kg,False,42,Arsenal,31,22,2012,Attacker,7.032258,False,9,11,15,50,18,5,,6,,575,40,81,32,2,8,338,162,133,72,,37,14,4,0,0,,,1,0,,2019/2020
+254,18813,Aaron,Cresswell,33,England,170 cm,66 kg,False,48,West Ham,31,31,2730,Defender,6.719354,False,0,3,0,17,5,3,,,,933,26,72,43,10,35,227,116,34,11,,17,16,7,0,0,,,0,0,,2019/2020
+255,19147,Craig,Dawson,32,England,188 cm,82 kg,False,38,Watford,29,26,2359,Defender,6.857142,False,3,1,8,26,7,2,,,,726,5,73,29,32,34,234,144,4,3,,12,31,6,0,0,,1,0,0,,2019/2020
+256,19229,Darren,Randolph,35,Republic of Ireland,188 cm,98 kg,False,48,West Ham,2,2,180,Goalkeeper,6.600000,False,0,0,15,0,0,0,5,,6,18,0,49,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,0,2019/2020
+257,19629,David Edward,Martin,36,England,186 cm,86 kg,False,48,West Ham,5,4,435,Goalkeeper,6.940000,False,1,0,9,0,0,0,6,,15,45,0,38,,0,0,2,1,0,0,,0,0,1,0,0,,,0,0,0,2019/2020
+258,20355,Aaron,Ramsdale,24,England,188 cm,77 kg,False,35,Bournemouth,37,37,3330,Goalkeeper,6.905405,False,0,0,0,0,0,0,62,1,129,491,2,52,4,0,0,21,17,0,0,,3,0,0,0,0,,,0,0,1,2019/2020
+259,127769,Gabriel Teodoro,Martinelli Silva,21,Brazil,178 cm,75 kg,False,42,Arsenal,14,6,656,Attacker,6.530769,False,8,1,18,12,5,3,,,,81,2,65,20,1,3,138,46,32,9,,10,9,1,0,0,,,0,0,,2019/2020
+260,882,David,de Gea Quintana,32,Spain,192 cm,76 kg,False,33,Manchester United,38,38,3420,Goalkeeper,6.910526,False,0,0,0,0,0,0,36,,96,585,0,75,,0,0,13,13,0,0,,6,0,2,0,0,,,0,0,0,2019/2020
+261,883,Lee,Grant,39,England,193 cm,83 kg,False,33,Manchester United,0,0,0,Goalkeeper,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+262,885,Eric Bertrand,Bailly,28,Côte d'Ivoire,187 cm,77 kg,False,33,Manchester United,4,1,147,Defender,6.550000,False,3,0,13,0,0,0,,,,70,0,80,,3,4,12,9,1,1,,0,2,0,0,0,,1,0,0,,2019/2020
+263,888,Phil,Jones,30,England,180 cm,71 kg,False,33,Manchester United,2,2,136,Defender,6.750000,False,0,1,10,2,1,0,,,,81,0,85,2,0,2,26,17,1,1,,1,3,0,0,0,,,0,0,,2019/2020
+264,889,Victor Jörgen,Nilsson Lindelöf,28,Sweden,187 cm,80 kg,False,33,Manchester United,35,35,3094,Defender,6.894285,False,0,2,0,6,1,1,,,,1811,4,85,29,16,26,213,135,5,4,,6,22,6,0,0,,,0,0,,2019/2020
+265,1243,Tomáš,Souček,27,Czech Republic,192 cm,86 kg,False,48,West Ham,13,12,1041,Midfielder,6.992307,False,1,2,1,20,8,3,,,,276,5,67,29,1,22,177,108,4,0,,9,11,0,0,0,,,0,0,,2019/2020
+266,1697,Pablo,Fornals Malla,26,Spain,178 cm,67 kg,False,48,West Ham,36,24,2177,Midfielder,6.680000,False,12,17,13,36,11,2,,5,,664,19,77,46,1,25,240,87,33,15,,16,18,3,0,0,,,0,0,,2019/2020
+267,2473,Manuel,Lanzini,29,Argentina,167 cm,59 kg,False,48,West Ham,24,14,1377,Midfielder,6.733333,False,10,8,18,23,7,0,,2,,657,31,85,14,1,10,161,79,48,33,,26,6,1,0,0,1,,0,0,,2019/2020
+268,2931,Tom,Heaton,36,England,188 cm,85 kg,False,66,Aston Villa,20,20,1795,Goalkeeper,6.830000,False,0,1,0,0,0,0,35,,68,274,0,52,3,0,0,13,11,0,0,,2,1,0,0,0,,,0,0,0,2019/2020
+269,2937,Declan,Rice,23,England,185 cm,76 kg,False,48,West Ham,38,38,3420,Midfielder,7.002631,False,0,0,0,31,9,1,,3,,1491,21,84,116,9,77,384,223,65,49,,7,41,6,0,0,,1,0,0,,2019/2020
+270,18814,Issa,Diop,25,France,194 cm,92 kg,False,48,West Ham,32,31,2766,Defender,6.706250,False,1,1,5,15,7,3,,1,,760,5,72,27,21,47,206,122,7,5,,11,31,8,0,0,,3,0,0,,2019/2020
+271,18815,Ryan,Fredericks,30,England,181 cm,74 kg,False,48,West Ham,27,25,2237,Defender,6.796296,False,2,2,3,3,0,0,,3,,634,21,74,82,10,24,265,149,31,11,,21,25,7,0,0,,,0,0,,2019/2020
+272,18816,Fuka-Arthur,Masuaku Kawela,29,Congo DR,179 cm,70 kg,False,48,West Ham,17,10,933,Defender,6.658823,False,7,2,14,5,2,0,,1,,404,7,80,41,5,14,165,89,44,27,,9,10,5,1,0,,,0,0,,2019/2020
+273,18817,Angelo,Obinze Ogbonna,34,Italy,191 cm,86 kg,False,48,West Ham,31,31,2787,Defender,6.812903,False,0,1,5,13,4,2,,,,744,2,73,38,32,27,256,159,5,5,,14,22,4,0,0,,1,0,0,,2019/2020
+274,18819,Michail Gregory,Antonio,32,Jamaica,180 cm,82 kg,False,48,West Ham,24,19,1770,Attacker,7.095833,False,5,7,5,68,31,10,,3,,305,26,68,13,2,9,434,201,103,65,,35,41,3,0,0,,,1,0,,2019/2020
+275,18823,Benjamin,Johnson,22,England,175 cm,67 kg,False,48,West Ham,3,3,270,Defender,6.866666,False,0,0,6,1,0,0,,,,88,1,69,8,2,3,34,17,1,1,,1,8,0,0,0,,,0,0,,2019/2020
+276,18826,Mark,Noble,35,England,180 cm,70 kg,False,48,West Ham,33,32,2686,Midfielder,6.875757,False,1,13,3,17,6,4,,3,,1246,44,81,52,6,20,244,123,35,25,,31,28,5,0,0,1,,3,0,,2019/2020
+277,18834,Andrii,Yarmolenko,33,Ukraine,189 cm,81 kg,False,48,West Ham,23,10,986,Midfielder,6.854545,False,13,8,14,26,13,5,,1,,325,20,79,13,1,6,97,37,16,10,,10,16,2,0,0,,,0,0,,2019/2020
+278,19088,Dean,Henderson,25,England,188 cm,85 kg,False,62,Sheffield Utd,36,36,3240,Goalkeeper,6.994444,False,0,0,0,1,0,0,33,,97,343,1,37,,0,1,18,18,0,0,,2,0,2,0,0,,,0,0,1,2019/2020
+279,19428,Jarrod,Bowen,26,England,,,False,48,West Ham,13,11,922,Attacker,6.930769,False,2,7,2,24,7,1,,4,,164,16,74,19,0,16,133,59,39,15,,20,4,0,0,0,,,0,0,,2019/2020
+280,285,Ki-Jana Delano,Hoever,20,Netherlands,180 cm,65 kg,False,40,Liverpool,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+281,886,José Diogo,Dalot Teixeira,23,Portugal,183 cm,76 kg,False,33,Manchester United,4,1,65,Defender,6.700000,False,3,1,7,1,0,0,,,,38,0,57,3,0,2,13,6,3,0,,0,1,0,0,0,,,0,0,,2019/2020
+282,891,Luke,Shaw,27,England,185 cm,75 kg,False,33,Manchester United,24,20,1734,Defender,7.013043,False,4,5,4,11,5,0,,,,999,20,86,34,6,24,168,96,31,22,,10,23,7,0,0,,,0,0,,2019/2020
+283,897,Mason,Greenwood,21,England,181 cm,70 kg,False,33,Manchester United,31,12,1310,Attacker,6.934482,False,19,9,25,39,20,10,,1,,427,14,84,17,0,6,122,51,32,21,,8,12,0,0,0,,,0,0,,2019/2020
+284,900,Jesse,Lingard,30,England,175 cm,62 kg,False,33,Manchester United,22,9,931,Midfielder,6.619047,False,13,9,17,22,6,1,,,,343,20,89,15,0,3,113,41,23,13,,11,28,3,0,0,,,0,0,,2019/2020
+285,901,Juan Manuel,Mata García,34,Spain,170 cm,63 kg,False,33,Manchester United,19,8,753,Midfielder,6.721052,False,11,6,30,10,2,0,,2,,445,18,85,7,1,0,56,24,12,5,,10,7,1,0,0,,,0,0,,2019/2020
+286,902,Nemanja,Matić,34,Serbia,194 cm,85 kg,False,33,Manchester United,21,18,1583,Midfielder,7.000000,False,3,5,9,7,2,0,,2,,1100,15,85,46,8,22,203,110,24,20,,18,27,3,0,0,,,0,0,,2019/2020
+287,903,Scott,McTominay,26,Scotland,193 cm,88 kg,False,33,Manchester United,27,20,1772,Midfielder,6.970370,False,7,7,9,29,10,4,,1,,818,16,74,43,5,31,294,170,46,31,,53,36,2,0,0,1,,0,0,,2019/2020
+288,904,Paul,Pogba,29,France,191 cm,84 kg,False,33,Manchester United,16,13,1204,Midfielder,7.137500,False,3,3,3,22,8,1,,3,,884,31,85,20,4,7,179,94,38,27,,18,26,1,0,0,2,1,0,1,,2019/2020
+289,905,Frederico,Rodrigues de Paula Santos,29,Brazil,169 cm,64 kg,False,33,Manchester United,29,23,2159,Midfielder,6.982758,False,6,2,11,40,10,0,,,,1459,35,85,60,8,38,317,145,53,40,,36,42,8,0,0,,,0,0,,2019/2020
+290,909,Marcus,Rashford,25,England,180 cm,70 kg,False,33,Manchester United,31,31,2655,Attacker,7.200000,False,0,12,0,95,44,17,,7,,727,33,75,13,0,10,312,138,122,60,,45,21,3,0,0,4,,6,2,,2019/2020
+291,1485,Bruno Miguel,Borges Fernandes,28,Portugal,179 cm,69 kg,False,33,Manchester United,14,14,1193,Midfielder,7.721428,False,0,7,0,44,18,8,,7,,588,31,75,22,0,11,126,54,21,15,,14,9,2,0,0,2,,4,0,,2019/2020
+292,2922,Leander,Dendoncker,27,Belgium,188 cm,83 kg,False,39,Wolves,38,32,2794,Defender,6.791891,False,6,5,6,20,5,4,,,,1102,9,76,68,12,38,354,187,21,16,,9,31,5,0,0,,1,0,0,,2019/2020
+293,2935,Harry,Maguire,29,England,194 cm,100 kg,False,33,Manchester United,38,38,3420,Defender,7.144736,False,0,0,0,31,8,1,,1,,2183,17,85,37,22,72,368,240,12,8,,22,33,6,0,0,,,0,0,,2019/2020
+294,18737,John,Ruddy,36,England,192 cm,96 kg,False,39,Wolves,0,0,0,Goalkeeper,,False,0,0,38,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+295,18739,Willy-Arnaud,Zobo Boly,31,Côte d'Ivoire,185 cm,81 kg,False,39,Wolves,22,22,1980,Defender,7.163636,False,0,0,1,5,3,0,,1,,796,7,78,57,11,39,235,160,11,9,,8,24,2,1,0,,,0,0,,2019/2020
+296,18740,Jonathan,Castro Otto,28,Spain,175 cm,70 kg,False,39,Wolves,35,33,2891,Defender,6.711428,False,2,6,3,18,5,2,,2,,884,25,80,91,10,53,397,186,71,32,,28,34,4,0,0,1,,0,0,,2019/2020
+297,18741,Conor,Coady,29,England,185 cm,75 kg,False,39,Wolves,38,38,3420,Defender,6.839473,False,0,0,0,0,0,0,,,,1572,5,82,36,15,28,136,80,5,4,,7,17,5,0,0,,1,0,0,,2019/2020
+298,18744,Maximilian,Kilman,25,England,,,False,39,Wolves,3,2,184,Defender,6.600000,False,1,0,31,0,0,0,,,,78,0,65,4,1,4,28,17,1,1,,0,2,0,0,0,,,0,0,,2019/2020
+299,18846,Aaron,Wan-Bissaka,25,England,183 cm,72 kg,False,33,Manchester United,35,34,3071,Defender,7.085714,False,1,2,2,7,1,0,,4,,1342,25,79,129,13,66,374,226,82,54,,19,21,8,0,0,,1,0,0,,2019/2020
+300,1605,Daniel,Castelo Podence,27,Portugal,165 cm,58 kg,False,39,Wolves,9,3,285,Midfielder,6.957142,False,6,3,10,10,3,1,,,,69,5,66,3,1,2,40,19,11,7,,9,5,0,0,0,1,,0,0,,2019/2020
+301,1864,Pedro,Lomba Neto,22,Portugal,173 cm,69 kg,False,39,Wolves,29,9,933,Attacker,6.710714,False,20,7,26,17,6,3,,3,,291,14,84,9,0,6,156,63,61,32,,16,14,3,0,0,,,0,0,,2019/2020
+302,2676,Rúben Diogo,da Silva Neves,25,Portugal,180 cm,80 kg,False,39,Wolves,38,35,3060,Midfielder,7.051351,False,3,8,3,61,10,2,,2,,1620,29,78,62,9,56,248,128,26,22,,16,29,9,0,0,,,0,0,,2019/2020
+303,2677,João Filipe,Iria Santos Moutinho,36,Portugal,170 cm,61 kg,False,39,Wolves,38,34,3108,Midfielder,7.213157,False,4,4,4,22,6,1,,6,,1574,79,85,93,13,50,335,152,21,15,,25,40,7,0,0,,,0,0,,2019/2020
+304,2716,Romain,Saïss,32,Morocco,190 cm,80 kg,False,39,Wolves,33,31,2706,Midfielder,6.966666,False,2,2,4,24,8,2,,1,,1277,12,76,55,16,55,337,205,10,7,,24,43,11,1,0,,,0,0,,2019/2020
+305,2728,Kasper Peter,Schmeichel,36,Denmark,189 cm,89 kg,False,46,Leicester,38,38,3420,Goalkeeper,6.955263,False,0,0,0,1,0,0,41,,96,779,3,76,1,0,1,18,14,1,0,,7,0,2,0,0,,,0,0,2,2019/2020
+306,2887,Raúl Alonso,Jiménez Rodríguez,31,Mexico,187 cm,76 kg,False,39,Wolves,38,37,3252,Attacker,7.202631,False,1,17,1,118,44,17,,6,,716,48,71,20,0,16,486,203,99,62,,35,39,3,0,0,1,,4,0,,2019/2020
+307,2926,Youri,Tielemans,25,Belgium,176 cm,72 kg,False,46,Leicester,37,32,2834,Midfielder,6.989189,False,5,11,6,56,13,3,,6,,1478,54,82,52,4,22,311,155,48,29,,49,32,2,0,0,,,0,0,,2019/2020
+308,18146,Danny,Ward,29,Wales,191 cm,88 kg,False,46,Leicester,0,0,0,Goalkeeper,,False,0,0,38,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+309,18770,Eldin,Jakupovic,38,Switzerland,191 cm,85 kg,False,46,Leicester,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+310,18771,Ricardo Domingos,Barbosa Pereira,29,Portugal,175 cm,70 kg,False,46,Leicester,28,28,2520,Defender,7.114285,False,0,0,0,18,5,3,,2,,1240,27,77,119,6,49,472,257,101,60,,37,45,1,0,0,,1,0,0,,2019/2020
+311,18772,Jonathan Grant,Evans,34,Northern Ireland,188 cm,77 kg,False,46,Leicester,38,38,3386,Defender,6.984210,False,0,2,0,23,8,1,,1,,2163,8,85,48,18,57,328,207,8,6,,27,35,8,0,1,1,1,0,0,,2019/2020
+312,18776,Çağlar,Söyüncü,26,Turkey,185 cm,82 kg,False,46,Leicester,34,34,3037,Defender,7.091176,False,0,0,1,17,5,1,,1,,2078,4,88,60,19,43,319,202,22,17,,20,30,4,0,1,,2,0,0,,2019/2020
+313,18777,Marc,Albrighton,33,England,175 cm,74 kg,False,46,Leicester,20,9,863,Midfielder,6.740000,False,11,7,27,10,2,0,,3,,306,20,74,24,2,10,115,52,33,14,,11,7,2,0,0,,1,0,0,,2019/2020
+314,18784,James,Maddison,26,England,175 cm,73 kg,False,46,Leicester,31,29,2628,Midfielder,7.370967,False,2,6,2,74,18,6,,3,,1223,79,81,59,0,9,367,205,80,51,,88,36,4,0,0,,,0,0,,2019/2020
+315,18936,Ryan,Bertrand,33,England,179 cm,85 kg,False,41,Southampton,32,31,2743,Defender,6.656250,False,1,1,3,18,3,1,,1,,934,30,73,47,12,37,296,149,24,11,,33,27,3,0,1,,,0,0,,2019/2020
+316,18943,Jannik,Vestergaard,30,Denmark,199 cm,98 kg,False,41,Southampton,19,17,1497,Defender,6.816666,False,2,2,14,12,5,1,,,,634,6,70,19,9,26,170,112,5,3,,9,9,3,0,0,,,0,0,,2019/2020
+317,19760,James,Justin,24,England,183 cm,80 kg,False,46,Leicester,13,11,1010,Defender,6.938461,False,2,0,27,7,0,0,,1,,563,13,83,36,7,11,156,85,17,8,,20,8,1,0,0,,1,0,0,,2019/2020
+318,149564,Luke James,Cundle,20,England,,,False,39,Wolves,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+319,152969,Luke,Thomas,21,England,,,False,46,Leicester,3,3,268,Defender,7.166666,False,0,1,0,0,0,0,,1,,119,10,75,1,0,3,27,12,3,3,,3,1,0,0,0,,,0,0,,2019/2020
+320,76,Marvelous,Nakamba,28,Zimbabwe,178 cm,71 kg,False,66,Aston Villa,29,19,1835,Midfielder,6.651724,False,10,9,15,7,1,0,,,,659,12,85,55,11,39,225,115,19,14,,24,26,5,0,0,,,0,0,,2019/2020
+321,894,Ashley,Young,37,England,175 cm,65 kg,False,33,Manchester United,12,10,954,Defender,6.933333,False,2,1,10,3,0,0,,,,460,19,71,14,2,11,97,50,14,7,,16,14,5,0,0,,,0,0,,2019/2020
+322,2724,Lucas,Digne,29,France,178 cm,74 kg,False,45,Everton,35,35,3035,Defender,7.151428,False,0,5,1,29,4,0,,7,,1019,73,73,73,10,42,404,237,36,23,,29,43,6,0,0,,1,0,0,,2019/2020
+323,2778,Kelechi Promise,Ịheanachọ,26,Nigeria,185 cm,82 kg,False,46,Leicester,20,12,962,Attacker,6.920000,False,8,10,17,36,20,5,,3,,216,15,80,3,1,3,126,35,27,16,,13,24,1,0,0,2,,0,0,,2019/2020
+324,18778,Harvey Lewis,Barnes,25,England,174 cm,66 kg,False,46,Leicester,36,24,2091,Midfielder,6.833333,False,12,20,14,61,28,6,,8,,556,35,79,16,3,8,251,116,81,43,,29,20,0,0,0,1,,0,0,,2019/2020
+325,18779,Hamza,Choudhury,25,England,178 cm,64 kg,False,46,Leicester,20,10,889,Midfielder,6.640000,False,10,5,19,7,2,1,,1,,427,4,84,17,6,24,93,39,10,3,,7,12,3,1,0,,,0,0,,2019/2020
+326,18785,Nampalys,Mendy,30,Senegal,167 cm,73 kg,False,46,Leicester,7,4,291,Midfielder,6.916666,False,3,3,10,1,1,0,,,,190,3,84,7,1,6,31,21,2,1,,8,4,0,0,0,,,0,0,,2019/2020
+327,18786,Onyinye Wilfred,Ndidi,26,Nigeria,183 cm,74 kg,False,46,Leicester,32,29,2674,Midfielder,7.065625,False,3,3,3,26,3,2,,1,,1421,15,84,128,6,80,463,260,32,22,,27,56,6,0,0,,3,0,0,,2019/2020
+328,18788,Jamie,Vardy,35,England,179 cm,74 kg,False,46,Leicester,35,34,3034,Attacker,7.257142,False,1,2,1,89,43,23,,5,,312,32,70,15,4,2,260,104,47,23,,12,20,2,0,0,1,,4,1,,2019/2020
+329,18906,Ayoze,Pérez Gutiérrez,29,Spain,178 cm,72 kg,False,46,Leicester,33,26,2019,Attacker,6.881250,False,7,22,12,47,22,8,,4,,585,29,79,45,1,14,344,135,68,36,,30,30,0,0,0,,,1,0,,2019/2020
+330,18935,Alex,McCarthy,33,England,193 cm,79 kg,False,41,Southampton,28,28,2520,Goalkeeper,6.867857,False,0,0,8,0,0,0,35,,79,384,1,50,1,0,0,25,23,2,2,,3,1,0,0,0,,,0,0,1,2019/2020
+331,18955,Daniel William John,Ings,30,England,178 cm,73 kg,False,41,Southampton,38,32,2815,Attacker,7.065789,False,6,17,6,93,38,22,,2,,403,35,60,42,4,9,459,160,97,48,,25,36,3,0,0,2,,1,1,,2019/2020
+332,19016,Calum,Chambers,27,England,182 cm,66 kg,False,42,Arsenal,14,13,1103,Defender,6.964285,False,1,2,6,12,2,1,,1,,656,7,81,26,7,16,146,77,17,11,,4,18,5,0,0,,1,0,0,,2019/2020
+333,19071,Emiliano,Buendía,26,Argentina,172 cm,72 kg,False,71,Norwich,36,28,2465,Midfielder,6.980555,False,8,8,8,40,11,1,,7,,1125,83,78,82,5,23,553,267,142,102,,54,36,6,0,1,,,0,0,,2019/2020
+334,19177,Kortney,Hause,27,England,191 cm,77 kg,False,66,Aston Villa,18,17,1544,Defender,6.827777,False,1,0,3,20,3,1,,,,587,2,74,21,19,20,215,138,13,9,,9,24,3,0,0,,,0,0,,2019/2020
+335,19179,Tyrone,Mings,29,England,196 cm,77 kg,False,66,Aston Villa,33,33,2903,Defender,6.890909,False,0,1,0,9,4,2,,2,,1079,7,75,15,48,30,175,105,12,12,,11,20,7,0,0,,1,0,0,,2019/2020
+336,19191,John,McGinn,28,Scotland,178 cm,68 kg,False,66,Aston Villa,28,27,2317,Midfielder,6.932142,False,1,6,1,55,20,3,,3,,582,37,80,53,1,25,368,191,72,53,,66,37,3,0,0,,,0,0,,2019/2020
+337,19354,Ezri,Konsa Ngoyo,25,England,183 cm,77 kg,False,66,Aston Villa,25,24,2043,Defender,6.680769,False,1,5,14,11,4,1,,2,,604,11,73,18,24,25,183,104,10,7,,32,17,3,0,0,,1,0,0,,2019/2020
+338,19599,Damián Emiliano,Martínez,30,Argentina,195 cm,88 kg,False,42,Arsenal,9,8,770,Goalkeeper,7.244444,False,1,0,30,0,0,0,9,,34,165,0,68,,0,0,0,0,0,0,,0,0,2,0,0,,,0,0,0,2019/2020
+339,47522,Douglas Luiz,Soares de Paulo,24,Brazil,175 cm,66 kg,False,66,Aston Villa,36,28,2608,Midfielder,6.805555,False,8,4,9,38,12,3,,2,,998,17,81,46,15,36,309,147,45,35,,36,51,8,0,0,,1,0,0,,2019/2020
+340,171,Kyle,Walker-Peters,25,England,173 cm,62 kg,False,41,Southampton,10,7,701,Defender,6.933333,False,3,1,5,2,0,0,,,,267,4,72,13,3,14,95,57,19,17,,21,6,1,0,0,,,0,0,,2019/2020
+341,2114,Moussa,Djenepo,24,Mali,177 cm,65 kg,False,41,Southampton,18,10,926,Midfielder,6.683333,False,8,5,11,20,8,2,,2,,177,11,71,27,1,9,196,104,66,44,,30,23,4,0,1,,,0,0,,2019/2020
+342,2275,Wilfredo Daniel,Caballero,41,Argentina,186 cm,81 kg,False,49,Chelsea,5,5,450,Goalkeeper,6.660000,False,0,0,33,0,0,0,7,,10,107,0,71,,0,0,2,2,0,0,,0,0,0,0,0,,,0,0,0,2019/2020
+343,2938,James,Ward-Prowse,28,England,173 cm,66 kg,False,41,Southampton,38,38,3420,Midfielder,7.215789,False,0,0,0,57,26,5,,3,,1348,63,78,92,14,60,420,218,21,14,,43,57,9,0,0,1,,1,2,,2019/2020
+344,2999,Jan Kacper,Bednarek,26,Poland,189 cm,77 kg,False,41,Southampton,34,34,3058,Defender,6.805882,False,0,1,2,7,1,1,,1,,1157,3,73,65,23,77,313,204,2,2,,12,33,4,0,0,,1,0,0,,2019/2020
+345,18769,Theo,Walcott,33,England,176 cm,68 kg,False,45,Everton,25,17,1295,Attacker,6.634782,False,8,16,11,31,10,2,,3,,244,19,66,13,0,8,128,54,32,17,,17,9,1,0,0,,,0,0,,2019/2020
+346,18835,Vicente,Guaita Panadero,35,Spain,190 cm,81 kg,False,52,Crystal Palace,35,35,3150,Goalkeeper,6.931428,False,0,0,0,0,0,0,42,,110,438,0,50,1,0,0,24,21,0,0,,4,0,1,0,0,,,0,0,0,2019/2020
+347,18847,Joel,Ward,33,England,188 cm,83 kg,False,52,Crystal Palace,29,27,2383,Defender,6.810344,False,2,3,2,5,1,0,,,,683,5,69,69,6,48,244,157,15,8,,29,24,4,0,0,,,0,0,,2019/2020
+348,18932,Fraser,Forster,34,England,201 cm,93 kg,False,41,Southampton,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+349,18934,Harry,Lewis,25,England,191 cm,77 kg,False,41,Southampton,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+350,18940,Jack,Stephens,28,England,185 cm,75 kg,False,41,Southampton,28,27,2452,Defender,6.703571,False,1,1,7,6,2,1,,3,,924,8,68,44,22,31,222,113,11,7,,13,14,4,0,1,,1,0,0,,2019/2020
+351,18942,Yan,Valery,23,France,180 cm,85 kg,False,41,Southampton,11,10,784,Defender,6.281818,False,1,6,11,3,2,0,,,,125,2,56,20,1,13,126,62,27,14,,8,7,1,0,0,,,0,0,,2019/2020
+352,18945,Stuart,Armstrong,30,Scotland,183 cm,75 kg,False,41,Southampton,30,19,1716,Midfielder,6.753333,False,11,12,13,46,20,5,,3,,446,18,77,32,4,11,226,95,53,30,,20,25,4,0,0,,,0,0,,2019/2020
+353,18948,Nathan,Redmond,28,England,173 cm,69 kg,False,41,Southampton,32,32,2771,Midfielder,6.959375,False,0,8,0,59,21,4,,4,,752,37,72,49,2,16,372,176,123,79,,31,23,2,0,0,,,0,0,,2019/2020
+354,18949,Oriol,Romeu Vidal,31,Spain,183 cm,83 kg,False,41,Southampton,30,20,1856,Midfielder,6.762962,False,10,7,18,8,0,0,,,,868,19,73,55,13,34,256,126,16,13,,16,39,5,0,0,,,0,0,,2019/2020
+355,18956,Shane Patrick,Long,35,Republic of Ireland,178 cm,81 kg,False,41,Southampton,26,15,1397,Attacker,6.825000,False,11,13,16,33,14,2,,2,,206,20,50,19,0,4,346,161,13,6,,25,32,0,0,0,,,0,0,,2019/2020
+356,19524,Che,Adams,26,Scotland,175 cm,70 kg,False,41,Southampton,30,12,1105,Attacker,6.720000,False,18,12,24,36,10,4,,2,,161,13,60,6,1,2,202,81,25,18,,16,17,0,0,0,1,,0,0,,2019/2020
+357,130421,William Anthony Patrick,Smallbone,22,Republic of Ireland,,,False,41,Southampton,9,4,392,Midfielder,6.757142,False,5,4,10,6,0,0,,2,,173,3,67,10,1,1,46,19,1,0,,6,2,0,0,0,,,0,0,,2019/2020
+358,138822,Armando,Broja,21,Albania,183 cm,,False,49,Chelsea,1,0,4,Attacker,6.300000,False,1,0,1,0,0,0,,,,1,0,100,,0,0,3,1,0,0,,1,0,0,0,0,,,0,0,,2019/2020
+359,231029,Nathan,Tella,23,England,,,False,41,Southampton,1,0,2,Midfielder,,False,1,0,3,1,1,0,,,,0,0,0,,0,0,3,2,0,0,,1,0,0,0,0,,,0,0,,2019/2020
+360,2928,Christian,Benteke Liolo,32,Belgium,190 cm,83 kg,False,52,Crystal Palace,24,13,1257,Attacker,7.047826,False,11,6,14,41,19,2,,1,,183,19,50,9,4,4,362,191,23,19,,20,25,4,0,1,,,0,0,,2019/2020
+361,2991,Cheikhou,Kouyaté,33,Senegal,189 cm,83 kg,False,52,Crystal Palace,35,29,2536,Midfielder,6.734285,False,6,15,9,24,4,1,,1,,629,10,72,67,11,43,364,201,31,17,,28,33,4,0,0,,,0,0,,2019/2020
+362,3247,Wilfried,Zaha,30,Côte d'Ivoire,180 cm,66 kg,False,52,Crystal Palace,38,37,3280,Attacker,6.681578,False,1,1,1,61,17,4,,3,,887,37,80,43,2,18,697,336,267,163,,120,48,5,0,0,1,,0,0,,2019/2020
+363,3428,Jordan,Ayew,31,Ghana,182 cm,80 kg,False,52,Crystal Palace,37,37,3162,Attacker,6.929729,False,0,14,1,58,24,9,,2,,662,30,80,48,4,15,701,303,117,73,,105,59,6,0,0,,,0,0,,2019/2020
+364,18806,Will,Hughes,27,England,185 cm,74 kg,False,38,Watford,30,27,2263,Midfielder,6.803333,False,3,14,6,27,3,1,,1,,658,26,73,75,8,37,336,170,33,24,,46,53,9,0,0,,2,0,0,,2019/2020
+365,18840,Martin,Kelly,32,England,191 cm,77 kg,False,52,Crystal Palace,19,17,1550,Defender,6.689473,False,2,3,13,2,0,0,,1,,402,6,67,23,10,16,119,61,10,5,,0,8,0,0,0,,,0,0,,2019/2020
+366,18843,Jeffrey,Schlupp,30,Ghana,178 cm,72 kg,False,52,Crystal Palace,17,11,1035,Midfielder,6.676470,False,6,6,8,18,10,3,,1,,238,7,74,18,3,13,140,63,24,13,,12,17,2,0,0,,,0,0,,2019/2020
+367,18844,James,Tomkins,33,England,192 cm,74 kg,False,52,Crystal Palace,18,18,1584,Defender,6.944444,False,0,2,3,9,3,1,,1,,533,2,77,29,15,21,153,100,2,1,,10,14,5,0,0,,,0,0,,2019/2020
+368,18849,James,McArthur,35,Scotland,178 cm,75 kg,False,52,Crystal Palace,37,37,3105,Midfielder,6.854054,False,0,15,0,28,6,0,,3,,1121,35,77,88,19,60,445,195,44,29,,35,57,6,0,0,1,,0,0,,2019/2020
+369,18852,Luka,Milivojević,31,Serbia,186 cm,80 kg,False,52,Crystal Palace,31,28,2514,Midfielder,6.922580,False,3,4,4,31,9,3,,1,,1175,29,80,61,7,42,272,128,11,7,,27,50,12,0,0,,1,2,0,,2019/2020
+370,18853,Jaïro,Riedewald,26,Netherlands,182 cm,79 kg,False,52,Crystal Palace,17,7,763,Midfielder,6.587500,False,10,3,21,3,0,0,,,,249,2,72,14,2,17,49,27,11,8,,2,3,0,0,0,,,0,0,,2019/2020
+371,18960,Jason,Steele,32,England,188 cm,79 kg,False,51,Brighton,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+372,18962,Shane Patrick Michael,Duffy,30,Republic of Ireland,193 cm,76 kg,False,51,Brighton,19,12,1231,Defender,6.800000,False,7,0,20,7,1,1,,,,517,2,78,18,7,21,146,98,4,3,,10,14,2,0,0,,,0,0,,2019/2020
+373,18963,Lewis,Dunk,31,England,192 cm,88 kg,False,51,Brighton,36,36,3231,Defender,7.069444,False,0,1,0,31,10,3,,3,,1958,14,85,40,33,55,260,161,7,5,,19,19,9,0,0,,,0,0,,2019/2020
+374,19265,Adam,Webster,27,England,191 cm,75 kg,False,51,Brighton,31,31,2670,Defender,6.938709,False,0,2,5,16,7,3,,1,,1563,11,81,30,26,45,274,170,18,14,,19,13,4,0,0,,2,0,0,,2019/2020
+375,43071,Tudor Cristian,Băluţă,23,Romania,192 cm,80 kg,False,51,Brighton,0,0,0,Defender,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+376,67971,Addji Keaninkin Marc-Israel,Guéhi,22,England,182 cm,82 kg,False,49,Chelsea,0,0,0,Defender,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+377,137300,Hayden,Roberts,20,England,175 cm,68 kg,False,51,Brighton,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+378,138815,Tariq,Lamptey,22,England,,,False,51,Brighton,8,7,591,Defender,6.737500,False,1,4,2,2,0,0,,1,,143,7,79,7,0,16,83,42,22,15,,17,13,2,0,0,,,0,0,,2019/2020
+379,182201,Tyrick,Mitchell,23,England,,,False,52,Crystal Palace,4,2,193,Defender,6.275000,False,2,0,9,0,0,0,,,,75,4,80,5,0,2,25,7,3,1,,1,1,1,0,0,,,0,0,,2019/2020
+380,174,Christian,Dannemann Eriksen,30,Denmark,182 cm,76 kg,False,47,Tottenham,20,10,1091,Midfielder,6.847368,False,10,4,13,26,9,2,,2,,541,25,75,19,1,12,83,31,2,0,,6,9,5,0,0,,,0,0,,2019/2020
+381,295,Adam David,Lallana,34,England,172 cm,73 kg,False,40,Liverpool,15,3,373,Midfielder,6.641666,False,12,3,23,5,1,1,,1,,228,4,81,19,0,5,75,33,5,2,,8,7,1,0,0,,,0,0,,2019/2020
+382,1469,Daniel Nii,Tackie Mensah Welbeck,32,England,185 cm,73 kg,False,38,Watford,18,8,816,Attacker,6.570588,False,10,4,12,22,9,2,,,,124,3,78,14,1,5,134,61,20,9,,10,9,0,0,0,1,,0,0,,2019/2020
+383,1946,Leandro,Trossard,28,Belgium,171 cm,61 kg,False,51,Brighton,31,22,2013,Attacker,6.787096,False,9,12,12,41,12,5,,3,,529,43,71,22,1,9,184,64,53,29,,11,14,0,0,0,,,0,0,,2019/2020
+384,2727,Jonas,Bybjerg Lössl,33,Denmark,195 cm,89 kg,False,45,Everton,0,0,0,Goalkeeper,,False,0,0,13,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+385,2806,Fabian Lukas,Schär,31,Switzerland,188 cm,84 kg,False,34,Newcastle,22,18,1671,Defender,6.922727,False,4,3,14,20,6,2,,,,569,4,75,39,18,47,208,113,24,16,,25,29,5,0,0,,,0,0,,2019/2020
+386,2855,Emil Henry Kristoffer,Krafth,28,Sweden,184 cm,83 kg,False,34,Newcastle,17,11,1018,Defender,6.580000,False,6,4,20,4,0,0,,1,,254,1,81,18,8,8,64,36,6,4,,7,4,0,0,0,,,0,0,,2019/2020
+387,6716,Alexis,Mac Allister,24,Argentina,176 cm,72 kg,False,51,Brighton,9,4,351,Midfielder,6.600000,False,5,4,6,7,1,0,,,,74,5,79,9,0,1,39,17,4,2,,4,4,0,0,0,,,0,0,,2019/2020
+388,17715,Steven,Alzate,24,Colombia,180 cm,,False,51,Brighton,19,12,1183,Midfielder,6.757894,False,7,2,10,13,3,0,,,,506,14,82,33,3,14,177,95,47,35,,18,17,1,0,0,,,0,0,,2019/2020
+389,18885,Karl,Darlow,32,England,190 cm,88 kg,False,34,Newcastle,0,0,0,Goalkeeper,,False,0,0,37,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+390,18886,Martin,Dúbravka,33,Slovakia,190 cm,83 kg,False,34,Newcastle,38,38,3420,Goalkeeper,6.971052,False,0,0,0,0,0,0,58,,140,490,0,51,1,0,1,15,14,0,0,,4,0,0,0,0,,,0,0,0,2019/2020
+391,18891,Ciaran,Clark,33,Republic of Ireland,185 cm,88 kg,False,34,Newcastle,14,14,1189,Defender,7.007142,False,0,3,4,6,4,2,,,,249,1,76,20,14,11,116,62,7,6,,7,9,3,0,0,,,0,0,,2019/2020
+392,18892,Paul,Dummett,31,Wales,183 cm,82 kg,False,34,Newcastle,16,14,1229,Defender,6.762500,False,2,3,5,2,2,0,,,,322,4,66,27,9,23,106,62,2,1,,6,4,2,0,0,,,0,0,,2019/2020
+393,18894,Jamaal,Lascelles,29,England,188 cm,89 kg,False,34,Newcastle,24,24,2079,Defender,6.870833,False,0,3,0,9,2,1,,,,676,2,79,14,20,28,191,109,6,4,,18,22,5,0,0,,,0,0,,2019/2020
+394,18941,Matt,Targett,27,England,183 cm,70 kg,False,66,Aston Villa,28,27,2295,Defender,6.892857,False,1,5,3,7,4,1,,2,,688,28,71,52,8,56,234,113,21,8,,17,27,4,0,0,,,0,0,,2019/2020
+395,18968,Yves,Bissouma,26,Mali,182 cm,80 kg,False,51,Brighton,22,15,1263,Midfielder,6.777272,False,7,11,14,16,7,1,,,,526,4,84,49,2,21,220,112,48,32,,15,31,4,0,0,,,0,0,,2019/2020
+396,18970,Pascal,Groß,31,Germany,181 cm,78 kg,False,51,Brighton,29,22,1804,Midfielder,7.065517,False,7,14,16,29,9,2,,4,,715,59,78,36,3,9,177,73,14,6,,13,23,4,0,0,,,0,0,,2019/2020
+397,18973,Solomon,March,28,England,180 cm,88 kg,False,51,Brighton,19,11,1143,Midfielder,6.772222,False,8,8,14,21,8,0,,1,,382,13,78,25,4,20,149,67,28,16,,11,10,2,0,0,,,0,0,,2019/2020
+398,19076,Jamal,Lewis,24,Northern Ireland,178 cm,70 kg,False,71,Norwich,28,25,2304,Defender,6.550000,False,3,4,12,9,4,1,,,,824,15,73,51,12,25,217,115,65,34,,23,15,4,0,0,,,0,0,,2019/2020
+399,19364,Neal,Maupay,26,France,173 cm,69 kg,False,51,Brighton,37,30,2769,Attacker,6.772972,False,7,10,8,96,38,10,,3,,532,25,79,20,0,4,358,115,68,24,,46,38,3,0,0,,,1,1,,2019/2020
+400,723,Joelinton Cassio,Apolinário de Lira,26,Brazil,186 cm,81 kg,False,34,Newcastle,38,32,2698,Attacker,6.705263,False,6,21,6,50,15,2,,2,,629,30,75,34,6,11,671,284,80,41,,40,32,7,0,0,,,0,0,,2019/2020
+401,1463,Joseph,Willock,23,England,179 cm,71 kg,False,42,Arsenal,29,8,844,Midfielder,6.637037,False,21,7,27,15,5,1,,1,,284,13,80,25,2,4,130,67,32,21,,13,10,2,0,0,,,0,0,,2019/2020
+402,2507,Miguel Ángel,Almirón Rejala,28,Paraguay,174 cm,63 kg,False,34,Newcastle,36,35,3034,Midfielder,6.730555,False,1,14,2,56,17,4,,2,,665,31,77,60,1,31,344,174,93,46,,59,30,5,0,0,,,0,0,,2019/2020
+403,2932,Jordan,Pickford,28,England,185 cm,77 kg,False,45,Everton,38,38,3420,Goalkeeper,6.723684,False,0,0,0,0,0,0,56,,94,712,1,60,,0,3,22,18,0,0,,8,1,2,0,0,,,0,0,0,2019/2020
+404,2939,Callum,Wilson,30,England,180 cm,66 kg,False,35,Bournemouth,35,32,2910,Attacker,6.780000,False,3,5,3,55,21,8,,1,,329,29,62,12,2,4,422,141,45,24,,40,55,10,0,0,2,,0,0,,2019/2020
+405,18858,Asmir,Begović,35,Bosnia and Herzegovina,199 cm,101 kg,False,35,Bournemouth,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+406,18873,Ryan,Fraser,28,Scotland,163 cm,70 kg,False,35,Bournemouth,28,21,2062,Midfielder,6.925000,False,7,2,7,27,12,1,,4,,615,45,78,12,3,15,147,66,24,12,,36,10,2,0,0,,,0,0,,2019/2020
+407,18893,Federico,Fernández,33,Argentina,190 cm,83 kg,False,34,Newcastle,32,29,2618,Defender,6.900000,False,3,1,7,15,7,2,,2,,855,4,71,42,28,24,232,132,16,10,,20,17,8,0,0,,,0,0,,2019/2020
+408,18896,Javier,Manquillo Gaitán,28,Spain,178 cm,76 kg,False,34,Newcastle,21,18,1599,Defender,6.690476,False,3,3,8,1,0,0,,1,,358,5,74,39,2,18,140,79,25,13,,11,18,5,0,0,,1,0,0,,2019/2020
+409,18901,Sean,Longstaff,25,England,181 cm,65 kg,False,34,Newcastle,23,14,1372,Midfielder,6.621739,False,9,2,12,25,7,1,,1,,500,15,73,35,5,19,178,85,18,7,,26,17,2,0,1,,,0,0,,2019/2020
+410,18903,Matt,Ritchie,33,Scotland,172 cm,76 kg,False,34,Newcastle,18,14,1316,Midfielder,7.005555,False,4,5,6,26,8,2,,1,,391,33,73,22,5,14,134,67,14,8,,16,26,4,0,0,,1,0,1,,2019/2020
+411,18904,Jonjo,Shelvey,30,England,184 cm,80 kg,False,34,Newcastle,26,25,2124,Midfielder,7.157692,False,1,6,7,45,14,6,,2,,803,46,73,29,5,23,145,67,20,15,,6,19,3,0,0,,,0,0,,2019/2020
+412,18931,Christopher Grant,Wood,31,New Zealand,191 cm,81 kg,False,44,Burnley,32,29,2446,Attacker,6.700000,False,3,12,3,65,31,14,,1,,290,22,64,7,2,4,420,158,14,6,,28,34,1,0,0,,,1,0,,2019/2020
+413,18961,Dan,Burn,30,England,198 cm,87 kg,False,51,Brighton,34,33,2881,Defender,6.805882,False,1,2,1,12,0,1,,,,1162,19,71,67,20,42,396,239,40,19,,15,32,5,0,0,,,0,0,,2019/2020
+414,19163,Jacob,Murphy,27,England,179 cm,74 kg,False,34,Newcastle,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+415,19166,Dwight,Gayle,33,England,174 cm,78 kg,False,34,Newcastle,20,10,848,Attacker,6.647368,False,10,8,17,23,10,4,,2,,100,6,60,12,0,2,119,48,3,2,,13,6,2,0,0,,,0,0,,2019/2020
+416,19329,Daniel,James,25,Wales,171 cm,76 kg,False,33,Manchester United,33,26,2291,Attacker,6.760606,False,7,11,11,42,20,3,,6,,549,26,76,21,4,7,249,110,62,27,,55,14,4,0,0,1,,0,0,,2019/2020
+417,20224,Andrew,Lonergan,39,England,192 cm,87 kg,False,40,Liverpool,0,0,0,Goalkeeper,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+418,22173,Allan,Saint-Maximin,25,France,173 cm,67 kg,False,34,Newcastle,26,23,1874,Midfielder,6.938461,False,3,14,4,46,21,3,,4,,341,33,78,13,2,9,353,190,180,121,,48,18,0,0,0,,,0,0,,2019/2020
+419,162446,Lewis Michael,Bate,20,England,,,False,49,Chelsea,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+420,172,Bamidele,Alli,26,England,188 cm,76 kg,False,47,Tottenham,25,21,1853,Midfielder,6.812000,False,4,9,7,42,19,8,,4,,618,23,74,34,3,17,265,115,66,29,,33,12,2,0,0,,,1,0,,2019/2020
+421,630,Fabian,Delph,33,England,174 cm,60 kg,False,45,Everton,16,13,1190,Midfielder,6.681250,False,3,2,4,3,0,0,,,,676,7,83,26,3,15,120,69,26,21,,7,18,4,1,0,,,0,0,,2019/2020
+422,1455,Alexander Chuka,Iwobi,26,Nigeria,180 cm,75 kg,False,45,Everton,25,19,1604,Attacker,6.740000,False,6,14,11,23,10,1,,,,444,24,78,25,2,14,149,69,52,32,,4,12,0,0,0,,,0,0,,2019/2020
+423,2413,Richarlison,de Andrade,25,Brazil,184 cm,83 kg,False,45,Everton,36,36,3081,Attacker,7.111111,False,0,10,0,90,32,13,,3,,525,34,65,70,4,12,588,277,111,61,,72,43,8,0,0,,1,0,0,,2019/2020
+424,2484,Yerry Fernando,Mina González,28,Colombia,195 cm,94 kg,False,45,Everton,29,25,2282,Defender,7.000000,False,4,2,6,29,11,2,,1,,1140,7,83,39,14,28,267,170,8,6,,12,20,3,0,0,,,0,0,,2019/2020
+425,2934,Michael,Keane,29,England,191 cm,82 kg,False,45,Everton,31,28,2556,Defender,6.966666,False,3,0,9,14,4,2,,,,1198,6,78,31,28,44,290,169,1,1,,8,20,3,0,0,,1,0,0,,2019/2020
+426,17661,Jarrad,Branthwaite,20,England,195 cm,67 kg,False,45,Everton,4,2,298,Defender,6.850000,False,2,0,7,0,0,0,,,,196,0,86,8,3,2,41,20,1,1,,3,4,0,0,0,,,0,0,,2019/2020
+427,18758,Séamus,Coleman,34,Republic of Ireland,177 cm,67 kg,False,45,Everton,27,21,1839,Defender,6.737037,False,6,5,12,8,4,0,,1,,643,10,70,42,9,24,206,128,58,38,,19,19,4,1,0,,,0,0,,2019/2020
+428,18762,Tom,Davies,24,England,180 cm,70 kg,False,45,Everton,30,23,2027,Midfielder,6.656666,False,7,7,13,17,5,1,,,,681,7,77,38,4,35,266,134,30,21,,40,30,8,0,0,,,0,0,,2019/2020
+429,18765,André Filipe,Tavares Gomes,29,Portugal,188 cm,84 kg,False,45,Everton,19,17,1460,Midfielder,6.494736,False,2,4,2,5,0,0,,1,,721,11,85,22,3,7,220,83,35,25,,19,38,6,0,0,,1,0,0,,2019/2020
+430,18766,Dominic,Calvert-Lewin,25,England,187 cm,71 kg,False,45,Everton,36,30,2630,Attacker,6.972222,False,6,10,8,85,38,13,,1,,354,15,63,7,2,6,546,242,27,14,,44,57,9,0,0,,,0,0,,2019/2020
+431,18768,Cenk,Tosun,31,Turkey,183 cm,78 kg,False,52,Crystal Palace,5,2,176,Attacker,6.760000,False,3,2,3,4,2,1,,,,28,1,70,2,0,0,45,18,6,6,,4,4,0,0,0,,,0,0,,2019/2020
+432,18781,Demarai,Gray,26,England,180 cm,74 kg,False,46,Leicester,21,3,607,Midfielder,6.761904,False,18,3,29,23,8,2,,3,,254,17,88,12,0,5,84,34,25,10,,10,2,1,0,0,1,,0,1,,2019/2020
+433,18791,Ben,Foster,39,England,193 cm,79 kg,False,38,Watford,38,38,3420,Goalkeeper,6.723684,False,0,0,0,1,1,0,64,,117,440,1,41,1,0,0,21,17,2,2,,4,2,1,0,0,,,0,0,1,2019/2020
+434,18805,Abdoulaye,Doucouré,29,Mali,184 cm,75 kg,False,38,Watford,37,36,3166,Midfielder,6.813513,False,1,11,1,61,12,4,,2,,1315,38,76,64,8,31,380,174,67,40,,15,51,9,0,0,,1,0,0,,2019/2020
+435,18854,Andros,Townsend,31,England,181 cm,77 kg,False,52,Crystal Palace,24,14,1290,Midfielder,6.725000,False,10,6,15,12,5,1,,1,,301,14,76,34,0,15,194,102,53,38,,26,9,0,0,0,,,0,0,,2019/2020
+436,19073,Ben,Godfrey,24,England,183 cm,74 kg,False,71,Norwich,30,30,2646,Defender,6.816666,False,0,1,1,15,6,0,,,,1459,3,86,22,37,25,175,105,12,8,,9,15,3,0,1,,1,0,0,,2019/2020
+437,19150,Mason,Holgate,26,England,184 cm,63 kg,False,45,Everton,27,24,2053,Defender,7.034615,False,3,2,10,11,5,0,,3,,891,4,80,44,13,34,190,120,12,10,,25,17,5,0,0,,,0,0,,2019/2020
+438,19195,Anwar,El Ghazi,27,Netherlands,188 cm,90 kg,False,66,Aston Villa,34,26,2060,Midfielder,6.803030,False,8,17,11,52,20,4,,4,,347,30,66,20,1,13,248,97,52,29,,17,20,3,0,0,,,1,0,,2019/2020
+439,138787,Anthony,Gordon,21,England,,,False,45,Everton,11,4,437,Attacker,6.700000,False,7,4,12,6,1,0,,1,,89,6,75,11,2,8,73,35,16,11,,12,10,0,0,0,,,0,0,,2019/2020
+440,167,Danny,Rose,32,England,173 cm,72 kg,False,34,Newcastle,11,10,865,Defender,6.727272,False,1,3,3,0,0,0,,,,288,3,80,21,4,10,95,59,9,5,,23,11,2,0,0,,,0,0,,2019/2020
+441,179,Moussa,Sissoko,33,France,187 cm,83 kg,False,47,Tottenham,29,28,2455,Midfielder,6.624137,False,1,5,1,15,4,2,,1,,1090,16,82,39,4,27,265,121,67,40,,16,44,8,0,0,,1,0,0,,2019/2020
+442,2218,Ismaïla,Sarr,24,Senegal,185 cm,76 kg,False,38,Watford,28,22,2030,Attacker,6.671428,False,6,8,8,44,13,5,,4,,401,25,82,11,1,18,310,124,96,47,,47,22,1,0,0,2,,0,0,,2019/2020
+443,2860,Ken Nlata,Sema,29,Sweden,180 cm,69 kg,False,38,Watford,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+444,2936,James,Tarkowski,30,England,185 cm,81 kg,False,44,Burnley,38,38,3420,Defender,7.136842,False,0,0,0,21,5,2,,2,,956,15,69,66,47,63,452,307,13,13,,32,49,10,0,0,,,0,0,,2019/2020
+445,10329,João Pedro,Junqueira de Jesus,21,Brazil,182 cm,70 kg,False,38,Watford,3,0,22,Attacker,6.566666,False,3,0,9,1,0,0,,,,7,0,55,,0,0,12,5,4,3,,0,1,0,0,0,,,0,0,,2019/2020
+446,18793,Craig George,Cathcart,33,Northern Ireland,188 cm,73 kg,False,38,Watford,29,28,2489,Defender,6.758620,False,1,2,8,2,1,0,,,,737,2,79,41,16,25,197,114,7,4,,2,13,7,0,0,,,0,0,,2019/2020
+447,18794,Francisco,Femenía Far,31,Spain,176 cm,61 kg,False,38,Watford,28,26,2241,Defender,6.628571,False,2,6,5,5,1,0,,,,749,18,77,68,2,36,212,112,32,19,,12,26,5,0,0,1,,0,0,,2019/2020
+448,18797,Christian,Kabasele,31,Belgium,187 cm,84 kg,False,38,Watford,27,26,2252,Defender,6.757692,False,1,1,8,9,1,0,,2,,487,6,68,37,23,36,211,121,10,9,,14,22,2,1,1,,,0,0,,2019/2020
+449,18799,Adam,Masina,28,Morocco,189 cm,78 kg,False,38,Watford,26,20,1819,Defender,6.723076,False,6,4,9,15,3,1,,,,441,12,58,38,12,28,227,126,16,9,,12,26,3,0,0,,1,0,0,,2019/2020
+450,18804,Tom,Cleverley,33,England,175 cm,67 kg,False,38,Watford,18,11,967,Midfielder,6.644444,False,7,3,9,17,5,1,,,,358,15,74,28,1,10,115,54,11,7,,10,16,2,0,0,,,0,0,,2019/2020
+451,18836,Wayne Robert,Hennessey,35,Wales,198 cm,90 kg,False,52,Crystal Palace,3,3,270,Goalkeeper,6.733333,False,0,0,34,0,0,0,8,,16,43,0,43,,0,1,1,0,0,0,,0,0,0,0,0,,,0,0,0,2019/2020
+452,18874,Dan,Gosling,32,England,183 cm,79 kg,False,35,Bournemouth,24,14,1261,Midfielder,6.658333,False,10,7,13,13,6,3,,1,,402,10,73,26,11,20,169,69,14,4,,18,21,3,0,0,,,0,0,,2019/2020
+453,18881,Joshua Christian,Kojo King,30,Norway,180 cm,74 kg,False,35,Bournemouth,26,24,2020,Attacker,6.753846,False,2,11,2,26,13,6,,4,,361,30,70,16,3,8,376,154,107,52,,27,37,0,0,0,,,3,0,,2019/2020
+454,18887,Rob,Elliot,36,Republic of Ireland,190 cm,94 kg,False,34,Newcastle,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+455,18911,Nick,Pope,30,England,191 cm,76 kg,False,44,Burnley,38,38,3420,Goalkeeper,6.952631,False,0,0,0,0,0,0,50,,120,379,3,38,1,0,3,29,27,0,0,,6,0,1,0,0,,,0,0,1,2019/2020
+456,18916,Matthew,Lowton,33,England,180 cm,78 kg,False,44,Burnley,17,17,1530,Defender,6.758823,False,0,0,9,1,0,0,,1,,378,11,67,41,6,27,129,82,15,9,,10,14,2,0,0,,1,0,0,,2019/2020
+457,18918,Charlie,Taylor,29,England,176 cm,70 kg,False,44,Burnley,24,22,1945,Defender,6.820833,False,2,2,8,1,0,0,,1,,490,12,67,39,9,29,226,131,40,19,,28,17,3,0,0,,,0,0,,2019/2020
+458,44775,Daniel,Bachmann,28,Austria,191 cm,81 kg,False,38,Watford,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+459,193296,Jeremy,Ngakia,22,England,,,False,48,West Ham,5,5,441,Attacker,6.500000,False,0,1,2,1,1,0,,,,57,0,53,15,1,7,68,32,14,9,,1,4,0,0,0,,,0,0,,2019/2020
+460,2790,Johann,Berg Guðmunds­son,32,Iceland,186 cm,78 kg,False,44,Burnley,12,6,620,Midfielder,6.790909,False,6,5,9,10,2,1,,1,,118,13,63,4,1,7,56,20,6,5,,4,9,0,0,0,,,0,0,,2019/2020
+461,18912,Phil,Bardsley,37,Scotland,180 cm,74 kg,False,44,Burnley,21,21,1890,Defender,7.038095,False,0,0,10,11,4,0,,1,,435,10,64,49,11,30,179,102,7,4,,13,35,6,0,0,,,0,0,,2019/2020
+462,18915,Kevin,Long,32,Republic of Ireland,188 cm,83 kg,False,44,Burnley,8,6,562,Defender,6.857142,False,2,0,23,2,0,0,,,,148,0,68,7,7,4,75,40,1,1,,6,9,0,0,0,,,0,0,,2019/2020
+463,18917,Ben,Mee,33,England,180 cm,74 kg,False,44,Burnley,32,32,2880,Defender,6.921875,False,0,0,0,17,7,1,,1,,898,9,70,41,31,42,320,195,7,6,,21,25,7,0,0,,3,0,0,,2019/2020
+464,18922,Jack,Cork,33,England,183 cm,70 kg,False,44,Burnley,30,30,2618,Midfielder,6.593333,False,0,6,0,18,6,0,,,,719,12,77,35,12,28,335,140,33,26,,25,33,1,0,0,,,0,0,,2019/2020
+465,18925,Aaron,Lennon,35,England,165 cm,63 kg,False,44,Burnley,16,4,485,Midfielder,6.557142,False,12,1,22,1,0,0,,,,82,2,67,14,1,8,55,26,8,3,,7,10,4,0,0,,,0,0,,2019/2020
+466,18926,Ashley,Westwood,32,England,175 cm,80 kg,False,44,Burnley,35,35,3150,Midfielder,7.025714,False,0,0,0,13,3,2,,6,,1371,54,77,54,11,32,222,110,20,8,,33,33,9,0,0,,,0,0,,2019/2020
+467,18927,Ashley Luke,Barnes,33,England,186 cm,77 kg,False,44,Burnley,19,17,1362,Attacker,6.821052,False,2,12,2,40,12,6,,,,137,5,52,10,2,6,265,114,14,6,,40,35,4,0,0,1,,1,0,,2019/2020
+468,18929,Dwight,McNeil,23,England,,,False,44,Burnley,38,38,3345,Attacker,6.968421,False,0,7,0,48,14,2,,6,,814,57,77,47,8,30,431,191,142,77,,39,29,5,0,0,,,0,0,,2019/2020
+469,18930,Matěj,Vydra,30,Czech Republic,180 cm,71 kg,False,44,Burnley,19,7,812,Attacker,6.568421,False,12,5,21,18,10,2,,1,,101,8,72,4,3,1,111,41,18,6,,12,1,0,0,0,,,0,0,,2019/2020
+470,18933,Angus,Gunn,26,England,196 cm,77 kg,False,41,Southampton,10,10,900,Goalkeeper,6.480000,False,0,0,28,0,0,0,25,,30,87,0,39,1,0,0,7,5,0,0,,2,0,0,0,0,,,0,0,0,2019/2020
+471,18977,Dale,Stephens,33,England,169 cm,71 kg,False,51,Brighton,33,28,2529,Midfielder,6.884375,False,5,4,7,19,2,0,,1,,1436,20,84,73,11,58,237,108,12,10,,6,42,8,0,0,,,0,0,,2019/2020
+472,19061,Tim,Krul,34,Netherlands,188 cm,84 kg,False,71,Norwich,36,36,3240,Goalkeeper,6.875000,False,0,0,0,0,0,0,68,,132,887,0,63,,0,1,25,20,1,0,,6,1,4,0,0,,,0,0,2,2019/2020
+473,19062,Michael,McGovern,38,Northern Ireland,191 cm,89 kg,False,71,Norwich,2,1,158,Goalkeeper,6.750000,False,1,0,19,0,0,0,7,,7,19,0,47,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,1,2019/2020
+474,19070,Maximillian James,Aarons,22,England,178 cm,69 kg,False,71,Norwich,36,36,3240,Defender,6.613888,False,0,0,0,14,4,0,,1,,1056,23,77,48,29,37,342,167,99,48,,49,29,7,0,0,1,,0,0,,2019/2020
+475,19169,Jay,Rodriguez,33,England,185 cm,80 kg,False,44,Burnley,36,20,2007,Attacker,6.661111,False,16,7,16,67,30,8,,1,,324,6,64,29,6,5,402,140,39,18,,15,26,1,0,0,,,1,0,,2019/2020
+476,19268,Josh,Brownhill,27,England,178 cm,69 kg,False,44,Burnley,10,9,805,Midfielder,6.811111,False,1,1,4,6,0,0,,,,273,3,73,14,4,14,84,48,8,7,,9,6,2,0,0,,,0,0,,2019/2020
+477,19287,Sam,Byram,29,England,180 cm,72 kg,False,71,Norwich,17,15,1293,Defender,6.681250,False,2,2,11,15,2,0,,,,495,6,75,40,8,26,184,97,15,6,,8,16,4,0,0,,,0,0,,2019/2020
+478,21383,Erik,Pieters,34,Netherlands,183 cm,84 kg,False,44,Burnley,24,21,1879,Defender,6.700000,False,3,4,15,14,3,0,,4,,537,18,70,54,4,28,203,110,12,4,,20,21,2,0,0,,1,0,0,,2019/2020
+479,264437,Bobby,Thomas,21,England,186 cm,,False,44,Burnley,0,0,0,Defender,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+480,158,Paulo Dino,Gazzaniga,30,Argentina,196 cm,90 kg,False,47,Tottenham,18,17,1612,Goalkeeper,6.883333,False,1,0,21,0,0,0,27,,59,271,1,59,,0,1,8,6,0,0,,2,1,1,0,0,,,0,0,1,2019/2020
+481,161,Alfie,Malik Whiteman,24,England,189 cm,84 kg,False,47,Tottenham,0,0,0,Goalkeeper,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+482,227,José Ángel,Esmoris Tasende,25,Spain,175 cm,69 kg,False,50,Manchester City,6,4,421,Defender,7.166666,False,2,0,11,5,0,0,,,,285,9,85,5,0,9,32,17,5,4,,2,2,1,0,0,,,0,0,,2019/2020
+483,644,Leroy Aziz,Sané,26,Germany,183 cm,80 kg,False,50,Manchester City,1,0,11,Attacker,6.700000,False,1,0,3,2,0,0,,,,6,0,85,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,,2019/2020
+484,720,Lukas,Rupp,31,Germany,178 cm,73 kg,False,71,Norwich,12,8,698,Midfielder,6.472727,False,4,7,8,4,2,0,,,,202,8,69,15,0,15,86,30,6,4,,6,10,1,0,0,,,0,0,,2019/2020
+485,1445,Konstantinos,Mavropanos,25,Greece,194 cm,89 kg,False,42,Arsenal,0,0,0,Defender,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+486,1813,Jetro,Willems,28,Netherlands,169 cm,65 kg,False,34,Newcastle,19,18,1498,Defender,6.957894,False,1,6,3,14,6,2,,2,,330,16,75,37,5,17,162,97,32,21,,17,10,0,0,0,,,0,0,,2019/2020
+487,18047,Mihai-Alexandru,Dobre,24,Romania,178 cm,71 kg,False,35,Bournemouth,0,0,0,Attacker,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+488,18914,Ben,Gibson,29,England,185 cm,78 kg,False,44,Burnley,1,0,0,Defender,6.300000,False,1,0,11,0,0,0,,,,0,0,0,,0,0,,,0,0,,0,0,0,0,0,,,0,0,,2019/2020
+489,18981,Jürgen,Locadia,29,Netherlands,193 cm,85 kg,False,51,Brighton,2,1,86,Attacker,6.550000,False,1,1,2,2,1,0,,,,10,0,42,,0,0,9,5,1,1,,2,0,0,0,0,,,0,0,,2019/2020
+490,19018,Timothy Evans,Fosu-Mensah,24,Netherlands,185 cm,80 kg,False,33,Manchester United,3,2,136,Defender,6.600000,False,1,1,1,1,0,0,,,,54,2,53,1,0,4,14,3,2,1,,0,5,1,0,0,,,0,0,,2019/2020
+491,19066,Grant,Hanley,31,Scotland,187 cm,81 kg,False,71,Norwich,15,14,1262,Defender,6.973333,False,1,1,4,8,2,0,,,,545,0,81,24,18,31,127,89,3,2,,20,12,4,0,0,,,0,0,,2019/2020
+492,19069,Christoph,Zimmermann,29,Germany,194 cm,92 kg,False,71,Norwich,17,16,1430,Defender,6.776470,False,1,1,2,6,1,0,,1,,522,2,77,32,18,19,117,73,7,5,,9,9,3,0,0,,2,0,0,,2019/2020
+493,19077,Kenny,McLean,30,Scotland,183 cm,70 kg,False,71,Norwich,37,32,2966,Midfielder,6.840540,False,5,3,6,30,10,1,,1,,1334,24,79,44,7,38,422,225,44,31,,58,24,5,0,0,,1,0,0,,2019/2020
+494,19085,Teemu Eino Antero,Pukki,32,Finland,180 cm,75 kg,False,71,Norwich,36,33,2894,Attacker,6.772222,False,3,11,4,80,35,11,,3,,422,30,76,12,0,6,197,56,43,24,,15,23,3,0,0,,,2,0,,2019/2020
+495,25349,Ondrej,Duda,28,Slovakia,181 cm,75 kg,False,71,Norwich,10,9,729,Midfielder,7.120000,False,1,6,4,10,4,0,,,,281,16,81,18,2,6,84,42,10,6,,13,9,0,0,0,,,0,0,,2019/2020
+496,130417,Adam Uche,Idah,21,Republic of Ireland,190 cm,83 kg,False,71,Norwich,12,1,219,Attacker,6.490909,False,11,1,16,6,2,0,,,,35,1,63,2,0,0,32,9,4,0,,4,2,0,0,0,,,0,0,,2019/2020
+497,130423,Billy,Gilmour,21,Scotland,166 cm,60 kg,False,49,Chelsea,6,2,191,Midfielder,6.580000,False,4,1,9,1,0,0,,,,155,4,82,5,0,3,26,10,5,2,,1,3,0,0,0,,,0,0,,2019/2020
+498,138780,Neco Shay,Williams,21,Wales,183 cm,72 kg,False,40,Liverpool,6,3,230,Defender,6.960000,False,3,3,12,7,1,0,,,,135,2,83,5,1,9,34,19,11,6,,2,5,1,0,0,,,0,0,,2019/2020
+499,138806,Brandon,Williams,22,England,171 cm,63 kg,False,33,Manchester United,17,11,1005,Defender,6.833333,False,6,5,18,6,2,1,,,,465,13,75,21,4,16,115,62,22,16,,15,13,6,0,0,1,,0,0,,2019/2020
+500,2281,Gary,Cahill,37,England,193 cm,86 kg,False,52,Crystal Palace,25,25,2168,Defender,6.872000,False,0,1,2,21,5,0,,1,,852,3,82,15,25,18,192,115,5,4,,12,14,1,0,0,,,0,0,,2019/2020
+501,2490,Jefferson Andrés,Lerma Solís,28,Colombia,179 cm,70 kg,False,35,Bournemouth,33,31,2708,Midfielder,6.824242,False,2,6,3,30,2,1,,2,,1100,12,76,54,12,57,317,173,37,26,,37,42,12,1,0,,,0,0,,2019/2020
+502,2734,Philip,Anyanwu Billing,26,Denmark,193 cm,83 kg,False,35,Bournemouth,34,29,2535,Midfielder,6.923529,False,5,10,6,33,8,1,,1,,863,17,71,72,16,66,430,228,35,22,,23,38,8,0,0,,,0,0,,2019/2020
+503,18803,Nathaniel,Chalobah,28,England,187 cm,80 kg,False,38,Watford,22,10,925,Midfielder,6.752380,False,12,7,25,9,0,0,,1,,255,9,71,30,4,18,112,62,9,5,,8,7,1,0,0,,,0,0,,2019/2020
+504,18860,Mark,Travers,23,Republic of Ireland,191 cm,82 kg,False,35,Bournemouth,1,1,90,Goalkeeper,5.500000,False,0,0,1,0,0,0,3,,2,15,0,60,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,0,2019/2020
+505,18866,Christopher James,Mepham,25,Wales,191 cm,84 kg,False,35,Bournemouth,12,10,910,Defender,6.954545,False,2,0,13,7,2,1,,,,433,1,79,20,11,17,104,61,5,3,,5,11,1,0,0,,,0,0,,2019/2020
+506,18869,Adam,Smith,31,England,180 cm,78 kg,False,35,Bournemouth,24,24,2060,Defender,6.495833,False,0,5,0,4,1,0,,1,,669,10,77,47,6,25,264,145,51,24,,40,25,7,0,0,,2,0,0,,2019/2020
+507,18870,David Robert,Brooks,25,Wales,173 cm,62 kg,False,35,Bournemouth,9,8,513,Midfielder,6.533333,False,1,8,1,6,2,1,,,,113,6,73,5,1,2,65,23,24,12,,6,4,1,0,0,,,0,0,,2019/2020
+508,18872,Lewis,Cook,25,England,175 cm,71 kg,False,35,Bournemouth,27,14,1345,Midfielder,6.488000,False,13,6,20,9,2,0,,,,567,11,69,27,5,17,181,74,38,24,,11,23,5,0,0,,,0,0,,2019/2020
+509,18878,Junior,Stanislas,33,England,183 cm,76 kg,False,35,Bournemouth,15,7,710,Midfielder,6.806666,False,8,6,12,18,7,3,,,,200,12,78,10,0,4,65,33,18,11,,4,5,1,0,0,,,1,0,,2019/2020
+510,18883,Dominic,Solanke,25,England,187 cm,80 kg,False,35,Bournemouth,32,17,1643,Attacker,6.533333,False,15,7,21,32,8,3,,1,,300,15,63,8,1,8,342,120,62,26,,23,15,1,0,0,,,0,0,,2019/2020
+511,18921,Robbie,Brady,30,Republic of Ireland,176 cm,71 kg,False,44,Burnley,17,5,448,Midfielder,6.742857,False,12,5,25,12,1,1,,2,,96,9,52,11,2,5,71,33,10,6,,4,8,1,0,0,,,0,0,,2019/2020
+512,19072,Todd,Cantwell,24,England,177 cm,70 kg,False,71,Norwich,37,30,2504,Midfielder,6.640540,False,7,21,7,42,16,6,,2,,872,35,80,51,2,18,376,182,78,49,,67,33,6,0,0,,1,0,0,,2019/2020
+513,19221,Harry,Wilson,25,Wales,173 cm,70 kg,False,35,Bournemouth,31,20,1653,Midfielder,6.863333,False,11,18,14,56,20,7,,,,437,14,74,23,2,11,179,87,33,17,,41,12,2,0,0,,2,0,0,,2019/2020
+514,19263,Lloyd,Kelly,24,England,178 cm,70 kg,False,35,Bournemouth,8,7,638,Defender,6.537500,False,1,0,7,1,0,0,,,,161,2,78,7,5,6,53,22,2,2,,2,7,2,0,0,,,0,0,,2019/2020
+515,19393,Josh,Onomah,25,England,185 cm,70 kg,False,47,Tottenham,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+516,19480,Harrison,Reed,27,England,181 cm,72 kg,False,41,Southampton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+517,19769,Jack,Stacey,26,England,180 cm,62 kg,False,35,Bournemouth,19,17,1550,Defender,6.705263,False,2,3,11,5,2,0,,2,,445,10,73,21,11,18,136,74,23,16,,10,10,2,0,0,,,0,0,,2019/2020
+518,127472,Nathaniel,Phillips,25,England,190 cm,,False,40,Liverpool,0,0,0,Defender,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+519,130416,Gavin,Kilkenny,22,Republic of Ireland,170 cm,,False,35,Bournemouth,0,0,0,Midfielder,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+520,895,James David,Garner,21,England,182 cm,,False,33,Manchester United,1,0,8,Midfielder,6.500000,False,1,0,7,0,0,0,,,,14,0,100,,0,0,2,1,0,0,,1,0,0,0,0,,,0,0,,2019/2020
+521,3398,Gaëtan,Bong Songo,34,Cameroon,187 cm,74 kg,False,51,Brighton,4,0,55,Defender,6.300000,False,4,0,4,0,0,0,,,,22,2,69,1,1,0,8,3,2,1,,1,0,0,0,0,,,0,0,,2019/2020
+522,18747,Ryan,Giles,22,England,179 cm,72 kg,False,39,Wolves,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+523,18828,Robert,Snodgrass,35,Scotland,182 cm,82 kg,False,48,West Ham,24,17,1512,Midfielder,6.936363,False,7,10,11,21,10,5,,5,,393,34,73,29,1,4,212,94,36,19,,32,20,4,0,0,,,0,0,,2019/2020
+524,18832,Alexandre,Nascimento Costa Silva,25,Portugal,177 cm,68 kg,False,48,West Ham,0,0,0,Attacker,,False,0,0,5,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+525,18863,Steve,Cook,31,England,185 cm,82 kg,False,35,Bournemouth,29,28,2430,Defender,6.782758,False,1,2,4,11,2,1,,,,1007,4,73,22,23,44,246,153,3,3,,15,16,6,0,1,,2,0,0,,2019/2020
+526,18884,Sam,Surridge,24,England,191 cm,77 kg,False,35,Bournemouth,4,0,23,Attacker,6.600000,False,4,0,12,2,0,0,,,,5,1,56,,0,1,15,6,2,1,,1,2,0,0,0,,,0,0,,2019/2020
+527,19090,George,Baldock,29,England,178 cm,71 kg,False,62,Sheffield Utd,38,38,3420,Defender,6.844736,False,0,0,0,13,5,2,,3,,849,23,74,62,3,34,358,186,70,42,,44,47,7,0,0,1,,0,0,,2019/2020
+528,19091,Chris,Basham,34,England,190 cm,80 kg,False,62,Sheffield Utd,38,38,3255,Defender,6.978947,False,0,13,0,6,0,0,,1,,982,12,72,85,15,77,387,247,37,24,,31,26,4,0,0,,1,0,0,,2019/2020
+529,19093,John,Egan,30,Republic of Ireland,185 cm,75 kg,False,62,Sheffield Utd,36,36,3189,Defender,6.972222,False,0,1,0,27,5,2,,,,1035,1,78,44,27,58,327,198,2,1,,20,34,4,1,0,,1,0,0,,2019/2020
+530,19095,Jack,O'Connell,28,England,190 cm,85 kg,False,62,Sheffield Utd,33,32,2915,Defender,6.951515,False,1,0,1,14,3,0,,1,,1145,16,71,23,17,42,294,182,16,9,,17,22,4,0,0,,,0,0,,2019/2020
+531,19097,Enda,Stevens,32,Republic of Ireland,183 cm,78 kg,False,62,Sheffield Utd,38,38,3347,Defender,6.847368,False,0,2,0,22,4,2,,4,,1100,36,73,81,8,35,378,192,84,61,,19,39,7,0,0,,,0,0,,2019/2020
+532,19174,Jed John,Steer,30,England,183 cm,80 kg,False,66,Aston Villa,1,1,8,Goalkeeper,6.300000,False,0,1,12,0,0,0,2,,0,1,0,50,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,0,2019/2020
+533,19181,Neil,Taylor,33,Wales,176 cm,64 kg,False,66,Aston Villa,14,11,1089,Defender,6.585714,False,3,1,16,3,0,0,,,,330,5,77,16,5,20,67,33,2,2,,6,8,2,0,0,,,0,0,,2019/2020
+534,19185,Keinan,Davis,24,England,191 cm,68 kg,False,66,Aston Villa,18,4,538,Attacker,6.605555,False,14,4,17,17,5,0,,,,100,5,75,1,0,0,131,53,20,14,,11,12,0,0,0,,,0,0,,2019/2020
+535,19190,Henri,Lansbury,32,England,183 cm,78 kg,False,66,Aston Villa,10,2,188,Midfielder,6.557142,False,8,2,27,2,0,0,,,,64,2,64,6,0,0,24,9,0,0,,1,4,0,0,0,,,0,0,,2019/2020
+536,19299,Jack,Colback,33,England,177 cm,77 kg,False,34,Newcastle,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+537,19772,Aaron Anthony,Connolly,22,Republic of Ireland,,,False,51,Brighton,24,14,1262,Attacker,6.675000,False,10,14,14,38,14,3,,1,,113,6,73,7,0,0,162,69,20,6,,38,16,0,0,0,2,,0,0,,2019/2020
+538,82004,Jake,Eastwood,26,England,193 cm,83 kg,False,62,Sheffield Utd,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+539,138777,Faustino Adebola Rasheed,Anjorin,21,England,185 cm,73 kg,False,49,Chelsea,1,0,19,Midfielder,6.700000,False,1,0,1,1,0,0,,,,7,0,100,,0,0,4,2,2,1,,1,0,0,0,0,,,0,0,,2019/2020
+540,303,Rhian Joel,Brewster,22,England,180 cm,75 kg,False,40,Liverpool,0,0,0,Attacker,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+541,1934,Sander Gard,Bolin Berge,24,Norway,195 cm,96 kg,False,62,Sheffield Utd,14,12,948,Midfielder,6.876923,False,2,7,2,5,2,1,,1,,294,2,79,22,1,10,127,77,20,15,,5,18,0,0,0,,,0,0,,2019/2020
+542,18746,Morgan Anthony,Gibbs-White,22,England,,,False,39,Wolves,7,1,124,Midfielder,6.750000,False,6,1,25,2,0,0,,,,63,3,73,,0,2,12,6,3,1,,1,2,0,0,0,,,0,0,,2019/2020
+543,18810,Andre Anthony,Gray,31,Jamaica,178 cm,83 kg,False,38,Watford,23,7,744,Attacker,6.547619,False,16,5,30,19,7,2,,,,98,10,62,4,1,1,88,27,11,6,,1,10,1,0,0,,,0,0,,2019/2020
+544,18821,Grady,Diangana,24,England,180 cm,73 kg,False,48,West Ham,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+545,18924,Jeff Patrick,Hendrick,30,Republic of Ireland,185 cm,79 kg,False,44,Burnley,24,22,1935,Midfielder,6.562500,False,2,6,6,22,6,2,,2,,412,14,71,18,8,20,189,81,47,22,,16,17,8,0,0,,,0,0,,2019/2020
+546,18958,David,Button,33,England,191 cm,87 kg,False,51,Brighton,0,0,0,Goalkeeper,,False,0,0,38,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+547,19089,Simon,Moore,32,England,191 cm,83 kg,False,62,Sheffield Utd,2,2,180,Goalkeeper,5.750000,False,0,0,25,0,0,0,6,,5,15,0,32,1,0,0,1,1,0,0,,0,0,0,0,0,,,0,0,0,2019/2020
+548,19098,Kean,Bryan,26,England,185 cm,72 kg,False,62,Sheffield Utd,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+549,19102,John,Fleck,31,Scotland,170 cm,72 kg,False,62,Sheffield Utd,30,28,2516,Midfielder,7.000000,False,2,2,2,31,11,5,,2,,802,39,79,36,3,24,237,115,60,44,,22,25,8,0,0,,,0,0,,2019/2020
+550,19105,Oliver,Norwood,31,Northern Ireland,180 cm,75 kg,False,62,Sheffield Utd,38,37,3101,Midfielder,7.039473,False,1,12,1,17,6,1,,1,,1650,50,80,66,12,47,269,135,9,9,,16,32,8,0,0,,1,1,0,,2019/2020
+551,19108,David,McGoldrick,35,Republic of Ireland,183 cm,74 kg,False,62,Sheffield Utd,28,22,1825,Attacker,6.803571,False,6,16,7,46,20,2,,2,,457,18,74,41,2,3,385,175,48,31,,18,30,2,0,0,,,0,0,,2019/2020
+552,19109,Billy,Sharp,36,England,175 cm,70 kg,False,62,Sheffield Utd,25,10,1047,Attacker,6.696000,False,15,10,26,16,7,3,,2,,157,14,71,6,0,1,173,73,22,16,,32,20,1,0,1,,,0,0,,2019/2020
+553,19188,Conor,Hourihane,31,Republic of Ireland,180 cm,62 kg,False,66,Aston Villa,27,18,1539,Midfielder,6.996296,False,9,14,19,29,10,3,,5,,506,39,80,16,4,9,101,53,7,4,,21,14,4,0,0,1,,0,0,,2019/2020
+554,19294,Jack,Robinson,29,England,180 cm,67 kg,False,62,Sheffield Utd,6,6,505,Defender,6.833333,False,0,1,5,0,0,0,,,,197,2,76,10,5,8,48,30,2,2,,4,4,0,0,0,,,0,0,,2019/2020
+555,19302,Ben,Osborn,28,England,176 cm,75 kg,False,62,Sheffield Utd,13,6,589,Midfielder,6.663636,False,7,2,24,3,1,0,,,,164,9,61,15,1,6,66,31,8,4,,6,9,0,0,0,,,0,0,,2019/2020
+556,19337,Oliver,McBurnie,26,Scotland,188 cm,79 kg,False,62,Sheffield Utd,36,24,2118,Attacker,6.869444,False,12,17,14,50,25,6,,,,373,10,60,37,3,15,590,284,44,22,,28,28,4,0,0,,,0,0,,2019/2020
+557,19462,Callum Jack,Robinson,27,Republic of Ireland,178 cm,75 kg,False,62,Sheffield Utd,16,9,676,Attacker,6.562500,False,7,7,14,12,4,1,,1,,116,4,74,6,0,7,77,19,13,5,,4,11,1,0,0,,,0,0,,2019/2020
+558,19592,Luke Anthony,Freeman,30,England,181 cm,64 kg,False,62,Sheffield Utd,11,3,360,Midfielder,6.544444,False,8,2,21,3,0,0,,,,106,3,63,6,0,10,58,23,12,8,,5,6,2,0,0,,,0,0,,2019/2020
+559,19886,Jimmy,Dunne,25,Republic of Ireland,183 cm,75 kg,False,44,Burnley,0,0,0,Defender,,False,0,0,9,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+560,906,Tahith,Chong,23,Netherlands,185 cm,75 kg,False,33,Manchester United,3,0,34,Midfielder,6.433333,False,3,0,7,1,0,0,,,,9,0,76,,0,0,8,2,2,1,,1,2,0,0,0,,,0,0,,2019/2020
+561,2288,Daniel Noel,Drinkwater,32,England,178 cm,79 kg,False,66,Aston Villa,4,4,263,Midfielder,5.900000,False,0,4,3,2,0,0,,,,138,1,82,5,0,5,40,7,4,1,,1,7,1,0,0,,,0,0,,2019/2020
+562,2804,Timm,Klose,34,Switzerland,193 cm,87 kg,False,71,Norwich,7,7,586,Defender,6.642857,False,0,1,1,3,0,0,,,,333,0,82,8,6,7,63,31,3,2,,7,8,0,0,0,,,0,0,,2019/2020
+563,18738,Ryan,Bennett,32,England,188 cm,77 kg,False,46,Leicester,5,3,330,Defender,6.580000,False,2,2,4,0,0,0,,,,167,0,79,5,1,7,29,13,0,0,,0,3,0,0,0,,,0,0,,2019/2020
+564,18759,Philip Nikodem,Jagielka,40,England,180 cm,87 kg,False,62,Sheffield Utd,6,2,240,Defender,6.833333,False,4,0,34,0,0,0,,,,60,0,74,5,5,4,31,24,0,0,,4,1,0,0,0,,,0,0,,2019/2020
+565,18782,Matty,James,31,England,181 cm,86 kg,False,46,Leicester,1,0,5,Midfielder,6.300000,False,1,0,6,0,0,0,,,,5,0,100,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,,2019/2020
+566,18808,Troy,Deeney,34,England,183 cm,90 kg,False,38,Watford,27,26,2234,Attacker,7.059259,False,1,10,3,45,23,10,,2,,384,29,55,19,1,11,631,260,20,10,,36,37,3,0,0,1,,5,1,,2019/2020
+567,18831,Andrew Thomas,Carroll,33,England,193 cm,79 kg,False,34,Newcastle,19,4,618,Attacker,6.726315,False,15,1,17,16,3,0,,4,,127,12,59,5,1,2,197,114,11,6,,14,17,1,0,0,,,0,0,,2019/2020
+568,18839,Scott,Dann,35,England,188 cm,76 kg,False,52,Crystal Palace,16,14,1265,Defender,6.793750,False,2,1,17,8,2,0,,1,,473,6,78,8,7,14,96,52,6,5,,0,5,0,0,0,,,0,0,,2019/2020
+569,18920,Josh,Benson,23,England,,,False,44,Burnley,0,0,0,Midfielder,,False,0,0,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+570,18957,Michael,Obafemi,22,Republic of Ireland,169 cm,71 kg,False,41,Southampton,21,8,660,Attacker,6.638888,False,13,8,23,12,5,3,,2,,110,10,62,7,0,6,121,37,24,14,,7,11,1,0,0,,,0,0,,2019/2020
+571,19074,Onel Lázaro,Hernández Mayea,29,Cuba,172 cm,76 kg,False,71,Norwich,26,14,1379,Midfielder,6.473076,False,12,8,14,29,8,1,,2,,240,19,77,27,1,19,225,93,76,42,,18,14,0,0,0,,,0,0,,2019/2020
+572,19082,Mario,Vrančić,33,Bosnia and Herzegovina,187 cm,78 kg,False,71,Norwich,20,6,626,Midfielder,6.552941,False,14,4,23,14,3,1,,,,354,7,75,27,0,10,99,53,8,5,,13,13,3,0,0,,,0,0,,2019/2020
+573,19172,Ørjan,Håskjold Nyland,32,Norway,192 cm,90 kg,False,66,Aston Villa,7,5,537,Goalkeeper,6.428571,False,2,0,22,0,0,0,13,,15,80,0,55,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,0,2019/2020
+574,19175,James,Chester,33,Wales,180 cm,75 kg,False,66,Aston Villa,0,0,0,Defender,,False,0,0,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+575,19597,Nahki,Wells,32,Bermuda,170 cm,69 kg,False,44,Burnley,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+576,19613,Oviemuno Dominic,Ejaria,25,England,183 cm,75 kg,False,40,Liverpool,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+577,127470,Ayotomiwa,Dele-Bashiru,23,Nigeria,179 cm,68 kg,False,38,Watford,0,0,0,Midfielder,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+578,144729,Taylor Jay,Harwood-Bellis,20,England,188 cm,,False,50,Manchester City,0,0,0,Defender,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+579,144732,Thomas Glyn,Doyle,21,England,172 cm,,False,50,Manchester City,1,0,15,Midfielder,6.700000,False,1,0,6,1,1,0,,,,20,0,100,,0,0,2,1,0,0,,1,0,0,0,0,,,0,0,,2019/2020
+580,1450,Sokratis,Papastathopoulos,34,Greece,186 cm,85 kg,False,42,Arsenal,19,19,1697,Defender,6.942105,False,0,1,13,7,2,2,,,,905,2,87,25,24,17,162,100,5,5,,12,19,6,0,0,,,0,0,,2019/2020
+581,18745,Rúben Gonçalo Silva,Nascimento Vinagre,23,Portugal,174 cm,67 kg,False,39,Wolves,15,6,639,Defender,6.746153,False,9,2,28,5,0,0,,,,186,4,76,23,2,11,116,58,44,20,,8,7,1,0,0,,,0,0,,2019/2020
+582,18755,João Manuel,Neves Virginia,23,Portugal,193 cm,83 kg,False,45,Everton,0,0,0,Goalkeeper,,False,0,0,8,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+583,18807,Domingos,Quina,23,Portugal,179 cm,72 kg,False,38,Watford,4,0,18,Midfielder,6.525000,False,4,0,16,1,1,0,,,,10,0,100,2,0,0,10,4,2,1,,1,1,0,0,0,,,0,0,,2019/2020
+584,18871,Matthew David,Butcher,25,England,188 cm,83 kg,False,35,Bournemouth,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+585,18913,Anthony David,Driscoll-Glennon,23,England,181 cm,,False,44,Burnley,0,0,0,Defender,,False,0,0,5,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+586,18976,Max Harrison,Sanders,23,England,176 cm,68 kg,False,51,Brighton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+587,19096,Richard,Stearman,35,England,191 cm,73 kg,False,62,Sheffield Utd,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+588,19115,Bailey,Peacock-Farrell,26,Northern Ireland,188 cm,73 kg,False,44,Burnley,0,0,0,Goalkeeper,,False,0,0,9,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+589,19728,Matthew,Pennington,28,England,185 cm,77 kg,False,45,Everton,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+590,20168,Liam Steven,Gibson,25,England,185 cm,71 kg,False,34,Newcastle,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+591,44832,Darnell Tobias Jack,Johnson,24,England,185 cm,83 kg,False,46,Leicester,0,0,0,Defender,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+592,47521,Patrick John Joseph,Roberts,25,England,168 cm,58 kg,False,71,Norwich,3,0,23,Midfielder,6.600000,False,3,0,7,0,0,0,,,,6,0,63,,0,0,6,6,4,4,,2,1,0,0,0,,,0,0,,2019/2020
+593,48105,Ravel Ryan,Morrison,29,Jamaica,175 cm,71 kg,False,62,Sheffield Utd,0,0,0,Midfielder,6.500000,False,0,0,0,1,0,0,,,,5,0,83,,0,0,2,0,0,0,,0,1,0,0,0,,,0,0,,2019/2020
+594,68127,Kelland John William James,Watts,23,England,192 cm,75 kg,False,34,Newcastle,1,0,16,Midfielder,6.500000,False,1,0,2,0,0,0,,,,1,0,33,1,0,0,1,1,0,0,,0,0,0,0,0,,,0,0,,2019/2020
+595,82100,Jamie Michael,Sterry,27,England,175 cm,76 kg,False,34,Newcastle,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+596,138799,Joshua Saul,Martin,21,England,176 cm,70 kg,False,71,Norwich,5,0,32,Attacker,6.700000,False,5,0,8,1,1,0,,,,12,0,53,1,0,1,2,1,0,0,,0,1,0,0,0,,,0,0,,2019/2020
+597,162076,Dennis,Cirkin,20,England,182 cm,72 kg,False,47,Tottenham,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+598,167658,Matthew Gerrard,Smith,22,England,176 cm,,False,42,Arsenal,0,0,0,Defender,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+599,204178,Joel,Mumbongo,23,Sweden,187 cm,88 kg,False,44,Burnley,0,0,0,Attacker,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+600,170,Jan Bert Lieve,Vertonghen,35,Belgium,189 cm,79 kg,False,47,Tottenham,23,19,1644,Defender,6.945000,False,4,3,15,4,2,1,,1,,912,3,75,40,10,33,173,121,8,5,,17,7,2,0,0,,1,0,0,,2019/2020
+601,624,Nicolás Hernán Gonzalo,Otamendi,34,Argentina,183 cm,76 kg,False,50,Manchester City,24,18,1710,Defender,6.878260,False,6,1,18,14,7,2,,,,1416,4,87,28,9,21,167,94,3,3,,2,21,3,0,0,,,0,0,,2019/2020
+602,1374,Islam,Slimani,34,Algeria,188 cm,83 kg,False,46,Leicester,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+603,1466,Tyreece Romayo,John-Jules,21,England,183 cm,75 kg,False,42,Arsenal,0,0,0,Attacker,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+604,8794,George David Eric,Hirst,23,England,191 cm,,False,46,Leicester,2,0,9,Attacker,6.800000,False,2,0,3,3,1,0,,,,4,0,87,,0,0,7,5,1,0,,2,0,0,0,0,,,0,0,,2019/2020
+605,17711,Abd-Al-Ali Morakinyo Olaposi,Koiki,23,England,187 cm,81 kg,False,44,Burnley,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+606,17814,Jacob Christian,Maddox,24,England,178 cm,72 kg,False,41,Southampton,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+607,18790,Pontus Jacob Ragne,Dahlberg,23,Sweden,194 cm,84 kg,False,38,Watford,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+608,18820,Conor,Coventry,22,Republic of Ireland,177 cm,65 kg,False,48,West Ham,0,0,0,Midfielder,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+609,18857,Connor Neil Ralph,Wickham,29,England,191 cm,90 kg,False,52,Crystal Palace,6,0,90,Attacker,6.650000,False,6,0,13,3,2,1,,1,,27,3,56,1,0,1,31,13,4,2,,0,4,0,0,0,,,0,0,,2019/2020
+610,19009,El-Hadji Baye Oumar,Niasse,32,Senegal,182 cm,75 kg,False,45,Everton,3,0,19,Attacker,6.350000,False,3,0,4,0,0,0,,,,3,0,66,4,0,1,14,4,0,0,,0,2,0,0,0,,,0,0,,2019/2020
+611,19094,Kieron Samuel,Freeman,30,Wales,178 cm,79 kg,False,62,Sheffield Utd,2,0,5,Defender,6.500000,False,2,0,13,0,0,0,,,,1,0,50,,0,0,3,0,0,0,,0,1,0,0,0,,,0,0,,2019/2020
+612,20237,Daniel,Adshead,21,England,179 cm,65 kg,False,71,Norwich,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+613,25353,Valentino Lando,Lazaro,26,Austria,180 cm,75 kg,False,34,Newcastle,13,4,474,Midfielder,6.515384,False,9,2,9,4,1,1,,,,141,6,76,13,0,3,52,25,13,8,,2,3,0,0,1,,,0,0,,2019/2020
+614,130419,Matthew Ben,Longstaff,22,England,,,False,34,Newcastle,9,6,573,Midfielder,6.655555,False,3,1,16,4,2,2,,,,205,3,79,3,1,5,46,17,4,3,,6,6,1,0,0,,,0,0,,2019/2020
+615,138907,Jack,Young,22,England,171 cm,64 kg,False,34,Newcastle,0,0,0,Midfielder,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+616,149551,Troy Daniel,Parrott,20,Republic of Ireland,185 cm,72 kg,False,47,Tottenham,2,0,5,Attacker,6.300000,False,2,0,3,0,0,0,,,,4,0,50,,0,0,2,0,0,0,,0,0,0,0,0,,,0,0,,2019/2020
+617,153424,Lewis Jack,Gibson,22,England,185 cm,73 kg,False,45,Everton,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+618,180289,Christain,Saydee,20,England,,,False,35,Bournemouth,0,0,0,Attacker,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+619,298128,Kaine,Kessler Hayden,20,England,175 cm,,False,66,Aston Villa,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+620,1456,Ainsley,Maitland-Niles,25,England,177 cm,71 kg,False,42,Arsenal,20,15,1382,Midfielder,6.600000,False,5,0,13,4,1,0,,2,,688,11,80,41,3,28,171,90,34,19,,13,15,5,1,0,,,0,0,,2019/2020
+621,2294,Willian,Borges da Silva,34,Brazil,175 cm,77 kg,False,49,Chelsea,36,29,2604,Attacker,7.500000,False,7,11,7,71,29,9,,7,,1188,77,82,45,0,20,285,165,92,65,,45,17,4,0,0,1,,4,0,,2019/2020
+622,2758,Lovre,Kalinić,32,Croatia,201 cm,96 kg,False,66,Aston Villa,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+623,3423,Christian,Atsu Twasam,30,Ghana,165 cm,65 kg,False,34,Newcastle,19,6,739,Midfielder,6.411764,False,13,3,22,5,1,0,,3,,159,13,70,10,0,5,113,42,36,16,,10,11,2,0,0,,,0,0,,2019/2020
+624,12975,Odion Jude,Ighalo,33,Nigeria,188 cm,73 kg,False,33,Manchester United,11,0,90,Attacker,6.555555,False,11,0,13,7,4,0,,,,22,2,84,2,1,0,17,6,6,3,,1,1,0,0,0,,,0,0,,2019/2020
+625,18761,Bernard,Anício Caldeira Duarte,30,Brazil,164 cm,62 kg,False,45,Everton,27,15,1280,Midfielder,6.696153,False,12,12,18,12,5,3,,2,,416,24,76,32,2,16,185,73,50,30,,10,19,2,0,0,,,0,0,,2019/2020
+626,18822,Nathan Elliot,Holland,24,England,178 cm,70 kg,False,48,West Ham,2,0,31,Midfielder,7.000000,False,2,0,2,1,1,0,,,,9,0,81,3,0,0,9,7,3,3,,1,0,0,0,0,,,0,0,,2019/2020
+627,18880,Kyle Frazer,Taylor,23,England,167 cm,,False,35,Bournemouth,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+628,18899,Isaac,Hayden,27,England,185 cm,79 kg,False,34,Newcastle,29,26,2226,Midfielder,6.744827,False,3,5,5,18,3,1,,2,,633,15,79,55,7,38,273,152,43,27,,21,25,4,0,1,,,0,0,,2019/2020
+629,19064,Akinlolu Richard Olamide,Famewo,24,England,188 cm,66 kg,False,71,Norwich,1,0,0,Defender,,False,1,0,2,0,0,0,,,,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,,2019/2020
+630,19567,Leon Marvin,Clarke,37,England,188 cm,89 kg,False,62,Sheffield Utd,2,0,33,Attacker,6.250000,False,2,0,4,1,0,0,,,,4,0,66,,0,0,5,2,0,0,,0,0,0,0,0,,,0,0,,2019/2020
+631,20386,Matthew Ryan,Macey,28,England,202 cm,96 kg,False,42,Arsenal,0,0,0,Goalkeeper,,False,0,0,8,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+632,25643,Josip,Drmic,30,Switzerland,183 cm,81 kg,False,71,Norwich,21,5,635,Attacker,6.495238,False,16,3,20,14,6,1,,,,124,4,78,3,0,1,101,31,14,6,,4,6,0,0,1,,,0,0,,2019/2020
+633,41557,Bernard Patrick,Ashley-Seal,24,England,185 cm,80 kg,False,39,Wolves,0,0,0,Attacker,,False,0,0,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+634,82227,Stephen Francis,Henderson,34,Republic of Ireland,193 cm,87 kg,False,52,Crystal Palace,0,0,0,Goalkeeper,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+635,90495,James Stanley,Daly,22,England,178 cm,73 kg,False,52,Crystal Palace,0,0,0,Attacker,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+636,130422,Dan,N'Lundulu,23,England,185 cm,75 kg,False,41,Southampton,0,0,0,Attacker,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+637,138905,Thomas David,Allan,23,England,173 cm,78 kg,False,34,Newcastle,0,0,0,Attacker,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+638,144714,Alfie,Lewis,23,England,169 cm,64 kg,False,48,West Ham,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+639,204042,William,Ferry,22,Republic of Ireland,175 cm,70 kg,False,41,Southampton,0,0,0,Midfielder,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+640,181,Victor,Mugubi Wanyama,31,Kenya,188 cm,80 kg,False,47,Tottenham,2,0,23,Midfielder,6.700000,False,2,0,4,0,0,0,,,,17,0,44,,0,0,4,3,1,1,,1,1,1,0,0,,,0,0,,2019/2020
+641,307,Xherdan,Shaqiri,31,Switzerland,169 cm,72 kg,False,40,Liverpool,7,2,181,Midfielder,6.720000,False,5,1,15,4,1,1,,,,81,3,85,1,0,0,23,9,4,2,,3,1,0,0,0,,,0,0,,2019/2020
+642,890,Faustino Marcos Alberto,Rojo,32,Argentina,187 cm,85 kg,False,33,Manchester United,3,1,120,Defender,6.600000,False,2,0,7,1,0,0,,,,32,0,48,3,1,0,12,6,1,0,,1,2,1,0,0,,,0,0,,2019/2020
+643,2584,Leonardo,Campana Romero,22,Ecuador,187 cm,79 kg,False,39,Wolves,0,0,0,Attacker,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2019/2020
+644,2886,Javier,Hernández Balcázar,34,Mexico,175 cm,73 kg,False,48,West Ham,2,1,107,Attacker,6.650000,False,1,1,1,3,2,1,,,,17,0,88,,0,1,2,0,0,0,,0,0,0,0,0,,,0,0,,2019/2020
+645,18773,Christian,Fuchs,36,Austria,187 cm,89 kg,False,46,Leicester,11,8,770,Defender,6.663636,False,3,1,8,5,1,0,,,,455,2,80,14,3,17,71,35,5,2,,0,2,0,0,0,,,0,0,,2019/2020
+646,18897,DeAndre Roselle,Yedlin,29,USA,172 cm,75 kg,False,34,Newcastle,16,10,934,Defender,6.607142,False,6,2,15,1,1,1,,,,183,7,67,18,7,10,75,36,6,1,,9,8,3,0,0,,,0,0,,2019/2020
