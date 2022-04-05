@@ -1,0 +1,704 @@
+,id,firstname,lastname,age,nationality,height,weight,injured,teamID,teamname,appearences,lineups,minutes,position,rating,captain,subIn,subOut,bench,totalShots,shotsOn,totalGoals,goalsConceded,goalAssists,goalSaves,totalPasses,keyPasses,passAccuracy,totalTackles,blocks,interceptions,duelsTotal,duelsWon,dribbleAttempts,dribblesSuccess,dribblesPast,foulsDrawn,foulsCommitted,cardsYel,cardsYelRed,cardsRed,penaltyWon,penaltyCommited,penaltyScored,penaltyMissed,penaltySaved,season
+0,17766,Luke,Coddington,26,England,181 cm,83 kg,False,37,Huddersfield,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+1,18585,Dan,Woodards,38,England,180 cm,80 kg,False,1830,Boreham Wood,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+2,18593,Ricky,Shakes,36,Guyana,178 cm,76 kg,False,1830,Boreham Wood,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+3,18774,Wes,Morgan,37,Jamaica,186 cm,101 kg,False,46,Leicester,32,32,2818,Defender,6.740625,False,0,1,1,13,3,0,,,,739,5,80,34,27,31,251,146,12,9,,12,31,4,0,0,,,0,0,,2017/2018
+4,18879,Andrew,Surman,35,England,178 cm,73 kg,False,35,Bournemouth,25,20,1852,Midfielder,6.940000,False,5,1,16,18,6,2,,5,,993,16,83,16,12,16,163,75,19,13,,14,9,2,0,0,,,0,0,,2017/2018
+5,18928,Peter,Crouch,40,England,201 cm,75 kg,False,75,Stoke City,31,14,1554,Attacker,6.887096,False,17,4,21,23,9,5,,2,,373,21,57,2,4,1,455,259,7,5,,11,40,4,0,0,,,0,0,,2017/2018
+6,18982,Glenn,Murray,38,England,183 cm,80 kg,False,51,Brighton,35,25,2197,Attacker,6.794117,False,10,15,11,53,25,12,,,,366,17,57,18,4,5,459,190,24,7,,50,60,9,0,0,3,,4,2,,2017/2018
+7,19144,Glyn Oliver,Myhill,39,Wales,191 cm,91 kg,False,60,West Brom,1,1,90,Goalkeeper,6.300000,False,0,0,37,0,0,0,1,,2,10,0,52,,0,0,1,0,0,0,,0,1,1,0,0,,,0,0,0,2017/2018
+8,19153,Gareth,Barry,39,England,183 cm,78 kg,False,60,West Brom,25,22,1926,Midfielder,6.780000,False,3,6,3,16,6,1,,1,,709,17,75,35,11,14,218,106,11,10,,29,28,4,0,0,,,0,0,,2017/2018
+9,19325,Nathan,Dyer,34,England,165 cm,60 kg,False,76,Swansea,24,16,1312,Midfielder,6.520833,False,8,13,15,10,2,0,,,,414,10,81,22,0,11,184,69,47,22,,20,17,2,0,0,,,0,0,,2017/2018
+10,19722,James,Collins,38,Wales,188 cm,83 kg,False,48,West Ham,13,12,1050,Defender,6.950000,False,1,1,4,4,1,1,,,,283,2,72,15,10,16,113,65,1,1,,2,13,3,0,0,,,0,0,,2017/2018
+11,19747,Collin,Quaner,30,Germany,191 cm,81 kg,False,37,Huddersfield,26,13,1272,Attacker,6.583333,False,13,5,18,16,4,0,,4,,309,17,71,22,4,11,194,85,42,23,,26,14,4,0,0,,,0,0,,2017/2018
+12,20378,Michael Kwaku,Folivi,23,England,180 cm,79 kg,False,38,Watford,0,0,0,Attacker,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+13,35672,José Leonardo,Ulloa,35,Argentina,188 cm,89 kg,False,51,Brighton,10,2,261,Attacker,6.655555,False,8,2,11,2,1,1,,,,83,7,63,3,0,0,91,29,4,3,,3,7,0,0,0,,,0,0,,2017/2018
+14,82463,Paul,Benson,41,England,186 cm,70 kg,False,1830,Boreham Wood,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+15,82615,Erbil,Bozkurt,28,England,,,False,1830,Boreham Wood,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+16,83018,Steve,Sidwell,39,England,178 cm,70 kg,False,51,Brighton,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+17,90489,Per,Mertesacker,37,Germany,198 cm,90 kg,False,42,Arsenal,6,4,365,Defender,6.816666,False,2,1,18,2,2,1,,,,226,0,90,2,3,6,38,28,0,0,,4,2,0,0,0,,,0,0,,2017/2018
+18,90492,Stephen,Ireland,32,Republic of Ireland,173 cm,67 kg,False,75,Stoke City,4,1,128,Midfielder,6.475000,False,3,0,9,3,0,0,,,,55,1,74,,2,1,13,5,1,1,,1,1,1,0,0,,,0,0,,2017/2018
+19,90505,Stuart,Taylor,41,England,198 cm,85 kg,False,41,Southampton,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+20,2277,Robert,Green,41,England,187 cm,93 kg,False,37,Huddersfield,0,0,0,Goalkeeper,,False,0,0,8,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+21,18757,Leighton,Baines,37,England,170 cm,74 kg,False,45,Everton,22,22,1910,Defender,6.954545,False,0,2,1,7,4,2,,3,,604,24,79,25,6,25,112,64,14,8,,17,7,1,0,0,,,2,0,,2017/2018
+22,18837,Julián,Speroni,42,Argentina,186 cm,87 kg,False,52,Crystal Palace,11,11,990,Goalkeeper,6.754545,False,0,0,18,0,0,0,14,,31,130,0,46,,0,1,3,3,1,1,,0,0,0,0,0,,,0,0,0,2017/2018
+23,18865,Simon,Francis,35,England,183 cm,90 kg,False,35,Bournemouth,32,31,2706,Defender,6.900000,False,1,2,1,13,1,0,,1,,1183,27,71,49,18,49,348,218,17,11,,15,24,9,1,0,,,0,0,,2017/2018
+24,18966,Bruno,Saltor Grau,41,Spain,181 cm,76 kg,False,51,Brighton,25,23,2018,Defender,6.848000,False,2,4,12,2,1,0,,,,798,9,80,30,11,38,142,81,20,15,,8,19,3,0,0,,1,0,0,,2017/2018
+25,19054,Daniel,Williams,31,USA,182 cm,79 kg,False,37,Huddersfield,20,11,1117,Midfielder,6.636842,False,9,2,15,12,2,0,,,,319,4,67,23,2,26,122,58,13,10,,16,17,2,0,0,,,0,0,,2017/2018
+26,19290,Michael,Hefele,31,Germany,192 cm,89 kg,False,37,Huddersfield,2,0,31,Defender,5.800000,False,2,0,11,0,0,0,,,,8,0,44,,0,1,3,1,0,0,,0,2,1,0,0,,1,0,0,,2017/2018
+27,19500,Ashley,Williams,36,Wales,183 cm,77 kg,False,45,Everton,24,20,1833,Defender,6.873913,False,4,3,9,13,3,1,,,,591,3,74,23,23,36,154,81,2,2,,4,25,3,0,1,,2,0,0,,2017/2018
+28,20032,William,Miller,23,England,168 cm,66 kg,False,47,Tottenham,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+29,20082,Dean,Marney,37,England,183 cm,72 kg,False,44,Burnley,0,0,0,Midfielder,,False,0,0,11,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+30,37112,Eduardo,dos Reis Carvalho,39,Portugal,188 cm,84 kg,False,49,Chelsea,0,0,0,Goalkeeper,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+31,69388,Damien,Delaney,40,Republic of Ireland,191 cm,89 kg,False,52,Crystal Palace,2,1,95,Defender,5.850000,False,1,0,9,0,0,0,,,,30,0,40,2,4,3,7,3,1,1,,0,0,0,0,0,,,0,0,,2017/2018
+32,81993,Jonathan,Walters,38,Republic of Ireland,183 cm,79 kg,False,44,Burnley,3,0,36,Attacker,6.500000,False,3,0,10,1,0,0,,,,4,0,44,,0,0,6,3,0,0,,1,0,0,0,0,,,0,0,,2017/2018
+33,82119,Dean,Wells,33,England,185 cm,84 kg,False,1830,Boreham Wood,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+34,83020,Liam,Rosenior,37,England,178 cm,72 kg,False,51,Brighton,3,1,162,Defender,6.566666,False,2,0,7,2,0,0,,,,47,0,71,4,1,4,11,6,0,0,,0,1,0,0,0,,,0,0,,2017/2018
+35,90491,Glen,Johnson,37,England,182 cm,78 kg,False,75,Stoke City,9,7,549,Defender,6.537500,False,2,4,12,2,1,0,,,,125,4,57,7,2,10,44,21,4,3,,5,6,3,0,0,,,0,0,,2017/2018
+36,90512,Robert,Huth,37,Germany,191 cm,99 kg,False,46,Leicester,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+37,117609,Kleton,Perntreou,25,Greece,188 cm,85 kg,False,52,Crystal Palace,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+38,208916,Michael,Collins,20,England,,,False,45,Everton,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+39,231094,Desmond,Hutchinson,23,Republic of Ireland,,,False,51,Brighton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+40,160,Michel,Vorm,38,Netherlands,183 cm,84 kg,False,47,Tottenham,1,1,90,Goalkeeper,6.700000,False,0,0,36,0,0,0,1,,4,21,0,87,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,0,2017/2018
+41,18789,Heurelho,da Silva Gomes,40,Brazil,191 cm,91 kg,False,38,Watford,24,24,2129,Goalkeeper,6.754166,False,0,1,9,0,0,0,43,,61,352,0,56,,0,2,17,15,0,0,,3,1,0,0,0,,,0,0,0,2017/2018
+42,18792,Miguel Ángel,Britos Cabrera,36,Uruguay,188 cm,82 kg,False,38,Watford,12,10,797,Defender,6.590909,False,2,2,9,4,2,1,,,,313,3,73,15,1,12,85,50,4,2,,6,8,3,0,1,,,0,0,,2017/2018
+43,18801,Sebastian,Prödl,34,Austria,194 cm,92 kg,False,38,Watford,21,17,1568,Defender,6.750000,False,4,2,10,8,1,0,,,,444,2,75,22,9,31,129,73,0,0,,9,21,5,0,0,,,0,0,,2017/2018
+44,18818,Pablo Javier,Zabaleta Girod,35,Argentina,176 cm,74 kg,False,48,West Ham,37,37,3291,Defender,6.751351,False,0,2,0,6,1,0,,1,,844,17,70,96,13,61,353,194,14,7,,34,33,9,0,0,,2,0,0,,2017/2018
+45,18898,Mohamed,Diamé,34,Senegal,184 cm,86 kg,False,34,Newcastle,31,23,2042,Midfielder,6.806666,False,8,9,14,20,6,2,,,,665,13,75,88,7,48,387,186,42,25,,16,44,3,0,0,,,0,0,,2017/2018
+46,18923,Steven Arnold,Defour,33,Belgium,173 cm,65 kg,False,44,Burnley,24,24,2009,Midfielder,6.920833,False,0,12,0,19,7,1,,1,,851,19,82,33,7,46,128,58,16,13,,7,13,6,0,0,,,0,0,,2017/2018
+47,19092,Martin,Cranie,35,England,183 cm,78 kg,False,37,Huddersfield,3,2,180,Defender,6.533333,False,1,1,14,0,0,0,,,,71,0,77,3,3,1,9,6,1,1,,0,0,0,0,0,,,0,0,,2017/2018
+48,19154,Chris,Brunt,37,Northern Ireland,185 cm,84 kg,False,60,West Brom,26,22,1923,Midfielder,7.130769,False,4,7,13,25,5,0,,7,,650,37,69,41,3,21,141,77,15,15,,6,15,5,0,0,,,0,0,,2017/2018
+49,19162,James,Morrison,33,Scotland,178 cm,64 kg,False,60,West Brom,4,2,206,Midfielder,6.775000,False,2,1,3,4,2,1,,,,77,3,87,,,1,12,5,2,2,,1,0,0,0,0,,,0,0,,2017/2018
+50,19232,Sam,McQueen,25,England,180 cm,70 kg,False,41,Southampton,7,1,142,Defender,6.557142,False,6,0,16,1,0,0,,,,46,3,47,4,1,3,11,6,2,2,,0,0,0,0,0,,,0,0,,2017/2018
+51,19332,Wayne,Routledge,36,England,170 cm,64 kg,False,76,Swansea,15,4,421,Midfielder,6.507692,False,11,3,23,5,2,0,,,,110,6,58,10,0,2,54,20,9,5,,0,9,1,0,0,,,0,0,,2017/2018
+52,19504,Darren,Fletcher,35,Scotland,183 cm,83 kg,False,75,Stoke City,27,25,2223,Midfielder,6.707407,False,2,6,10,11,2,1,,1,,823,24,74,,0,26,206,107,22,15,,25,14,0,0,0,,,0,0,,2017/2018
+53,19583,Àngel,Rangel Zaragoza,38,Spain,188 cm,84 kg,False,76,Swansea,4,2,155,Defender,6.466666,False,2,1,19,0,0,0,,,,83,1,89,4,0,3,15,5,1,0,,0,1,0,0,0,,,0,0,,2017/2018
+54,20467,Yasin,Ben El-Mhanni,25,England,178 cm,75 kg,False,34,Newcastle,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+55,72157,Ibrahim,Afellay,35,Netherlands,181 cm,76 kg,False,75,Stoke City,6,1,162,Midfielder,6.366666,False,5,1,15,0,0,0,,,,71,0,57,3,0,1,9,4,1,1,,0,1,1,0,0,,,0,0,,2017/2018
+56,83132,Jesús,Gámez Duarte,33,Spain,177 cm,75 kg,False,34,Newcastle,2,1,97,Defender,,False,1,0,10,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+57,90490,Michael,Carrick,40,England,188 cm,74 kg,False,33,Manchester United,2,1,109,Midfielder,6.900000,False,1,1,8,2,1,0,,,,84,2,83,1,0,1,10,4,2,2,,1,1,0,0,0,,,0,0,,2017/2018
+58,90500,Carl,Leon Stewart,24,England,175 cm,64 kg,False,38,Watford,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+59,90523,Alexander,Manninger,40,Austria,189 cm,85 kg,False,40,Liverpool,,,,Goalkeeper,,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017/2018
+60,642,Sergio Leonel,Agüero del Castillo,33,Argentina,173 cm,70 kg,False,50,Manchester City,25,22,1969,Attacker,7.624000,False,3,9,7,94,42,21,,6,,520,40,81,9,1,6,207,92,84,56,,17,10,2,0,0,,,4,0,,2017/2018
+61,893,Luis Antonio,Valencia Mosquera,36,Ecuador,180 cm,83 kg,False,33,Manchester United,31,31,2743,Midfielder,7.077419,False,0,3,1,16,3,3,,1,,1367,23,83,57,6,48,247,128,48,29,,20,38,7,0,0,,,0,0,,2017/2018
+62,2795,Gylfi Þór,Sigurðsson,33,Iceland,186 cm,79 kg,False,45,Everton,27,25,2262,Midfielder,6.892592,False,2,5,4,39,12,4,,3,,524,38,73,38,7,34,226,93,31,20,,16,19,2,0,0,,,0,0,,2017/2018
+63,5983,Mauro Matías,Zárate Riga,35,Argentina,176 cm,76 kg,False,38,Watford,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+64,10045,Diego,Cavalieri,40,Brazil,189 cm,86 kg,False,52,Crystal Palace,0,0,0,Goalkeeper,,False,0,0,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+65,17636,Kusu Moses,Makasi,27,England,180 cm,,False,48,West Ham,0,0,0,Defender,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+66,18706,Dion-Curtis,Henry,25,England,180 cm,65 kg,False,52,Crystal Palace,0,0,0,Goalkeeper,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+67,18775,Danny,Simpson,35,England,176 cm,80 kg,False,46,Leicester,28,27,2312,Defender,6.564285,False,1,7,3,3,1,0,,,,673,4,72,38,19,34,203,97,17,10,,10,21,4,0,0,,1,0,0,,2017/2018
+68,18795,José,Holebas,37,Greece,184 cm,77 kg,False,38,Watford,28,26,2382,Defender,6.900000,False,2,2,6,17,3,0,,4,,655,39,67,51,8,29,278,136,47,23,,18,37,7,0,0,,2,0,0,,2017/2018
+69,18864,Charlie John,Daniels,36,England,178 cm,75 kg,False,35,Bournemouth,35,34,3005,Defender,6.854285,False,1,4,2,20,6,1,,3,,1233,29,76,48,7,31,217,122,23,13,,18,7,0,0,0,,1,0,0,,2017/2018
+70,18975,David Petrus Wenceslaus Henri,Pröpper,31,Netherlands,185 cm,79 kg,False,51,Brighton,35,35,3120,Midfielder,6.740000,False,0,1,0,36,5,0,,4,,1085,19,76,73,11,60,353,166,53,36,,11,41,2,0,1,,,0,0,,2017/2018
+71,19284,Costel Fane,Pantilimon,34,Romania,203 cm,90 kg,False,38,Watford,0,0,0,Goalkeeper,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+72,19423,Marc,Pugh,34,England,180 cm,72 kg,False,35,Bournemouth,20,11,983,Midfielder,6.594736,False,9,7,20,19,5,0,,,,376,10,75,7,1,13,107,42,35,19,,9,7,2,0,0,,,0,0,,2017/2018
+73,19498,Ryan,Shawcross,35,England,191 cm,76 kg,False,75,Stoke City,27,27,2372,Defender,6.966666,False,0,1,2,24,8,1,,1,,447,2,67,36,23,39,318,207,3,3,,18,26,2,0,0,,1,0,0,,2017/2018
+74,19917,Kazaiah Roy Barrett,Sterling,24,England,175 cm,71 kg,False,47,Tottenham,0,0,0,Attacker,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+75,20126,Jerome,Sinclair,25,England,181 cm,78 kg,False,38,Watford,4,0,27,Attacker,6.450000,False,4,0,13,0,0,0,,,,7,1,75,,0,1,7,2,4,2,,0,1,0,0,0,,,0,0,,2017/2018
+76,82099,Vashon,Neufville,22,England,173 cm,74 kg,False,48,West Ham,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+77,90502,Kyle,Scott,25,USA,172 cm,68 kg,False,49,Chelsea,0,0,0,Midfielder,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+78,90518,Florin,Gardoș,34,Romania,193 cm,88 kg,False,41,Southampton,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+79,127580,Layton,Ndukwu,23,England,177 cm,75 kg,False,46,Leicester,0,0,0,Attacker,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+80,162,Toby Albertine Maurits,Alderweireld,33,Belgium,186 cm,81 kg,False,47,Tottenham,14,13,1177,Defender,6.885714,False,1,0,2,10,1,0,,,,785,3,85,19,5,4,85,40,7,6,,1,8,3,0,0,,,0,0,,2017/2018
+81,308,Daniel Andre,Sturridge,33,England,188 cm,76 kg,False,60,West Brom,6,2,116,Attacker,7.077777,False,4,2,5,21,8,0,,1,,102,13,75,,0,0,37,21,11,10,,9,1,0,0,0,,,0,0,,2017/2018
+82,899,Andreas Hugo,Hoelgebaum Pereira,26,Brazil,178 cm,71 kg,False,33,Manchester United,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+83,1441,Carl,Jenkinson,30,England,185 cm,77 kg,False,42,Arsenal,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+84,1739,Jonathon Patrick,Flanagan,29,England,181 cm,79 kg,False,40,Liverpool,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+85,1742,Gareth,McAuley,42,Northern Ireland,191 cm,90 kg,False,60,West Brom,9,5,456,Defender,6.533333,False,4,2,22,0,0,0,,,,81,0,57,8,4,11,42,26,1,1,,2,2,0,0,0,,,0,0,,2017/2018
+86,2294,Willian,Borges da Silva,34,Brazil,175 cm,77 kg,False,49,Chelsea,36,20,1883,Attacker,7.272222,False,16,9,17,54,25,6,,7,,741,62,76,22,1,10,240,135,98,67,,36,10,1,0,0,1,,1,0,,2017/2018
+87,2653,Ali,Gabr,33,Egypt,193 cm,85 kg,False,60,West Brom,0,0,0,Defender,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+88,2905,Chung-Yong,Lee,34,Korea Republic,180 cm,70 kg,False,52,Crystal Palace,7,1,130,Midfielder,6.475000,False,6,1,24,1,0,0,,,,55,2,73,2,0,2,16,8,2,2,,2,1,0,0,0,,,0,0,,2017/2018
+89,6797,Jason Alan,Davidson,31,Australia,180 cm,72 kg,False,37,Huddersfield,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+90,6894,Mark,Birighitti,31,Australia,189 cm,84 kg,False,76,Swansea,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+91,7050,Aiden Connor,O'Neill,24,Australia,178 cm,70 kg,False,44,Burnley,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+92,16821,Ramadan Sobhi Ramadan,Ahmed,25,Egypt,189 cm,75 kg,False,75,Stoke City,24,12,1233,Midfielder,6.660869,False,12,7,24,13,6,2,,,,324,15,68,32,0,14,182,87,51,31,,13,14,2,0,0,,,0,0,,2017/2018
+93,18798,Adrian Joseph,Mariappa,36,Jamaica,180 cm,78 kg,False,38,Watford,28,24,2209,Defender,6.685714,False,4,3,9,10,2,0,,,,740,4,76,45,16,45,279,149,6,2,,16,32,4,0,0,,,0,0,,2017/2018
+94,18900,Sung-Yeung,Ki,33,Korea Republic,189 cm,75 kg,False,76,Swansea,25,21,1869,Midfielder,6.984000,False,4,5,4,20,6,2,,2,,735,19,87,25,1,32,113,54,13,7,,17,10,2,0,0,,,0,0,,2017/2018
+95,19339,Luciano,Narsingh,32,Netherlands,175 cm,69 kg,False,76,Swansea,18,5,616,Attacker,6.638888,False,13,4,27,9,5,1,,,,157,12,79,7,0,3,85,37,28,17,,11,3,0,0,0,,,0,0,,2017/2018
+96,19512,Bojan,Krkíc Pérez,32,Spain,170 cm,65 kg,False,75,Stoke City,1,1,72,Attacker,6.900000,False,0,1,2,1,0,0,,,,22,1,88,,0,0,8,4,1,1,,3,1,0,0,0,,,0,0,,2017/2018
+97,19593,Tomer,Hemed,35,Israel,186 cm,80 kg,False,51,Brighton,16,9,848,Attacker,6.656250,False,7,6,13,17,7,2,,2,,146,3,62,7,1,2,222,93,17,7,,13,10,0,0,0,,,0,0,,2017/2018
+98,34739,Jordon,Mutch,31,England,188 cm,82 kg,False,52,Crystal Palace,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+99,53466,Leon,Britton,40,England,168 cm,64 kg,False,76,Swansea,5,4,305,Midfielder,6.460000,False,1,4,3,0,0,0,,,,127,0,92,6,1,1,25,7,1,0,,1,7,1,0,0,,,0,0,,2017/2018
+100,181,Victor,Mugubi Wanyama,31,Kenya,188 cm,80 kg,False,47,Tottenham,18,8,838,Midfielder,6.852941,False,10,2,12,12,3,1,,,,538,5,82,30,3,10,137,74,24,18,,9,13,2,0,0,,,0,0,,2017/2018
+101,1436,Petr,Čech,40,Czech Republic,196 cm,90 kg,False,42,Arsenal,34,34,3040,Goalkeeper,6.855882,False,0,1,1,0,0,0,48,,91,530,0,66,1,0,0,23,21,3,2,,4,0,1,0,0,,,0,0,1,2017/2018
+102,2886,Javier,Hernández Balcázar,34,Mexico,175 cm,73 kg,False,48,West Ham,28,16,1543,Attacker,6.896428,False,12,7,15,29,16,8,,,,274,21,71,11,1,6,202,96,33,22,,49,15,3,0,0,1,,0,0,,2017/2018
+103,18724,Blair Sebastian,Turgott,28,Jamaica,183 cm,65 kg,False,1830,Boreham Wood,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+104,18773,Christian,Fuchs,36,Austria,187 cm,89 kg,False,46,Leicester,25,21,1918,Defender,6.862500,False,4,1,15,11,0,0,,1,,664,19,74,41,3,58,206,115,15,9,,4,12,1,0,0,,,0,0,,2017/2018
+105,18875,Emerson Schellas,Hyndman,26,USA,170 cm,61 kg,False,35,Bournemouth,1,1,59,Midfielder,6.300000,False,0,1,2,0,0,0,,,,21,1,87,,0,1,1,0,0,0,,0,0,0,0,0,,,0,0,,2017/2018
+106,18897,DeAndre Roselle,Yedlin,29,USA,172 cm,75 kg,False,34,Newcastle,34,31,2842,Defender,6.738235,False,3,0,4,6,0,0,,2,,750,19,73,57,7,44,303,158,45,28,,26,32,5,0,0,,,0,0,,2017/2018
+107,19052,Jason David Ian,Puncheon,36,England,173 cm,70 kg,False,52,Crystal Palace,10,6,570,Midfielder,6.500000,False,4,3,13,10,2,0,,,,200,5,75,13,0,5,65,24,5,4,,3,14,5,0,0,,,0,0,,2017/2018
+108,19148,Kieran,Gibbs,33,England,179 cm,70 kg,False,60,West Brom,33,32,2831,Defender,6.803030,False,1,5,1,9,1,0,,1,,759,23,74,41,12,48,220,117,36,24,,11,22,3,0,0,,,0,0,,2017/2018
+109,19168,Hal,Robson-Kanu,33,Wales,183 cm,83 kg,False,60,West Brom,21,8,821,Attacker,6.621052,False,13,6,18,19,8,2,,,,123,8,55,5,3,4,179,68,23,14,,25,20,2,0,1,,,0,0,,2017/2018
+110,19251,Ashley,Fletcher,27,England,185 cm,78 kg,False,48,West Ham,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+111,19330,Adnan,Marić,25,Sweden,181 cm,76 kg,False,76,Swansea,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+112,19496,Thomas Adam,Edwards,23,England,175 cm,76 kg,False,75,Stoke City,6,6,483,Defender,6.716666,False,0,2,6,1,0,0,,,,116,1,69,15,2,5,37,28,3,3,,2,3,0,0,0,,,0,0,,2017/2018
+113,19575,Geoff,Cameron,37,USA,191 cm,84 kg,False,75,Stoke City,20,17,1525,Defender,6.640000,False,3,3,11,5,0,0,,,,366,6,71,34,8,36,176,94,22,14,,7,16,2,0,0,,1,0,0,,2017/2018
+114,19988,Brandon Alexander,Mason,25,England,173 cm,63 kg,False,38,Watford,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+115,20055,Nya Jerome,Kirby,22,England,174 cm,,False,52,Crystal Palace,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+116,37125,Charly,Musonda Junior,26,Belgium,173 cm,66 kg,False,49,Chelsea,3,0,34,Midfielder,6.900000,False,3,0,8,2,0,0,,1,,15,1,56,1,0,0,10,4,1,1,,1,3,0,0,0,,,0,0,,2017/2018
+117,44781,Stuart John,Findlay,27,Scotland,191 cm,82 kg,False,34,Newcastle,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+118,51106,Bradley Shaun,Smith,28,Australia,178 cm,70 kg,False,35,Bournemouth,0,0,0,Defender,,False,0,0,8,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+119,105239,Jarosław Przemysław,Jach,28,Poland,192 cm,78 kg,False,52,Crystal Palace,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+120,185,Fernando,Llorente Torres,37,Spain,193 cm,90 kg,False,47,Tottenham,16,1,224,Attacker,6.658333,False,15,1,28,6,2,1,,,,60,4,66,6,0,0,50,24,1,0,,4,4,1,0,0,,,0,0,,2017/2018
+121,298,Rafael Euclides,Soares Camacho,22,Portugal,175 cm,65 kg,False,40,Liverpool,0,0,0,Attacker,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+122,616,Arijanet Anan,Murić,24,Kosovo,198 cm,81 kg,False,50,Manchester City,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+123,915,Gabriel Armando,de Abreu,32,Brazil,185 cm,72 kg,False,42,Arsenal,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+124,1432,Yannick,Bolasie Yala,33,Congo DR,188 cm,84 kg,False,45,Everton,16,11,855,Attacker,6.543750,False,5,9,9,19,7,1,,,,132,4,61,8,0,4,117,47,36,17,,11,12,0,0,0,,,0,0,,2017/2018
+125,1448,Shkodran,Mustafi,30,Germany,184 cm,82 kg,False,42,Arsenal,27,25,2273,Defender,7.088888,False,2,2,5,13,6,3,,1,,1494,8,83,64,15,57,327,198,2,1,,12,26,6,0,0,,,0,0,,2017/2018
+126,2053,Roque,Mesa Quevedo,33,Spain,172 cm,74 kg,False,76,Swansea,11,9,757,Midfielder,6.563636,False,2,5,11,7,1,0,,,,420,5,85,20,0,13,87,36,8,5,,10,14,3,0,0,,1,0,0,,2017/2018
+127,18787,Shinji,Okazaki,36,Japan,174 cm,70 kg,False,46,Leicester,27,17,1329,Attacker,6.696153,False,10,15,12,28,16,6,,2,,283,15,71,25,1,8,253,99,38,16,,28,20,2,0,0,,,0,0,,2017/2018
+128,18833,Lucas,Pérez Martínez,34,Spain,180 cm,82 kg,False,42,Arsenal,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+129,18907,José Luis,Sanmartín Mato,32,Spain,192 cm,80 kg,False,34,Newcastle,30,19,1716,Attacker,6.776666,False,11,15,15,47,17,4,,1,,373,16,64,22,2,11,397,196,17,7,,23,30,2,0,0,,,0,1,,2017/2018
+130,18910,Anders,Rosenkrantz Lindegaard,38,Denmark,193 cm,80 kg,False,44,Burnley,0,0,0,Goalkeeper,,False,0,0,25,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+131,19326,Leroy Johan,Fer,32,Netherlands,188 cm,79 kg,False,76,Swansea,20,15,1397,Midfielder,6.855000,False,5,5,9,12,3,1,,1,,512,10,78,44,4,12,229,137,32,26,,26,28,5,0,0,,,0,0,,2017/2018
+132,19376,Achraf,Lazaar,30,Morocco,184 cm,80 kg,False,34,Newcastle,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+133,19511,Mame Biram,Diouf,35,Senegal,185 cm,79 kg,False,75,Stoke City,35,30,2602,Attacker,6.740000,False,5,11,5,59,20,6,,2,,319,21,54,48,0,14,489,240,26,11,,39,38,6,0,0,,,0,0,,2017/2018
+134,26302,Pablo Carmine,Maffeo Becerra,25,Spain,172 cm,70 kg,False,50,Manchester City,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+135,30743,Matías Ezequiel,Schelotto,33,Italy,187 cm,77 kg,False,51,Brighton,20,15,1316,Defender,6.505263,False,5,3,19,6,2,0,,,,344,5,76,20,3,19,135,73,25,15,,11,8,3,0,0,,,0,0,,2017/2018
+136,30816,Stefano,Okaka Chuka,33,Italy,186 cm,82 kg,False,38,Watford,15,3,444,Attacker,6.666666,False,12,3,15,10,3,1,,1,,102,5,64,6,0,0,126,51,18,14,,9,21,2,0,0,,,0,0,,2017/2018
+137,47324,Sandro,Ramírez Castillo,27,Spain,175 cm,71 kg,False,45,Everton,8,3,276,Attacker,6.514285,False,5,3,9,9,1,0,,,,66,1,86,2,0,1,33,14,7,3,,7,1,0,0,0,,,0,0,,2017/2018
+138,47407,Allan Roméo,Nyom,34,Cameroon,188 cm,78 kg,False,60,West Brom,29,25,2308,Defender,6.779310,False,4,2,12,3,0,0,,1,,574,15,77,64,9,27,204,114,26,10,,20,20,7,0,0,,1,0,0,,2017/2018
+139,90509,Samuel,Shashoua,23,England,176 cm,70 kg,False,47,Tottenham,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+140,161,Alfie,Malik Whiteman,24,England,189 cm,84 kg,False,47,Tottenham,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+141,166,Juan Marcos,Foyth,24,Argentina,179 cm,69 kg,False,47,Tottenham,0,0,0,Defender,,False,0,0,16,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+142,170,Jan Bert Lieve,Vertonghen,35,Belgium,189 cm,79 kg,False,47,Tottenham,36,36,3205,Defender,7.236111,False,0,2,0,24,4,0,,,,2148,12,85,64,11,60,346,235,38,30,,25,20,4,0,0,,1,0,0,,2017/2018
+143,183,Vincent Petrus Anna Sebastiaan,Janssen,28,Netherlands,184 cm,79 kg,False,47,Tottenham,1,0,0,Attacker,,False,1,0,3,0,0,0,,,,0,0,0,,0,0,1,0,0,0,,0,1,0,0,0,,,0,0,,2017/2018
+144,206,João Mário,Naval da Costa Eduardo,29,Portugal,179 cm,73 kg,False,48,West Ham,13,12,1027,Midfielder,7.023076,False,1,6,2,16,4,2,,1,,362,16,80,14,0,8,139,58,25,17,,20,14,0,0,0,,,0,0,,2017/2018
+145,288,Alberto,Moreno Pérez,30,Spain,171 cm,65 kg,False,40,Liverpool,16,14,1264,Defender,7.042857,False,2,0,10,12,2,0,,,,659,15,82,35,2,12,116,69,9,6,,19,8,1,0,0,,,0,0,,2017/2018
+146,624,Nicolás Hernán Gonzalo,Otamendi,34,Argentina,183 cm,76 kg,False,50,Manchester City,34,33,2968,Defender,7.220588,False,1,2,2,32,10,4,,,,2825,12,91,58,10,48,282,161,7,5,,22,28,9,0,0,,1,0,0,,2017/2018
+147,730,Thibaut Nicolas Marc,Courtois,30,Belgium,199 cm,91 kg,False,49,Chelsea,35,35,3150,Goalkeeper,6.865714,False,0,0,0,0,0,0,34,,76,693,0,70,,0,0,10,7,0,0,,3,2,2,0,0,,,0,0,0,2017/2018
+148,890,Faustino Marcos Alberto,Rojo,32,Argentina,187 cm,85 kg,False,33,Manchester United,9,8,642,Defender,6.644444,False,1,3,12,5,1,0,,,,292,2,74,7,6,7,53,31,4,4,,4,8,6,0,0,,1,0,0,,2017/2018
+149,2779,Ahmed,Musa,30,Nigeria,171 cm,66 kg,False,46,Leicester,0,0,0,Attacker,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+150,2851,Bo Kristoffer,Nordfeldt,33,Sweden,190 cm,85 kg,False,76,Swansea,0,0,0,Goalkeeper,,False,0,0,35,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+151,2921,Mousa Sidi Yaya,Dembélé,35,Belgium,185 cm,82 kg,False,47,Tottenham,28,21,1885,Midfielder,6.842857,False,7,13,9,11,3,0,,,,1311,18,91,36,0,33,277,141,81,68,,28,48,6,0,0,,,0,0,,2017/2018
+152,7599,Cristian Alejandro,Cuevas Jara,27,Chile,173 cm,64 kg,False,49,Chelsea,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+153,12753,Marouane,Fellaini-Bakkioui,35,Belgium,194 cm,85 kg,False,33,Manchester United,16,5,612,Midfielder,6.866666,False,11,2,11,10,7,4,,,,335,5,84,15,3,14,131,69,7,5,,12,13,1,0,0,,,0,0,,2017/2018
+154,19050,Aaron Frank,Mooy,32,Australia,174 cm,68 kg,False,37,Huddersfield,36,34,3070,Midfielder,7.027777,False,2,5,2,29,7,4,,3,,1513,51,77,102,5,38,326,166,25,16,,16,26,5,0,0,,,1,0,,2017/2018
+155,19161,Jefferson Antonio,Montero Vite,33,Ecuador,173 cm,70 kg,False,76,Swansea,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+156,19304,Claudio Ariel,Yacob,35,Argentina,181 cm,77 kg,False,60,West Brom,16,9,899,Midfielder,6.733333,False,7,3,25,8,1,0,,,,312,1,85,36,6,16,140,68,2,2,,12,25,5,0,0,,,0,0,,2017/2018
+157,37882,Marcus,Edwards,24,England,167 cm,78 kg,False,47,Tottenham,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+158,48196,Sead,Hakšabanović,23,Montenegro,173 cm,74 kg,False,48,West Ham,0,0,0,Midfielder,,False,0,0,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+159,90497,Winston Wiremu,Reid,34,New Zealand,190 cm,87 kg,False,48,West Ham,17,17,1454,Defender,6.794117,False,0,2,3,5,0,0,,,,539,4,78,11,14,22,122,69,1,0,,15,14,5,0,0,,,0,0,,2017/2018
+160,190,Cédric Ricardo,Alves Soares,31,Portugal,172 cm,67 kg,False,41,Southampton,32,32,2797,Defender,6.796875,False,0,3,0,23,4,0,,3,,934,24,72,54,8,23,225,110,14,7,,19,16,3,0,0,,,0,0,,2017/2018
+161,301,Benjamin Luke,Woodburn,23,Wales,174 cm,72 kg,False,40,Liverpool,1,0,6,Attacker,6.300000,False,1,0,6,0,0,0,,,,7,0,87,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,,2017/2018
+162,727,Reiss Luke,Nelson,23,England,175 cm,71 kg,False,42,Arsenal,3,2,146,Attacker,6.833333,False,1,2,5,2,0,0,,,,73,1,93,4,0,3,11,8,3,1,,2,0,0,0,0,,,0,0,,2017/2018
+163,1440,Rob,Holding,27,England,189 cm,75 kg,False,42,Arsenal,12,9,820,Defender,6.800000,False,3,1,9,1,0,0,,,,510,2,79,19,10,21,102,56,8,5,,5,9,3,0,0,,,0,0,,2017/2018
+164,1468,Edward,Nketiah,23,England,175 cm,72 kg,False,42,Arsenal,3,0,17,Attacker,6.650000,False,3,0,11,1,1,0,,,,6,0,58,1,0,0,3,1,0,0,,0,1,0,0,0,,,0,0,,2017/2018
+165,1699,Vicente,Iborra de la Fuente,34,Spain,190 cm,80 kg,False,46,Leicester,19,17,1415,Midfielder,6.872222,False,2,7,12,14,4,3,,,,698,9,80,23,11,19,173,84,14,11,,18,19,0,0,0,,,0,0,,2017/2018
+166,1964,Erdal,Rakip,26,North Macedonia,180 cm,72 kg,False,52,Crystal Palace,0,0,0,Midfielder,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+167,2380,Chuba,Akpom,27,England,183 cm,70 kg,False,42,Arsenal,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+168,18909,Adam Richard,Legzdiņš,36,England,191 cm,78 kg,False,44,Burnley,0,0,0,Goalkeeper,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+169,18950,Joshua,Sims,25,England,174 cm,67 kg,False,41,Southampton,6,1,159,Midfielder,6.660000,False,5,1,9,11,5,0,,,,48,2,59,4,0,1,30,11,5,2,,1,1,0,0,0,,,0,0,,2017/2018
+170,18971,Beram,Kayal,34,Israel,178 cm,74 kg,False,51,Brighton,19,8,739,Midfielder,6.544444,False,11,5,18,4,1,0,,,,180,12,77,19,4,12,100,47,10,5,,15,14,2,0,0,,,0,0,,2017/2018
+171,19139,Tyler,Roberts,23,Wales,180 cm,75 kg,False,60,West Brom,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+172,19319,Martin Tony Waikwa,Olsson,34,Sweden,178 cm,81 kg,False,76,Swansea,36,36,3154,Defender,6.480555,False,0,5,0,18,1,0,,1,,841,13,71,34,4,31,231,116,27,11,,25,27,7,0,0,,2,0,0,,2017/2018
+173,19329,Daniel,James,25,Wales,171 cm,76 kg,False,76,Swansea,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+174,19337,Oliver,McBurnie,26,Scotland,188 cm,79 kg,False,76,Swansea,11,2,269,Attacker,6.618181,False,9,2,11,5,3,0,,1,,68,1,63,4,0,0,64,31,1,1,,4,4,0,0,0,,,0,0,,2017/2018
+175,19412,Stephen,Kingsley,28,Scotland,178 cm,67 kg,False,76,Swansea,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+176,19501,Charles Graham,Adam,37,Scotland,185 cm,83 kg,False,75,Stoke City,11,5,408,Midfielder,6.563636,False,6,3,27,10,3,0,,,,156,7,45,9,0,9,65,36,12,12,,8,8,2,0,1,,,0,1,,2017/2018
+177,19550,Beni,Tangama Baningime,24,Congo DR,178 cm,70 kg,False,45,Everton,8,1,192,Midfielder,6.485714,False,7,1,13,0,0,0,,,,67,0,84,6,1,2,23,9,4,1,,1,4,1,0,0,,,0,0,,2017/2018
+178,19643,Jiří,Skalák,30,Czech Republic,177 cm,76 kg,False,51,Brighton,0,0,0,Midfielder,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+179,20355,Aaron,Ramsdale,24,England,188 cm,77 kg,False,35,Bournemouth,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+180,147,Philippe,Coutinho Correia,30,Brazil,172 cm,68 kg,False,40,Liverpool,14,13,1116,Midfielder,8.028571,False,1,8,2,54,17,7,,6,,544,40,78,17,0,10,155,78,60,39,,21,5,0,0,0,,,0,0,,2017/2018
+181,451,Papa Alioune,N'Diaye,32,Senegal,180 cm,74 kg,False,75,Stoke City,13,13,1140,Midfielder,6.907692,False,0,2,0,19,6,2,,1,,279,7,81,51,9,14,181,99,21,17,,21,24,5,0,0,,1,0,0,,2017/2018
+182,894,Ashley,Young,37,England,175 cm,65 kg,False,33,Manchester United,30,28,2447,Defender,7.079310,False,2,7,4,18,4,2,,4,,1022,26,75,53,5,57,256,136,52,29,,35,29,7,0,0,,,0,0,,2017/2018
+183,1370,André Morgan Rami,Ayew,33,Ghana,176 cm,72 kg,False,76,Swansea,12,10,951,Attacker,6.766666,False,2,3,2,13,7,0,,2,,243,12,80,16,1,5,180,72,15,9,,19,18,3,0,0,1,,0,0,,2017/2018
+184,2288,Daniel Noel,Drinkwater,32,England,178 cm,79 kg,False,49,Chelsea,12,5,522,Midfielder,6.700000,False,7,2,15,6,2,1,,,,331,5,84,15,2,8,52,22,4,3,,4,10,0,0,0,,,0,0,,2017/2018
+185,2710,Sofiane,Boufal,29,Morocco,170 cm,60 kg,False,41,Southampton,26,11,1212,Midfielder,6.716000,False,15,8,21,30,6,2,,2,,418,21,78,37,1,6,269,132,96,61,,28,27,1,0,0,,,0,0,,2017/2018
+186,18839,Scott,Dann,35,England,188 cm,76 kg,False,52,Crystal Palace,17,16,1435,Defender,6.800000,False,1,1,3,19,5,1,,,,452,5,78,10,14,23,125,68,7,7,,3,12,4,0,0,,1,0,0,,2017/2018
+187,18871,Matthew David,Butcher,25,England,188 cm,83 kg,False,35,Bournemouth,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+188,18955,Daniel William John,Ings,30,England,178 cm,73 kg,False,40,Liverpool,8,3,265,Attacker,6.742857,False,5,3,14,8,5,1,,,,47,3,72,5,0,2,36,13,4,1,,3,6,0,0,0,,,0,0,,2017/2018
+189,19016,Calum,Chambers,27,England,182 cm,66 kg,False,42,Arsenal,12,10,869,Defender,6.872727,False,2,5,9,10,3,0,,,,500,2,83,17,11,18,113,57,10,7,,5,10,1,0,0,,1,0,0,,2017/2018
+190,19179,Tyrone,Mings,29,England,196 cm,77 kg,False,35,Bournemouth,4,3,202,Defender,6.600000,False,1,2,5,1,0,0,,,,88,1,58,1,2,6,10,5,1,1,,1,2,1,0,0,,,0,0,,2017/2018
+191,19505,Thomas,Ince,30,England,178 cm,66 kg,False,37,Huddersfield,33,27,2456,Midfielder,6.703125,False,6,10,9,70,20,2,,,,545,18,75,35,0,12,258,114,57,27,,36,22,0,0,0,,,0,0,,2017/2018
+192,19599,Damián Emiliano,Martínez,30,Argentina,195 cm,88 kg,False,42,Arsenal,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+193,20242,Ethan Billy,Hamilton,24,Scotland,187 cm,75 kg,False,33,Manchester United,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+194,20386,Matthew Ryan,Macey,28,England,202 cm,96 kg,False,42,Arsenal,0,0,0,Goalkeeper,,False,0,0,7,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+195,48051,Fredrik,Ulvestad,30,Norway,183 cm,79 kg,False,44,Burnley,0,0,0,Midfielder,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+196,50101,Fousseni,Diabaté,27,Mali,175 cm,60 kg,False,46,Leicester,14,5,582,Attacker,6.592307,False,9,4,10,6,2,0,,1,,179,7,79,9,0,8,103,53,33,16,,14,1,1,0,0,,,0,0,,2017/2018
+197,50237,Henri,Saivet,31,Senegal,174 cm,76 kg,False,34,Newcastle,1,1,84,Midfielder,6.800000,False,0,1,3,1,1,1,,,,15,0,62,5,0,4,11,7,0,0,,0,0,0,0,0,,,0,0,,2017/2018
+198,56089,Anthony Michael,Georgiou,25,Cyprus,179 cm,73 kg,False,47,Tottenham,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+199,87918,Joshua David,Pask,25,England,187 cm,56 kg,False,48,West Ham,0,0,0,Defender,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+200,163,Serge Alain Stéphane,Aurier,30,Côte d'Ivoire,176 cm,76 kg,False,47,Tottenham,17,16,1429,Defender,7.217647,False,1,1,14,15,6,2,,2,,616,15,78,48,1,31,218,127,22,15,,16,21,2,1,0,,1,0,0,,2017/2018
+201,481,Grzegorz,Krychowiak,32,Poland,186 cm,83 kg,False,60,West Brom,27,20,1643,Midfielder,6.725925,False,7,9,13,17,3,0,,2,,636,13,73,40,5,45,231,122,27,19,,39,31,2,0,0,,,0,0,,2017/2018
+202,1443,Laurent,Koscielny,37,France,186 cm,75 kg,False,42,Arsenal,25,25,2227,Defender,7.224000,False,0,2,1,9,2,2,,,,1553,7,87,43,15,54,240,148,3,2,,26,14,4,0,0,,,0,0,,2017/2018
+203,1452,Mohamed Naser,Elsayed Elneny,30,Egypt,180 cm,70 kg,False,42,Arsenal,13,11,870,Midfielder,6.869230,False,2,5,13,8,1,0,,1,,784,10,92,12,0,10,56,27,4,3,,6,4,3,0,1,,,0,0,,2017/2018
+204,1464,Granit,Xhaka,30,Switzerland,185 cm,82 kg,False,42,Arsenal,38,37,3266,Midfielder,7.231578,False,1,7,1,66,17,1,,7,,2708,41,86,78,9,37,356,184,24,18,,42,57,10,0,0,,,0,0,,2017/2018
+205,2719,Noureddine,Amrabat,35,Morocco,179 cm,73 kg,False,38,Watford,3,3,200,Midfielder,6.666666,False,0,2,0,1,0,0,,,,40,3,59,6,0,0,35,13,4,2,,2,6,0,0,0,,,0,0,,2017/2018
+206,3333,Massadio,Haïdara,30,Mali,179 cm,76 kg,False,34,Newcastle,1,0,3,Defender,,False,1,0,7,0,0,0,,,,2,0,100,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,,2017/2018
+207,3395,Steve Michel,Mounié,28,Benin,190 cm,83 kg,False,37,Huddersfield,28,21,1857,Attacker,6.975000,False,7,9,13,49,21,7,,1,,326,17,61,11,3,7,423,183,19,13,,16,28,2,0,0,,,0,0,,2017/2018
+208,18829,Jack,Wilshere,30,England,172 cm,68 kg,False,42,Arsenal,20,12,1187,Midfielder,6.865000,False,8,2,14,15,5,1,,3,,698,15,85,15,2,8,177,104,55,45,,37,15,6,0,0,,,0,0,,2017/2018
+209,18895,Florian,Lejeune,31,France,189 cm,89 kg,False,34,Newcastle,24,24,2104,Defender,6.966666,False,0,1,4,13,3,0,,2,,823,8,73,32,15,46,228,139,13,12,,14,17,3,0,0,,1,0,0,,2017/2018
+210,19042,Florent,Hadërgjonaj,28,Kosovo,182 cm,73 kg,False,37,Huddersfield,23,19,1673,Defender,6.722727,False,4,3,14,8,2,0,,1,,411,25,63,23,10,17,137,63,28,16,,11,17,3,0,0,,,0,0,,2017/2018
+211,19246,Rajiv,van La Parra,31,Netherlands,181 cm,72 kg,False,37,Huddersfield,33,26,2145,Midfielder,6.528125,False,7,15,8,43,15,3,,,,503,14,70,41,1,21,370,168,129,68,,47,29,3,0,1,,,1,0,,2017/2018
+212,19494,Moritz,Bauer,30,Austria,181 cm,73 kg,False,75,Stoke City,15,15,1309,Defender,6.673333,False,0,3,1,3,1,0,,,,188,14,64,24,1,12,148,74,21,12,,20,19,4,0,0,,,0,0,,2017/2018
+213,21504,Didier,Ibrahim Ndong,28,Gabon,179 cm,75 kg,False,38,Watford,0,0,0,Midfielder,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+214,22085,Mathieu,Debuchy,37,France,176 cm,76 kg,False,42,Arsenal,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+215,22226,Jérémy,Pied,33,France,173 cm,69 kg,False,41,Southampton,2,2,180,Defender,7.750000,False,0,0,11,2,0,0,,1,,74,2,77,9,2,8,18,14,2,2,,2,1,0,0,0,,,0,0,,2017/2018
+216,22240,Loïc Alex Teliére,Hubert Rémy,35,France,185 cm,80 kg,False,49,Chelsea,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+217,30405,Edimilson,Fernandes Ribeiro,26,Switzerland,187 cm,77 kg,False,48,West Ham,14,9,846,Midfielder,6.621428,False,5,6,10,7,1,0,,1,,210,7,75,17,1,16,90,48,13,10,,11,5,1,0,0,,,0,0,,2017/2018
+218,30550,Ragnar,Klavan,37,Estonia,187 cm,85 kg,False,40,Liverpool,19,16,1448,Defender,7.000000,False,3,0,14,1,1,1,,,,1086,4,85,14,5,15,120,67,5,4,,12,7,0,0,0,,,0,0,,2017/2018
+219,90503,Younes,Kaboul,35,France,193 cm,87 kg,False,38,Watford,2,2,151,Defender,6.950000,False,0,1,0,0,0,0,,,,52,0,72,3,2,2,16,11,1,0,,0,1,0,0,0,,,0,0,,2017/2018
+220,106,Nacer,Chadli,33,Belgium,187 cm,80 kg,False,60,West Brom,5,2,215,Midfielder,6.680000,False,3,3,9,4,2,1,,,,53,2,81,1,0,0,13,3,1,1,,0,1,1,0,0,,,0,0,,2017/2018
+221,113,Georges-Kévin,Nkoudou Mbida,27,France,172 cm,75 kg,False,44,Burnley,8,2,224,Midfielder,6.350000,False,6,2,11,4,0,0,,,,66,1,76,7,0,1,51,19,15,6,,6,4,1,0,0,,,0,0,,2017/2018
+222,114,Adrien Sébastien,Perruchet Silva,33,Portugal,171 cm,72 kg,False,46,Leicester,12,9,762,Midfielder,6.572727,False,3,4,6,11,2,0,,1,,353,7,83,22,2,14,115,46,7,5,,8,9,3,0,0,,,0,0,,2017/2018
+223,311,Orestis Spyridon,Karnezis,37,Greece,189 cm,79 kg,False,38,Watford,15,14,1291,Goalkeeper,6.500000,False,1,0,18,0,0,0,24,,34,167,0,46,,0,1,10,8,0,0,,1,0,0,0,0,,,0,0,0,2017/2018
+224,513,Renato Júnior,Luz Sanches,25,Portugal,176 cm,70 kg,False,76,Swansea,12,9,704,Midfielder,6.608333,False,3,5,8,12,0,0,,,,317,7,83,12,1,7,131,59,40,25,,20,8,1,0,0,,,0,0,,2017/2018
+225,896,Adilson Angel,Abreu de Almeida Gomes,22,England,168 cm,56 kg,False,33,Manchester United,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+226,924,Francis,Coquelin,31,France,176 cm,74 kg,False,42,Arsenal,7,1,164,Midfielder,6.600000,False,6,1,18,1,0,0,,,,79,1,71,5,0,3,17,9,1,1,,1,2,0,0,0,,,0,0,,2017/2018
+227,1374,Islam,Slimani,34,Algeria,188 cm,83 kg,False,34,Newcastle,4,1,130,Attacker,6.627272,False,3,1,3,7,4,0,,1,,78,2,69,2,0,0,47,16,6,3,,1,3,1,0,0,,,0,0,,2017/2018
+228,2296,Eden Michael,Hazard,31,Belgium,175 cm,74 kg,False,49,Chelsea,34,28,2433,Attacker,7.817647,False,6,17,7,71,37,12,,4,,1144,84,82,6,0,3,422,261,200,165,,82,13,2,0,0,1,,2,0,,2017/2018
+229,2675,José Miguel,da Rocha Fonte,39,Portugal,187 cm,81 kg,False,48,West Ham,8,8,690,Defender,7.062500,False,0,2,5,8,1,0,,1,,280,4,76,11,9,14,68,38,1,1,,5,6,0,0,0,,1,0,0,,2017/2018
+230,2990,Idrissa Gana,Gueye,33,Senegal,174 cm,66 kg,False,45,Everton,33,32,2757,Midfielder,7.027272,False,1,7,2,23,7,2,,1,,1327,16,83,117,9,63,392,220,27,18,,52,50,7,1,0,,,0,0,,2017/2018
+231,18947,Mario René Junior,Lemina,29,Gabon,184 cm,85 kg,False,41,Southampton,25,20,1723,Midfielder,6.996000,False,5,8,11,23,5,1,,1,,854,8,87,55,6,35,246,151,62,55,,16,28,2,0,0,,,0,0,,2017/2018
+232,20539,Emmanuel,Rivière,31,Martinique,182 cm,80 kg,False,34,Newcastle,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+233,20637,Jason,Eyenga-Lokilo,24,Congo DR,175 cm,65 kg,False,52,Crystal Palace,0,0,0,Attacker,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+234,24819,Uwe,Hünemeier,36,Germany,189 cm,85 kg,False,51,Brighton,1,0,17,Defender,6.500000,False,1,0,10,0,0,0,,,,1,0,25,,0,0,2,2,0,0,,0,0,0,0,0,,,0,0,,2017/2018
+235,30412,Kevin,Mirallas,35,Belgium,182 cm,72 kg,False,45,Everton,5,2,138,Midfielder,6.525000,False,3,2,6,4,2,0,,,,44,1,77,4,0,0,18,10,3,2,,2,1,1,0,0,,,0,0,,2017/2018
+236,47421,Guido Marcelo,Carrillo,31,Argentina,191 cm,87 kg,False,41,Southampton,7,5,451,Attacker,6.757142,False,2,3,3,11,4,0,,1,,81,4,57,5,0,0,113,42,4,3,,2,7,0,0,0,,,0,0,,2017/2018
+237,50247,Diafra,Sakho,33,Senegal,184 cm,79 kg,False,48,West Ham,14,0,292,Attacker,6.592307,False,14,0,18,9,3,2,,,,39,1,59,5,0,1,78,29,6,2,,6,4,2,0,0,1,,0,0,,2017/2018
+238,87077,Patrice,Evra,37,France,174 cm,75 kg,False,48,West Ham,5,3,228,Defender,,False,2,2,9,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+239,90488,Yohan,Cabaye,35,France,174 cm,71 kg,False,52,Crystal Palace,31,28,2388,Midfielder,6.874193,False,3,15,5,38,12,0,,1,,1068,42,81,71,4,79,273,110,23,10,,23,35,7,0,0,,,0,0,,2017/2018
+240,300,Georginio Gregion Emile,Wijnaldum,32,Netherlands,175 cm,69 kg,False,40,Liverpool,33,27,2387,Midfielder,6.827272,False,6,6,8,38,10,1,,2,,1138,22,87,34,2,24,208,108,55,42,,17,13,1,0,0,,,0,0,,2017/2018
+241,307,Xherdan,Shaqiri,31,Switzerland,169 cm,72 kg,False,75,Stoke City,36,36,3049,Midfielder,7.258333,False,0,10,1,69,32,8,,7,,839,77,78,25,1,16,279,119,68,39,,50,28,5,0,0,,,0,1,,2017/2018
+242,898,Ander,Herrera Agüera,33,Spain,182 cm,71 kg,False,33,Manchester United,26,13,1261,Midfielder,6.760000,False,13,6,20,12,1,0,,2,,914,13,85,56,6,34,208,103,14,10,,28,28,5,0,0,,,0,0,,2017/2018
+243,1467,Alexandre,Lacazette,31,France,175 cm,73 kg,False,42,Arsenal,32,26,2212,Attacker,7.140625,False,6,16,7,68,35,14,,4,,554,37,75,24,3,7,287,114,45,33,,28,28,1,0,0,1,,2,0,,2017/2018
+244,1585,Jesé,Rodríguez Ruiz,29,Spain,178 cm,72 kg,False,75,Stoke City,13,8,617,Attacker,6.723076,False,5,8,10,13,5,1,,1,,113,9,78,10,0,0,77,30,24,15,,5,5,0,0,0,1,,0,0,,2017/2018
+245,2283,David Luiz,Moreira Marinho,35,Brazil,189 cm,84 kg,False,49,Chelsea,10,9,839,Defender,6.940000,False,1,0,4,11,4,1,,,,420,1,84,18,5,24,95,51,5,3,,15,12,4,0,1,,,0,0,,2017/2018
+246,2927,Michy,Batshuayi Tunga,29,Belgium,184 cm,76 kg,False,49,Chelsea,12,3,353,Attacker,6.700000,False,9,2,18,13,5,2,,1,,67,1,73,5,0,1,49,20,6,5,,3,4,0,0,0,,,0,0,,2017/2018
+247,18764,Morgan,Schneiderlin,33,France,181 cm,75 kg,False,45,Everton,30,24,2128,Midfielder,6.683333,False,6,4,10,5,0,0,,,,949,7,80,58,7,61,237,116,11,6,,17,39,6,1,0,,1,0,0,,2017/2018
+248,18802,Etienne,Capoue,34,France,189 cm,80 kg,False,38,Watford,23,18,1542,Midfielder,6.808695,False,5,5,18,23,3,1,,,,721,8,82,43,1,43,213,114,23,13,,16,21,3,0,0,,,0,0,,2017/2018
+249,18842,Mamadou,Sakho,32,France,187 cm,83 kg,False,52,Crystal Palace,19,18,1600,Defender,6.957894,False,1,1,3,3,1,1,,2,,633,2,85,21,11,30,126,75,8,6,,9,3,1,0,0,,,0,0,,2017/2018
+250,18856,Bakary,Sako,34,Mali,183 cm,85 kg,False,52,Crystal Palace,16,4,468,Attacker,6.764285,False,12,2,16,17,6,3,,,,87,6,58,7,0,1,81,32,13,7,,7,8,0,0,0,,,0,0,,2017/2018
+251,18981,Jürgen,Locadia,29,Netherlands,193 cm,85 kg,False,51,Brighton,6,3,224,Attacker,6.700000,False,3,3,9,6,1,1,,1,,36,1,59,1,0,1,21,5,2,0,,3,2,0,0,0,,,0,0,,2017/2018
+252,19286,Yohan,Benalouane,35,Tunisia,185 cm,86 kg,False,46,Leicester,1,1,90,Defender,7.200000,False,0,0,8,2,1,0,,,,17,0,63,7,1,1,15,10,0,0,,1,1,0,0,0,,,0,0,,2017/2018
+253,19461,Lukas Okechukwu,Nmecha,24,Germany,185 cm,80 kg,False,50,Manchester City,2,0,14,Attacker,6.500000,False,2,0,4,0,0,0,,,,5,0,100,,0,0,2,0,0,0,,0,0,0,0,0,,,0,0,,2017/2018
+254,25294,Konstantinos,Stafylidis,29,Greece,178 cm,74 kg,False,75,Stoke City,5,4,335,Defender,6.820000,False,1,1,2,4,0,0,,,,73,2,74,12,2,5,35,22,2,2,,5,4,0,0,0,,,0,0,,2017/2018
+255,25458,Dodi,Lukébakio,25,Belgium,187 cm,77 kg,False,38,Watford,1,0,15,Attacker,6.900000,False,1,0,5,1,0,0,,,,6,2,100,1,0,0,1,1,0,0,,0,0,0,0,0,,,0,0,,2017/2018
+256,90494,Nathan,Wallace Newman Trott,24,England,188 cm,75 kg,False,48,West Ham,0,0,0,Goalkeeper,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+257,90498,Eliaquim,Mangala,31,France,188 cm,84 kg,False,45,Everton,2,2,135,Defender,5.950000,False,0,1,0,1,0,0,,,,58,0,84,2,0,1,13,6,2,2,,0,1,0,0,0,,,0,0,,2017/2018
+258,90514,Joey,Barton,35,England,172 cm,70 kg,False,44,Burnley,,,,Midfielder,,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017/2018
+259,138785,Alexander James,Denny,22,England,186 cm,81 kg,False,45,Everton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+260,275,Jean-Eric Maxim,Choupo-Moting,33,Cameroon,191 cm,90 kg,False,75,Stoke City,30,26,2248,Attacker,6.946666,False,4,9,5,60,20,5,,5,,468,20,68,42,3,23,404,187,107,61,,24,21,3,0,0,,,0,0,,2017/2018
+261,282,Simon Luc Hildebert,Mignolet,34,Belgium,193 cm,87 kg,False,40,Liverpool,19,19,1710,Goalkeeper,6.684210,False,0,0,18,0,0,0,24,,36,346,0,69,2,0,0,13,9,1,1,,2,2,3,0,0,,,0,0,1,2017/2018
+262,644,Leroy Aziz,Sané,26,Germany,183 cm,80 kg,False,50,Manchester City,32,27,2423,Attacker,7.484375,False,5,9,7,57,20,10,,15,,919,60,84,27,1,13,314,154,132,85,,27,24,4,0,0,,,0,0,,2017/2018
+263,1290,Guillermo,Varela Olivera,29,Uruguay,173 cm,70 kg,False,33,Manchester United,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+264,1445,Konstantinos,Mavropanos,25,Greece,194 cm,89 kg,False,42,Arsenal,3,3,195,Defender,5.800000,False,0,0,0,0,0,0,,,,91,0,86,1,3,6,17,8,1,1,,3,2,0,0,1,,,0,0,,2017/2018
+265,2278,Marcos,Alonso Mendoza,32,Spain,188 cm,84 kg,False,49,Chelsea,33,33,2860,Defender,7.127272,False,0,5,1,65,23,7,,2,,1070,34,78,51,5,47,295,158,33,17,,31,26,6,0,0,,,0,0,,2017/2018
+266,2285,Antonio,Rüdiger,29,Germany,190 cm,85 kg,False,49,Chelsea,27,25,2336,Defender,7.003703,False,2,0,11,16,4,2,,1,,1529,3,87,31,15,24,210,111,10,8,,14,26,4,0,0,,,0,0,,2017/2018
+267,18855,Levi Jeremiah,Lumeka,24,England,170 cm,66 kg,False,52,Crystal Palace,1,0,25,Attacker,6.300000,False,1,0,1,1,0,0,,,,5,0,71,1,0,1,6,2,3,1,,0,0,0,0,0,,,0,0,,2017/2018
+268,18980,José Heriberto,Izquierdo Mena,30,Colombia,171 cm,73 kg,False,51,Brighton,32,23,1987,Attacker,6.774193,False,9,12,12,52,16,5,,3,,410,21,78,23,0,16,185,83,51,32,,13,20,2,0,0,2,,0,0,,2017/2018
+269,19044,Chris Jörg,Löwe,33,Germany,175 cm,68 kg,False,37,Huddersfield,23,19,1593,Defender,6.652173,False,4,9,12,8,2,0,,,,449,6,64,43,8,34,128,68,8,5,,8,13,1,0,0,,1,0,0,,2017/2018
+270,19045,Christopher,Schindler,32,Germany,189 cm,82 kg,False,37,Huddersfield,37,37,3266,Defender,7.118918,False,0,1,0,10,0,0,,1,,1130,9,77,83,30,75,398,258,2,2,,21,30,7,1,0,,,0,0,,2017/2018
+271,19056,Laurent,Depoitre,34,Belgium,191 cm,91 kg,False,37,Huddersfield,33,18,1808,Attacker,6.684375,False,15,3,17,25,12,6,,1,,275,14,57,14,3,11,408,168,26,12,,16,28,1,0,0,1,,0,0,,2017/2018
+272,19492,Jakob,Let Haugaard,30,Denmark,199 cm,87 kg,False,75,Stoke City,0,0,0,Goalkeeper,,False,0,0,12,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+273,19509,Thibaud Christa Philippe,Verlinden,23,Belgium,173 cm,65 kg,False,75,Stoke City,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+274,19827,Joshua Jon,Cullen,26,Republic of Ireland,175 cm,70 kg,False,48,West Ham,2,0,6,Midfielder,6.300000,False,2,0,14,0,0,0,,,,3,0,75,,1,2,1,0,0,0,,0,0,0,0,0,,,0,0,,2017/2018
+275,25293,Reece,Oxford,24,England,193 cm,86 kg,False,48,West Ham,1,0,4,Defender,6.800000,False,1,0,1,0,0,0,,,,0,0,0,2,0,0,3,2,0,0,,0,1,0,0,0,,,0,0,,2017/2018
+276,25454,Markus,Suttner,35,Austria,179 cm,73 kg,False,51,Brighton,14,13,1178,Defender,6.671428,False,1,0,9,3,0,0,,,,332,6,73,25,2,12,78,42,5,1,,2,5,0,0,0,,,0,0,,2017/2018
+277,47430,Wesley Theodorus,Hoedt,28,Netherlands,188 cm,77 kg,False,41,Southampton,28,28,2520,Defender,6.946428,False,0,0,6,15,2,0,,1,,1044,9,76,60,17,40,262,160,27,25,,15,22,7,0,0,,1,0,0,,2017/2018
+278,48590,Julien,Fontaine Ngoy Bin Cibambi,25,Belgium,185 cm,64 kg,False,75,Stoke City,1,0,19,Attacker,6.500000,False,1,0,3,0,0,0,,,,4,0,80,1,0,0,3,1,0,0,,0,1,0,0,0,,,0,0,,2017/2018
+279,87909,Adam,King,27,Scotland,180 cm,75 kg,False,76,Swansea,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+280,907,Romelu,Lukaku Menama,29,Belgium,190 cm,93 kg,False,33,Manchester United,34,33,2869,Attacker,7.185294,False,1,3,1,86,43,16,,7,,493,34,66,7,2,3,374,166,57,35,,16,31,4,0,0,,,0,1,,2017/2018
+281,2280,César,Azpilicueta Tanco,33,Spain,178 cm,76 kg,False,49,Chelsea,37,37,3330,Defender,7.354054,False,0,0,1,13,3,2,,6,,2395,32,84,80,22,54,293,179,9,6,,13,25,1,0,0,,,0,0,,2017/2018
+282,2282,Andreas,Bødtker Christensen,26,Denmark,187 cm,82 kg,False,49,Chelsea,27,23,2071,Defender,7.096000,False,4,6,13,12,1,0,,,,1260,4,92,26,17,38,138,98,5,5,,13,8,0,0,0,,,0,0,,2017/2018
+283,2287,Ross,Barkley,29,England,189 cm,76 kg,False,49,Chelsea,2,2,131,Midfielder,6.600000,False,0,2,6,2,1,0,,,,38,2,75,,1,0,16,8,6,5,,1,1,0,0,0,,,0,0,,2017/2018
+284,2290,N'Golo,Kanté,31,France,168 cm,68 kg,False,49,Chelsea,34,34,2998,Midfielder,7.144117,False,0,4,0,25,5,1,,1,,1921,41,88,113,4,86,369,191,57,47,,15,41,3,0,0,,,0,0,,2017/2018
+285,2292,Ruben,Loftus-Cheek,26,England,191 cm,88 kg,False,52,Crystal Palace,24,21,1875,Midfielder,6.913043,False,3,4,3,32,7,2,,3,,596,26,80,22,2,23,367,188,109,72,,62,17,1,0,0,1,,0,0,,2017/2018
+286,2298,Callum,Hudson-Odoi,22,England,182 cm,76 kg,False,49,Chelsea,2,0,27,Attacker,7.000000,False,2,0,4,2,1,0,,,,12,0,75,,0,0,5,5,5,5,,0,0,0,0,0,,,0,0,,2017/2018
+287,2930,Jack,Butland,29,England,196 cm,95 kg,False,75,Stoke City,35,35,3150,Goalkeeper,7.002857,False,0,0,0,0,0,0,61,,144,540,1,46,1,0,1,11,10,1,0,,3,0,0,0,0,,,0,0,0,2017/2018
+288,2933,Ben,Chilwell,26,England,178 cm,77 kg,False,46,Leicester,24,20,1852,Defender,6.766666,False,4,3,12,6,1,0,,2,,666,22,72,36,4,28,284,156,51,31,,23,13,2,1,0,,,0,0,,2017/2018
+289,2991,Cheikhou,Kouyaté,33,Senegal,189 cm,83 kg,False,48,West Ham,33,32,2803,Midfielder,6.639393,False,1,5,1,23,5,2,,3,,725,16,75,71,11,32,485,251,33,20,,41,45,5,0,0,,1,0,0,,2017/2018
+290,18806,Will,Hughes,27,England,185 cm,74 kg,False,38,Watford,15,11,995,Midfielder,6.953333,False,4,9,6,12,4,2,,3,,321,17,77,34,1,15,133,65,10,7,,21,19,0,0,0,,,0,0,,2017/2018
+291,18840,Martin,Kelly,32,England,191 cm,77 kg,False,52,Crystal Palace,15,12,1194,Defender,6.620000,False,3,2,16,5,2,0,,,,254,2,71,19,11,9,110,52,3,2,,4,8,1,0,0,,,0,0,,2017/2018
+292,18843,Jeffrey,Schlupp,30,Ghana,178 cm,72 kg,False,52,Crystal Palace,24,21,1748,Midfielder,6.729166,False,3,6,6,15,2,0,,1,,485,12,74,57,8,24,242,116,23,13,,8,18,3,0,0,,,0,0,,2017/2018
+293,18844,James,Tomkins,33,England,192 cm,74 kg,False,52,Crystal Palace,28,27,2388,Defender,7.192857,False,1,2,7,23,10,3,,,,722,1,78,47,12,66,285,182,6,6,,14,20,8,0,0,,1,0,0,,2017/2018
+294,18847,Joel,Ward,33,England,188 cm,83 kg,False,52,Crystal Palace,19,19,1616,Defender,6.878947,False,0,3,4,5,1,0,,1,,488,8,71,34,11,29,182,104,14,8,,29,25,4,0,0,,,0,0,,2017/2018
+295,18852,Luka,Milivojević,31,Serbia,186 cm,80 kg,False,52,Crystal Palace,36,35,3082,Midfielder,7.044444,False,1,3,2,42,17,10,,1,,1321,21,78,86,12,71,392,195,37,28,,33,69,8,0,0,,,7,1,,2017/2018
+296,18862,Nathaniel Edwin,Clyne,31,England,175 cm,67 kg,False,40,Liverpool,3,2,174,Defender,6.566666,False,1,1,3,2,1,0,,,,83,1,82,3,1,0,18,6,2,0,,0,4,1,0,0,,,0,0,,2017/2018
+297,18902,Robert Kenedy,Nunes do Nascimento,26,Brazil,182 cm,77 kg,False,34,Newcastle,13,13,1030,Midfielder,6.907692,False,0,7,0,23,5,2,,2,,272,14,76,31,1,15,160,70,34,17,,20,15,1,0,0,1,,0,0,,2017/2018
+298,19295,Molla,Wagué,31,Mali,191 cm,87 kg,False,38,Watford,6,5,439,Defender,6.533333,False,1,2,8,3,1,1,,,,108,0,69,5,0,9,36,22,0,0,,1,5,0,0,0,,1,0,0,,2017/2018
+299,19720,Trevoh,Chalobah,23,England,,,False,49,Chelsea,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+300,172,Bamidele,Alli,26,England,188 cm,76 kg,False,47,Tottenham,36,34,2972,Midfielder,6.975000,False,2,16,2,69,17,9,,10,,966,65,76,46,7,19,467,202,105,44,,84,43,7,0,0,1,,0,0,,2017/2018
+301,630,Fabian,Delph,33,England,174 cm,60 kg,False,50,Manchester City,22,21,1746,Midfielder,7.113636,False,1,6,4,10,3,1,,2,,1501,11,92,46,0,30,191,114,32,30,,18,15,2,0,0,,,0,0,,2017/2018
+302,2413,Richarlison,de Andrade,25,Brazil,184 cm,83 kg,False,38,Watford,38,32,2827,Attacker,6.800000,False,6,10,6,95,22,5,,4,,514,26,61,64,5,24,681,325,99,47,,95,37,4,0,0,2,,0,0,,2017/2018
+303,2928,Christian,Benteke Liolo,32,Belgium,190 cm,83 kg,False,52,Crystal Palace,31,24,2236,Attacker,6.851612,False,7,3,7,60,21,3,,5,,379,28,56,10,3,3,568,289,26,16,,27,48,6,0,0,2,,1,1,,2017/2018
+304,2932,Jordan,Pickford,28,England,185 cm,77 kg,False,45,Everton,38,38,3420,Goalkeeper,6.786842,False,0,0,0,1,0,0,58,,121,517,3,44,,0,2,26,22,0,0,,6,1,0,0,0,,,0,0,1,2017/2018
+305,2934,Michael,Keane,29,England,191 cm,82 kg,False,45,Everton,30,29,2561,Defender,6.876666,False,1,2,5,15,1,0,,1,,899,4,75,33,28,53,310,177,7,7,,10,21,3,0,0,,,0,0,,2017/2018
+306,3247,Wilfried,Zaha,30,Côte d'Ivoire,180 cm,66 kg,False,52,Crystal Palace,29,28,2550,Attacker,7.182758,False,1,2,1,64,26,9,,3,,469,54,74,30,0,6,493,228,196,118,,76,45,5,0,0,4,,0,0,,2017/2018
+307,3428,Jordan,Ayew,31,Ghana,182 cm,80 kg,False,76,Swansea,36,33,2859,Attacker,6.755555,False,3,10,3,66,21,7,,2,,691,16,82,82,3,24,666,292,124,74,,87,63,2,0,1,,,1,0,,2017/2018
+308,18758,Séamus,Coleman,34,Republic of Ireland,177 cm,67 kg,False,45,Everton,12,12,1036,Defender,6.916666,False,0,1,0,5,2,0,,1,,261,7,73,14,12,12,111,67,36,25,,13,3,0,0,0,,,0,0,,2017/2018
+309,18760,Jonjoe,Kenny,25,England,176 cm,70 kg,False,45,Everton,19,17,1588,Defender,6.773684,False,2,0,7,3,1,0,,1,,402,10,65,41,7,28,164,89,16,6,,4,17,2,0,0,1,,0,0,,2017/2018
+310,18762,Tom,Davies,24,England,180 cm,70 kg,False,45,Everton,33,20,1899,Midfielder,6.540625,False,13,12,15,21,3,2,,1,,539,11,77,30,5,24,279,117,37,26,,43,38,7,0,0,,,0,0,,2017/2018
+311,18766,Dominic,Calvert-Lewin,25,England,187 cm,71 kg,False,45,Everton,32,18,1874,Attacker,6.771875,False,14,5,15,43,17,4,,6,,300,20,63,15,1,10,482,196,43,21,,27,43,4,0,0,4,,0,0,,2017/2018
+312,18781,Demarai,Gray,26,England,180 cm,74 kg,False,46,Leicester,35,17,1690,Midfielder,6.708823,False,18,11,21,36,9,3,,1,,442,29,76,17,0,11,194,90,63,38,,30,7,2,0,0,1,,0,0,,2017/2018
+313,18805,Abdoulaye,Doucouré,29,Mali,184 cm,75 kg,False,38,Watford,37,37,3325,Midfielder,7.027027,False,0,1,0,47,17,7,,3,,1877,40,83,79,10,54,391,188,53,41,,26,44,10,0,0,,1,0,0,,2017/2018
+314,18849,James,McArthur,35,Scotland,178 cm,75 kg,False,52,Crystal Palace,33,27,2434,Midfielder,6.696969,False,6,9,8,30,11,5,,1,,846,21,77,58,2,36,336,151,38,27,,28,45,5,0,0,,,0,0,,2017/2018
+315,18853,Jaïro,Riedewald,26,Netherlands,182 cm,79 kg,False,52,Crystal Palace,12,4,434,Midfielder,6.636363,False,8,0,25,1,0,0,,,,123,0,79,11,1,12,29,18,3,3,,0,3,0,0,0,,,0,0,,2017/2018
+316,18854,Andros,Townsend,31,England,181 cm,77 kg,False,52,Crystal Palace,36,35,3128,Midfielder,7.194444,False,1,9,2,62,14,2,,7,,804,68,77,60,1,35,377,193,121,84,,46,10,3,0,0,2,,0,0,,2017/2018
+317,18858,Asmir,Begović,35,Bosnia and Herzegovina,199 cm,101 kg,False,35,Bournemouth,38,38,3420,Goalkeeper,6.747368,False,0,0,0,0,0,0,61,,111,485,1,52,,0,2,21,15,0,0,,7,2,2,0,0,,,0,0,1,2017/2018
+318,19150,Mason,Holgate,26,England,184 cm,63 kg,False,45,Everton,15,13,1182,Defender,6.921428,False,2,0,14,6,2,0,,,,320,7,64,23,9,23,143,75,12,8,,12,12,3,0,0,,,0,0,,2017/2018
+319,127605,Nathan,Ferguson,22,England,,,False,60,West Brom,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+320,171,Kyle,Walker-Peters,25,England,173 cm,62 kg,False,47,Tottenham,3,2,188,Defender,6.966666,False,1,0,12,0,0,0,,2,,80,3,80,5,0,3,31,15,8,4,,4,1,0,0,0,,,0,0,,2017/2018
+321,617,Ederson,Santana de Moraes,29,Brazil,188 cm,86 kg,False,50,Manchester City,36,36,3195,Goalkeeper,6.930555,False,0,1,2,0,0,0,26,,58,792,1,85,1,0,0,21,20,1,1,,6,0,1,0,0,,,0,0,2,2017/2018
+322,622,Aymeric,Laporte,28,Spain,191 cm,86 kg,False,50,Manchester City,9,9,807,Defender,7.111111,False,0,1,5,3,0,0,,,,750,2,91,8,1,11,62,39,3,3,,4,10,1,0,0,,,0,0,,2017/2018
+323,626,John,Stones,28,England,188 cm,70 kg,False,50,Manchester City,18,16,1305,Defender,6.994117,False,2,5,6,11,4,0,,,,1194,0,90,15,5,19,82,54,4,4,,2,6,0,0,0,,,0,0,,2017/2018
+324,627,Kyle,Walker,32,England,178 cm,70 kg,False,50,Manchester City,32,32,2787,Defender,7.078125,False,0,2,4,13,1,0,,6,,2073,30,86,47,2,29,252,161,38,26,,19,17,3,1,0,,,0,0,,2017/2018
+325,1455,Alexander Chuka,Iwobi,26,Nigeria,180 cm,75 kg,False,42,Arsenal,26,22,1843,Attacker,7.115384,False,4,17,14,45,23,3,,5,,985,38,85,19,1,7,154,70,52,36,,12,11,1,0,0,,,0,0,,2017/2018
+326,2275,Wilfredo Daniel,Caballero,41,Argentina,186 cm,81 kg,False,49,Chelsea,3,3,270,Goalkeeper,6.566666,False,0,0,35,0,0,0,4,,7,61,0,72,,0,0,2,2,0,0,,0,0,0,0,0,,,0,0,0,2017/2018
+327,2461,José Salomón,Rondón Giménez,33,Venezuela,186 cm,86 kg,False,60,West Brom,36,32,2772,Attacker,6.861111,False,4,9,5,79,29,7,,3,,556,23,67,14,0,15,674,277,74,45,,55,42,4,0,0,,,0,0,,2017/2018
+328,2938,James,Ward-Prowse,28,England,173 cm,66 kg,False,41,Southampton,30,20,1716,Midfielder,6.903448,False,10,10,17,28,14,3,,3,,589,37,67,23,1,8,163,61,6,5,,12,18,3,0,0,,,0,0,,2017/2018
+329,2999,Jan Kacper,Bednarek,26,Poland,189 cm,77 kg,False,41,Southampton,5,5,428,Defender,6.700000,False,0,2,9,1,1,1,,,,137,0,75,6,1,5,38,14,0,0,,1,3,1,0,0,,,0,0,,2017/2018
+330,18768,Cenk,Tosun,31,Turkey,183 cm,78 kg,False,45,Everton,14,12,991,Attacker,6.964285,False,2,7,4,19,8,5,,,,185,15,71,6,4,2,169,52,8,4,,11,25,0,0,0,,,0,0,,2017/2018
+331,18769,Theo,Walcott,33,England,176 cm,68 kg,False,45,Everton,14,13,1153,Attacker,6.650000,False,1,2,1,0,0,3,,,,14,0,52,1,0,1,6,2,1,1,,0,1,2,0,0,,,0,0,,2017/2018
+332,18861,Nathan Benjamin,Aké,27,Netherlands,180 cm,75 kg,False,35,Bournemouth,38,37,3353,Defender,6.950000,False,1,1,1,18,8,2,,3,,1332,9,82,53,24,48,326,185,10,9,,19,27,5,0,0,,,0,0,,2017/2018
+333,18932,Fraser,Forster,34,England,201 cm,93 kg,False,41,Southampton,20,20,1800,Goalkeeper,6.735000,False,0,0,18,0,0,0,30,,68,191,0,43,,0,0,1,1,0,0,,1,0,0,0,0,,,0,0,1,2017/2018
+334,18935,Alex,McCarthy,33,England,193 cm,79 kg,False,41,Southampton,18,18,1620,Goalkeeper,6.622222,False,0,0,19,0,0,0,26,,42,157,0,39,,0,1,11,11,0,0,,1,0,2,0,0,,,0,0,0,2017/2018
+335,18940,Jack,Stephens,28,England,185 cm,75 kg,False,41,Southampton,22,22,1980,Defender,6.809090,False,0,0,5,11,4,2,,,,701,4,73,29,18,41,173,102,25,17,,11,13,6,0,1,,,0,0,,2017/2018
+336,18948,Nathan,Redmond,28,England,173 cm,69 kg,False,41,Southampton,31,22,1945,Midfielder,6.826666,False,9,9,13,44,15,1,,3,,613,42,73,32,0,15,229,109,79,55,,18,19,3,0,0,,,0,0,,2017/2018
+337,18949,Oriol,Romeu Vidal,31,Spain,183 cm,83 kg,False,41,Southampton,34,34,2903,Midfielder,6.914705,False,0,6,3,27,4,1,,,,1524,23,81,92,19,69,454,241,18,16,,37,53,11,0,0,,,0,0,,2017/2018
+338,18956,Shane Patrick,Long,35,Republic of Ireland,178 cm,81 kg,False,41,Southampton,30,15,1577,Attacker,6.780000,False,15,10,18,33,13,2,,1,,264,22,68,25,2,12,351,150,14,9,,40,34,6,0,0,1,,0,0,,2017/2018
+339,138787,Anthony,Gordon,21,England,,,False,45,Everton,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+340,284,Joe,Gomez,25,England,188 cm,77 kg,False,40,Liverpool,23,21,1900,Defender,6.991304,False,2,0,8,5,0,0,,2,,1129,17,80,56,8,36,203,121,26,23,,10,15,3,0,0,,,0,0,,2017/2018
+341,286,Joël Andre,Job Matip,31,Cameroon,195 cm,90 kg,False,40,Liverpool,25,22,1994,Defender,7.069565,False,3,0,4,11,2,1,,,,1468,5,80,35,15,35,162,104,4,3,,10,19,3,0,0,,,0,0,,2017/2018
+342,289,Andrew,Robertson,28,Scotland,178 cm,64 kg,False,40,Liverpool,22,22,1943,Defender,7.113636,False,0,3,5,12,2,1,,5,,1237,24,85,31,2,26,117,59,17,9,,4,15,2,0,0,,,0,0,,2017/2018
+343,290,Virgil,van Dijk,31,Netherlands,193 cm,92 kg,False,40,Liverpool,14,14,1260,Defender,7.264285,False,0,0,1,16,6,0,,,,1021,5,87,15,2,18,143,102,1,0,,11,8,1,0,0,,1,0,0,,2017/2018
+344,623,Benjamin,Mendy,28,France,185 cm,85 kg,False,50,Manchester City,7,4,361,Defender,6.900000,False,3,1,4,5,1,0,,1,,161,9,86,5,0,8,37,14,8,3,,1,6,2,0,0,,,0,0,,2017/2018
+345,629,Kevin,De Bruyne,31,Belgium,181 cm,68 kg,False,50,Manchester City,37,36,3085,Midfielder,7.837837,False,1,13,2,94,39,8,,16,,2247,111,81,62,2,25,359,172,87,63,,33,30,2,0,0,1,,0,0,,2017/2018
+346,631,Philip,Foden,22,England,171 cm,70 kg,False,50,Manchester City,5,0,44,Midfielder,6.725000,False,5,0,13,0,0,0,,1,,40,2,71,1,0,0,12,7,3,3,,3,1,0,0,0,,,0,0,,2017/2018
+347,633,İlkay,Gündoğan,32,Germany,180 cm,80 kg,False,50,Manchester City,30,15,1508,Midfielder,6.964285,False,15,6,19,35,11,4,,1,,1286,22,91,27,1,16,158,75,35,26,,19,14,3,0,0,,,1,0,,2017/2018
+348,635,Riyad,Mahrez,31,Algeria,179 cm,67 kg,False,46,Leicester,36,34,2960,Attacker,7.066666,False,2,12,2,73,36,12,,10,,1013,59,78,39,1,18,470,205,157,80,,58,23,2,0,0,,,0,0,,2017/2018
+349,636,Bernardo,Mota Veiga de Carvalho e Silva,28,Portugal,173 cm,64 kg,False,50,Manchester City,35,15,1519,Midfielder,6.939393,False,20,6,23,25,14,6,,4,,813,31,85,27,1,10,172,88,41,29,,27,9,0,0,0,1,,0,0,,2017/2018
+350,640,Fernando Luiz,Rosa,37,Brazil,179 cm,67 kg,False,50,Manchester City,34,33,2885,Midfielder,7.323529,False,1,5,1,47,19,5,,3,,2679,24,89,62,6,47,379,204,25,22,,27,41,7,0,0,,,0,0,,2017/2018
+351,641,Oleksandr,Zinchenko,26,Ukraine,175 cm,64 kg,False,50,Manchester City,8,6,533,Midfielder,7.212500,False,2,3,14,5,2,0,,,,621,8,90,23,0,6,61,43,3,3,,1,7,1,0,0,,,0,0,,2017/2018
+352,643,Gabriel Fernando,de Jesus,25,Brazil,175 cm,73 kg,False,50,Manchester City,29,19,1672,Attacker,7.042857,False,10,14,13,56,33,13,,3,,471,21,75,23,0,8,212,86,37,24,,18,28,6,0,0,,,0,2,,2017/2018
+353,645,Raheem,Sterling,28,England,170 cm,69 kg,False,50,Manchester City,33,29,2592,Attacker,7.400000,False,4,9,5,87,35,18,,11,,983,56,84,19,0,9,349,148,119,64,,58,39,4,1,0,6,1,1,0,,2017/2018
+354,1972,Loris,Karius,29,Germany,189 cm,90 kg,False,40,Liverpool,19,19,1710,Goalkeeper,6.878947,False,0,0,19,0,0,0,14,,31,350,0,67,,0,1,14,10,0,0,,3,2,1,0,0,,,0,0,1,2017/2018
+355,3398,Gaëtan,Bong Songo,34,Cameroon,187 cm,74 kg,False,51,Brighton,25,25,2238,Defender,6.716000,False,0,2,2,4,1,0,,,,545,9,68,38,6,41,174,96,29,16,,13,16,2,0,0,,,0,0,,2017/2018
+356,18812,Adrián,San Miguel del Castillo,35,Spain,190 cm,80 kg,False,48,West Ham,19,19,1710,Goalkeeper,6.947368,False,0,0,19,0,0,0,29,,69,221,0,42,2,0,0,12,7,0,0,,3,1,2,0,0,,,0,0,0,2017/2018
+357,18863,Steve,Cook,31,England,185 cm,82 kg,False,35,Bournemouth,34,31,2766,Defender,7.014705,False,3,2,6,22,6,2,,1,,1001,5,72,37,45,54,295,188,2,1,,19,22,5,0,0,,,0,0,,2017/2018
+358,19299,Jack,Colback,33,England,177 cm,77 kg,False,34,Newcastle,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+359,19309,Joe,Lolley,30,England,178 cm,72 kg,False,37,Huddersfield,6,2,219,Attacker,6.340000,False,4,2,6,3,3,1,,,,51,1,67,2,0,3,31,10,9,3,,2,3,1,0,0,,,0,0,,2017/2018
+360,283,Trent,Alexander-Arnold,24,England,175 cm,69 kg,False,40,Liverpool,19,18,1576,Defender,7.055555,False,1,4,17,12,5,1,,1,,778,25,71,37,5,28,131,63,32,20,,1,12,3,0,0,,,0,0,,2017/2018
+361,292,Jordan,Henderson,32,England,182 cm,67 kg,False,40,Liverpool,27,25,2173,Midfielder,7.065384,False,2,4,6,15,3,1,,1,,1761,25,83,51,2,30,186,98,14,8,,14,26,1,0,0,,1,0,0,,2017/2018
+362,293,Curtis,Jones,21,England,185 cm,75 kg,False,40,Liverpool,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+363,296,James Philip,Milner,36,England,175 cm,70 kg,False,40,Liverpool,32,16,1762,Midfielder,7.009375,False,16,3,21,21,5,0,,3,,1279,34,78,58,5,22,210,115,16,12,,22,29,3,0,0,,,0,0,,2017/2018
+364,297,Alex,Oxlade-Chamberlain,29,England,180 cm,70 kg,False,40,Liverpool,32,14,1484,Midfielder,7.700000,False,18,9,18,9,2,3,,,,104,5,84,5,2,6,43,27,21,17,,1,1,3,0,0,,,0,0,,2017/2018
+365,302,Roberto Firmino,Barbosa de Oliveira,31,Brazil,181 cm,76 kg,False,40,Liverpool,37,32,2778,Attacker,7.305405,False,5,20,6,84,38,15,,7,,850,58,72,65,2,18,505,176,73,50,,18,57,1,0,0,1,,1,0,,2017/2018
+366,304,Sadio,Mané,30,Senegal,175 cm,69 kg,False,40,Liverpool,29,28,2207,Attacker,7.275000,False,1,18,4,70,26,10,,7,,773,50,79,28,0,9,341,160,86,55,,50,24,3,0,1,,,0,0,,2017/2018
+367,305,Divock,Okoth Origi,27,Belgium,185 cm,75 kg,False,40,Liverpool,1,0,9,Attacker,6.500000,False,1,0,2,0,0,0,,,,1,0,50,,0,0,1,0,0,0,,0,0,0,0,0,,,0,0,,2017/2018
+368,306,Mohamed,Salah Ghaly,30,Egypt,175 cm,71 kg,False,40,Liverpool,36,34,2922,Attacker,7.588888,False,2,17,2,144,67,32,,10,,726,63,76,12,0,5,342,132,123,78,,29,16,1,0,0,1,,1,1,,2017/2018
+369,882,David,de Gea Quintana,32,Spain,192 cm,76 kg,False,33,Manchester United,37,37,3330,Goalkeeper,7.010810,False,0,0,0,0,0,0,28,,115,542,1,59,,0,0,8,6,1,1,,4,0,0,0,0,,,0,0,0,2017/2018
+370,883,Lee,Grant,39,England,193 cm,83 kg,False,75,Stoke City,3,3,270,Goalkeeper,6.366666,False,0,0,26,0,0,0,7,,8,44,0,55,1,0,0,1,1,0,0,,0,0,0,0,0,,,0,0,0,2017/2018
+371,885,Eric Bertrand,Bailly,28,Côte d'Ivoire,187 cm,77 kg,False,33,Manchester United,13,11,999,Defender,7.025000,False,2,0,7,3,1,1,,,,367,2,72,17,6,25,77,47,4,4,,9,10,2,0,0,,,0,0,,2017/2018
+372,888,Phil,Jones,30,England,180 cm,71 kg,False,33,Manchester United,23,23,1975,Defender,7.208695,False,0,2,3,2,0,0,,,,988,2,90,25,17,41,155,109,9,7,,24,10,2,0,0,,,0,0,,2017/2018
+373,889,Victor Jörgen,Nilsson Lindelöf,28,Sweden,187 cm,80 kg,False,33,Manchester United,17,13,1281,Defender,6.926666,False,4,0,13,1,0,0,,,,682,2,78,17,11,13,92,51,5,4,,9,10,1,0,0,,,0,0,,2017/2018
+374,891,Luke,Shaw,27,England,185 cm,75 kg,False,33,Manchester United,11,8,788,Defender,7.018181,False,3,1,13,12,5,0,,,,405,9,85,18,2,4,87,49,10,6,,8,4,2,0,0,,,0,0,,2017/2018
+375,2931,Tom,Heaton,36,England,188 cm,85 kg,False,44,Burnley,4,4,306,Goalkeeper,6.575000,False,0,1,7,0,0,0,4,,8,48,0,53,,0,0,1,1,0,0,,0,0,0,0,0,,,0,0,0,2017/2018
+376,2935,Harry,Maguire,29,England,194 cm,100 kg,False,46,Leicester,38,38,3420,Defender,7.052631,False,0,0,0,30,8,2,,4,,1363,18,77,62,28,48,397,262,59,51,,30,34,7,0,0,,2,0,0,,2017/2018
+377,18828,Robert,Snodgrass,35,Scotland,182 cm,82 kg,False,48,West Ham,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+378,19408,Reece,Burke,26,England,188 cm,81 kg,False,48,West Ham,0,0,0,Defender,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+379,19955,Josh,Knight,25,England,185 cm,78 kg,False,46,Leicester,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+380,900,Jesse,Lingard,30,England,175 cm,62 kg,False,33,Manchester United,33,20,1821,Midfielder,7.025000,False,13,17,17,56,23,8,,5,,818,26,88,30,3,9,223,99,52,28,,36,34,2,0,0,,,0,0,,2017/2018
+381,901,Juan Manuel,Mata García,34,Spain,170 cm,63 kg,False,33,Manchester United,28,23,1933,Midfielder,7.092857,False,5,16,13,28,10,3,,5,,1054,51,86,18,0,15,125,58,24,17,,20,12,1,0,0,,,0,0,,2017/2018
+382,902,Nemanja,Matić,34,Serbia,194 cm,85 kg,False,33,Manchester United,36,35,3119,Midfielder,7.113888,False,1,2,1,18,3,1,,1,,2281,25,86,70,13,64,350,202,65,54,,22,33,6,0,0,,,0,0,,2017/2018
+383,903,Scott,McTominay,26,Scotland,193 cm,88 kg,False,33,Manchester United,13,7,629,Midfielder,6.650000,False,6,1,16,1,0,0,,,,302,2,83,11,0,13,81,43,8,5,,16,7,2,0,0,,,0,0,,2017/2018
+384,904,Paul,Pogba,29,France,191 cm,84 kg,False,33,Manchester United,27,25,2151,Midfielder,7.388888,False,2,5,2,76,18,6,,10,,1468,39,84,33,0,21,373,208,101,75,,51,44,5,0,1,,,0,0,,2017/2018
+385,909,Marcus,Rashford,25,England,180 cm,70 kg,False,33,Manchester United,35,17,1805,Attacker,6.894117,False,18,10,20,61,21,7,,5,,451,22,73,14,0,8,229,94,92,45,,17,21,3,0,0,,,0,0,,2017/2018
+386,18599,Benjamin Sorba William,Thomas,23,Wales,,,False,1830,Boreham Wood,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+387,18759,Philip Nikodem,Jagielka,40,England,180 cm,87 kg,False,45,Everton,25,23,2065,Defender,6.908000,False,2,2,7,7,2,0,,,,733,1,69,33,20,39,181,114,2,1,,15,8,2,0,0,,,0,0,,2017/2018
+388,18807,Domingos,Quina,23,Portugal,179 cm,72 kg,False,48,West Ham,0,0,0,Midfielder,,False,0,0,8,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+389,18846,Aaron,Wan-Bissaka,25,England,183 cm,72 kg,False,52,Crystal Palace,7,7,628,Defender,7.414285,False,0,1,7,0,0,0,,,,148,3,65,29,7,15,78,54,15,13,,3,2,1,0,0,,,0,0,,2017/2018
+390,19046,Tom,Smith,30,England,186 cm,75 kg,False,37,Huddersfield,24,21,1907,Defender,6.666666,False,3,6,15,8,2,0,,1,,560,15,67,38,6,26,143,83,13,9,,18,20,7,0,0,,1,0,0,,2017/2018
+391,19049,Jonathan,Hogg,34,England,170 cm,67 kg,False,37,Huddersfield,30,29,2408,Midfielder,6.860000,False,1,11,3,12,2,0,,,,1204,9,83,92,12,69,307,163,12,8,,30,32,9,1,0,,,0,0,,2017/2018
+392,19386,Rolando,Aarons,27,England,178 cm,76 kg,False,34,Newcastle,4,1,137,Attacker,6.625000,False,3,1,10,2,1,0,,,,28,0,69,4,0,1,26,12,6,4,,3,1,0,0,0,,,0,0,,2017/2018
+393,19499,Josh,Tymon,23,England,178 cm,74 kg,False,75,Stoke City,3,2,163,Defender,6.266666,False,1,1,6,0,0,0,,,,71,0,84,5,0,1,9,6,1,1,,0,0,0,0,0,,,0,0,,2017/2018
+394,19502,Joseph Michael,Allen,32,Wales,168 cm,62 kg,False,75,Stoke City,36,36,3142,Midfielder,6.769444,False,0,3,1,24,4,2,,6,,1101,31,80,95,9,57,470,224,55,44,,49,49,8,0,0,,,0,0,,2017/2018
+395,19503,Sam,Clucas,32,England,178 cm,75 kg,False,76,Swansea,29,23,2045,Midfielder,6.789655,False,6,7,12,19,7,3,,1,,657,15,81,34,7,30,180,89,9,5,,14,10,2,0,0,,,0,0,,2017/2018
+396,19507,James Joseph,McClean,33,Republic of Ireland,180 cm,70 kg,False,60,West Brom,30,14,1396,Defender,6.517241,False,16,6,24,30,6,1,,,,261,18,69,40,4,19,235,90,41,23,,12,35,7,0,0,,,0,0,,2017/2018
+397,20079,Harry James,Souttar,24,Australia,198 cm,79 kg,False,75,Stoke City,0,0,0,Defender,,False,0,0,5,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+398,20310,Tyrese,Campbell,23,England,,,False,75,Stoke City,4,0,75,Attacker,6.725000,False,4,0,8,2,1,0,,,,9,0,56,2,1,1,11,4,0,0,,0,0,0,0,0,,,0,0,,2017/2018
+399,90504,Tashan,Oakley-Boothe,22,England,182 cm,73 kg,False,47,Tottenham,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+400,159,Hugo,Lloris,36,France,188 cm,82 kg,False,47,Tottenham,36,36,3240,Goalkeeper,6.902777,False,0,0,0,0,0,0,35,,86,749,1,75,1,0,2,18,12,1,1,,2,1,1,0,0,,,0,0,0,2017/2018
+401,164,Benjamin,Thomas Davies,29,Wales,181 cm,76 kg,False,47,Tottenham,29,26,2323,Defender,7.261538,False,3,2,10,18,6,2,,6,,1045,47,73,47,5,28,250,132,21,15,,25,24,3,0,0,,,0,0,,2017/2018
+402,168,Davinson,Sánchez Mina,26,Colombia,187 cm,81 kg,False,47,Tottenham,31,29,2534,Defender,6.993333,False,2,2,3,9,1,0,,,,1670,4,87,38,10,38,249,138,9,9,,18,25,1,0,1,,,0,0,,2017/2018
+403,175,Eric,Dier,28,England,188 cm,88 kg,False,47,Tottenham,34,32,2827,Midfielder,7.029411,False,2,5,5,32,7,0,,2,,1939,15,84,61,11,48,290,163,15,13,,8,23,4,0,0,,,0,0,,2017/2018
+404,178,Lucas,Rodrigues Moura da Silva,30,Brazil,172 cm,72 kg,False,47,Tottenham,6,2,208,Midfielder,6.483333,False,4,2,10,5,2,0,,1,,88,7,75,4,0,2,44,21,12,6,,7,4,0,0,0,,,0,0,,2017/2018
+405,182,Harry,Winks,26,England,178 cm,65 kg,False,47,Tottenham,16,9,771,Midfielder,6.786666,False,7,4,12,3,0,0,,1,,578,10,88,15,2,11,67,34,10,8,,7,8,0,0,0,,,0,0,,2017/2018
+406,184,Harry,Kane,29,England,188 cm,86 kg,False,47,Tottenham,37,35,3083,Attacker,7.564864,False,2,9,2,184,76,30,,2,,468,33,70,17,4,5,393,162,96,47,,40,34,5,0,0,1,,2,1,,2017/2018
+407,186,Heung-Min,Son,30,Korea Republic,183 cm,78 kg,False,47,Tottenham,37,27,2311,Midfielder,6.972222,False,10,20,11,75,33,12,,6,,780,41,85,17,0,10,255,103,101,58,,26,15,0,0,0,,,0,0,,2017/2018
+408,295,Adam David,Lallana,34,England,172 cm,73 kg,False,40,Liverpool,12,1,235,Midfielder,6.544444,False,11,2,13,11,0,0,,,,189,7,78,3,0,1,44,17,7,6,,5,4,1,0,0,,,0,0,,2017/2018
+409,2735,Pierre-Emile,Kordt Højbjerg,27,Denmark,187 cm,84 kg,False,41,Southampton,23,19,1671,Midfielder,6.678260,False,4,5,12,16,6,0,,,,942,13,83,44,3,37,260,122,33,21,,29,32,6,0,0,,,0,0,,2017/2018
+410,18876,Jordon,Ibe,27,England,176 cm,81 kg,False,35,Bournemouth,32,22,1999,Attacker,6.809375,False,10,14,13,54,17,2,,6,,559,36,80,14,0,10,236,96,87,38,,41,10,1,0,0,,,0,0,,2017/2018
+411,18962,Shane Patrick Michael,Duffy,30,Republic of Ireland,193 cm,76 kg,False,51,Brighton,37,37,3294,Defender,7.105405,False,0,2,0,28,5,0,,1,,1041,8,74,31,59,50,388,252,7,6,,25,34,8,0,0,1,1,0,0,,2017/2018
+412,18963,Lewis,Dunk,31,England,192 cm,88 kg,False,51,Brighton,38,38,3420,Defender,7.139473,False,0,0,0,27,9,1,,1,,1171,11,76,67,58,71,353,212,13,10,,17,36,7,0,0,,,0,0,,2017/2018
+413,18970,Pascal,Groß,31,Germany,181 cm,78 kg,False,51,Brighton,38,35,2949,Midfielder,7.205263,False,3,24,3,43,19,7,,8,,927,87,73,36,5,14,266,79,15,11,,20,33,2,0,0,,,1,0,,2017/2018
+414,18973,Solomon,March,28,England,180 cm,88 kg,False,51,Brighton,36,18,1841,Midfielder,6.685294,False,18,8,20,28,9,1,,1,,495,20,76,54,3,13,320,143,82,48,,22,29,3,0,0,1,,0,0,,2017/2018
+415,19061,Tim,Krul,34,Netherlands,188 cm,84 kg,False,51,Brighton,0,0,0,Goalkeeper,,False,0,0,33,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+416,19066,Grant,Hanley,31,Scotland,187 cm,81 kg,False,34,Newcastle,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+417,19287,Sam,Byram,29,England,180 cm,72 kg,False,48,West Ham,5,2,246,Defender,6.825000,False,3,1,10,4,0,0,,,,50,2,55,9,2,9,42,25,3,2,,1,4,1,0,0,,,0,0,,2017/2018
+418,19321,Joe,Rodon,25,Wales,180 cm,70 kg,False,76,Swansea,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+419,19761,Kazenga,LuaLua,32,Congo DR,180 cm,76 kg,False,51,Brighton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+420,1469,Daniel Nii,Tackie Mensah Welbeck,32,England,185 cm,73 kg,False,42,Arsenal,28,12,1185,Attacker,6.796428,False,16,7,18,32,13,5,,2,,313,13,78,20,1,11,163,77,23,14,,20,13,1,0,0,,,0,0,,2017/2018
+421,1762,James,Murphy,33,Scotland,178 cm,72 kg,False,51,Brighton,4,1,165,Midfielder,6.433333,False,3,0,5,1,0,0,,,,37,1,90,2,0,1,16,8,2,1,,5,1,0,0,0,,,0,0,,2017/2018
+422,2281,Gary,Cahill,37,England,193 cm,86 kg,False,49,Chelsea,27,24,2084,Defender,6.877777,False,3,1,10,10,3,0,,,,1184,3,88,29,14,27,202,141,4,4,,17,17,1,0,1,,,0,0,,2017/2018
+423,2734,Philip,Anyanwu Billing,26,Denmark,193 cm,83 kg,False,37,Huddersfield,16,8,760,Midfielder,6.712500,False,8,4,12,7,2,0,,,,278,2,73,25,1,19,109,60,6,4,,6,14,3,0,0,,1,0,0,,2017/2018
+424,18582,Mark James,Ricketts,38,England,183 cm,71 kg,False,1830,Boreham Wood,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+425,18583,Kane,Smith,26,England,,,False,1830,Boreham Wood,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+426,18584,David Rhys Remington,Stephens,31,Wales,195 cm,92 kg,False,1830,Boreham Wood,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+427,18836,Wayne Robert,Hennessey,35,Wales,198 cm,90 kg,False,52,Crystal Palace,27,27,2430,Goalkeeper,6.811111,False,0,0,9,0,0,0,41,,91,317,1,46,,0,2,10,10,0,0,,2,0,1,0,0,,,0,0,0,2017/2018
+428,18869,Adam,Smith,31,England,180 cm,78 kg,False,35,Bournemouth,27,22,2068,Defender,6.774074,False,5,2,6,13,3,1,,3,,751,22,80,49,8,31,240,130,44,29,,39,23,6,0,0,,,0,0,,2017/2018
+429,18872,Lewis,Cook,25,England,175 cm,71 kg,False,35,Bournemouth,29,25,2238,Midfielder,6.818518,False,4,5,10,18,2,0,,2,,975,31,76,67,12,35,308,150,66,49,,20,33,5,0,0,,,0,0,,2017/2018
+430,18878,Junior,Stanislas,33,England,183 cm,76 kg,False,35,Bournemouth,19,17,1296,Midfielder,7.157894,False,2,12,2,45,20,5,,2,,378,24,75,16,6,6,113,48,30,20,,2,6,1,0,0,,,1,0,,2017/2018
+431,18883,Dominic,Solanke,25,England,187 cm,80 kg,False,40,Liverpool,21,5,582,Attacker,6.793333,False,16,2,30,22,8,1,,1,,148,15,53,7,1,2,114,40,14,9,,3,13,0,0,0,,,0,0,,2017/2018
+432,18889,Freddie,Woodman,25,England,188 cm,83 kg,False,34,Newcastle,0,0,0,Goalkeeper,,False,0,0,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+433,18911,Nick,Pope,30,England,191 cm,76 kg,False,44,Burnley,35,34,3114,Goalkeeper,6.954285,False,1,0,4,0,0,0,35,,113,429,4,39,,0,0,16,13,0,0,,1,1,3,0,0,,,0,0,1,2017/2018
+434,18916,Matthew,Lowton,33,England,180 cm,78 kg,False,44,Burnley,26,25,2294,Defender,7.000000,False,1,0,9,4,1,0,,3,,567,14,67,55,15,39,210,115,17,11,,18,19,1,0,0,,,0,0,,2017/2018
+435,18921,Robbie,Brady,30,Republic of Ireland,176 cm,71 kg,False,44,Burnley,15,15,1279,Midfielder,7.193333,False,0,2,0,24,6,1,,2,,309,26,67,32,3,7,149,68,25,16,,11,20,3,0,0,,,0,0,,2017/2018
+436,19218,Tom,Lawrence,28,Wales,175 cm,75 kg,False,46,Leicester,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+437,19826,Krystian,Bielik,24,Poland,189 cm,78 kg,False,42,Arsenal,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+438,19837,Jonathan Peter,Williams,29,Wales,168 cm,60 kg,False,52,Crystal Palace,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+439,50139,Brice,Dja Djédjé,32,Côte d'Ivoire,170 cm,71 kg,False,38,Watford,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+440,2790,Johann,Berg Guðmunds­son,32,Iceland,186 cm,78 kg,False,44,Burnley,35,32,2839,Midfielder,7.057142,False,3,9,4,54,18,2,,8,,594,67,74,43,1,34,316,149,65,36,,33,18,2,0,0,,,0,0,,2017/2018
+441,2936,James,Tarkowski,30,England,185 cm,81 kg,False,44,Burnley,31,31,2790,Defender,7.145161,False,0,0,0,18,5,0,,,,798,7,70,46,43,50,338,225,13,11,,24,25,5,0,0,,2,0,0,,2017/2018
+442,17728,Keshi,Anderson,27,England,175 cm,68 kg,False,52,Crystal Palace,0,0,0,Attacker,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+443,18912,Phil,Bardsley,37,Scotland,180 cm,74 kg,False,44,Burnley,13,13,1126,Defender,6.853846,False,0,1,20,2,2,0,,,,282,5,65,17,6,22,132,65,5,3,,19,22,5,0,0,,1,0,0,,2017/2018
+444,18915,Kevin,Long,32,Republic of Ireland,188 cm,83 kg,False,44,Burnley,16,16,1440,Defender,7.087500,False,0,0,22,10,2,1,,2,,388,6,68,32,14,19,212,131,0,0,,21,15,1,0,0,,1,0,0,,2017/2018
+445,18917,Ben,Mee,33,England,180 cm,74 kg,False,44,Burnley,29,29,2610,Defender,7.193103,False,0,0,0,25,8,0,,,,818,6,75,33,42,33,286,178,3,3,,29,14,5,0,0,,,0,0,,2017/2018
+446,18918,Charlie,Taylor,29,England,176 cm,70 kg,False,44,Burnley,11,10,949,Defender,6.745454,False,1,0,19,0,0,0,,,,218,4,65,16,5,15,96,59,18,8,,12,7,3,0,0,,,0,0,,2017/2018
+447,18922,Jack,Cork,33,England,183 cm,70 kg,False,44,Burnley,38,38,3420,Midfielder,6.771052,False,0,0,0,15,5,2,,1,,1275,19,79,60,15,41,394,196,41,31,,54,23,7,0,0,,,0,0,,2017/2018
+448,18925,Aaron,Lennon,35,England,165 cm,63 kg,False,44,Burnley,14,13,1124,Midfielder,6.578571,False,1,7,1,10,4,0,,2,,194,7,71,20,5,8,115,46,19,10,,12,10,2,0,0,,,0,0,,2017/2018
+449,18926,Ashley,Westwood,32,England,175 cm,80 kg,False,44,Burnley,19,12,1106,Midfielder,6.688888,False,7,2,26,8,1,0,,1,,490,9,69,13,9,19,74,34,4,2,,10,13,2,0,0,,,0,0,,2017/2018
+450,18927,Ashley Luke,Barnes,33,England,186 cm,77 kg,False,44,Burnley,36,21,2157,Attacker,6.880000,False,15,7,16,60,22,9,,,,310,18,55,21,5,2,526,189,25,16,,71,53,10,0,0,,,0,0,,2017/2018
+451,18929,Dwight,McNeil,23,England,,,False,44,Burnley,1,0,0,Attacker,,False,1,0,1,0,0,0,,,,1,0,100,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,,2017/2018
+452,18977,Dale,Stephens,33,England,169 cm,71 kg,False,51,Brighton,36,36,3240,Midfielder,6.877777,False,0,0,0,19,2,0,,3,,1472,17,82,103,16,63,351,166,23,18,,17,50,6,0,0,,1,0,0,,2017/2018
+453,19169,Jay,Rodriguez,33,England,185 cm,80 kg,False,60,West Brom,37,31,2824,Attacker,6.710810,False,6,18,7,69,25,7,,1,,510,21,70,31,2,19,424,161,66,29,,29,43,2,0,0,,,1,0,,2017/2018
+454,19331,Connor,Roberts,27,Wales,175 cm,71 kg,False,76,Swansea,4,3,268,Defender,6.825000,False,1,1,6,0,0,0,,,,108,0,76,6,0,3,21,16,0,0,,7,0,0,0,0,,,0,0,,2017/2018
+455,19990,Dujon,Sterling,23,England,180 cm,,False,49,Chelsea,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+456,20104,Luke,Garbutt,29,England,179 cm,73 kg,False,45,Everton,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+457,21383,Erik,Pieters,34,Netherlands,183 cm,84 kg,False,75,Stoke City,31,30,2720,Defender,6.835483,False,1,3,2,3,1,0,,1,,717,14,70,71,25,61,315,160,18,10,,29,58,5,0,0,,1,0,0,,2017/2018
+458,45324,Shayne Francis,Lavery,24,Northern Ireland,,,False,45,Everton,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+459,82100,Jamie Michael,Sterry,27,England,175 cm,76 kg,False,34,Newcastle,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+460,158,Paulo Dino,Gazzaniga,30,Argentina,196 cm,90 kg,False,47,Tottenham,1,1,90,Goalkeeper,7.300000,False,0,0,1,0,0,0,0,,3,17,0,77,,0,0,2,1,0,0,,0,0,0,0,0,,,0,0,0,2017/2018
+461,1124,Oliver Jasen,Burke,25,Scotland,188 cm,74 kg,False,60,West Brom,15,2,356,Midfielder,6.500000,False,13,2,23,4,0,0,,2,,111,4,76,6,0,7,67,29,20,13,,5,2,0,0,0,,,0,0,,2017/2018
+462,2825,Aleksandar,Mitrović,28,Serbia,187 cm,90 kg,False,34,Newcastle,6,0,89,Attacker,6.700000,False,6,0,10,4,2,1,,,,39,3,73,1,0,0,32,14,4,2,,5,3,0,0,0,,,0,0,,2017/2018
+463,3032,Benik,Afobe,29,Congo DR,183 cm,78 kg,False,35,Bournemouth,17,5,532,Attacker,6.620000,False,12,5,16,8,3,0,,,,112,2,63,4,0,0,103,46,9,7,,13,9,0,0,0,1,,0,0,,2017/2018
+464,18782,Matty,James,31,England,181 cm,86 kg,False,46,Leicester,13,11,995,Midfielder,6.692307,False,2,4,4,11,2,0,,,,363,2,81,19,2,17,105,52,12,8,,5,21,2,0,0,,,0,0,,2017/2018
+465,18803,Nathaniel,Chalobah,28,England,187 cm,80 kg,False,38,Watford,6,5,448,Midfielder,6.833333,False,1,2,1,12,4,0,,,,132,1,71,9,5,6,53,33,12,7,,7,3,1,0,0,,,0,0,,2017/2018
+466,18972,Anthony,Knockaert,31,France,172 cm,69 kg,False,51,Brighton,33,27,2425,Midfielder,6.933333,False,6,10,7,46,12,3,,1,,820,32,80,39,3,23,278,139,94,62,,23,22,4,0,1,,,0,0,,2017/2018
+467,19020,Alfie,Mawson,28,England,188 cm,81 kg,False,76,Swansea,38,38,3420,Defender,6.957894,False,0,0,0,20,6,2,,1,,1414,5,78,32,32,37,304,187,27,24,,11,19,3,0,0,,,0,0,,2017/2018
+468,19043,Terence,Kongolo,28,Netherlands,188 cm,70 kg,False,37,Huddersfield,13,11,1047,Defender,7.069230,False,2,0,3,2,0,0,,,,221,3,67,33,6,32,111,77,10,7,,10,5,0,0,0,,,0,0,,2017/2018
+469,19145,Oluwatosin,Adarabioyo,25,England,196 cm,80 kg,False,50,Manchester City,0,0,0,Defender,,False,0,0,7,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+470,19146,Kyle,Bartley,31,England,185 cm,76 kg,False,76,Swansea,5,2,233,Defender,6.960000,False,3,1,13,2,0,0,,,,93,2,88,3,6,4,27,18,0,0,,1,5,2,0,0,,,0,0,,2017/2018
+471,19160,Jake,Livermore,33,England,180 cm,76 kg,False,60,West Brom,34,30,2675,Midfielder,6.670588,False,4,5,4,15,4,2,,2,,865,20,76,68,9,28,276,124,27,19,,14,42,5,0,0,,,0,0,,2017/2018
+472,19164,Matt,Phillips,31,Scotland,183 cm,75 kg,False,60,West Brom,30,23,2096,Midfielder,6.706666,False,7,10,8,28,8,2,,2,,361,35,70,26,1,24,274,119,88,45,,13,14,3,0,0,,,0,0,,2017/2018
+473,19208,Scott,Malone,31,England,189 cm,75 kg,False,37,Huddersfield,22,12,1115,Defender,6.661904,False,10,6,22,8,2,0,,1,,356,10,62,39,2,26,141,76,30,15,,9,19,3,0,0,,1,0,0,,2017/2018
+474,19217,Andrew Philip,King,34,Wales,194 cm,79 kg,False,76,Swansea,11,9,718,Midfielder,6.580000,False,2,5,3,6,1,2,,,,165,2,81,8,2,5,43,24,4,1,,5,5,1,0,0,1,,0,0,,2017/2018
+475,19274,Kasey,Palmer,26,Jamaica,175 cm,70 kg,False,37,Huddersfield,4,1,168,Midfielder,6.425000,False,3,1,3,2,1,0,,,,41,1,71,6,0,0,34,12,3,3,,1,4,2,0,0,,,0,0,,2017/2018
+476,19393,Josh,Onomah,25,England,185 cm,70 kg,False,47,Tottenham,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+477,19531,Connor,Mahoney,25,England,175 cm,67 kg,False,35,Bournemouth,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+478,19597,Nahki,Wells,32,Bermuda,170 cm,69 kg,False,44,Burnley,9,0,46,Attacker,6.475000,False,9,0,20,3,1,0,,,,16,0,88,4,0,0,17,5,1,1,,0,4,0,0,0,,,0,0,,2017/2018
+479,82097,Alex,Palmer,26,England,191 cm,72 kg,False,60,West Brom,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+480,167,Danny,Rose,32,England,173 cm,72 kg,False,47,Tottenham,10,9,802,Defender,6.760000,False,1,3,11,7,1,0,,1,,308,10,82,15,6,9,107,58,29,11,,24,12,4,0,0,,,0,0,,2017/2018
+481,174,Christian,Dannemann Eriksen,30,Denmark,182 cm,76 kg,False,47,Tottenham,37,37,3226,Midfielder,7.437837,False,0,8,0,97,39,10,,10,,1860,96,81,51,1,31,295,118,53,29,,21,14,0,0,0,,,0,0,,2017/2018
+482,179,Moussa,Sissoko,33,France,187 cm,83 kg,False,47,Tottenham,33,15,1393,Midfielder,6.738709,False,18,9,23,19,8,1,,1,,726,27,79,23,1,9,134,64,32,18,,8,23,3,0,0,,,0,0,,2017/2018
+483,2727,Jonas,Bybjerg Lössl,33,Denmark,195 cm,89 kg,False,37,Huddersfield,38,38,3420,Goalkeeper,6.692105,False,0,0,0,0,0,0,58,1,103,724,3,55,1,0,4,32,24,3,3,,6,0,1,0,0,,,0,0,2,2017/2018
+484,2731,Mathias,Jattah-Njie Jørgensen,32,Denmark,191 cm,79 kg,False,37,Huddersfield,38,38,3420,Defender,6.781578,False,0,0,0,13,3,0,,2,,1198,10,74,54,20,77,306,153,3,3,,9,45,6,0,0,,1,0,0,,2017/2018
+485,18791,Ben,Foster,39,England,193 cm,79 kg,False,60,West Brom,37,37,3330,Goalkeeper,6.675675,False,0,0,0,0,0,0,55,,100,497,2,46,1,0,1,19,11,2,2,,3,1,2,0,0,,,0,0,0,2017/2018
+486,18793,Craig George,Cathcart,33,Northern Ireland,188 cm,73 kg,False,38,Watford,7,5,495,Defender,6.957142,False,2,1,4,2,1,0,,,,143,0,77,8,6,3,30,20,2,1,,1,2,1,0,0,,,0,0,,2017/2018
+487,18794,Francisco,Femenía Far,31,Spain,176 cm,61 kg,False,38,Watford,23,19,1715,Defender,6.895652,False,4,6,5,9,3,1,,1,,661,18,77,36,2,34,145,92,32,25,,21,7,2,0,0,,,0,0,,2017/2018
+488,18797,Christian,Kabasele,31,Belgium,187 cm,84 kg,False,38,Watford,28,27,2332,Defender,6.900000,False,1,3,2,10,5,2,,,,675,3,73,42,23,34,257,164,3,3,,16,31,5,0,0,,1,0,0,,2017/2018
+489,18804,Tom,Cleverley,33,England,175 cm,67 kg,False,38,Watford,23,22,1905,Midfielder,6.821739,False,1,4,1,16,3,1,,2,,936,29,81,48,1,25,227,103,8,5,,26,33,2,1,0,,,0,1,,2017/2018
+490,18821,Grady,Diangana,24,England,180 cm,73 kg,False,48,West Ham,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+491,18831,Andrew Thomas,Carroll,33,England,193 cm,79 kg,False,48,West Ham,16,7,745,Attacker,6.806250,False,9,3,14,28,8,3,,,,152,7,65,3,2,2,189,100,13,9,,14,28,6,1,0,,,0,0,,2017/2018
+492,18874,Dan,Gosling,32,England,183 cm,79 kg,False,35,Bournemouth,28,21,1942,Midfielder,6.611111,False,7,2,17,22,8,2,,1,,820,17,75,50,8,25,324,147,25,18,,25,38,8,0,0,,1,0,0,,2017/2018
+493,18881,Joshua Christian,Kojo King,30,Norway,180 cm,74 kg,False,35,Bournemouth,33,27,2456,Attacker,6.839393,False,6,9,6,51,21,8,,3,,503,38,71,36,3,4,534,221,145,62,,56,45,3,0,0,1,,2,0,,2017/2018
+494,18886,Martin,Dúbravka,33,Slovakia,190 cm,83 kg,False,34,Newcastle,12,12,1080,Goalkeeper,6.858333,False,0,0,1,0,0,0,11,,26,171,0,53,,0,0,4,4,0,0,,2,0,0,0,0,,,0,0,1,2017/2018
+495,18887,Rob,Elliot,36,Republic of Ireland,190 cm,94 kg,False,34,Newcastle,16,16,1440,Goalkeeper,6.812500,False,0,0,6,0,0,0,21,,44,263,0,52,,0,0,9,7,0,0,,2,0,0,0,0,,,0,0,1,2017/2018
+496,18974,Jayson Patrick,Molumby,23,Republic of Ireland,,,False,51,Brighton,0,0,0,Midfielder,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+497,19165,Rayhaan Rahim Amari,Tulloch,21,England,175 cm,65 kg,False,60,West Brom,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+498,19362,Pelenda Joshua Tunga,Dasilva,24,England,184 cm,75 kg,False,42,Arsenal,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+499,44775,Daniel,Bachmann,28,Austria,191 cm,81 kg,False,38,Watford,0,0,0,Goalkeeper,,False,0,0,8,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+500,169,Kieran,Trippier,32,England,178 cm,71 kg,False,47,Tottenham,24,21,1914,Defender,7.287500,False,3,3,14,7,1,0,,5,,1031,41,79,52,6,20,201,120,18,13,,20,18,1,0,0,,,0,0,,2017/2018
+501,1463,Joseph,Willock,23,England,179 cm,71 kg,False,42,Arsenal,2,1,82,Midfielder,6.450000,False,1,1,4,1,0,0,,,,31,0,70,4,0,1,12,4,0,0,,0,3,0,0,0,,,0,0,,2017/2018
+502,2939,Callum,Wilson,30,England,180 cm,66 kg,False,35,Bournemouth,28,23,1990,Attacker,6.775000,False,5,14,6,53,19,8,,2,,277,20,73,9,3,3,282,82,43,17,,35,37,0,0,0,,,0,0,,2017/2018
+503,18873,Ryan,Fraser,28,Scotland,163 cm,70 kg,False,35,Bournemouth,26,23,2009,Midfielder,6.996153,False,3,8,12,30,12,5,,3,,626,44,76,11,4,17,149,74,23,10,,45,6,0,0,0,,,0,0,,2017/2018
+504,18885,Karl,Darlow,32,England,190 cm,88 kg,False,34,Newcastle,10,10,900,Goalkeeper,6.750000,False,0,0,25,0,0,0,15,,35,137,0,47,,0,0,3,3,0,0,,1,0,0,0,0,,,0,0,0,2017/2018
+505,18891,Ciaran,Clark,33,Republic of Ireland,185 cm,88 kg,False,34,Newcastle,20,19,1745,Defender,6.825000,False,1,0,15,11,3,2,,1,,501,4,70,25,10,17,147,80,5,4,,13,17,3,0,0,,2,0,0,,2017/2018
+506,18892,Paul,Dummett,31,Wales,183 cm,82 kg,False,34,Newcastle,20,19,1603,Defender,6.873684,False,1,2,3,4,0,0,,,,416,7,70,28,10,23,150,93,0,0,,11,8,1,0,0,,1,0,0,,2017/2018
+507,18893,Federico,Fernández,33,Argentina,190 cm,83 kg,False,76,Swansea,30,30,2677,Defender,6.893333,False,0,1,4,8,4,1,,1,,996,6,80,40,27,38,239,134,4,1,,21,29,5,0,0,,2,0,0,,2017/2018
+508,18894,Jamaal,Lascelles,29,England,188 cm,89 kg,False,34,Newcastle,33,32,2928,Defender,7.030303,False,1,1,2,12,8,3,,,,913,6,74,31,24,28,262,174,6,5,,12,16,5,0,0,,,0,0,,2017/2018
+509,18896,Javier,Manquillo Gaitán,28,Spain,178 cm,76 kg,False,34,Newcastle,21,20,1759,Defender,6.600000,False,1,2,18,2,0,0,,1,,405,11,71,36,6,18,163,82,24,12,,12,24,2,0,0,,1,0,0,,2017/2018
+510,18899,Isaac,Hayden,27,England,185 cm,79 kg,False,34,Newcastle,26,15,1370,Midfielder,6.620833,False,11,7,19,14,9,1,,,,397,11,60,40,6,23,229,106,13,6,,12,30,7,0,0,,,0,0,,2017/2018
+511,18903,Matt,Ritchie,33,Scotland,172 cm,76 kg,False,34,Newcastle,35,32,2812,Midfielder,6.931428,False,3,11,6,59,16,3,,5,,759,52,71,45,5,36,330,128,31,15,,36,37,6,0,0,,1,0,0,,2017/2018
+512,18904,Jonjo,Shelvey,30,England,184 cm,80 kg,False,34,Newcastle,30,25,2268,Midfielder,7.040000,False,5,3,8,42,9,1,,3,,1001,42,71,39,5,28,172,90,33,23,,8,23,3,1,1,,,0,0,,2017/2018
+513,18924,Jeff Patrick,Hendrick,30,Republic of Ireland,185 cm,79 kg,False,44,Burnley,34,29,2342,Midfielder,6.691176,False,5,16,6,25,6,2,,2,,650,26,79,16,2,8,205,73,32,24,,18,19,1,0,0,,,0,0,,2017/2018
+514,18931,Christopher Grant,Wood,31,New Zealand,191 cm,81 kg,False,44,Burnley,24,20,1633,Attacker,6.895833,False,4,13,5,39,24,10,,1,,250,11,63,7,4,0,278,112,10,6,,16,18,1,0,0,,,0,0,,2017/2018
+515,18941,Matt,Targett,27,England,183 cm,70 kg,False,41,Southampton,2,2,167,Defender,6.950000,False,0,1,4,0,0,0,,,,58,2,72,6,2,3,19,13,3,3,,3,1,0,0,0,,,0,0,,2017/2018
+516,19156,Sam,Field,24,England,191 cm,90 kg,False,60,West Brom,10,7,540,Midfielder,6.640000,False,3,6,11,5,1,1,,,,126,4,78,14,1,11,70,32,5,3,,7,11,3,0,0,,,0,0,,2017/2018
+517,19163,Jacob,Murphy,27,England,179 cm,74 kg,False,34,Newcastle,25,13,1144,Midfielder,6.481818,False,12,8,23,22,7,1,,1,,184,11,69,13,0,6,166,63,58,34,,9,8,0,0,0,,,0,0,,2017/2018
+518,19166,Dwight,Gayle,33,England,174 cm,78 kg,False,34,Newcastle,35,23,1961,Attacker,6.791428,False,12,15,13,57,21,6,,3,,313,21,70,12,2,6,280,116,18,9,,28,23,3,0,0,,,0,0,,2017/2018
+519,20479,George,Thomas,25,Wales,173 cm,76 kg,False,46,Leicester,0,0,0,Midfielder,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+520,744,Brahim,Abdelkader Díaz,23,Spain,171 cm,59 kg,False,50,Manchester City,5,0,50,Attacker,6.525000,False,5,0,10,3,1,0,,,,25,0,84,1,0,1,11,6,1,1,,4,1,0,0,0,,,0,0,,2017/2018
+521,887,Matteo,Darmian,33,Italy,182 cm,70 kg,False,33,Manchester United,8,5,442,Defender,6.750000,False,3,1,12,2,0,0,,,,163,1,51,16,3,7,51,24,2,1,,1,5,0,0,0,,,0,0,,2017/2018
+522,910,Alexis Alejandro,Sánchez Sánchez,34,Chile,169 cm,62 kg,False,33,Manchester United,12,12,1048,Attacker,7.715789,False,0,5,1,69,26,2,,3,,632,54,72,20,2,6,253,118,60,40,,44,21,1,0,0,,,1,0,,2017/2018
+523,1449,Jordi Martin Emmanuel,Osei-Tutu,24,England,176 cm,70 kg,False,42,Arsenal,0,0,0,Defender,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+524,1635,Tiemoué,Bakayoko,28,France,185 cm,77 kg,False,49,Chelsea,29,24,2124,Midfielder,6.846428,False,5,3,10,40,9,2,,2,,954,16,82,63,6,37,318,163,49,36,,24,50,4,1,0,,,0,0,,2017/2018
+525,2295,Olivier,Giroud,36,France,192 cm,93 kg,False,49,Chelsea,13,6,610,Attacker,6.843750,False,7,4,7,18,6,3,,,,95,7,65,5,0,1,65,31,1,1,,2,7,0,0,0,,,0,0,,2017/2018
+526,17356,Grant Ashley,Smith,29,England,185 cm,79 kg,False,1830,Boreham Wood,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+527,18808,Troy,Deeney,34,England,183 cm,90 kg,False,38,Watford,29,20,1841,Attacker,6.748275,False,9,6,10,36,15,5,,2,,307,26,60,15,1,5,414,168,8,4,,17,24,1,0,1,,,3,2,,2017/2018
+528,18810,Andre Anthony,Gray,31,Jamaica,178 cm,83 kg,False,38,Watford,31,16,1495,Attacker,6.607142,False,15,12,22,34,13,5,,2,,215,18,67,2,0,4,123,26,11,2,,5,11,1,0,0,1,,0,0,,2017/2018
+529,18952,Charlie,Austin,33,England,188 cm,84 kg,False,41,Southampton,24,10,1030,Attacker,6.800000,False,14,7,15,48,25,7,,,,167,4,72,8,3,1,180,64,6,3,,16,16,2,0,0,,,1,0,,2017/2018
+530,18957,Michael,Obafemi,22,Republic of Ireland,169 cm,71 kg,False,41,Southampton,1,0,8,Attacker,6.300000,False,1,0,1,1,0,0,,,,1,0,100,,0,0,1,0,0,0,,0,0,0,0,0,,,0,0,,2017/2018
+531,19038,Ben,Hamer,35,England,192 cm,91 kg,False,46,Leicester,4,3,274,Goalkeeper,6.450000,False,1,0,30,0,0,0,9,,6,40,0,51,,0,0,2,1,0,0,,0,0,0,0,0,,,0,0,0,2017/2018
+532,19209,Fikayo,Tomori,25,England,185 cm,75 kg,False,49,Chelsea,0,0,0,Defender,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+533,19253,Jordan Thomas,Hugill,30,England,183 cm,64 kg,False,48,West Ham,3,0,22,Attacker,6.450000,False,3,0,12,0,0,0,,,,3,0,25,,0,0,18,6,2,1,,1,3,0,0,0,,,0,0,,2017/2018
+534,19318,Kyle,Naughton,34,England,180 cm,73 kg,False,76,Swansea,34,34,3033,Defender,6.767647,False,0,3,1,12,1,0,,2,,1225,12,72,92,13,61,394,208,42,24,,24,31,1,0,0,,,0,0,,2017/2018
+535,19327,Jay,Fulton,28,Scotland,178 cm,68 kg,False,76,Swansea,2,0,17,Midfielder,6.500000,False,2,0,5,0,0,0,,,,5,0,62,,0,0,2,0,0,0,,0,2,1,0,0,,,0,0,,2017/2018
+536,19328,Matt,Grimes,27,England,178 cm,70 kg,False,76,Swansea,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+537,20179,Daniel Tan,Barlaser,25,England,184 cm,62 kg,False,34,Newcastle,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+538,20415,Olayinka Fredrick Oladotun,Ladapo,29,England,183 cm,80 kg,False,52,Crystal Palace,1,0,16,Attacker,6.700000,False,1,0,2,0,0,0,,,,5,0,71,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,,2017/2018
+539,51070,Zlatan,Ibrahimović,41,Sweden,195 cm,95 kg,False,33,Manchester United,5,1,103,Attacker,6.650000,False,4,1,7,4,1,0,,,,58,2,73,2,0,0,14,8,0,0,,1,1,0,0,0,,,0,0,,2017/2018
+540,59,Álvaro Borja,Morata Martín,30,Spain,190 cm,84 kg,False,49,Chelsea,31,24,2066,Attacker,7.043333,False,7,12,7,79,34,11,,6,,422,35,75,13,4,6,348,143,59,32,,44,41,7,0,0,,,0,0,,2017/2018
+541,618,Danilo Luiz,da Silva,31,Brazil,184 cm,78 kg,False,50,Manchester City,23,13,1341,Defender,7.147619,False,10,2,23,19,7,3,,2,,999,6,81,43,6,19,119,77,13,8,,10,12,2,0,0,,,0,0,,2017/2018
+542,892,Chris,Smalling,33,England,194 cm,81 kg,False,33,Manchester United,29,28,2535,Defender,7.172413,False,1,0,7,13,6,4,,,,996,2,84,40,28,63,249,165,3,3,,14,24,4,0,0,,,0,0,,2017/2018
+543,1456,Ainsley,Maitland-Niles,25,England,177 cm,71 kg,False,42,Arsenal,15,8,907,Midfielder,6.721428,False,7,0,18,5,0,0,,,,457,8,79,25,1,12,115,56,25,20,,5,10,1,0,0,,1,0,0,,2017/2018
+544,1457,Henrikh,Mkhitaryan,33,Armenia,177 cm,75 kg,False,42,Arsenal,11,9,796,Midfielder,7.318181,False,2,4,2,21,11,2,,4,,349,16,77,18,2,8,131,60,25,16,,17,12,0,0,0,1,1,0,0,,2017/2018
+545,2475,Roberto Maximiliano,Pereyra,31,Argentina,182 cm,77 kg,False,38,Watford,32,18,1622,Midfielder,6.712500,False,14,12,14,33,13,5,,2,,574,24,84,10,0,9,187,71,69,31,,27,18,3,0,0,2,,0,0,,2017/2018
+546,2777,Isaac,Ajayi Success,26,Nigeria,186 cm,86 kg,False,38,Watford,0,0,0,Attacker,,False,0,0,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+547,18809,Gerard,Deulofeu Lázaro,28,Spain,177 cm,73 kg,False,38,Watford,7,5,438,Attacker,6.928571,False,2,5,2,8,4,1,,,,106,11,72,5,0,4,62,27,27,17,,5,3,0,0,0,1,,0,0,,2017/2018
+548,18824,Pedro,Mba Obiang Avomo,30,Equatorial Guinea,185 cm,75 kg,False,48,West Ham,21,18,1564,Midfielder,6.940000,False,3,4,7,13,5,2,,,,609,6,80,53,16,24,227,121,25,24,,24,27,3,0,0,,,0,0,,2017/2018
+549,18841,Pape,N'Diaye Souaré,32,Senegal,178 cm,68 kg,False,52,Crystal Palace,1,0,8,Defender,6.300000,False,1,0,17,0,0,0,,,,8,0,88,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,,2017/2018
+550,19009,El-Hadji Baye Oumar,Niasse,32,Senegal,182 cm,75 kg,False,45,Everton,22,10,1081,Attacker,6.872727,False,12,6,20,37,18,8,,2,,156,11,57,10,2,2,230,79,36,20,,15,31,2,0,0,1,,0,0,,2017/2018
+551,19135,Isaiah,Brown,25,England,182 cm,70 kg,False,51,Brighton,13,4,306,Attacker,6.427272,False,9,4,11,1,1,0,,,,90,6,70,3,0,1,68,25,10,6,,3,3,0,0,0,,,0,0,,2017/2018
+552,19167,Jonathan Kisolokele,Leko,23,England,182 cm,75 kg,False,60,West Brom,0,0,0,Attacker,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+553,19184,Thomas James,Carroll,30,England,177 cm,71 kg,False,76,Swansea,37,28,2569,Midfielder,6.880555,False,9,8,10,20,3,0,,4,,1194,46,82,53,8,29,202,94,19,14,,17,23,3,0,0,,,0,0,,2017/2018
+554,19194,Tammy,Bakumo-Abraham,25,England,190 cm,80 kg,False,76,Swansea,31,15,1716,Attacker,6.720000,False,16,6,18,42,15,5,,1,,203,12,65,10,1,1,256,103,47,27,,27,15,0,0,0,,,0,0,,2017/2018
+555,19303,Benjamin,Watson,37,England,178 cm,68 kg,False,38,Watford,8,6,458,Midfielder,6.414285,False,2,4,15,1,0,0,,,,194,3,78,19,1,7,72,34,0,0,,5,11,1,0,0,,,0,0,,2017/2018
+556,30801,Marvin,Zeegelaar,32,Netherlands,186 cm,84 kg,False,38,Watford,12,12,995,Defender,6.750000,False,0,1,5,0,0,0,,1,,337,7,78,23,1,20,111,59,20,15,,9,17,4,0,1,,,0,0,,2017/2018
+557,82026,Cohen Conrad,Bramall,26,England,178 cm,70 kg,False,42,Arsenal,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+558,82781,Samuel Joseph,Hughes,25,England,187 cm,80 kg,False,46,Leicester,0,0,0,Defender,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+559,90501,Max,Melbourne,24,England,178 cm,65 kg,False,60,West Brom,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+560,884,Sergio Germán,Romero,35,Argentina,192 cm,87 kg,False,33,Manchester United,1,1,90,Goalkeeper,7.500000,False,0,0,29,0,0,0,0,,3,12,0,60,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,0,2017/2018
+561,1688,José Ramiro,Funes Mori,31,Argentina,186 cm,79 kg,False,45,Everton,4,1,119,Defender,6.700000,False,3,1,6,1,0,0,,,,41,0,69,,1,3,16,8,0,0,,2,3,1,0,0,,,0,0,,2017/2018
+562,2279,Ethan Kwame Colm Raymond,Ampadu,22,Wales,183 cm,78 kg,False,49,Chelsea,1,0,10,Midfielder,6.700000,False,1,0,12,0,0,0,,,,19,0,100,1,0,0,4,2,0,0,,0,0,0,0,0,,,0,0,,2017/2018
+563,2426,André Martín,Carrillo Díaz,31,Peru,180 cm,75 kg,False,38,Watford,28,16,1536,Midfielder,6.819230,False,12,8,15,24,3,1,,2,,543,20,75,31,0,15,261,118,82,59,,15,13,2,0,0,,,0,0,,2017/2018
+564,17372,Bruno Miguel,Carvalho Andrade,29,Portugal,175 cm,74 kg,False,1830,Boreham Wood,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+565,18328,Kyle Alexander,Jameson,24,England,183 cm,79 kg,False,60,West Brom,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+566,18754,Mateusz Tomasz,Hewelt,26,Poland,186 cm,78 kg,False,45,Everton,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+567,18882,Lys,Mousset,26,France,184 cm,80 kg,False,35,Bournemouth,23,4,581,Attacker,6.657894,False,19,4,28,22,5,2,,,,102,4,66,9,2,3,122,44,38,17,,10,11,1,0,0,,,0,0,,2017/2018
+568,18919,Stephen Robert,Ward,37,Republic of Ireland,184 cm,82 kg,False,44,Burnley,28,28,2462,Defender,6.875000,False,0,2,1,6,1,1,,1,,637,16,67,39,12,42,195,126,8,5,,29,11,1,0,0,,,0,0,,2017/2018
+569,18944,Maya,Yoshida,34,Japan,189 cm,78 kg,False,41,Southampton,24,23,2051,Defender,6.954166,False,1,1,9,19,4,2,,,,894,5,83,27,14,41,180,108,2,2,,15,19,3,1,0,1,,0,0,,2017/2018
+570,18976,Max Harrison,Sanders,23,England,176 cm,68 kg,False,51,Brighton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+571,19037,Joel,Coleman,27,England,198 cm,82 kg,False,37,Huddersfield,0,0,0,Goalkeeper,,False,0,0,30,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+572,19053,Abdelhamid,Sabiri,26,Germany,186 cm,80 kg,False,37,Huddersfield,5,2,219,Midfielder,6.560000,False,3,2,11,5,0,0,,1,,66,3,63,5,0,1,50,24,4,1,,4,4,1,0,0,,,0,0,,2017/2018
+573,19149,Ahmed Elsayed Ali Elsayed,Hegazy,31,Egypt,193 cm,83 kg,False,60,West Brom,17,17,1530,Defender,7.002631,False,0,0,0,14,4,1,,,,866,7,71,58,37,60,336,192,29,22,,12,24,1,0,0,,,0,0,,2017/2018
+574,19256,Niki Emil Antonio,Mäenpää,37,Finland,191 cm,86 kg,False,51,Brighton,0,0,0,Goalkeeper,,False,0,0,5,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+575,19508,Lasse,Sørensen,23,Denmark,185 cm,78 kg,False,75,Stoke City,1,1,76,Midfielder,6.800000,False,0,1,2,0,0,0,,1,,40,2,74,2,0,0,10,2,0,0,,0,2,0,0,0,,,0,0,,2017/2018
+576,19556,Callum Henry,McManaman,31,England,175 cm,74 kg,False,60,West Brom,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+577,30462,Manolo,Gabbiadini,31,Italy,181 cm,75 kg,False,41,Southampton,28,11,1072,Attacker,6.703846,False,17,8,27,22,10,5,,,,158,7,65,3,0,4,107,30,12,6,,7,14,2,0,0,,,1,0,,2017/2018
+578,90495,James Stanley,Daly,22,England,178 cm,73 kg,False,52,Crystal Palace,0,0,0,Attacker,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+579,138846,Morgan,Feeney,23,England,190 cm,77 kg,False,45,Everton,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+580,1758,Jermain Colin,Defoe,40,England,171 cm,65 kg,False,35,Bournemouth,24,11,1084,Attacker,6.733333,False,13,9,15,27,15,4,,1,,97,13,65,12,0,4,84,25,13,3,,8,12,1,0,0,,,0,0,,2017/2018
+581,3423,Christian,Atsu Twasam,30,Ghana,165 cm,65 kg,False,34,Newcastle,28,19,1782,Midfielder,6.632142,False,9,7,9,35,12,2,,2,,346,25,75,17,5,13,249,84,65,28,,26,10,1,0,0,,,0,0,,2017/2018
+582,17590,Jaden Wavey,Brown,23,England,175 cm,72 kg,False,47,Tottenham,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+583,17601,Hiram Kojo Kwarteng,Boateng,26,England,183 cm,70 kg,False,52,Crystal Palace,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+584,17749,Zachary Harry,Dearnley,24,England,175 cm,66 kg,False,33,Manchester United,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+585,18830,Marko,Arnautović,33,Austria,192 cm,83 kg,False,48,West Ham,31,28,2323,Attacker,7.180645,False,3,13,4,71,33,11,,6,,489,35,71,21,3,13,280,128,80,56,,29,35,5,0,1,,,0,0,,2017/2018
+586,18880,Kyle Frazer,Taylor,23,England,167 cm,,False,35,Bournemouth,0,0,0,Midfielder,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+587,18996,Harry Nicholas,Arter,33,Republic of Ireland,176 cm,70 kg,False,35,Bournemouth,13,11,962,Midfielder,6.800000,False,2,4,13,11,1,1,,,,512,3,82,19,5,9,83,44,8,4,,15,9,4,0,0,,,0,0,,2017/2018
+588,19051,Alex David,Pritchard,29,England,171 cm,62 kg,False,37,Huddersfield,14,12,1002,Midfielder,6.871428,False,2,6,4,20,4,1,,1,,248,21,70,19,1,5,124,58,22,14,,23,5,1,0,0,1,,0,0,,2017/2018
+589,19058,Elias,Kachunga,30,Congo DR,178 cm,74 kg,False,37,Huddersfield,19,17,1338,Attacker,6.557894,False,2,11,3,12,5,1,,1,,225,10,62,30,1,2,200,92,26,13,,32,20,1,0,0,,,0,0,,2017/2018
+590,19157,Rekeem Jordan,Harper,22,England,183 cm,64 kg,False,60,West Brom,0,0,0,Midfielder,6.700000,False,0,0,3,0,0,0,,,,4,2,80,1,0,0,2,1,1,0,,0,0,0,0,0,,,0,0,,2017/2018
+591,19513,Samuel Michael,Vokes,33,Wales,186 cm,90 kg,False,44,Burnley,30,7,978,Attacker,6.800000,False,23,3,30,33,8,4,,1,,131,8,41,3,2,3,269,139,1,1,,16,20,3,0,0,,,0,0,,2017/2018
+592,19673,Richard Patrick,Towell,31,Republic of Ireland,173 cm,66 kg,False,51,Brighton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+593,20348,Harry Charles,Bunn,30,England,175 cm,74 kg,False,37,Huddersfield,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+594,38700,Sulaiman Borbor,Kaikai,27,Sierra Leone,182 cm,73 kg,False,52,Crystal Palace,1,0,13,Attacker,7.200000,False,1,0,5,0,0,0,,,,4,0,66,1,0,0,4,3,2,2,,0,0,0,0,0,,,0,0,,2017/2018
+595,50892,Dion Enrico,Pereira Greives,23,England,180 cm,77 kg,False,38,Watford,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+596,69437,James Alexander David,Tilley,24,England,168 cm,59 kg,False,51,Brighton,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+597,90496,Conor Ciaran,Masterson,24,Republic of Ireland,185 cm,75 kg,False,40,Liverpool,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+598,126791,Nathan Paul,Broadhead,24,Wales,178 cm,73 kg,False,45,Everton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+599,144742,Tyreke,Wilson,23,Republic of Ireland,,,False,50,Manchester City,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+600,3106,Saido,Berahino,29,Burundi,180 cm,82 kg,False,75,Stoke City,15,3,484,Attacker,6.520000,False,12,2,23,10,4,0,,1,,74,3,75,2,1,1,47,11,2,1,,4,6,0,0,0,1,,0,1,,2017/2018
+601,8522,Joel Dinis,Castro Pereira,26,Portugal,188 cm,70 kg,False,33,Manchester United,0,0,0,Goalkeeper,,False,0,0,9,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+602,17553,Shaun Elliot,Jeffers,30,England,185 cm,71 kg,False,1830,Boreham Wood,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+603,17599,Kane Leo,Wilson,22,England,178 cm,71 kg,False,60,West Brom,0,0,0,Defender,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+604,18074,Jamie Lee Peter,Turley,32,England,188 cm,82 kg,False,1830,Boreham Wood,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+605,18524,Oliver John,Harfield,24,England,178 cm,78 kg,False,35,Bournemouth,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+606,18542,Ángelo Jasiel,Balanta,32,Colombia,179 cm,75 kg,False,1830,Boreham Wood,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+607,18587,Thomas Matthew,Champion,36,England,190 cm,78 kg,False,1830,Boreham Wood,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+608,18650,Andrew,Eleftheriou,25,England,172 cm,64 kg,False,38,Watford,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+609,18715,Michael,Phillips,25,England,174 cm,76 kg,False,52,Crystal Palace,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+610,18796,Daryl,Janmaat,33,Netherlands,185 cm,80 kg,False,38,Watford,23,21,1822,Defender,6.847826,False,2,4,14,24,10,3,,,,583,12,74,46,5,33,168,86,22,10,,4,14,3,0,0,,,0,0,,2017/2018
+611,19313,Erwin,Mulder,33,Netherlands,193 cm,88 kg,False,76,Swansea,0,0,0,Goalkeeper,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+612,19324,George William,Byers,26,Scotland,180 cm,73 kg,False,76,Swansea,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+613,19620,Sam,Baldock,33,England,170 cm,67 kg,False,51,Brighton,2,0,30,Attacker,6.250000,False,2,0,12,0,0,0,,,,4,0,28,,0,0,2,0,1,0,,0,0,0,0,0,,,0,0,,2017/2018
+614,20112,Marcus,Browne,25,England,178 cm,74 kg,False,48,West Ham,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+615,37146,Rhu-endly Aurelio Jean-Carlo,Martina,33,Curaçao,185 cm,77 kg,False,45,Everton,21,20,1830,Defender,6.923809,False,1,1,15,2,1,0,,2,,608,13,75,61,4,42,185,94,4,2,,9,26,1,0,0,,,0,0,,2017/2018
+616,82117,Daniel,Holman,32,England,181 cm,71 kg,False,1830,Boreham Wood,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+617,87627,Rohan Greg,Ince,30,Montserrat,194 cm,80 kg,False,51,Brighton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+618,90499,Joy Richard Mpinga,Mukena,23,England,190 cm,,False,38,Watford,0,0,0,Defender,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+619,140665,Stephen Winston,Duke-McKenna,22,Guyana,,,False,45,Everton,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+620,108,Francesc,Fàbregas i Soler,35,Spain,180 cm,77 kg,False,49,Chelsea,32,25,2309,Midfielder,7.359375,False,7,9,11,38,10,2,,4,,1826,91,82,68,4,22,244,118,25,18,,22,25,5,1,0,,,0,0,,2017/2018
+621,531,Daley,Blind,32,Netherlands,180 cm,72 kg,False,33,Manchester United,7,4,360,Defender,7.100000,False,3,1,14,3,0,0,,,,191,4,55,6,0,7,38,19,2,1,,4,4,0,0,0,,,0,0,,2017/2018
+622,554,Dušan,Tadić,34,Serbia,181 cm,76 kg,False,41,Southampton,36,34,2812,Attacker,7.041666,False,2,23,4,40,16,6,,3,,831,60,74,45,2,19,347,157,63,54,,52,46,4,0,0,,,1,0,,2017/2018
+623,1447,Ignacio,Monreal Eraso,36,Spain,179 cm,72 kg,False,42,Arsenal,28,26,2244,Defender,7.071428,False,2,3,4,22,8,5,,2,,1539,13,87,54,8,56,258,139,11,6,,17,19,3,0,0,,1,0,0,,2017/2018
+624,1459,Aaron James,Ramsey,32,Wales,178 cm,76 kg,False,42,Arsenal,24,21,1848,Midfielder,7.279166,False,3,5,3,56,25,7,,8,,1052,29,83,35,3,24,229,107,36,29,,33,28,0,0,0,2,,0,0,,2017/2018
+625,1740,Connor,Lambert Goldson,30,England,191 cm,85 kg,False,51,Brighton,3,2,199,Defender,6.566666,False,1,0,29,3,1,0,,,,61,0,69,2,3,1,22,13,0,0,,2,2,1,0,0,,,0,0,,2017/2018
+626,1747,Scott Harry Nathaniel,Arfield,34,Canada,178 cm,70 kg,False,44,Burnley,18,15,1336,Midfielder,6.666666,False,3,6,11,18,7,2,,1,,244,8,66,36,1,12,176,75,26,14,,14,21,3,0,0,,,0,0,,2017/2018
+627,1749,Steven,Davis,37,Northern Ireland,173 cm,70 kg,False,41,Southampton,23,17,1521,Midfielder,6.959090,False,6,6,11,13,4,3,,,,873,18,81,30,6,15,136,61,15,9,,8,8,0,0,0,1,,0,0,,2017/2018
+628,1756,Ryan,Kent,26,England,172 cm,65 kg,False,40,Liverpool,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+629,2284,Emerson,Palmieri dos Santos,28,Italy,176 cm,63 kg,False,49,Chelsea,5,3,279,Defender,6.720000,False,2,1,9,2,2,0,,1,,105,1,64,6,0,2,27,18,8,5,,5,3,0,0,0,,,0,0,,2017/2018
+630,2741,Mathew David,Ryan,30,Australia,184 cm,82 kg,False,51,Brighton,38,38,3420,Goalkeeper,6.821052,False,0,0,0,0,0,0,54,,124,505,0,48,,0,3,15,12,0,0,,1,0,0,0,0,,,0,0,2,2017/2018
+631,18591,Keiran Zac,Murtagh,34,Antigua and Barbuda,188 cm,76 kg,False,1830,Boreham Wood,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+632,18623,Regan,Booty,24,England,180 cm,70 kg,False,37,Huddersfield,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+633,18756,Maarten,Stekelenburg,40,Netherlands,197 cm,92 kg,False,45,Everton,0,0,0,Goalkeeper,,False,0,0,8,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+634,18868,Jack Benjamin,Simpson,26,England,190 cm,83 kg,False,35,Bournemouth,1,1,72,Defender,6.300000,False,0,1,16,0,0,0,,,,4,0,80,1,0,0,2,1,0,0,,0,0,0,0,0,,,0,0,,2017/2018
+635,19322,Mike Adrianus,Wilhelmus van der Hoorn,30,Netherlands,190 cm,81 kg,False,76,Swansea,24,24,1952,Defender,6.908333,False,0,8,13,10,5,1,,,,655,5,73,30,14,39,194,112,13,9,,18,22,4,0,0,,1,0,0,,2017/2018
+636,25321,Davy,Klaassen,29,Netherlands,179 cm,70 kg,False,45,Everton,7,3,250,Midfielder,6.457142,False,4,3,9,2,2,0,,,,79,2,77,3,1,1,20,7,1,0,,2,5,0,0,0,,,0,0,,2017/2018
+637,42246,Wilfried Guemiand,Bony,34,Côte d'Ivoire,182 cm,88 kg,False,76,Swansea,15,8,704,Attacker,6.776923,False,7,4,7,20,7,2,,,,131,4,61,5,1,2,156,69,13,10,,11,7,2,0,0,,,0,0,,2017/2018
+638,47311,Mikel,Merino Zazón,26,Spain,188 cm,83 kg,False,34,Newcastle,7,2,201,Midfielder,6.879166,False,5,1,11,16,6,0,,1,,644,17,78,56,8,34,303,151,40,28,,29,30,0,0,0,,,0,0,,2017/2018
+639,93168,Soufyan,Ahannach,27,Netherlands,179 cm,72 kg,False,51,Brighton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+640,313,David,Ospina Ramírez,34,Colombia,183 cm,80 kg,False,42,Arsenal,5,4,380,Goalkeeper,7.020000,False,1,0,30,0,0,0,4,,9,81,0,71,,0,0,6,6,0,0,,4,0,0,0,0,,,0,0,0,2017/2018
+641,634,David Josué,Jiménez Silva,36,Spain,173 cm,67 kg,False,50,Manchester City,29,28,2437,Midfielder,7.600000,False,1,8,2,54,20,9,,11,,2160,63,86,32,5,18,227,120,49,38,,36,21,5,0,0,,,0,0,,2017/2018
+642,1347,Victor,Moses,32,Nigeria,177 cm,79 kg,False,49,Chelsea,28,25,2118,Midfielder,6.942857,False,3,11,8,35,11,3,,3,,638,21,72,37,4,16,239,124,55,32,,27,23,3,0,0,1,,0,0,,2017/2018
+643,2728,Kasper Peter,Schmeichel,36,Denmark,189 cm,89 kg,False,46,Leicester,33,33,2966,Goalkeeper,6.757575,False,0,1,0,0,0,0,47,,93,512,1,49,1,0,0,22,20,2,2,,6,0,3,0,0,,,0,0,2,2017/2018
+644,2778,Kelechi Promise,Ịheanachọ,26,Nigeria,185 cm,82 kg,False,46,Leicester,21,7,823,Attacker,6.825000,False,14,7,25,29,11,3,,3,,197,11,76,9,2,3,108,37,18,13,,9,17,2,0,0,,,0,0,,2017/2018
+645,3421,Daniel,Amartey,28,Ghana,186 cm,79 kg,False,46,Leicester,8,6,488,Defender,6.412500,False,2,2,13,0,0,0,,,,199,0,79,8,3,7,50,29,5,4,,7,5,1,1,0,,,0,0,,2017/2018
+646,8492,Alexander,Sørloth,27,Norway,193 cm,90 kg,False,52,Crystal Palace,4,4,360,Attacker,6.925000,False,0,0,5,7,3,0,,,,65,6,60,6,0,2,84,39,12,11,,2,6,0,0,0,,,0,0,,2017/2018
+647,18146,Danny,Ward,29,Wales,191 cm,88 kg,False,40,Liverpool,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+648,18770,Eldin,Jakupovic,38,Switzerland,191 cm,85 kg,False,46,Leicester,2,2,180,Goalkeeper,6.800000,False,0,0,8,0,0,0,6,,8,23,0,53,,0,0,2,2,0,0,,1,0,0,0,0,,,0,0,0,2017/2018
+649,18772,Jonathan Grant,Evans,34,Northern Ireland,188 cm,77 kg,False,60,West Brom,28,26,2272,Defender,6.840740,False,2,4,3,10,5,2,,2,,769,8,78,29,13,48,204,120,10,10,,27,26,7,0,0,,,0,0,,2017/2018
+650,18777,Marc,Albrighton,33,England,175 cm,74 kg,False,46,Leicester,34,30,2544,Midfielder,6.844117,False,4,10,5,20,6,2,,7,,676,49,62,51,4,27,291,140,95,52,,26,20,5,0,1,,1,0,0,,2017/2018
+651,18778,Harvey Lewis,Barnes,25,England,174 cm,66 kg,False,46,Leicester,3,0,7,Midfielder,6.300000,False,3,0,6,1,0,0,,,,6,0,66,,0,0,2,1,0,0,,0,1,0,0,0,,,0,0,,2017/2018
+652,18779,Hamza,Choudhury,25,England,178 cm,64 kg,False,46,Leicester,8,4,376,Midfielder,6.600000,False,4,2,4,2,0,0,,1,,137,1,78,9,1,9,31,14,1,0,,5,5,1,0,0,,,0,0,,2017/2018
+653,18785,Nampalys,Mendy,30,Senegal,167 cm,73 kg,False,46,Leicester,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+654,18786,Onyinye Wilfred,Ndidi,26,Nigeria,183 cm,74 kg,False,46,Leicester,33,33,2899,Midfielder,6.869696,False,0,1,0,41,6,0,,3,,1280,13,74,138,10,50,574,314,43,33,,26,60,8,2,0,1,,0,0,,2017/2018
+655,18788,Jamie,Vardy,35,England,179 cm,74 kg,False,46,Leicester,37,37,3258,Attacker,7.072972,False,0,11,0,71,35,20,,1,,280,32,60,15,1,2,346,141,57,24,,27,29,3,0,0,3,,5,1,,2017/2018
+656,18906,Ayoze,Pérez Gutiérrez,29,Spain,178 cm,72 kg,False,34,Newcastle,36,28,2497,Attacker,6.836111,False,8,13,10,60,23,8,,5,,512,37,64,39,1,24,429,166,63,32,,53,36,3,0,0,,,0,0,,2017/2018
+657,18936,Ryan,Bertrand,33,England,179 cm,85 kg,False,41,Southampton,35,35,3137,Defender,6.857142,False,0,2,0,20,3,0,,4,,1168,36,76,49,9,44,277,142,37,17,,33,32,2,0,0,,,0,0,,2017/2018
+658,19041,Jon,Gorenc Stankovič,26,Slovenia,190 cm,78 kg,False,37,Huddersfield,0,0,0,Defender,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+659,19182,Axel,Tuanzebe,25,England,186 cm,75 kg,False,33,Manchester United,1,0,0,Defender,,False,1,0,4,0,0,0,,,,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,,2017/2018
+660,614,Claudio Andrés,Bravo Muñoz,39,Chile,184 cm,80 kg,False,50,Manchester City,3,2,225,Goalkeeper,6.866666,False,1,0,36,0,0,0,1,,4,50,0,92,,0,0,4,3,0,0,,1,0,0,0,0,,,0,0,0,2017/2018
+661,968,Aleksandar,Dragović,31,Austria,186 cm,84 kg,False,46,Leicester,11,7,766,Defender,6.845454,False,4,1,22,1,0,0,,,,288,0,86,13,8,16,54,30,1,1,,3,7,2,0,0,,,0,0,,2017/2018
+662,1439,Héctor,Bellerín Moruno,27,Spain,178 cm,74 kg,False,42,Arsenal,35,34,3051,Defender,6.780000,False,1,1,1,29,8,2,,3,,1563,34,83,57,8,23,294,124,46,25,,7,36,5,0,0,,2,0,0,,2017/2018
+663,1442,Sead,Kolašinac,29,Bosnia and Herzegovina,183 cm,85 kg,False,42,Arsenal,27,25,2151,Defender,6.870370,False,2,6,11,21,7,2,,4,,1016,19,78,49,3,26,225,118,22,12,,10,32,3,0,0,,,0,0,,2017/2018
+664,1458,Mesut,Özil,34,Germany,180 cm,76 kg,False,42,Arsenal,26,24,2164,Midfielder,7.580769,False,2,3,3,39,14,4,,8,,1564,85,85,20,1,12,171,79,51,36,,22,18,4,0,0,1,,0,0,,2017/2018
+665,1558,Joel,Robles Blázquez,32,Spain,195 cm,78 kg,False,45,Everton,0,0,0,Goalkeeper,,False,0,0,30,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+666,2299,Pedro Eliezer,Rodríguez Ledesma,35,Spain,169 cm,65 kg,False,49,Chelsea,31,17,1522,Attacker,7.000000,False,14,13,18,56,20,4,,2,,544,26,80,20,1,13,152,71,51,33,,18,9,1,0,0,,,0,0,,2017/2018
+667,2726,Kurt Happy,Zouma,28,France,190 cm,96 kg,False,75,Stoke City,34,32,2887,Defender,7.057575,False,2,1,2,20,8,1,,,,798,6,72,49,23,61,279,200,27,22,,21,19,1,0,0,,,0,0,,2017/2018
+668,2997,Łukasz,Fabiański,37,Poland,190 cm,83 kg,False,76,Swansea,38,38,3420,Goalkeeper,6.913157,False,0,0,0,0,0,0,56,,137,594,1,53,,0,0,21,17,0,0,,3,1,0,0,0,,,0,0,3,2017/2018
+669,18763,James Patrick,McCarthy,32,Republic of Ireland,180 cm,72 kg,False,45,Everton,4,3,207,Midfielder,6.700000,False,1,3,1,1,0,0,,,,72,1,74,9,2,5,30,18,3,3,,2,3,0,0,0,,,0,0,,2017/2018
+670,18767,Ademola,Lookman,25,Nigeria,174 cm,78 kg,False,45,Everton,7,1,154,Attacker,6.500000,False,6,1,16,3,0,0,,1,,38,2,85,1,0,1,31,13,13,8,,3,5,0,0,0,,,0,0,,2017/2018
+671,18813,Aaron,Cresswell,33,England,170 cm,66 kg,False,48,West Ham,36,35,3073,Defender,6.875000,False,1,5,2,21,6,1,,7,,1002,35,75,34,17,44,215,111,14,5,,15,20,7,0,0,,,0,0,,2017/2018
+672,18816,Fuka-Arthur,Masuaku Kawela,29,Congo DR,179 cm,70 kg,False,48,West Ham,27,21,1872,Defender,6.784615,False,6,8,11,9,3,0,,3,,550,18,78,58,2,26,359,194,129,83,,30,30,5,0,0,,,0,0,,2017/2018
+673,18817,Angelo,Obinze Ogbonna,34,Italy,191 cm,86 kg,False,48,West Ham,32,32,2880,Defender,6.828125,False,0,0,5,8,2,1,,,,808,7,78,30,27,58,236,135,11,9,,17,15,3,0,0,,1,0,0,,2017/2018
+674,18845,Patrick John Miguel,van Aanholt,32,Netherlands,176 cm,74 kg,False,52,Crystal Palace,28,25,2185,Defender,6.971428,False,3,4,11,33,11,5,,1,,679,18,70,47,5,47,152,89,30,25,,10,18,7,0,0,,,0,0,,2017/2018
+675,18859,Artur,Boruc,42,Poland,193 cm,87 kg,False,35,Bournemouth,0,0,0,Goalkeeper,,False,0,0,37,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+676,18908,Charles Joseph John,Hart,35,England,196 cm,91 kg,False,48,West Ham,19,19,1710,Goalkeeper,6.594736,False,0,0,16,0,0,0,39,1,53,241,2,45,1,0,0,9,7,1,1,,1,1,0,0,0,,,0,0,1,2017/2018
+677,19018,Timothy Evans,Fosu-Mensah,24,Netherlands,185 cm,80 kg,False,52,Crystal Palace,21,17,1594,Defender,6.740000,False,4,2,13,8,0,0,,,,456,6,74,42,9,31,151,85,18,11,,13,18,2,0,0,,,0,0,,2017/2018
+678,19147,Craig,Dawson,32,England,188 cm,82 kg,False,60,West Brom,28,28,2511,Defender,6.921428,False,0,1,1,16,4,2,,,,629,10,67,38,26,52,314,182,12,7,,22,35,6,0,0,,,0,0,,2017/2018
+679,19314,Cameron,Carter-Vickers,25,USA,183 cm,92 kg,False,47,Tottenham,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+680,176,Erik,Lamela,30,Argentina,181 cm,79 kg,False,47,Tottenham,25,7,832,Midfielder,6.787500,False,18,7,18,20,6,2,,2,,369,16,81,23,1,7,154,68,36,23,,16,24,4,0,0,1,,0,0,,2017/2018
+681,249,Donyell,Malen,23,Netherlands,176 cm,68 kg,False,42,Arsenal,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+682,287,Dejan,Lovren,33,Croatia,188 cm,84 kg,False,40,Liverpool,29,24,2124,Defender,7.084615,False,5,2,10,14,4,2,,1,,1595,6,81,26,15,38,221,136,1,0,,6,15,4,0,0,,1,0,0,,2017/2018
+683,375,Chancel,Mbemba Mangulu,28,Congo DR,182 cm,81 kg,False,34,Newcastle,9,7,672,Defender,6.788888,False,2,2,5,0,0,0,,,,153,4,72,16,3,15,81,47,11,8,,4,5,0,0,0,,,0,0,,2017/2018
+684,452,Fernando Francisco,Reges,35,Brazil,183 cm,76 kg,False,50,Manchester City,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+685,842,Nikola,Vlašić,25,Croatia,178 cm,72 kg,False,45,Everton,12,7,575,Midfielder,6.540000,False,5,4,10,5,1,0,,,,150,12,68,9,2,9,79,34,19,13,,7,7,0,0,0,,,0,0,,2017/2018
+686,864,Emre,Can,28,Germany,186 cm,86 kg,False,40,Liverpool,26,24,2094,Midfielder,7.215384,False,2,5,5,27,8,3,,4,,1320,25,83,67,4,28,286,163,32,24,,27,27,8,0,0,1,,0,0,,2017/2018
+687,908,Anthony,Martial,27,France,181 cm,76 kg,False,33,Manchester United,30,18,1583,Attacker,6.933333,False,12,13,16,49,16,9,,5,,599,33,82,15,1,3,244,99,83,43,,27,17,1,0,0,,,1,0,,2017/2018
+688,1465,Pierre-Emerick,Aubameyang,33,Gabon,187 cm,80 kg,False,42,Arsenal,13,12,1058,Attacker,7.376923,False,1,2,1,31,19,10,,4,,220,14,70,5,1,3,82,32,14,11,,8,1,0,0,0,,,1,1,,2017/2018
+689,2286,Davide,Zappacosta,30,Italy,185 cm,70 kg,False,49,Chelsea,22,12,1095,Defender,6.742857,False,10,7,19,25,11,1,,1,,378,13,77,26,2,6,132,64,37,14,,10,7,0,0,0,,,0,0,,2017/2018
+690,2473,Manuel,Lanzini,29,Argentina,167 cm,59 kg,False,48,West Ham,27,23,2047,Midfielder,7.177777,False,4,9,4,44,18,5,,6,,1064,41,87,20,1,30,258,123,102,65,,35,9,4,0,0,1,,0,1,,2017/2018
+691,2937,Declan,Rice,23,England,185 cm,76 kg,False,48,West Ham,26,15,1422,Midfielder,6.708333,False,11,3,21,5,0,0,,,,451,2,63,36,13,27,124,71,3,2,,2,5,1,0,0,,,0,0,,2017/2018
+692,18819,Michail Gregory,Antonio,32,Jamaica,180 cm,82 kg,False,48,West Ham,21,16,1357,Attacker,6.800000,False,5,8,5,34,15,3,,1,,261,14,64,15,0,13,297,139,88,51,,30,17,1,0,0,1,,0,0,,2017/2018
+693,18823,Benjamin,Johnson,22,England,175 cm,67 kg,False,48,West Ham,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+694,18826,Mark,Noble,35,England,180 cm,70 kg,False,48,West Ham,29,28,2404,Midfielder,6.917241,False,1,5,5,15,6,4,,,,1110,20,83,61,10,47,266,137,26,20,,46,28,6,0,0,,,2,0,,2017/2018
+695,19497,Rolando Maximiliano,Martins Indi,30,Netherlands,185 cm,76 kg,False,75,Stoke City,17,14,1244,Defender,6.656250,False,3,4,8,4,1,0,,,,281,3,78,20,11,21,92,51,0,0,,6,12,3,0,0,,1,0,0,,2017/2018
+696,25350,Marko,Grujić,26,Serbia,191 cm,82 kg,False,40,Liverpool,3,0,13,Midfielder,6.550000,False,3,0,6,0,0,0,,,,11,1,73,2,0,0,5,2,0,0,,0,0,0,0,0,,,0,0,,2017/2018
+697,25374,Kevin,Wimmer,30,Austria,187 cm,85 kg,False,75,Stoke City,17,14,1321,Defender,6.647058,False,3,1,5,1,0,0,,,,387,3,69,24,12,30,111,51,6,2,,6,20,5,0,0,,,0,0,,2017/2018
+698,30531,Jérémie,Boga,25,Côte d'Ivoire,172 cm,68 kg,False,49,Chelsea,1,1,18,Midfielder,6.500000,False,0,1,0,0,0,0,,,,4,0,100,,0,0,1,0,0,0,,0,1,0,0,0,,,0,0,,2017/2018
+699,47181,Antonio,Martínez López,25,Spain,180 cm,70 kg,False,48,West Ham,0,0,0,Attacker,,False,0,0,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+700,19236,Muhamed,Bešić,30,Bosnia and Herzegovina,180 cm,80 kg,False,45,Everton,2,0,44,Midfielder,6.800000,False,2,0,6,0,0,0,,,,27,1,48,1,2,0,11,5,0,0,,2,1,0,0,0,,,0,0,,2017/2018
+701,37154,Jordy,Clasie,31,Netherlands,169 cm,68 kg,False,41,Southampton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
+702,44827,Ádám,Bogdán,35,Hungary,193 cm,82 kg,False,40,Liverpool,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2017/2018
