@@ -1,0 +1,753 @@
+,id,firstname,lastname,age,nationality,height,weight,injured,teamID,teamname,appearences,lineups,minutes,position,rating,captain,subIn,subOut,bench,totalShots,shotsOn,totalGoals,goalsConceded,goalAssists,goalSaves,totalPasses,keyPasses,passAccuracy,totalTackles,blocks,interceptions,duelsTotal,duelsWon,dribbleAttempts,dribblesSuccess,dribblesPast,foulsDrawn,foulsCommitted,cardsYel,cardsYelRed,cardsRed,penaltyWon,penaltyCommited,penaltyScored,penaltyMissed,penaltySaved,season
+0,18015,Elliott,Ward,36,England,185 cm,83 kg,False,35,Bournemouth,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+1,18774,Wes,Morgan,37,Jamaica,186 cm,101 kg,False,46,Leicester,38,38,3420,Defender,7.044736,False,0,0,0,19,6,2,0,,,679,2,52,51,41,95,268,167,13,10,,15,27,3,0,0,,1,0,0,,2015/2016
+2,18879,Andrew,Surman,35,England,178 cm,73 kg,False,35,Bournemouth,38,38,3420,Midfielder,7.005263,False,0,0,0,16,0,0,0,3,,1961,43,83,51,11,110,283,134,21,16,,20,26,4,0,0,,,0,0,,2015/2016
+3,18982,Glenn,Murray,38,England,183 cm,80 kg,False,35,Bournemouth,19,6,668,Attacker,6.694117,False,13,5,17,22,13,3,0,,,157,6,37,7,3,3,124,55,17,9,,18,18,2,0,0,,,0,1,,2015/2016
+4,19176,Tommy,Elphick,34,England,180 cm,85 kg,False,35,Bournemouth,12,11,1012,Defender,6.708333,False,1,0,6,4,2,1,0,,,410,1,61,11,2,32,89,55,0,0,,8,10,1,0,0,,1,0,0,,2015/2016
+5,19226,David,Nugent,36,England,180 cm,76 kg,False,46,Leicester,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+6,19325,Nathan,Dyer,34,England,165 cm,60 kg,False,46,Leicester,12,0,208,Midfielder,6.288888,False,12,0,20,3,2,1,0,1,,57,3,37,4,0,1,53,22,12,7,,10,8,1,0,0,,,0,0,,2015/2016
+7,19381,Daniel,Pudil,36,Czech Republic,185 cm,82 kg,False,38,Watford,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+8,19488,Danny,Graham,36,England,185 cm,88 kg,False,746,Sunderland,10,4,358,Attacker,6.500000,False,6,4,12,4,2,0,0,,,55,0,52,1,3,5,57,18,2,0,,6,8,0,0,0,,,0,0,,2015/2016
+9,19553,Darron,Gibson,34,Republic of Ireland,183 cm,90 kg,False,45,Everton,7,2,238,Midfielder,6.760000,False,5,1,15,2,1,0,,1,,154,4,72,4,2,4,24,14,3,3,,0,4,3,0,0,,1,0,0,,2015/2016
+10,19660,Billy,Jones,34,England,181 cm,77 kg,False,746,Sunderland,24,23,2033,Defender,6.641666,False,1,2,12,14,4,1,0,1,,414,12,69,76,17,30,268,160,16,11,,15,32,8,0,0,,,0,0,,2015/2016
+11,20439,Matt,Jarvis,35,England,170 cm,72 kg,False,71,Norwich,14,8,663,Midfielder,6.500000,False,6,7,10,10,4,0,,1,,191,18,79,10,2,5,72,27,17,6,,7,3,0,0,0,,,0,0,,2015/2016
+12,30749,Emanuele,Giaccherini,36,Italy,167 cm,60 kg,False,746,Sunderland,0,0,0,Midfielder,,False,0,0,2,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+13,35672,José Leonardo,Ulloa,35,Argentina,188 cm,89 kg,False,46,Leicester,29,7,967,Attacker,6.803703,False,22,5,29,33,10,6,0,2,,310,14,55,27,1,7,290,107,21,11,,18,20,0,0,0,,,1,0,,2015/2016
+14,47261,Mathieu,Flamini,35,France,178 cm,67 kg,False,42,Arsenal,16,12,1088,Midfielder,6.775000,False,4,3,8,7,2,0,,,,545,3,84,,,35,87,47,4,2,,3,18,3,0,0,,,0,0,,2015/2016
+15,50102,Arouna,Koné,38,Côte d'Ivoire,181 cm,78 kg,False,45,Everton,25,16,1457,Attacker,6.783333,False,9,10,16,33,14,5,0,4,,528,15,54,25,1,9,216,75,45,24,,12,15,1,0,0,,,0,0,,2015/2016
+16,81774,Joe,Ledley,33,Wales,183 cm,73 kg,False,52,Crystal Palace,19,11,980,Midfielder,6.711111,False,8,7,16,7,2,1,,,,319,3,73,16,9,33,76,34,2,2,,4,12,1,0,0,,,0,0,,2015/2016
+17,82142,Niall,Mason,24,England,180 cm,78 kg,False,66,Aston Villa,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+18,98893,Tokelo Anthony,Rantie,31,South Africa,172 cm,68 kg,False,35,Bournemouth,3,0,38,Attacker,6.533333,False,3,0,8,1,0,0,0,,,10,1,88,3,0,0,10,3,2,0,,0,3,0,0,0,,,0,0,,2015/2016
+19,114745,Mikel,Arteta Amatriain,34,Spain,175 cm,64 kg,False,42,Arsenal,9,0,161,Midfielder,,False,9,1,13,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2015/2016
+20,18928,Peter,Crouch,40,England,201 cm,75 kg,False,75,Stoke City,11,4,456,Attacker,6.600000,False,7,0,29,7,3,0,,1,,88,4,59,3,0,4,118,58,3,2,,4,13,0,0,0,,,0,0,,2015/2016
+21,19153,Gareth,Barry,39,England,183 cm,78 kg,False,45,Everton,33,32,2837,Midfielder,7.140625,False,1,1,1,15,4,1,,1,,1687,34,81,96,24,53,333,193,21,18,,25,42,6,1,0,,,0,0,,2015/2016
+22,19171,Mark,Bunn,35,England,183 cm,77 kg,False,66,Aston Villa,10,10,900,Goalkeeper,6.560000,False,0,0,28,0,0,0,18,,27,100,0,41,,,0,5,3,0,0,,0,1,2,0,0,,,0,0,1,2015/2016
+23,19189,Mile,Jedinak,37,Australia,189 cm,87 kg,False,52,Crystal Palace,27,16,1531,Midfielder,6.866666,False,11,2,14,13,1,0,,,,594,8,73,50,10,55,281,169,5,5,,16,36,6,0,0,,1,0,0,,2015/2016
+24,19526,Craig,Gardner,34,England,178 cm,71 kg,False,60,West Brom,34,20,2035,Midfielder,6.743750,False,14,11,18,46,12,3,,3,,395,24,60,51,2,30,260,118,15,7,,28,38,5,0,0,,,0,1,,2015/2016
+25,19722,James,Collins,38,Wales,188 cm,83 kg,False,48,West Ham,19,16,1439,Defender,6.982352,False,3,1,13,13,4,0,0,,,440,2,71,18,22,19,126,76,4,3,,7,12,3,0,1,,,0,0,,2015/2016
+26,82009,John,Terry,41,England,187 cm,90 kg,False,49,Chelsea,24,24,1991,Defender,6.729166,False,0,3,2,10,2,1,,,,830,2,89,21,19,38,119,77,4,2,,5,10,3,1,1,,,0,0,,2015/2016
+27,82435,Gabriel,Imuetinyan Agbonlahor,32,England,180 cm,78 kg,False,66,Aston Villa,15,13,1036,Attacker,,False,2,7,2,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+28,83018,Steve,Sidwell,39,England,178 cm,70 kg,False,75,Stoke City,1,0,12,Midfielder,6.700000,False,1,0,3,,,0,0,,,6,,5,4,,,8,5,,,,,1,0,0,0,,,0,0,,2015/2016
+29,83019,Micah,Richards,30,England,180 cm,83 kg,False,66,Aston Villa,24,23,2046,Defender,,False,1,3,9,,,1,,,,,,,,,,,,,,,,,3,0,0,,,,,,2015/2016
+30,87315,Kieran,Richardson,32,England,175 cm,69 kg,False,66,Aston Villa,11,8,723,Defender,,False,3,3,14,,,0,,,,,,,,,,,,,,,,,4,0,0,,,,,,2015/2016
+31,87896,Paul,Konchesky,40,England,178 cm,69 kg,False,46,Leicester,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+32,90489,Per,Mertesacker,37,Germany,198 cm,90 kg,False,42,Arsenal,24,24,2049,Defender,6.862500,False,0,1,7,8,2,0,,,,1113,2,88,27,10,36,119,88,3,3,,6,7,1,0,1,,,0,0,,2015/2016
+33,90492,Stephen,Ireland,32,Republic of Ireland,173 cm,67 kg,False,75,Stoke City,13,0,230,Midfielder,6.816666,False,13,0,24,3,0,0,,1,,135,8,83,,,3,32,14,4,2,,0,4,2,0,0,,,0,0,,2015/2016
+34,90507,Joleon,Lescott,35,England,188 cm,82 kg,False,66,Aston Villa,30,30,2631,Defender,,False,0,2,4,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2015/2016
+35,90516,Shay,Given,41,Republic of Ireland,185 cm,84 kg,False,75,Stoke City,3,3,226,Goalkeeper,,False,0,1,11,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2015/2016
+36,105800,Tomáš,Rosický,41,Czech Republic,178 cm,65 kg,False,42,Arsenal,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+37,114752,Charles,N'Zogbia,30,France,171 cm,70 kg,False,66,Aston Villa,2,0,41,Midfielder,,False,2,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+38,114796,Leo,Chambers,26,England,186 cm,65 kg,False,48,West Ham,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+39,115938,Emmanuel,Eboué,33,Côte d'Ivoire,178 cm,72 kg,False,746,Sunderland,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+40,17560,Rene,Gilmartin,33,Republic of Ireland,196 cm,85 kg,False,38,Watford,0,0,0,Goalkeeper,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+41,18865,Simon,Francis,35,England,183 cm,90 kg,False,35,Bournemouth,38,38,3387,Defender,6.976315,False,0,0,0,7,1,0,,4,,1664,35,78,105,20,88,415,253,46,30,,12,35,5,0,1,,2,0,0,,2015/2016
+42,19144,Glyn Oliver,Myhill,39,Wales,191 cm,91 kg,False,60,West Brom,23,23,2070,Goalkeeper,6.747826,False,0,0,15,0,0,0,31,,65,254,0,43,,0,0,8,7,0,0,,4,0,2,0,0,,,0,0,0,2015/2016
+43,19500,Ashley,Williams,36,Wales,183 cm,77 kg,False,76,Swansea,36,36,3240,Defender,7.219444,False,0,0,0,16,6,2,,1,,1601,11,82,68,43,99,259,160,6,6,,15,30,8,0,0,,1,0,0,,2015/2016
+44,19698,Marc,Wilson,34,Republic of Ireland,188 cm,80 kg,False,75,Stoke City,4,1,258,Defender,6.375000,False,3,0,17,0,0,0,0,,,84,1,71,7,0,2,31,15,0,0,,3,2,0,0,0,,,0,0,,2015/2016
+45,19700,Will,Buckley,31,England,183 cm,82 kg,False,746,Sunderland,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+46,19703,Lloyd,Dyer,38,England,173 cm,70 kg,False,38,Watford,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+47,19708,Gary,O'Neil,38,England,173 cm,60 kg,False,71,Norwich,27,19,1749,Midfielder,6.600000,False,8,1,15,11,0,0,0,,,736,9,74,41,7,36,211,91,19,13,,17,40,7,0,1,,1,0,0,,2015/2016
+48,20332,Michael,Turner,38,England,193 cm,85 kg,False,71,Norwich,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+49,48136,Joel,Ekstrand,30,Sweden,188 cm,77 kg,False,38,Watford,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+50,82008,Eunan,O'Kane,31,Republic of Ireland,168 cm,84 kg,False,35,Bournemouth,16,6,749,Midfielder,6.533333,False,10,3,26,6,2,0,,1,,292,7,76,9,2,8,65,28,18,10,,7,6,2,0,0,,,0,0,,2015/2016
+51,82448,Jordan,Lee,25,England,178 cm,80 kg,False,35,Bournemouth,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+52,83027,Rickie,Lambert,35,England,188 cm,76 kg,False,60,West Brom,19,5,614,Attacker,,False,14,3,28,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2015/2016
+53,83131,Wes,Brown,39,England,185 cm,77 kg,False,746,Sunderland,6,6,540,Defender,,False,0,0,9,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2015/2016
+54,87626,Rhoys,Wiggins,34,Wales,173 cm,72 kg,False,35,Bournemouth,0,0,0,Defender,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+55,114743,Kevin,Nolan,39,England,180 cm,88 kg,False,48,West Ham,2,1,57,Midfielder,6.700000,False,1,1,2,0,0,0,0,,,15,0,53,1,0,0,5,2,1,1,,0,0,0,0,0,,,0,0,,2015/2016
+56,114747,Sylvain,Distin,39,France,192 cm,85 kg,False,35,Bournemouth,12,9,840,Defender,,False,3,0,22,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+57,114748,Dean,Hammond,34,England,183 cm,74 kg,False,46,Leicester,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+58,114760,Steve,Harper,41,England,190 cm,82 kg,False,746,Sunderland,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+59,114813,Ian,Harte,38,Republic of Ireland,175 cm,73 kg,False,35,Bournemouth,,,,Defender,,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015/2016
+60,2105,Sébastien,Pocognoli,34,Belgium,182 cm,72 kg,False,60,West Brom,1,0,35,Defender,7.000000,False,1,0,5,0,0,0,0,1,,12,2,63,,0,1,4,2,1,0,,0,0,0,0,0,,,0,0,,2015/2016
+61,12788,Ramires,Santos do Nascimento,34,Brazil,180 cm,70 kg,False,49,Chelsea,12,7,608,Midfielder,6.636363,False,5,4,9,10,5,2,,,,246,1,75,23,1,14,131,52,15,6,,15,21,1,0,0,,,0,0,,2015/2016
+62,18757,Leighton,Baines,37,England,170 cm,74 kg,False,45,Everton,18,16,1477,Defender,6.961111,False,2,0,7,9,3,2,,1,,621,22,81,34,6,29,122,68,9,4,,21,6,0,0,0,,,1,0,,2015/2016
+63,18837,Julián,Speroni,42,Argentina,186 cm,87 kg,False,52,Crystal Palace,2,2,180,Goalkeeper,6.750000,False,0,0,19,0,0,0,6,,10,36,0,55,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,0,2015/2016
+64,69388,Damien,Delaney,40,Republic of Ireland,191 cm,89 kg,False,52,Crystal Palace,32,32,2880,Defender,6.953125,False,0,0,2,21,7,2,,3,,767,10,71,31,36,56,238,145,4,4,,15,18,2,0,0,,2,0,0,,2015/2016
+65,81993,Jonathan,Walters,38,Republic of Ireland,183 cm,79 kg,False,75,Stoke City,27,18,1723,Attacker,6.780769,False,9,4,11,32,13,5,,3,,323,24,59,8,6,5,284,124,26,12,,27,14,1,0,0,,,0,0,,2015/2016
+66,82025,Ikechi,Anya,33,Scotland,170 cm,72 kg,False,38,Watford,28,17,1680,Midfielder,6.646428,False,11,5,20,10,1,0,,1,,524,20,79,16,2,45,113,61,25,14,,17,1,0,0,0,,,0,0,,2015/2016
+67,82171,Alex,Pike,21,England,180 cm,70 kg,False,48,West Ham,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+68,82285,Joe,Ward,21,England,183 cm,77 kg,False,60,West Brom,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+69,90491,Glen,Johnson,37,England,182 cm,78 kg,False,75,Stoke City,25,25,2186,Defender,6.784000,False,0,2,0,16,5,0,0,3,,745,18,75,41,13,51,202,100,57,33,,11,11,1,0,0,,,0,0,,2015/2016
+70,90511,Victor Chinedu,Anichebe,29,Nigeria,191 cm,85 kg,False,60,West Brom,10,3,364,Attacker,,False,7,2,27,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+71,90512,Robert,Huth,37,Germany,191 cm,99 kg,False,46,Leicester,35,35,3150,Defender,7.028571,False,0,0,0,28,6,3,,,,580,2,69,41,34,76,289,175,3,3,,17,35,8,0,0,,,0,0,,2015/2016
+72,90513,Steven,Pienaar,39,South Africa,170 cm,71 kg,False,45,Everton,4,0,118,Midfielder,6.550000,False,4,0,9,2,0,0,,,,60,1,69,,0,4,18,8,4,3,,3,1,0,0,0,,,0,0,,2015/2016
+73,91571,Marco,Amelia,35,Italy,188 cm,90 kg,False,49,Chelsea,0,0,0,Goalkeeper,,False,0,0,7,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+74,104311,Mark,Schwarzer,44,Australia,194 cm,85 kg,False,46,Leicester,0,0,0,Goalkeeper,,False,0,0,37,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+75,114746,Leon,Osman,35,England,174 cm,63 kg,False,45,Everton,9,2,217,Midfielder,,False,7,1,32,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+76,114749,Diego,Poyet González,26,Uruguay,186 cm,74 kg,False,1335,Charlton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+77,114751,Brede,Hangeland,35,Norway,195 cm,92 kg,False,52,Crystal Palace,7,7,630,Defender,,False,0,0,6,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2015/2016
+78,114753,Richard,Wright,39,England,188 cm,89 kg,False,50,Manchester City,0,0,0,Goalkeeper,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+79,114755,Tony,Hibbert,35,England,173 cm,70 kg,False,45,Everton,1,0,44,Defender,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+80,160,Michel,Vorm,38,Netherlands,183 cm,84 kg,False,47,Tottenham,1,1,90,Goalkeeper,6.700000,False,0,0,37,0,0,0,1,,1,42,0,93,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,0,2015/2016
+81,18818,Pablo Javier,Zabaleta Girod,35,Argentina,176 cm,74 kg,False,50,Manchester City,13,12,1062,Defender,6.753846,False,1,1,13,3,1,0,,1,,489,3,85,43,2,25,132,73,7,3,,9,15,3,0,0,,,0,0,,2015/2016
+82,19162,James,Morrison,33,Scotland,178 cm,64 kg,False,60,West Brom,18,17,1344,Midfielder,7.088235,False,1,7,2,24,12,3,,3,,495,15,80,,,43,135,66,30,22,,12,7,3,0,0,,,0,1,,2015/2016
+83,19504,Darren,Fletcher,35,Scotland,183 cm,83 kg,False,60,West Brom,38,38,3376,Midfielder,6.755263,False,0,2,0,22,4,1,,3,,1157,30,77,,,51,313,145,41,29,,30,18,3,0,0,,1,0,0,,2015/2016
+84,19583,Àngel,Rangel Zaragoza,38,Spain,188 cm,84 kg,False,76,Swansea,23,20,1821,Defender,6.918181,False,3,4,17,14,0,0,,,,1021,12,76,43,7,59,185,106,17,13,,17,19,6,0,0,,,0,0,,2015/2016
+85,19609,John,O'Shea,38,Republic of Ireland,191 cm,75 kg,False,746,Sunderland,28,23,2007,Defender,6.737037,False,5,3,11,7,3,0,,,,437,1,67,,,39,136,92,1,0,,13,19,2,0,0,,1,0,0,,2015/2016
+86,19899,Lee,Cattermole,32,England,178 cm,76 kg,False,746,Sunderland,31,27,2217,Midfielder,6.693548,False,4,11,5,11,1,0,,,,702,23,73,57,18,52,251,111,14,13,,16,40,8,0,0,,2,0,0,,2015/2016
+87,28375,Dániel,Tőzsér,35,Hungary,185 cm,74 kg,False,38,Watford,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+88,50914,Bastian,Schweinsteiger,35,Germany,183 cm,79 kg,False,33,Manchester United,18,13,1202,Midfielder,6.977777,False,5,5,5,12,3,1,,,,914,8,83,,,23,169,81,16,13,,17,19,3,0,0,,,0,0,,2015/2016
+89,72157,Ibrahim,Afellay,35,Netherlands,181 cm,76 kg,False,75,Stoke City,31,24,2105,Midfielder,6.764516,False,7,10,8,39,8,2,0,2,,1158,21,88,27,1,11,227,117,65,41,,36,19,3,0,1,,,0,0,,2015/2016
+90,87348,Cheik Ismaël,Tioté,35,Côte d'Ivoire,180 cm,76 kg,False,34,Newcastle,20,16,1228,Midfielder,6.855000,False,4,12,9,1,0,0,,,,714,8,80,48,3,42,207,112,21,15,,14,31,5,0,0,,,0,0,,2015/2016
+91,87817,Lewis,McGugan,29,England,175 cm,73 kg,False,38,Watford,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+92,90490,Michael,Carrick,40,England,188 cm,74 kg,False,33,Manchester United,28,22,1973,Midfielder,7.025925,False,6,7,9,7,1,0,,,,1355,10,82,43,3,45,137,80,9,8,,13,11,4,0,0,,,0,0,,2015/2016
+93,90508,Gerhard,Tremmel,43,Germany,190 cm,89 kg,False,76,Swansea,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+94,91254,Esteban Matías,Cambiasso Delau,41,Argentina,177 cm,78 kg,False,46,Leicester,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+95,105044,José Enrique,de la Sánchez Diaz,35,Spain,184 cm,80 kg,False,40,Liverpool,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+96,105060,Miguel,Pérez Cuesta,31,Spain,185 cm,78 kg,False,76,Swansea,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+97,114744,Adam,Johnson,29,England,178 cm,62 kg,False,746,Sunderland,19,11,1143,Midfielder,,False,8,3,9,,,2,,,,,,,,,,,,,,,,,3,0,0,,,,,,2015/2016
+98,233780,Andre,Olukanmi,21,England,183 cm,69 kg,False,46,Leicester,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+99,233834,Reiss,Awuah,20,England,,,False,71,Norwich,,,,Defender,,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015/2016
+100,1200,Branislav,Ivanović,37,Serbia,185 cm,89 kg,False,49,Chelsea,33,33,2918,Defender,6.890909,False,0,2,0,21,7,2,0,2,,1129,14,70,66,18,60,293,178,15,10,,22,32,5,0,0,,,0,0,,2015/2016
+101,1301,Dame,N'Doye,36,Senegal,186 cm,81 kg,False,746,Sunderland,11,5,567,Attacker,6.690909,False,6,1,11,9,4,1,,,,130,4,74,12,2,7,132,58,17,5,,20,20,2,0,0,,,0,0,,2015/2016
+102,12541,José Manuel,Jurado Marín,34,Spain,173 cm,72 kg,False,38,Watford,27,27,2027,Midfielder,6.925925,False,0,20,2,35,10,0,,,,803,41,83,37,1,22,246,129,79,52,,37,12,3,0,0,1,,0,0,,2015/2016
+103,12765,Graziano,Pellè,36,Italy,194 cm,84 kg,False,41,Southampton,30,23,2172,Attacker,7.250000,False,7,4,9,73,25,11,0,6,,723,38,48,13,1,10,343,154,16,7,,28,40,6,0,0,1,,0,0,,2015/2016
+104,18789,Heurelho,da Silva Gomes,40,Brazil,191 cm,91 kg,False,38,Watford,38,38,3397,Goalkeeper,6.978947,False,0,1,0,0,0,0,50,,121,456,0,45,2,0,2,27,24,0,0,,6,2,4,0,0,,,0,0,3,2015/2016
+105,18801,Sebastian,Prödl,34,Austria,194 cm,92 kg,False,38,Watford,21,19,1776,Defender,6.895238,False,2,0,14,12,5,2,0,,,442,2,48,23,14,65,116,57,0,0,,6,23,5,0,0,1,,0,0,,2015/2016
+106,19154,Chris,Brunt,37,Northern Ireland,185 cm,84 kg,False,60,West Brom,22,20,1802,Midfielder,6.745454,False,2,4,2,17,4,0,0,3,,520,21,49,28,10,37,139,75,15,14,,8,18,7,0,0,,1,0,0,,2015/2016
+107,19284,Costel Fane,Pantilimon,34,Romania,203 cm,90 kg,False,38,Watford,0,0,0,Goalkeeper,6.752941,False,0,0,16,0,0,0,33,,72,426,1,22,,0,0,9,6,0,0,,2,2,0,0,0,,,0,0,0,2015/2016
+108,19332,Wayne,Routledge,36,England,170 cm,64 kg,False,76,Swansea,28,22,1683,Midfielder,6.528571,False,6,17,11,16,9,2,0,1,,508,29,59,23,1,12,207,67,32,16,,23,30,3,0,0,,,0,0,,2015/2016
+109,19423,Marc,Pugh,34,England,180 cm,72 kg,False,35,Bournemouth,26,15,1336,Midfielder,6.580769,False,11,10,17,22,11,3,0,2,,393,13,79,32,0,16,235,106,67,32,,29,10,1,0,0,1,,0,0,,2015/2016
+110,19548,Jonas,Olsson,38,Sweden,193 cm,84 kg,False,60,West Brom,28,25,2016,Defender,6.780769,False,3,6,11,6,2,1,,1,,397,4,63,16,32,45,122,73,3,2,,10,22,5,0,0,,,0,0,,2015/2016
+111,20126,Jerome,Sinclair,25,England,181 cm,78 kg,False,40,Liverpool,0,0,0,Attacker,,False,0,0,1,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+112,25237,Jan Tilman,Kirchhoff,31,Germany,195 cm,82 kg,False,746,Sunderland,15,14,1084,Defender,6.926666,False,1,10,1,8,2,0,,,,384,13,70,51,3,35,216,112,11,11,,17,20,0,0,0,,1,0,0,,2015/2016
+113,44807,Thomas Michael,Hoban,27,Republic of Ireland,189 cm,84 kg,False,38,Watford,0,0,0,Defender,,False,0,0,2,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+114,51298,Timothy Matthew,Howard,42,USA,191 cm,95 kg,False,45,Everton,25,25,2250,Goalkeeper,6.856000,False,0,0,11,0,0,0,35,,82,354,1,59,1,0,6,10,5,1,1,,2,2,1,0,0,,,0,0,0,2015/2016
+115,74772,Essaïd,Belkalem,29,Algeria,192 cm,88 kg,False,38,Watford,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+116,91235,Emmanuel,Emenike,33,Nigeria,182 cm,82 kg,False,48,West Ham,13,5,508,Attacker,6.608333,False,8,4,9,10,2,0,,,,108,7,76,,,1,89,33,18,11,,7,5,0,0,0,,,0,0,,2015/2016
+117,104129,Kolo Habib,Touré,36,Côte d'Ivoire,180 cm,74 kg,False,40,Liverpool,14,9,856,Defender,,False,5,3,21,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2015/2016
+118,116926,Iriney,Santos Da Silva,34,Brazil,179 cm,70 kg,False,38,Watford,,,,Midfielder,,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015/2016
+119,231167,Sam,Westley,23,England,183 cm,75 kg,False,48,West Ham,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+120,54,Diego,da Silva Costa,34,Spain,188 cm,83 kg,False,49,Chelsea,28,27,2378,Attacker,6.996428,False,1,6,2,64,28,12,0,6,,707,30,57,21,4,6,431,150,107,40,,49,43,8,0,0,,,0,0,,2015/2016
+121,642,Sergio Leonel,Agüero del Castillo,33,Argentina,173 cm,70 kg,False,50,Manchester City,30,29,2375,Attacker,7.273333,False,1,16,3,109,52,24,0,2,,634,29,63,15,1,6,347,126,128,66,,36,20,1,0,0,1,,4,1,,2015/2016
+122,893,Luis Antonio,Valencia Mosquera,36,Ecuador,180 cm,83 kg,False,33,Manchester United,14,8,853,Midfielder,7.100000,False,6,2,10,5,1,0,0,3,,541,8,62,27,6,15,109,67,21,16,,6,16,1,0,0,,,0,0,,2015/2016
+123,2795,Gylfi Þór,Sigurðsson,33,Iceland,186 cm,79 kg,False,76,Swansea,36,32,2916,Midfielder,6.969444,False,4,6,4,76,32,11,0,3,,1015,57,58,42,5,27,256,93,43,24,,23,26,6,0,0,,,3,0,,2015/2016
+124,6599,Fabricio,Coloccini,39,Argentina,183 cm,76 kg,False,34,Newcastle,26,26,2293,Defender,6.688461,False,0,1,0,7,3,1,0,,,781,4,54,43,29,61,165,88,6,4,,9,9,2,0,1,,,0,0,,2015/2016
+125,6929,Steven Vincent,Taylor,35,England,188 cm,91 kg,False,34,Newcastle,10,9,810,Defender,6.680000,False,1,1,8,1,0,0,0,,,282,2,71,3,12,17,31,16,3,2,,4,3,1,0,0,,,0,0,,2015/2016
+126,18795,José,Holebas,37,Greece,184 cm,77 kg,False,38,Watford,11,11,946,Defender,6.809090,False,0,1,10,12,1,1,0,,,314,6,68,25,1,30,130,76,37,22,,5,8,2,0,0,,1,0,0,,2015/2016
+127,18864,Charlie John,Daniels,36,England,178 cm,75 kg,False,35,Bournemouth,37,37,3286,Defender,6.818918,False,0,1,0,19,7,3,0,5,,1480,36,66,75,4,53,285,176,80,57,,19,10,2,0,0,,,2,0,,2015/2016
+128,19491,Adam,Federici,37,Australia,188 cm,90 kg,False,35,Bournemouth,6,6,496,Goalkeeper,6.233333,False,0,1,31,0,0,0,16,,13,94,0,45,,0,0,2,0,0,0,,0,0,0,0,0,,,0,0,0,2015/2016
+129,19498,Ryan,Shawcross,35,England,191 cm,76 kg,False,75,Stoke City,20,20,1697,Defender,6.775000,False,0,1,0,8,0,0,0,,,451,1,62,43,19,39,163,101,6,5,,3,18,3,1,0,,1,0,0,,2015/2016
+130,42979,Giedrius,Arlauskis,35,Lithuania,192 cm,85 kg,False,38,Watford,1,0,23,Goalkeeper,6.300000,False,1,0,19,0,0,0,2,,0,2,0,40,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,0,2015/2016
+131,50228,Santiago,Vergini,33,Argentina,191 cm,83 kg,False,746,Sunderland,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+132,60154,Christopher,Herd,32,Australia,173 cm,76 kg,False,66,Aston Villa,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+133,69261,Joseph Martin,O'Brien,36,Republic of Ireland,180 cm,70 kg,False,48,West Ham,0,0,0,Defender,,False,0,0,4,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+134,78467,Nathan,Mavila,27,England,175 cm,73 kg,False,48,West Ham,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+135,82098,Jacob Kendall,Kean,31,England,195 cm,94 kg,False,71,Norwich,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+136,82580,Rees,Greenwood,26,England,173 cm,68 kg,False,746,Sunderland,1,1,52,Attacker,6.300000,False,0,1,0,0,0,0,,,,21,1,91,1,0,2,5,2,2,1,,0,1,0,0,0,,,0,0,,2015/2016
+137,82759,Josh,Wakefield,28,England,180 cm,72 kg,False,35,Bournemouth,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+138,87920,Mohamed,El Ouriachi,25,Spain,180 cm,,False,75,Stoke City,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+139,90518,Florin,Gardoș,34,Romania,193 cm,88 kg,False,41,Southampton,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+140,1436,Petr,Čech,40,Czech Republic,196 cm,90 kg,False,42,Arsenal,34,34,3060,Goalkeeper,7.005882,False,0,0,2,0,0,0,31,,101,625,1,42,,0,1,14,12,2,2,,5,0,0,0,0,,,0,0,0,2015/2016
+141,1739,Jonathon Patrick,Flanagan,29,England,181 cm,79 kg,False,40,Liverpool,5,5,421,Defender,6.500000,False,0,1,5,0,0,0,,1,,211,2,82,11,2,9,52,21,4,2,,1,7,1,0,0,,,0,0,,2015/2016
+142,1742,Gareth,McAuley,42,Northern Ireland,191 cm,90 kg,False,60,West Brom,34,34,3060,Defender,6.955882,False,0,0,0,7,3,1,,,,582,7,67,45,28,96,258,161,9,9,,16,32,4,0,1,,1,0,0,,2015/2016
+143,3444,Francisco,Santos da Silva Júnior,30,Guinea-Bissau,172 cm,65 kg,False,45,Everton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+144,5983,Mauro Matías,Zárate Riga,35,Argentina,176 cm,76 kg,False,48,West Ham,15,9,790,Attacker,6.986666,False,6,8,8,26,12,3,0,,,239,20,44,25,0,7,145,69,52,21,,22,12,1,0,0,,,0,0,,2015/2016
+145,12464,Nikica,Jelavić,36,Croatia,188 cm,88 kg,False,48,West Ham,13,1,338,Attacker,6.727272,False,12,0,17,11,1,1,0,2,,51,9,60,3,0,3,54,19,5,2,,4,7,1,0,0,,,0,0,,2015/2016
+146,17426,Russell,Martin,33,Scotland,183 cm,74 kg,False,71,Norwich,30,30,2698,Defender,6.733333,False,0,0,3,18,6,3,,,,820,8,72,,,37,185,93,8,1,,5,32,4,0,1,,1,0,0,,2015/2016
+147,17962,Rushian Marcus Amari,Hepburn-Murphy,24,England,173 cm,59 kg,False,66,Aston Villa,1,0,0,Attacker,,False,1,0,2,0,0,0,,,,0,0,0,,0,0,1,1,0,0,,1,0,0,0,0,,,0,0,,2015/2016
+148,18775,Danny,Simpson,35,England,176 cm,80 kg,False,46,Leicester,30,30,2613,Defender,6.943333,False,0,3,3,6,2,0,0,,,675,6,59,52,17,94,246,131,13,9,,12,29,4,1,0,,,0,0,,2015/2016
+149,19052,Jason David Ian,Puncheon,36,England,173 cm,70 kg,False,52,Crystal Palace,31,31,2625,Midfielder,6.964516,False,0,10,2,49,14,2,0,3,,1095,60,61,54,3,28,314,141,74,46,,29,34,3,0,0,,,0,0,,2015/2016
+150,19178,Alan,Hutton,35,Scotland,185 cm,72 kg,False,66,Aston Villa,28,26,2330,Defender,6.566666,False,2,1,5,9,2,0,,1,,636,21,74,,,52,219,135,31,12,,36,28,7,1,0,,1,0,0,,2015/2016
+151,44839,Steven Gordon,Whittaker,37,Scotland,185 cm,87 kg,False,71,Norwich,8,8,661,Defender,6.225000,False,0,0,11,6,4,1,0,,,304,2,28,12,4,7,59,23,9,5,,3,7,2,1,0,,,0,0,,2015/2016
+152,44881,Steven John,Naismith,35,Scotland,178 cm,72 kg,False,71,Norwich,13,11,880,Attacker,6.900000,False,2,10,3,6,4,1,0,,,172,8,20,11,0,3,97,41,10,5,,17,17,2,0,0,,,0,0,,2015/2016
+153,48106,Jerrell,Anthony Sellars,27,England,180 cm,70 kg,False,66,Aston Villa,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+154,53466,Leon,Britton,40,England,168 cm,64 kg,False,76,Swansea,25,19,1526,Midfielder,6.813043,False,6,12,11,5,0,0,0,,,887,4,69,41,6,62,164,84,19,16,,18,14,4,0,0,,,0,0,,2015/2016
+155,69345,Kevin Stephen,Toner,26,Republic of Ireland,180 cm,74 kg,False,66,Aston Villa,4,3,314,Defender,6.800000,False,1,0,2,1,0,0,,1,,70,1,67,10,1,9,35,24,1,0,,4,2,0,0,0,,,0,0,,2015/2016
+156,83022,Marvin,Emnes,34,Netherlands,180 cm,66 kg,False,76,Swansea,2,1,66,Attacker,6.250000,False,1,1,10,1,0,0,0,,,10,0,41,1,0,1,5,1,2,0,,0,0,0,0,0,,,0,0,,2015/2016
+157,87846,Chris,Kettings,29,Scotland,193 cm,79 kg,False,52,Crystal Palace,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+158,114754,Dionatan,do Nascimento Teixeira,29,Slovakia,193 cm,84 kg,False,75,Stoke City,1,0,44,Defender,6.300000,False,1,0,6,0,0,0,,,,2,0,28,1,2,0,2,2,0,0,,0,0,0,0,0,,,0,0,,2015/2016
+159,140446,Bradley,Watkins,27,England,,,False,66,Aston Villa,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+160,190,Cédric Ricardo,Alves Soares,31,Portugal,172 cm,67 kg,False,41,Southampton,24,23,1971,Defender,7.029166,False,1,7,11,8,2,0,0,2,,639,26,47,70,11,53,213,122,28,18,,15,18,3,0,0,,,0,0,,2015/2016
+161,890,Faustino Marcos Alberto,Rojo,32,Argentina,187 cm,85 kg,False,33,Manchester United,16,15,1254,Defender,6.887500,False,1,6,3,7,1,0,0,1,,568,10,59,43,5,27,161,89,10,4,,12,20,3,0,0,,1,0,0,,2015/2016
+162,1750,Graham,Dorrans,35,Scotland,177 cm,65 kg,False,71,Norwich,21,14,1287,Midfielder,6.752380,False,7,7,19,13,3,0,0,1,,672,15,61,23,3,25,114,52,22,17,,4,15,2,0,0,,,0,0,,2015/2016
+163,2574,Juan Carlos,Paredes Reasco,35,Ecuador,179 cm,72 kg,False,38,Watford,17,7,765,Defender,6.523529,False,10,4,19,5,1,0,0,,,201,4,47,15,1,16,78,35,18,9,,9,10,1,0,0,,,0,0,,2015/2016
+164,2859,Bengt Ulf Sebastian,Larsson,37,Sweden,178 cm,70 kg,False,746,Sunderland,18,6,547,Midfielder,6.641176,False,12,5,18,3,1,0,0,1,,201,7,43,12,0,10,64,28,4,4,,6,9,2,0,0,,,0,0,,2015/2016
+165,2872,Miguel Arturo,Layún Prado,34,Mexico,180 cm,76 kg,False,38,Watford,3,2,132,Defender,6.566666,False,1,2,2,3,1,1,0,,,52,2,14,2,,2,15,4,2,1,,1,1,0,0,0,,,0,0,,2015/2016
+166,2921,Mousa Sidi Yaya,Dembélé,35,Belgium,185 cm,82 kg,False,47,Tottenham,29,27,2273,Midfielder,7.434482,False,2,10,2,20,9,3,0,1,,1282,28,71,104,8,56,405,249,90,83,,32,48,3,0,0,,,0,0,,2015/2016
+167,6008,Bruno,Zuculini,29,Argentina,182 cm,74 kg,False,50,Manchester City,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+168,15718,Tetchi Jores Charlemagne,Ulrich Okore,30,Denmark,183 cm,80 kg,False,66,Aston Villa,12,12,1080,Defender,7.108333,False,0,0,6,0,0,0,0,,,266,1,79,37,8,28,102,66,4,3,,8,8,1,0,0,,,0,0,,2015/2016
+169,18910,Anders,Rosenkrantz Lindegaard,38,Denmark,193 cm,80 kg,False,60,West Brom,0,0,0,Goalkeeper,,False,0,0,16,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,0,2015/2016
+170,19028,Lazar,Marković,28,Serbia,175 cm,,False,40,Liverpool,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+171,19161,Jefferson Antonio,Montero Vite,33,Ecuador,173 cm,70 kg,False,76,Swansea,23,14,1355,Midfielder,6.452173,False,9,9,18,17,6,0,0,2,,329,26,43,21,0,9,232,111,91,41,,38,11,0,0,0,,,0,0,,2015/2016
+172,19412,Stephen,Kingsley,28,Scotland,178 cm,67 kg,False,76,Swansea,4,4,356,Defender,6.975000,False,0,1,1,1,0,0,,1,,84,2,75,5,4,1,28,17,7,6,,3,2,0,0,0,,,0,0,,2015/2016
+173,19501,Charles Graham,Adam,37,Scotland,185 cm,83 kg,False,75,Stoke City,22,12,1041,Midfielder,6.775000,False,10,7,17,27,4,1,0,1,,484,11,44,18,4,12,144,68,16,10,,25,30,6,0,1,,,0,0,,2015/2016
+174,19883,Maksymilian,Stryjek,26,Poland,188 cm,81 kg,False,746,Sunderland,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+175,19895,Bryan Josué,Oviedo Jiménez,32,Costa Rica,172 cm,60 kg,False,45,Everton,14,12,998,Defender,6.842857,False,2,4,9,5,3,0,0,1,,361,13,64,41,4,20,125,64,15,8,,13,17,0,0,0,,,0,0,,2015/2016
+176,30878,Alberto,Paloschi,32,Italy,183 cm,82 kg,False,76,Swansea,10,7,669,Attacker,6.670000,False,3,5,5,15,7,2,,,,148,3,75,7,1,7,74,20,7,2,,6,17,2,0,0,,,0,0,,2015/2016
+177,41627,Kenji Joel,Gorré,28,Curaçao,178 cm,72 kg,False,76,Swansea,0,0,0,Attacker,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+178,44900,Sean,Goss,27,England,179 cm,74 kg,False,33,Manchester United,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+179,87764,Connor Steven,Randall,27,England,180 cm,76 kg,False,40,Liverpool,3,2,163,Defender,6.350000,False,1,1,12,2,1,0,0,,,60,1,81,3,1,3,18,6,4,0,,2,2,0,0,0,,,0,0,,2015/2016
+180,147,Philippe,Coutinho Correia,30,Brazil,172 cm,68 kg,False,40,Liverpool,26,24,2005,Midfielder,7.442307,False,2,11,5,84,30,8,0,5,,973,52,57,35,1,17,271,116,82,49,,29,10,3,1,0,,,0,0,,2015/2016
+181,894,Ashley,Young,37,England,175 cm,65 kg,False,33,Manchester United,18,11,1061,Defender,6.627777,False,7,3,14,4,3,1,0,2,,478,11,47,20,0,26,124,64,35,12,,20,15,5,0,0,,,0,0,,2015/2016
+182,1443,Laurent,Koscielny,37,France,186 cm,75 kg,False,42,Arsenal,33,33,2847,Defender,7.309090,False,0,2,1,18,8,4,0,,,1533,8,71,47,27,126,299,186,11,10,,26,31,3,0,0,,,0,0,,2015/2016
+183,1922,Florian Tristan Mariano,Thauvin,29,France,179 cm,70 kg,False,34,Newcastle,13,3,420,Midfielder,6.500000,False,10,3,16,6,1,0,0,,,160,5,25,8,0,7,82,36,31,11,,15,5,1,0,0,,,0,0,,2015/2016
+184,15386,Charalampos,Mavrias,28,Greece,178 cm,,False,746,Sunderland,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+185,18829,Jack,Wilshere,30,England,172 cm,68 kg,False,42,Arsenal,3,1,141,Midfielder,6.666666,False,2,1,3,1,0,0,,,,70,1,85,3,0,2,25,15,8,6,,4,1,0,0,0,,,0,0,,2015/2016
+186,18955,Daniel William John,Ings,30,England,178 cm,73 kg,False,40,Liverpool,6,3,339,Attacker,6.783333,False,3,2,6,7,5,2,0,,,80,5,26,1,0,1,32,11,7,2,,5,7,1,0,0,,,0,0,,2015/2016
+187,19016,Calum,Chambers,27,England,182 cm,66 kg,False,42,Arsenal,12,2,312,Defender,6.888888,False,10,0,27,2,1,0,0,,,176,2,49,8,8,10,48,29,6,5,,3,6,2,0,0,,,0,0,,2015/2016
+188,19134,Patrick,Bamford,29,England,185 cm,71 kg,False,71,Norwich,7,2,235,Attacker,6.580000,False,5,2,7,3,3,0,0,,,24,2,32,,0,1,8,3,1,0,,0,2,0,0,0,,,0,0,,2015/2016
+189,19139,Tyler,Roberts,23,Wales,180 cm,75 kg,False,60,West Brom,1,0,17,Attacker,6.300000,False,1,0,5,1,0,0,0,,,3,0,42,,0,0,4,1,1,1,,0,1,1,0,0,,,0,0,,2015/2016
+190,19599,Damián Emiliano,Martínez,30,Argentina,195 cm,88 kg,False,42,Arsenal,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+191,20386,Matthew Ryan,Macey,28,England,202 cm,96 kg,False,42,Arsenal,0,0,0,Goalkeeper,,False,0,0,6,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,0,2015/2016
+192,22093,Rémy Joseph,Cabella,32,France,172 cm,68 kg,False,34,Newcastle,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+193,36845,Haris,Vučkić,30,Slovenia,187 cm,80 kg,False,34,Newcastle,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+194,44789,Youssouf Chafiq,Mulumbu Ngangu,34,Congo DR,177 cm,65 kg,False,71,Norwich,7,5,370,Midfielder,6.866666,False,2,4,17,3,1,0,0,,,142,1,64,21,0,6,58,33,6,5,,3,5,1,0,0,,,0,0,,2015/2016
+195,47524,Seydou,Doumbia,35,Côte d'Ivoire,179 cm,74 kg,False,34,Newcastle,3,0,29,Attacker,6.500000,False,3,0,6,1,1,0,,,,6,0,44,,0,0,3,1,0,0,,1,0,0,0,0,,,0,0,,2015/2016
+196,50237,Henri,Saivet,31,Senegal,174 cm,76 kg,False,34,Newcastle,4,2,147,Midfielder,6.800000,False,2,2,8,0,0,0,,,,62,1,81,13,0,5,32,16,3,1,,1,1,0,0,0,,,0,0,,2015/2016
+197,50785,Bacary,Sagna,38,France,176 cm,72 kg,False,50,Manchester City,28,27,2448,Defender,7.007142,False,1,1,7,5,2,0,,3,,1313,27,81,50,7,50,267,155,11,5,,14,17,4,0,0,,,0,0,,2015/2016
+198,90503,Younes,Kaboul,35,France,193 cm,87 kg,False,746,Sunderland,23,22,2009,Defender,7.026086,False,1,1,2,12,4,0,,1,,446,6,65,43,20,52,233,142,18,15,,9,15,4,1,0,,,0,0,,2015/2016
+199,104780,Philippe,Senderos,36,Switzerland,190 cm,84 kg,False,66,Aston Villa,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+200,1473,Tiago Abiola Delfim,Almeida Ilori,29,Portugal,190 cm,80 kg,False,40,Liverpool,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+201,1874,Valentin,Roberge,35,France,185 cm,73 kg,False,746,Sunderland,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+202,2845,Joel Nathaniel,Campbell Samuels,30,Costa Rica,178 cm,71 kg,False,42,Arsenal,19,11,886,Attacker,6.937500,False,8,10,19,19,7,3,0,2,,284,13,66,26,3,10,139,74,27,17,,25,9,0,0,0,,,0,0,,2015/2016
+203,3389,Stéphane,Sessègnon,37,Benin,172 cm,72 kg,False,60,West Brom,25,21,1760,Midfielder,6.772000,False,4,12,6,31,10,2,,2,,442,29,80,19,0,15,279,135,91,55,,52,17,1,0,0,1,1,0,0,,2015/2016
+204,19555,Shaun Benjamin,MacDonald,34,Wales,183 cm,72 kg,False,35,Bournemouth,3,0,28,Midfielder,6.200000,False,3,0,14,0,0,0,0,,,18,0,38,,0,1,0,0,0,0,,0,0,0,0,0,,,0,0,,2015/2016
+205,20539,Emmanuel,Rivière,31,Martinique,182 cm,80 kg,False,34,Newcastle,3,1,64,Attacker,6.600000,False,2,1,7,3,0,0,,,,18,1,97,3,0,0,19,6,1,1,,1,2,0,0,0,,,0,0,,2015/2016
+206,20926,Sylvain,Marveaux,36,France,172 cm,69 kg,False,34,Newcastle,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+207,21494,Franck,Tabanou,32,France,178 cm,78 kg,False,76,Swansea,0,0,0,Defender,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+208,48528,Alexandre Dimitri,Song-Billong,35,Cameroon,185 cm,76 kg,False,48,West Ham,12,8,659,Midfielder,6.875000,False,4,5,11,6,0,0,0,,,382,8,82,41,0,12,114,60,9,7,,7,13,1,0,0,,1,0,0,,2015/2016
+209,48925,Modibo,Maïga,34,Mali,185 cm,76 kg,False,48,West Ham,3,0,24,Attacker,7.500000,False,3,0,3,2,2,1,,,,5,0,61,,0,0,13,5,3,3,,0,1,0,0,0,,,0,0,,2015/2016
+210,49861,Emmanuel,Adebayor,36,Togo,192 cm,70 kg,False,52,Crystal Palace,12,7,618,Attacker,6.541666,False,5,5,6,12,4,1,,1,,175,6,74,2,0,1,116,32,10,5,,5,10,1,0,0,,,0,0,,2015/2016
+211,49958,Aly,Cissokho,35,France,181 cm,75 kg,False,66,Aston Villa,18,18,1603,Defender,6.505555,False,0,0,0,4,3,0,0,,,493,10,72,26,3,40,100,56,10,4,,4,13,3,0,1,,2,0,0,,2015/2016
+212,50179,Yoan,Gouffran,36,France,175 cm,76 kg,False,34,Newcastle,8,2,223,Midfielder,6.500000,False,6,2,16,3,1,0,0,,,78,1,67,6,2,6,34,12,5,1,,1,3,0,0,0,,,0,0,,2015/2016
+213,50207,Gabriel Antoine,Obertan,33,France,186 cm,79 kg,False,34,Newcastle,5,3,279,Midfielder,6.500000,False,2,2,6,3,2,0,0,1,,97,3,16,6,,4,35,13,9,1,,2,2,1,0,0,,,0,0,,2015/2016
+214,50247,Diafra,Sakho,33,Senegal,184 cm,79 kg,False,48,West Ham,21,18,1527,Attacker,6.752380,False,3,11,3,42,18,5,0,1,,291,14,40,15,2,9,317,113,53,18,,28,19,3,0,0,,,0,0,,2015/2016
+215,80957,Brown,Ideye Aide,33,Nigeria,181 cm,78 kg,False,60,West Brom,0,0,0,Attacker,,False,0,0,2,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+216,85757,Morgan,Amalfitano,36,France,176 cm,68 kg,False,48,West Ham,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+217,90488,Yohan,Cabaye,35,France,174 cm,71 kg,False,52,Crystal Palace,33,32,2703,Midfielder,7.318181,False,1,15,1,67,21,5,,1,,1049,52,81,107,6,120,326,164,21,9,,40,38,7,0,0,,,3,1,,2015/2016
+218,90519,Ryan,Mason,27,England,175 cm,71 kg,False,47,Tottenham,22,8,798,Midfielder,,False,14,7,17,,,1,,,,,,,,,,,,,,,,,3,0,0,,,,,,2015/2016
+219,102748,Joe,Cole,40,England,175 cm,63 kg,False,66,Aston Villa,0,0,0,Midfielder,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+220,510,Serge David,Gnabry,27,Germany,176 cm,77 kg,False,60,West Brom,1,0,12,Midfielder,7.000000,False,1,0,6,2,1,0,0,,,7,1,6,,,,4,1,1,1,,,2,0,0,0,,,0,0,,2015/2016
+221,907,Romelu,Lukaku Menama,29,Belgium,190 cm,93 kg,False,45,Everton,37,36,3176,Attacker,7.178378,False,1,8,2,106,48,18,0,6,,889,53,54,13,3,0,473,172,77,41,,25,30,3,0,0,1,,1,1,,2015/2016
+222,1109,Cristian Esteban,Gamboa Luna,33,Costa Rica,175 cm,70 kg,False,60,West Brom,1,0,27,Defender,6.700000,False,1,0,6,1,,0,0,,,12,,9,2,,2,5,3,,,,1,1,1,0,0,,,0,0,,2015/2016
+223,1350,Martin,Škrtel,38,Slovakia,191 cm,81 kg,False,40,Liverpool,22,21,1885,Defender,6.977272,False,1,1,5,8,3,1,0,,,1084,5,60,23,20,41,142,89,2,2,,6,21,5,0,0,,1,0,0,,2015/2016
+224,1759,Kyle Joseph George,Lafferty,35,Northern Ireland,193 cm,71 kg,False,71,Norwich,1,0,13,Attacker,6.300000,False,1,0,6,,,0,0,,,4,,4,,,,3,,,,,,,0,0,0,,,0,0,,2015/2016
+225,1919,Clinton Mua,N'Jie,29,Cameroon,176 cm,73 kg,False,47,Tottenham,8,0,184,Attacker,6.671428,False,8,0,10,4,2,0,0,1,,66,2,27,7,1,0,36,16,10,6,,1,4,0,0,0,,,0,0,,2015/2016
+226,2287,Ross,Barkley,29,England,189 cm,76 kg,False,45,Everton,38,36,3087,Midfielder,7.228947,False,2,14,2,84,29,8,0,8,,1633,59,71,34,5,17,478,250,183,116,,71,29,4,0,0,1,,2,0,,2015/2016
+227,2292,Ruben,Loftus-Cheek,26,England,191 cm,88 kg,False,49,Chelsea,13,4,405,Midfielder,6.790000,False,9,2,26,11,3,1,0,,,217,4,60,11,0,5,80,41,21,10,,14,4,0,0,0,1,,0,0,,2015/2016
+228,2933,Ben,Chilwell,26,England,178 cm,77 kg,False,46,Leicester,0,0,0,Defender,,False,0,0,8,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+229,6868,Nils Ola,Toivonen,36,Sweden,189 cm,78 kg,False,746,Sunderland,12,9,664,Attacker,6.566666,False,3,7,14,4,1,0,0,2,,237,8,31,10,1,8,102,44,3,0,,8,9,1,0,0,,,0,0,,2015/2016
+230,8485,Vadis,Odjidja-Ofoe,33,Belgium,185 cm,79 kg,False,71,Norwich,10,3,275,Midfielder,6.430000,False,7,3,12,3,1,0,0,2,,106,8,69,9,0,3,55,22,15,6,,3,5,2,0,0,,1,0,0,,2015/2016
+231,18827,Carlos Alberto,Sánchez Moreno,36,Colombia,182 cm,82 kg,False,66,Aston Villa,20,16,1370,Midfielder,6.975000,False,4,7,10,11,4,0,0,,,710,4,56,53,5,45,183,102,22,17,,6,25,3,0,0,,,0,0,,2015/2016
+232,18902,Robert Kenedy,Nunes do Nascimento,26,Brazil,182 cm,77 kg,False,49,Chelsea,14,4,549,Midfielder,6.876923,False,10,3,20,13,3,1,0,,,261,6,65,14,0,13,107,54,42,26,,9,6,0,0,0,,,0,0,,2015/2016
+233,19079,Alexander Banor,Tettey,36,Norway,180 cm,76 kg,False,71,Norwich,23,23,1952,Midfielder,6.800000,False,0,3,0,17,3,2,0,,,984,5,57,48,4,42,204,101,20,15,,9,39,10,0,0,,1,0,0,,2015/2016
+234,20328,Stephen,Hendrie,27,Scotland,178 cm,70 kg,False,48,West Ham,0,0,0,Defender,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+235,25293,Reece,Oxford,24,England,193 cm,86 kg,False,48,West Ham,7,3,211,Defender,6.616666,False,4,3,19,1,0,0,0,,,49,0,38,8,2,6,19,12,0,0,,1,1,0,0,0,,,0,0,,2015/2016
+236,44961,Ryan William,Fulton,26,Scotland,191 cm,80 kg,False,40,Liverpool,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+237,45330,Thomas,Robson,27,England,178 cm,75 kg,False,746,Sunderland,1,1,90,Defender,6.700000,False,0,0,0,0,0,0,,,,25,0,69,4,0,1,13,9,3,2,,1,0,0,0,0,,,0,0,,2015/2016
+238,47531,Jordi,Amat Maas,30,Spain,184 cm,83 kg,False,76,Swansea,8,5,461,Defender,6.871428,False,3,1,17,1,0,0,0,,,154,1,64,7,3,16,33,20,2,2,,4,4,0,0,0,,,0,0,,2015/2016
+239,87909,Adam,King,27,Scotland,180 cm,75 kg,False,76,Swansea,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+240,172,Bamidele,Alli,26,England,188 cm,76 kg,False,47,Tottenham,33,28,2482,Midfielder,7.084848,False,5,17,6,69,28,10,0,9,,901,56,57,71,5,61,475,203,92,30,,66,50,7,0,0,1,,0,0,,2015/2016
+241,630,Fabian,Delph,33,England,174 cm,60 kg,False,50,Manchester City,17,8,751,Midfielder,6.881250,False,9,7,11,13,5,2,0,,,414,2,71,26,2,22,117,65,31,24,,9,7,0,0,0,,,0,0,,2015/2016
+242,1455,Alexander Chuka,Iwobi,26,Nigeria,180 cm,75 kg,False,42,Arsenal,13,8,630,Attacker,7.009090,False,5,7,13,15,7,2,0,2,,315,12,69,8,0,3,67,30,24,16,,5,3,0,0,0,,,0,0,,2015/2016
+243,2275,Wilfredo Daniel,Caballero,41,Argentina,186 cm,81 kg,False,50,Manchester City,4,3,310,Goalkeeper,6.825000,False,1,0,35,0,0,0,6,,15,58,0,44,,0,0,1,0,0,0,,0,0,0,0,0,,,0,0,0,2015/2016
+244,2461,José Salomón,Rondón Giménez,33,Venezuela,186 cm,86 kg,False,60,West Brom,34,30,2566,Attacker,6.682352,False,4,15,4,65,21,9,0,2,,485,28,48,9,0,14,463,147,31,13,,34,35,1,0,1,,,0,0,,2015/2016
+245,2930,Jack,Butland,29,England,196 cm,95 kg,False,75,Stoke City,31,31,2790,Goalkeeper,7.006451,False,0,0,0,0,0,0,37,,103,634,1,34,1,0,0,12,7,2,2,,1,1,0,0,0,,,0,0,0,2015/2016
+246,18760,Jonjoe,Kenny,25,England,176 cm,70 kg,False,45,Everton,1,0,61,Defender,6.700000,False,1,0,1,1,0,0,,,,15,0,68,1,0,1,4,1,0,0,,0,0,0,0,0,,,0,0,,2015/2016
+247,18762,Tom,Davies,24,England,180 cm,70 kg,False,45,Everton,2,1,97,Midfielder,6.800000,False,1,0,1,1,0,0,,,,38,0,76,1,0,5,10,5,3,2,,2,2,0,0,0,,,0,0,,2015/2016
+248,18781,Demarai,Gray,26,England,180 cm,74 kg,False,46,Leicester,12,1,177,Midfielder,6.690000,False,11,1,17,5,3,0,,1,,70,6,72,3,1,6,44,20,23,12,,4,3,0,0,0,,,0,0,,2015/2016
+249,18840,Martin,Kelly,32,England,191 cm,77 kg,False,52,Crystal Palace,13,11,1042,Defender,6.623076,False,2,0,25,0,0,0,0,,,342,4,37,32,5,18,86,45,2,1,,3,11,3,0,0,,,0,0,,2015/2016
+250,18843,Jeffrey,Schlupp,30,Ghana,178 cm,72 kg,False,46,Leicester,24,14,1382,Midfielder,6.730434,False,10,5,11,22,6,1,0,2,,419,17,42,46,1,31,238,134,71,41,,22,15,4,0,0,2,1,0,0,,2015/2016
+251,18844,James,Tomkins,33,England,192 cm,74 kg,False,48,West Ham,25,23,1965,Defender,6.976000,False,2,6,9,9,1,0,0,,,753,12,55,62,10,54,180,116,11,5,,16,17,4,0,0,,,0,0,,2015/2016
+252,18847,Joel,Ward,33,England,188 cm,83 kg,False,52,Crystal Palace,30,30,2692,Defender,6.863333,False,0,1,1,17,6,2,0,1,,746,13,62,62,14,69,298,161,30,18,,28,36,4,0,0,,,0,0,,2015/2016
+253,18849,James,McArthur,35,Scotland,178 cm,75 kg,False,52,Crystal Palace,28,26,2193,Midfielder,6.832142,False,2,10,2,16,4,2,0,2,,969,22,61,55,10,66,283,117,20,10,,21,41,5,0,0,,,0,0,,2015/2016
+254,18854,Andros,Townsend,31,England,181 cm,77 kg,False,34,Newcastle,13,12,1089,Midfielder,6.792307,False,1,3,1,24,14,4,,2,,296,26,80,27,2,11,168,67,64,27,,13,6,0,0,0,,,0,0,,2015/2016
+255,18858,Asmir,Begović,35,Bosnia and Herzegovina,199 cm,101 kg,False,49,Chelsea,17,15,1397,Goalkeeper,6.817647,False,2,0,23,0,0,0,26,,55,264,0,23,,0,0,9,8,0,0,,4,0,0,0,0,,,0,0,0,2015/2016
+256,18862,Nathaniel Edwin,Clyne,31,England,175 cm,67 kg,False,40,Liverpool,33,33,2970,Defender,6.842424,False,0,0,1,26,6,1,0,,,1319,26,60,84,8,52,245,143,42,23,,26,19,6,0,0,,,0,0,,2015/2016
+257,18935,Alex,McCarthy,33,England,193 cm,79 kg,False,52,Crystal Palace,7,7,630,Goalkeeper,6.571428,False,0,0,13,0,0,0,9,,32,182,0,14,,0,0,1,0,0,0,,0,0,0,0,0,,,0,0,0,2015/2016
+258,18949,Oriol,Romeu Vidal,31,Spain,183 cm,83 kg,False,41,Southampton,29,17,1608,Midfielder,7.031034,False,12,7,19,27,8,1,0,,,739,11,64,77,11,39,243,132,21,16,,15,28,7,0,0,,,0,0,,2015/2016
+259,19150,Mason,Holgate,26,England,184 cm,63 kg,False,45,Everton,0,0,0,Defender,,False,0,0,2,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+260,284,Joe,Gomez,25,England,188 cm,77 kg,False,40,Liverpool,5,5,438,Defender,6.500000,False,0,1,3,1,,0,0,1,,222,3,35,12,3,12,57,24,6,2,,1,9,3,0,0,,,0,0,,2015/2016
+261,296,James Philip,Milner,36,England,175 cm,70 kg,False,40,Liverpool,28,28,2416,Midfielder,7.150000,False,0,7,1,35,11,5,0,11,,1170,61,60,69,3,37,364,149,33,19,,33,47,10,1,0,,,1,0,,2015/2016
+262,297,Alex,Oxlade-Chamberlain,29,England,180 cm,70 kg,False,42,Arsenal,22,9,921,Midfielder,6.871428,False,13,8,14,18,5,1,0,,,392,19,49,23,5,12,151,80,51,36,,13,11,0,0,0,,,0,0,,2015/2016
+263,302,Roberto Firmino,Barbosa de Oliveira,31,Brazil,181 cm,76 kg,False,40,Liverpool,31,24,1982,Attacker,7.138709,False,7,17,7,60,25,10,0,7,,813,49,56,67,2,16,354,139,78,43,,20,29,1,0,0,,,0,0,,2015/2016
+264,620,Cameron Lisceous,Humphreys-Grant,24,England,185 cm,76 kg,False,50,Manchester City,0,0,0,Defender,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+265,627,Kyle,Walker,32,England,178 cm,70 kg,False,47,Tottenham,33,33,2943,Defender,7.072727,False,0,2,3,21,7,1,0,3,,1081,34,60,87,5,92,310,183,44,17,,30,29,7,0,0,,,0,0,,2015/2016
+266,629,Kevin,De Bruyne,31,Belgium,181 cm,68 kg,False,50,Manchester City,25,22,2003,Midfielder,7.248000,False,3,4,4,45,25,7,0,9,,983,82,63,28,0,18,248,94,62,36,,18,16,2,0,0,,,0,0,,2015/2016
+267,640,Fernando Luiz,Rosa,37,Brazil,179 cm,67 kg,False,50,Manchester City,33,31,2731,Midfielder,7.106060,False,2,4,4,27,5,2,0,2,,1725,29,72,105,7,56,411,210,45,30,,34,55,8,0,0,1,,0,0,,2015/2016
+268,882,David,de Gea Quintana,32,Spain,192 cm,76 kg,False,33,Manchester United,34,34,3060,Goalkeeper,6.876470,False,0,0,0,0,0,0,33,,83,570,0,45,1,0,0,6,4,0,0,,1,0,0,0,0,,,0,0,0,2015/2016
+269,888,Phil,Jones,30,England,180 cm,71 kg,False,33,Manchester United,10,6,528,Defender,6.866666,False,4,2,7,1,0,0,0,,,291,0,57,9,1,13,43,32,2,2,,2,4,0,0,0,,,0,0,,2015/2016
+270,900,Jesse,Lingard,30,England,175 cm,62 kg,False,33,Manchester United,25,19,1634,Midfielder,6.672000,False,6,8,6,30,13,4,0,1,,613,14,71,38,1,15,207,82,48,21,,21,24,4,0,0,,,0,0,,2015/2016
+271,901,Juan Manuel,Mata García,34,Spain,170 cm,63 kg,False,33,Manchester United,38,34,2900,Midfielder,6.918421,False,4,15,4,49,22,6,0,5,,1677,55,73,30,0,23,242,92,47,30,,29,22,5,1,0,,,1,0,,2015/2016
+272,902,Nemanja,Matić,34,Serbia,194 cm,85 kg,False,49,Chelsea,33,28,2418,Midfielder,7.077419,False,5,8,9,27,8,2,0,2,,1475,19,70,84,10,67,340,176,53,38,,17,38,5,1,0,1,1,0,0,,2015/2016
+273,909,Marcus,Rashford,25,England,180 cm,70 kg,False,33,Manchester United,11,11,862,Attacker,6.781818,False,0,7,2,16,8,5,,2,,153,7,76,7,4,2,101,28,34,9,,9,5,0,0,0,,,0,0,,2015/2016
+274,2123,Mamadou Obbi,Oularé,26,Belgium,196 cm,94 kg,False,38,Watford,2,0,5,Attacker,,False,2,0,7,0,0,0,0,,,2,0,75,,0,0,2,1,0,0,,0,1,0,0,0,,,0,0,,2015/2016
+275,18737,John,Ruddy,36,England,192 cm,96 kg,False,71,Norwich,27,27,2430,Goalkeeper,6.540740,False,0,0,11,0,0,0,44,,69,530,0,31,,0,1,12,8,2,2,,2,0,0,0,0,,,0,0,0,2015/2016
+276,18769,Theo,Walcott,33,England,176 cm,68 kg,False,42,Arsenal,28,15,1373,Attacker,6.753846,False,13,13,18,39,22,5,0,2,,270,19,56,11,1,14,145,65,49,25,,24,3,0,0,0,1,,0,0,,2015/2016
+277,18812,Adrián,San Miguel del Castillo,35,Spain,190 cm,80 kg,False,48,West Ham,32,32,2880,Goalkeeper,6.906250,False,0,0,0,0,0,0,39,,99,557,0,38,,0,1,10,7,0,0,,2,1,1,0,1,,,0,0,2,2015/2016
+278,18948,Nathan,Redmond,28,England,173 cm,69 kg,False,71,Norwich,35,24,2336,Midfielder,6.765714,False,11,6,12,47,17,6,0,3,,836,45,58,31,1,15,307,126,106,59,,29,29,0,0,0,,,0,0,,2015/2016
+279,18956,Shane Patrick,Long,35,Republic of Ireland,178 cm,81 kg,False,41,Southampton,28,23,2111,Attacker,6.957142,False,5,5,9,63,22,10,0,4,,416,33,55,15,3,19,347,149,24,12,,40,43,2,0,0,,,0,0,,2015/2016
+280,167,Danny,Rose,32,England,173 cm,72 kg,False,47,Tottenham,24,24,2132,Defender,7.083333,False,0,3,10,23,4,1,0,3,,887,24,68,67,11,39,281,160,45,28,,43,41,7,0,0,1,,0,0,,2015/2016
+281,175,Eric,Dier,28,England,188 cm,88 kg,False,47,Tottenham,37,37,3268,Midfielder,7.048648,False,0,5,0,28,7,3,0,2,,1816,18,70,80,21,80,382,197,14,8,,24,52,10,0,0,,,0,0,,2015/2016
+282,179,Moussa,Sissoko,33,France,187 cm,83 kg,False,34,Newcastle,37,37,3223,Midfielder,6.745945,False,0,6,0,36,12,1,0,7,,1134,58,58,54,5,35,496,222,181,84,,30,50,3,0,0,1,1,0,0,,2015/2016
+283,182,Harry,Winks,26,England,178 cm,65 kg,False,47,Tottenham,0,0,0,Midfielder,,False,0,0,5,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+284,295,Adam David,Lallana,34,England,172 cm,73 kg,False,40,Liverpool,30,23,2113,Midfielder,7.016666,False,7,13,9,40,15,4,0,6,,851,51,63,59,2,20,331,153,67,42,,29,27,2,0,0,,,0,0,,2015/2016
+285,1469,Daniel Nii,Tackie Mensah Welbeck,32,England,185 cm,73 kg,False,42,Arsenal,11,7,578,Attacker,7.000000,False,4,7,5,20,11,4,,2,,114,8,68,11,0,2,98,44,27,14,,9,6,1,0,0,,,0,0,,2015/2016
+286,18791,Ben,Foster,39,England,193 cm,79 kg,False,60,West Brom,15,15,1350,Goalkeeper,6.853333,False,0,0,2,0,0,0,17,,44,154,0,42,,0,2,4,3,0,0,,0,0,1,0,0,,,0,0,0,2015/2016
+287,18804,Tom,Cleverley,33,England,175 cm,67 kg,False,45,Everton,22,17,1613,Midfielder,6.986363,False,5,6,9,23,7,2,0,4,,760,24,73,47,1,19,179,96,16,13,,19,11,1,0,0,1,,0,0,,2015/2016
+288,18874,Dan,Gosling,32,England,183 cm,79 kg,False,35,Bournemouth,34,28,2445,Midfielder,6.821875,False,6,7,9,38,11,3,0,1,,1065,27,62,73,12,52,387,184,63,37,,40,31,6,0,0,1,,0,0,,2015/2016
+289,18887,Rob,Elliot,36,Republic of Ireland,190 cm,94 kg,False,34,Newcastle,21,21,1890,Goalkeeper,6.714285,False,0,0,4,0,0,0,37,,59,376,1,43,,0,0,13,11,0,0,,3,0,1,0,0,,,0,0,0,2015/2016
+290,18912,Phil,Bardsley,37,Scotland,180 cm,74 kg,False,75,Stoke City,11,9,816,Defender,6.936363,False,2,1,6,6,2,0,0,1,,235,4,72,31,8,18,90,61,4,3,,15,12,1,0,0,1,,0,0,,2015/2016
+291,18922,Jack,Cork,33,England,183 cm,70 kg,False,76,Swansea,35,28,2543,Midfielder,7.102941,False,7,4,10,17,6,1,0,2,,1494,30,68,77,12,83,371,209,42,32,,45,29,3,0,0,,,0,0,,2015/2016
+292,18925,Aaron,Lennon,35,England,165 cm,63 kg,False,45,Everton,25,17,1538,Midfielder,6.850000,False,8,8,15,17,11,5,0,,,401,24,67,35,2,8,146,83,43,26,,21,13,1,0,0,1,,0,0,,2015/2016
+293,18926,Ashley,Westwood,32,England,175 cm,80 kg,False,66,Aston Villa,32,31,2719,Midfielder,6.943750,False,1,3,4,35,9,2,0,2,,1326,41,68,62,12,57,209,87,17,8,,11,30,6,0,0,,1,0,0,,2015/2016
+294,18930,Matěj,Vydra,30,Czech Republic,180 cm,71 kg,False,38,Watford,0,0,0,Attacker,,False,0,0,3,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+295,19100,Kieran,Dowell,25,England,184 cm,59 kg,False,45,Everton,2,1,72,Midfielder,5.900000,False,1,1,2,0,0,0,,,,25,1,91,,0,0,14,2,3,2,,0,1,0,0,0,,,0,0,,2015/2016
+296,19169,Jay,Rodriguez,33,England,185 cm,80 kg,False,41,Southampton,12,3,345,Attacker,6.533333,False,9,3,11,15,6,0,0,,,84,3,24,5,1,2,47,18,14,5,,1,4,1,0,0,,,0,0,,2015/2016
+297,19287,Sam,Byram,29,England,180 cm,72 kg,False,48,West Ham,4,2,286,Defender,6.700000,False,2,0,6,0,0,0,,,,71,2,74,5,3,12,23,12,1,0,,4,7,3,0,0,,,0,0,,2015/2016
+298,19352,Sergi,Canós Tenes,25,Spain,177 cm,75 kg,False,40,Liverpool,1,0,9,Midfielder,6.700000,False,1,0,1,0,0,0,,,,4,0,80,1,0,0,3,2,0,0,,0,1,0,0,0,,,0,0,,2015/2016
+299,21383,Erik,Pieters,34,Netherlands,183 cm,84 kg,False,75,Stoke City,35,35,3098,Defender,6.931428,False,0,3,0,4,1,0,0,1,,1288,19,60,116,18,96,379,219,16,8,,50,59,10,0,0,,,0,0,,2015/2016
+300,169,Kieran,Trippier,32,England,178 cm,71 kg,False,47,Tottenham,6,5,458,Defender,7.083333,False,1,0,29,2,1,1,0,1,,196,6,61,14,2,11,56,36,6,3,,10,3,1,0,0,,,0,0,,2015/2016
+301,771,Aleksandar,Kolarov,37,Serbia,187 cm,81 kg,False,50,Manchester City,29,25,2281,Defender,7.055172,False,4,2,10,35,10,3,0,3,,1191,38,62,34,8,45,235,132,47,24,,31,20,3,0,0,1,,0,0,,2015/2016
+302,887,Matteo,Darmian,33,Italy,182 cm,70 kg,False,33,Manchester United,28,24,1931,Defender,6.853571,False,4,11,7,6,1,1,0,,,817,12,54,84,2,42,234,138,23,11,,23,27,8,0,0,,,0,0,,2015/2016
+303,910,Alexis Alejandro,Sánchez Sánchez,34,Chile,169 cm,62 kg,False,42,Arsenal,30,28,2446,Attacker,7.506666,False,2,12,2,83,38,13,0,4,,1246,64,61,47,3,24,493,235,165,101,,65,32,1,0,0,1,,0,0,,2015/2016
+304,2939,Callum,Wilson,30,England,180 cm,66 kg,False,35,Bournemouth,13,9,771,Attacker,6.741666,False,4,4,4,13,8,5,0,,,122,7,38,5,2,1,103,35,26,7,,19,12,0,0,0,,,1,0,,2015/2016
+305,18809,Gerard,Deulofeu Lázaro,28,Spain,177 cm,73 kg,False,45,Everton,26,16,1384,Attacker,6.813043,False,10,11,17,9,6,2,0,8,,415,37,47,16,0,14,180,77,91,46,,14,3,2,0,0,,,0,0,,2015/2016
+306,18824,Pedro,Mba Obiang Avomo,30,Equatorial Guinea,185 cm,75 kg,False,48,West Ham,24,11,1079,Midfielder,6.782608,False,13,4,22,6,1,0,0,1,,416,3,53,42,11,36,171,95,15,13,,10,20,2,0,0,,,0,0,,2015/2016
+307,18885,Karl,Darlow,32,England,190 cm,88 kg,False,34,Newcastle,9,9,810,Goalkeeper,6.955555,False,0,0,21,0,0,0,11,,23,94,0,44,1,0,0,3,3,0,0,,1,0,0,0,0,,,0,0,1,2015/2016
+308,18891,Ciaran,Clark,33,Republic of Ireland,185 cm,88 kg,False,66,Aston Villa,18,16,1440,Defender,6.893750,False,2,0,15,10,2,1,0,,,481,4,51,24,13,47,151,93,13,9,,11,14,6,0,0,,1,0,0,,2015/2016
+309,18892,Paul,Dummett,31,Wales,183 cm,82 kg,False,34,Newcastle,23,23,1897,Defender,6.834782,False,0,5,1,4,1,1,0,,,501,4,57,54,11,42,186,117,9,7,,9,13,3,0,0,,,0,0,,2015/2016
+310,18893,Federico,Fernández,33,Argentina,190 cm,83 kg,False,76,Swansea,32,32,2880,Defender,6.984375,False,0,0,5,17,2,1,0,1,,1545,8,68,58,23,80,285,166,4,4,,22,31,3,0,0,,,0,0,,2015/2016
+311,18894,Jamaal,Lascelles,29,England,188 cm,89 kg,False,34,Newcastle,18,10,1145,Defender,6.811764,False,8,0,18,4,4,2,0,,,394,2,68,12,13,28,89,60,5,3,,3,11,1,0,1,,1,0,0,,2015/2016
+312,18896,Javier,Manquillo Gaitán,28,Spain,178 cm,76 kg,False,40,Liverpool,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+313,18899,Isaac,Hayden,27,England,185 cm,79 kg,False,42,Arsenal,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+314,18903,Matt,Ritchie,33,Scotland,172 cm,76 kg,False,35,Bournemouth,37,33,2978,Midfielder,6.964864,False,4,9,4,65,17,4,0,6,,1234,43,62,54,1,48,341,149,39,19,,56,41,5,0,0,,,0,0,,2015/2016
+315,18904,Jonjo,Shelvey,30,England,184 cm,80 kg,False,34,Newcastle,15,11,1048,Midfielder,7.153333,False,4,2,6,22,7,0,,3,,519,20,74,23,1,19,82,39,14,10,,1,11,3,0,0,,,0,0,,2015/2016
+316,18941,Matt,Targett,27,England,183 cm,70 kg,False,41,Southampton,14,13,1071,Defender,6.857142,False,1,5,4,3,2,0,0,1,,343,7,53,20,2,26,93,53,11,5,,12,4,1,0,0,1,,0,0,,2015/2016
+317,19166,Dwight,Gayle,33,England,174 cm,78 kg,False,52,Crystal Palace,16,8,768,Attacker,6.681250,False,8,5,11,20,9,3,0,,,122,8,35,11,0,3,134,68,3,1,,35,20,2,1,0,,,0,0,,2015/2016
+318,19209,Fikayo,Tomori,25,England,185 cm,75 kg,False,49,Chelsea,1,0,30,Defender,6.700000,False,1,0,2,0,0,0,,,,11,0,84,1,0,0,2,1,0,0,,0,0,0,0,0,,,0,0,,2015/2016
+319,19974,Ivan,Toney,26,England,179 cm,65 kg,False,34,Newcastle,1,0,5,Attacker,6.400000,False,1,0,4,0,0,0,0,,,2,0,25,,0,0,4,0,0,0,,0,0,0,0,0,,,0,0,,2015/2016
+320,492,Éderzito António,Macedo Lopes,35,Portugal,190 cm,81 kg,False,76,Swansea,13,2,267,Attacker,6.563636,False,11,2,13,5,1,0,0,,,76,3,14,4,0,1,70,28,9,6,,9,11,0,0,0,,,0,0,,2015/2016
+321,768,Federico Julián,Fazio,35,Argentina,195 cm,85 kg,False,47,Tottenham,0,0,0,Defender,,False,0,0,2,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+322,884,Sergio Germán,Romero,35,Argentina,192 cm,87 kg,False,33,Manchester United,4,4,360,Goalkeeper,6.800000,False,0,0,33,,,0,2,,7,115,,16,,,,,,,,,,,0,0,0,,,0,0,0,2015/2016
+323,892,Chris,Smalling,33,England,194 cm,81 kg,False,33,Manchester United,35,35,3150,Defender,7.082857,False,0,0,0,18,2,0,0,1,,1356,6,64,55,19,97,340,203,15,12,,14,47,8,0,0,,1,0,0,,2015/2016
+324,1347,Victor,Moses,32,Nigeria,177 cm,79 kg,False,48,West Ham,21,13,982,Midfielder,,False,8,11,11,,,1,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+325,3423,Christian,Atsu Twasam,30,Ghana,165 cm,65 kg,False,35,Bournemouth,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+326,6830,Siem Stefan,de Jong,33,Netherlands,185 cm,76 kg,False,34,Newcastle,18,3,442,Midfielder,6.528571,False,15,3,27,8,3,0,0,1,,151,2,53,16,1,4,75,32,8,3,,6,7,0,0,0,,,0,0,,2015/2016
+327,18048,Jake Stephen,Gray,27,England,180 cm,74 kg,False,52,Crystal Palace,0,0,0,Midfielder,,False,0,0,1,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+328,18756,Maarten,Stekelenburg,40,Netherlands,197 cm,92 kg,False,41,Southampton,17,17,1530,Goalkeeper,6.664705,False,0,0,16,0,0,0,19,,31,354,1,26,1,0,0,8,8,0,0,,3,0,0,0,0,,,0,0,0,2015/2016
+329,18796,Daryl,Janmaat,33,Netherlands,185 cm,80 kg,False,34,Newcastle,32,32,2755,Defender,6.740625,False,0,3,1,15,8,2,0,4,,1030,25,55,80,8,56,287,153,69,38,,9,29,6,1,0,,,0,0,,2015/2016
+330,19065,Ivo Daniel,Ferreira Mendonça Pinto,32,Portugal,182 cm,75 kg,False,71,Norwich,10,9,810,Defender,6.366666,False,1,0,5,0,0,0,,,,229,2,76,17,2,21,84,36,18,8,,6,9,0,0,0,,,0,0,,2015/2016
+331,19182,Axel,Tuanzebe,25,England,186 cm,75 kg,False,33,Manchester United,0,0,0,Defender,,False,0,0,2,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+332,19194,Tammy,Bakumo-Abraham,25,England,190 cm,80 kg,False,49,Chelsea,2,0,53,Attacker,6.350000,False,2,0,2,2,0,0,,,,7,0,70,,0,0,8,2,2,1,,0,2,0,0,0,,,0,0,,2015/2016
+333,19784,Ezekiel David,Fryers,30,England,183 cm,75 kg,False,52,Crystal Palace,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+334,30409,Jordan,Veretout,29,France,177 cm,67 kg,False,66,Aston Villa,25,21,1824,Midfielder,6.784000,False,4,8,11,17,6,0,0,5,,874,39,69,32,0,27,183,80,25,11,,26,19,4,0,0,,,0,0,,2015/2016
+335,36788,Vurnon San Benito,Anita,33,Curaçao,168 cm,63 kg,False,34,Newcastle,28,24,2107,Midfielder,6.889285,False,4,10,5,7,2,1,0,3,,837,13,55,74,8,56,211,109,15,8,,12,29,6,0,0,,,0,0,,2015/2016
+336,37146,Rhu-endly Aurelio Jean-Carlo,Martina,33,Curaçao,185 cm,77 kg,False,41,Southampton,15,11,1082,Defender,6.980000,False,4,1,19,3,2,1,0,1,,343,14,53,37,3,24,95,55,3,1,,11,15,1,0,0,,,0,0,,2015/2016
+337,42246,Wilfried Guemiand,Bony,34,Côte d'Ivoire,182 cm,88 kg,False,50,Manchester City,26,13,1222,Attacker,6.936000,False,13,9,16,52,17,4,0,3,,356,13,47,9,1,2,195,87,16,11,,20,17,1,0,0,,,0,1,,2015/2016
+338,48390,Ricky,van Wolfswinkel,33,Netherlands,186 cm,70 kg,False,71,Norwich,0,0,0,Attacker,,False,0,0,1,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+339,93587,Marco Wulfert Cornelis,van Ginkel,30,Netherlands,180 cm,67 kg,False,75,Stoke City,17,8,751,Midfielder,6.821428,False,9,5,13,8,2,0,0,,,351,5,38,28,2,22,108,55,9,5,,9,14,0,0,0,,,0,0,,2015/2016
+340,1858,Lucas,Pezzini Leiva,35,Brazil,179 cm,74 kg,False,40,Liverpool,27,21,1951,Midfielder,7.150000,False,6,4,9,6,3,0,0,1,,1340,22,69,108,8,52,347,200,16,14,,19,49,8,0,0,,,0,0,,2015/2016
+341,2299,Pedro Eliezer,Rodríguez Ledesma,35,Spain,169 cm,65 kg,False,49,Chelsea,29,24,2043,Attacker,7.053571,False,5,15,5,51,16,7,0,2,,864,43,68,37,0,23,289,142,90,52,,46,23,3,0,0,,,0,0,,2015/2016
+342,2473,Manuel,Lanzini,29,Argentina,167 cm,59 kg,False,48,West Ham,26,23,1920,Midfielder,7.069230,False,3,13,5,42,11,6,0,2,,1016,34,63,33,3,24,225,124,93,57,,30,9,3,0,0,,,0,0,,2015/2016
+343,2726,Kurt Happy,Zouma,28,France,190 cm,96 kg,False,49,Chelsea,23,21,1917,Defender,6.908695,False,2,1,4,14,2,1,0,1,,657,1,52,30,10,36,156,107,7,4,,8,9,0,0,0,,,0,0,,2015/2016
+344,2997,Łukasz,Fabiański,37,Poland,190 cm,83 kg,False,76,Swansea,37,37,3330,Goalkeeper,6.843243,False,0,0,0,1,0,0,51,1,115,714,2,42,,0,1,23,21,0,0,,9,1,1,0,0,,,0,0,0,2015/2016
+345,6898,Ritchie Ria Alfons,De Laet,34,Belgium,186 cm,77 kg,False,46,Leicester,12,7,655,Defender,6.709090,False,5,3,11,2,1,1,0,,,211,6,19,25,11,21,83,44,10,3,,3,6,1,0,0,,,0,0,,2015/2016
+346,18146,Danny,Ward,29,Wales,191 cm,88 kg,False,40,Liverpool,2,2,180,Goalkeeper,,False,0,0,13,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+347,18763,James Patrick,McCarthy,32,Republic of Ireland,180 cm,72 kg,False,45,Everton,29,29,2435,Midfielder,7.079310,False,0,6,0,16,7,2,0,2,,1257,14,68,79,16,51,237,124,10,7,,28,37,6,1,0,,,0,0,,2015/2016
+348,18777,Marc,Albrighton,33,England,175 cm,74 kg,False,46,Leicester,38,34,2767,Midfielder,6.952631,False,4,22,4,36,11,2,0,6,,690,64,46,65,0,50,325,154,95,51,,27,21,4,0,0,,,0,0,,2015/2016
+349,18788,Jamie,Vardy,35,England,179 cm,74 kg,False,46,Leicester,36,36,3140,Attacker,7.291666,False,0,7,0,104,53,24,0,6,,492,48,46,35,3,18,522,194,91,39,,29,42,6,1,0,3,,5,1,,2015/2016
+350,18813,Aaron,Cresswell,33,England,170 cm,66 kg,False,48,West Ham,37,37,3315,Defender,6.835135,False,0,1,0,24,7,2,0,4,,1161,41,58,38,17,70,230,121,33,12,,31,22,1,0,0,,,0,0,,2015/2016
+351,18817,Angelo,Obinze Ogbonna,34,Italy,191 cm,86 kg,False,48,West Ham,28,27,2327,Defender,6.874074,False,1,2,6,6,0,0,0,,,785,2,64,43,19,50,194,127,9,8,,16,21,5,0,0,,2,0,0,,2015/2016
+352,18826,Mark,Noble,35,England,180 cm,70 kg,False,48,West Ham,37,37,3205,Midfielder,7.172972,False,0,9,0,33,12,7,0,4,,1743,50,68,103,12,83,373,202,38,29,,54,36,8,0,1,,,3,0,,2015/2016
+353,18906,Ayoze,Pérez Gutiérrez,29,Spain,178 cm,72 kg,False,34,Newcastle,34,22,2048,Attacker,6.661764,False,12,12,16,44,16,6,0,2,,497,30,53,56,3,28,369,144,102,42,,39,35,4,0,0,,,0,0,,2015/2016
+354,18908,Charles Joseph John,Hart,35,England,196 cm,91 kg,False,50,Manchester City,35,35,3110,Goalkeeper,6.857142,False,0,1,1,0,0,0,36,,71,494,2,39,1,0,0,17,14,1,1,,3,0,0,0,0,,,0,0,0,2015/2016
+355,18936,Ryan,Bertrand,33,England,179 cm,85 kg,False,41,Southampton,32,32,2880,Defender,6.837500,False,0,0,0,12,2,1,0,3,,962,23,68,43,7,72,244,124,37,17,,27,30,6,0,0,,,1,0,,2015/2016
+356,19018,Timothy Evans,Fosu-Mensah,24,Netherlands,185 cm,80 kg,False,33,Manchester United,8,2,252,Defender,6.971428,False,6,1,8,2,0,0,,1,,93,1,72,12,1,13,28,18,3,2,,2,2,1,0,0,,,0,0,,2015/2016
+357,19147,Craig,Dawson,32,England,188 cm,82 kg,False,60,West Brom,38,38,3385,Defender,6.834210,False,0,1,0,34,7,4,0,,,837,28,45,59,25,85,376,212,15,8,,28,28,3,0,0,1,1,0,0,,2015/2016
+358,19229,Darren,Randolph,35,Republic of Ireland,188 cm,98 kg,False,48,West Ham,6,6,540,Goalkeeper,6.466666,False,0,0,30,1,0,0,12,,12,138,0,37,,0,0,2,2,1,1,,0,0,0,0,0,,,0,0,0,2015/2016
+359,19314,Cameron,Carter-Vickers,25,USA,183 cm,92 kg,False,47,Tottenham,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+360,170,Jan Bert Lieve,Vertonghen,35,Belgium,189 cm,79 kg,False,47,Tottenham,29,29,2595,Defender,7.106896,False,0,1,0,11,2,0,0,,,1374,6,69,48,18,63,197,134,14,13,,21,17,5,0,0,,1,0,0,,2015/2016
+361,227,José Ángel,Esmoris Tasende,25,Spain,175 cm,69 kg,False,50,Manchester City,0,0,0,Defender,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+362,624,Nicolás Hernán Gonzalo,Otamendi,34,Argentina,183 cm,76 kg,False,50,Manchester City,30,30,2672,Defender,7.256666,False,0,1,3,24,8,1,0,,,1388,5,74,90,13,104,348,219,14,11,,30,31,9,0,0,,,0,0,,2015/2016
+363,864,Emre,Can,28,Germany,186 cm,86 kg,False,40,Liverpool,30,28,2493,Midfielder,7.023333,False,2,4,2,29,13,1,0,,,1583,33,63,79,9,62,363,191,57,39,,31,36,9,0,0,,,0,0,,2015/2016
+364,15382,Jordi,Gómez García-Penche,37,Spain,178 cm,74 kg,False,746,Sunderland,6,5,355,Midfielder,6.780000,False,1,4,6,1,1,0,0,,,151,2,37,9,3,6,32,18,1,1,,5,4,0,0,0,,,0,0,,2015/2016
+365,18819,Michail Gregory,Antonio,32,Jamaica,180 cm,82 kg,False,48,West Ham,26,23,2062,Attacker,7.053846,False,3,8,10,54,20,8,0,3,,370,24,64,37,4,57,308,157,89,47,,34,27,3,0,0,1,1,0,0,,2015/2016
+366,19196,Andre Jay,Green,24,England,180 cm,71 kg,False,66,Aston Villa,2,0,57,Attacker,6.500000,False,2,0,3,1,0,0,,,,15,2,69,2,0,3,11,4,8,2,,0,0,0,0,0,,,0,0,,2015/2016
+367,19236,Muhamed,Bešić,30,Bosnia and Herzegovina,180 cm,80 kg,False,45,Everton,12,7,557,Midfielder,6.916666,False,5,4,13,4,2,0,0,,,290,5,78,26,3,8,81,47,16,14,,2,5,1,0,0,1,,0,0,,2015/2016
+368,19427,James Michael,Weir,27,England,177 cm,71 kg,False,33,Manchester United,1,0,0,Midfielder,,False,1,0,5,0,0,0,,,,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,,2015/2016
+369,22246,Lamine,Koné,33,Côte d'Ivoire,189 cm,90 kg,False,746,Sunderland,15,15,1315,Defender,7.306666,False,0,1,0,10,4,2,,1,,253,5,60,28,10,33,129,85,4,4,,4,5,0,0,0,,,0,0,,2015/2016
+370,25374,Kevin,Wimmer,30,Austria,187 cm,85 kg,False,47,Tottenham,10,9,812,Defender,7.020000,False,1,1,15,1,0,0,0,,,484,2,85,5,9,20,42,17,0,0,,3,12,2,0,0,,,0,0,,2015/2016
+371,30412,Kevin,Mirallas,35,Belgium,182 cm,72 kg,False,45,Everton,23,10,1004,Midfielder,6.866666,False,13,4,23,39,16,4,0,2,,285,18,61,14,1,9,125,56,38,19,,17,14,1,1,1,,,0,0,,2015/2016
+372,30813,Sandro,Raniere Guimarães Cordeiro,33,Brazil,187 cm,82 kg,False,60,West Brom,12,5,378,Midfielder,6.812500,False,7,3,10,3,0,0,,,,89,1,43,10,3,13,55,36,6,5,,6,5,0,0,0,,,0,0,,2015/2016
+373,41158,João Carlos,Vilaça Teixeira,29,Portugal,176 cm,69 kg,False,40,Liverpool,1,0,3,Midfielder,,False,1,0,10,0,0,0,0,,,3,0,100,1,0,0,2,1,0,0,,0,0,0,0,0,,,0,0,,2015/2016
+374,44827,Ádám,Bogdán,35,Hungary,193 cm,82 kg,False,40,Liverpool,2,2,180,Goalkeeper,6.150000,False,0,0,21,0,0,0,4,,2,18,0,43,,0,0,1,0,0,0,,0,0,0,0,0,,,0,0,0,2015/2016
+375,47544,Gilbert Gianelli,Imbula Wanga,30,Congo DR,186 cm,78 kg,False,75,Stoke City,14,14,1260,Midfielder,7.071428,False,0,0,0,21,5,2,,,,678,11,86,14,2,7,186,107,83,61,,20,17,4,0,0,,,0,0,,2015/2016
+376,48679,Raphael Simon,Spiegel,30,Switzerland,197 cm,89 kg,False,48,West Ham,0,0,0,Goalkeeper,,False,0,0,8,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,0,2015/2016
+377,49840,Gaël Dimitri,Clichy,37,France,176 cm,65 kg,False,50,Manchester City,14,12,1087,Defender,7.200000,False,2,2,13,2,0,0,0,1,,564,12,75,28,3,50,105,59,22,15,,6,10,0,0,0,,,0,0,,2015/2016
+378,66054,Libor,Kozák,33,Czech Republic,193 cm,84 kg,False,66,Aston Villa,4,3,258,Attacker,6.800000,False,1,1,3,6,2,0,0,,,50,3,49,3,1,0,56,28,3,2,,3,5,0,0,0,,,0,0,,2015/2016
+379,69229,Daniel,Cleary,26,Republic of Ireland,182 cm,77 kg,False,40,Liverpool,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+380,106,Nacer,Chadli,33,Belgium,187 cm,80 kg,False,47,Tottenham,29,10,933,Midfielder,6.678260,False,19,5,21,21,7,3,0,2,,344,24,58,11,3,8,118,41,17,7,,7,16,1,0,0,,,0,0,,2015/2016
+381,111,Marcos Paulo,Mesquita Lopes,27,Portugal,174 cm,68 kg,False,50,Manchester City,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+382,1458,Mesut,Özil,34,Germany,180 cm,76 kg,False,42,Arsenal,35,35,3049,Midfielder,7.622857,False,0,14,0,41,20,6,0,19,,2055,147,73,35,0,22,297,126,81,46,,43,20,4,0,0,,,0,0,,2015/2016
+383,1648,Fabio,Borini,31,Italy,180 cm,73 kg,False,746,Sunderland,26,22,1897,Attacker,6.765384,False,4,11,7,46,18,5,0,2,,435,18,55,24,2,22,303,120,54,24,,50,31,6,0,0,1,,1,0,,2015/2016
+384,1992,Jeremain Marciano,Lens,35,Netherlands,178 cm,75 kg,False,746,Sunderland,20,14,1295,Midfielder,6.590000,False,6,7,12,21,7,3,0,3,,333,19,46,36,0,3,253,109,65,26,,31,27,4,1,0,,,0,0,,2015/2016
+385,2358,José Ángel,Crespo Rincón,35,Spain,185 cm,73 kg,False,66,Aston Villa,1,1,90,Defender,6.200000,False,0,0,3,,,0,0,,,27,,24,,,1,4,1,,,,1,1,0,0,0,,,0,0,,2015/2016
+386,2719,Noureddine,Amrabat,35,Morocco,179 cm,73 kg,False,38,Watford,12,4,500,Midfielder,6.418181,False,8,2,12,7,3,0,,,,127,5,73,5,0,4,95,39,22,14,,19,15,3,1,0,,,0,0,,2015/2016
+387,18845,Patrick John Miguel,van Aanholt,32,Netherlands,176 cm,74 kg,False,746,Sunderland,33,33,2970,Defender,6.987878,False,0,0,4,45,9,4,0,3,,883,30,61,85,10,63,274,157,65,46,,12,16,2,0,0,,,0,0,,2015/2016
+388,18876,Jordon,Ibe,27,England,176 cm,81 kg,False,40,Liverpool,27,12,1172,Attacker,6.775000,False,15,9,21,25,6,1,0,2,,424,20,55,10,0,1,181,86,95,60,,14,10,0,0,0,,,0,0,,2015/2016
+389,19286,Yohan,Benalouane,35,Tunisia,185 cm,86 kg,False,46,Leicester,4,0,64,Defender,6.400000,False,4,0,11,,,0,0,,,14,,1,,2,6,7,3,,,,,3,1,0,0,,,0,0,,2015/2016
+390,19326,Leroy Johan,Fer,32,Netherlands,188 cm,79 kg,False,76,Swansea,11,9,758,Midfielder,6.909090,False,2,4,4,5,1,0,,2,,371,8,83,21,2,13,112,62,11,5,,14,14,2,0,0,,,0,0,,2015/2016
+391,21487,Papiss Mison,Djilobodji,34,Senegal,193 cm,82 kg,False,49,Chelsea,0,0,0,Defender,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+392,22096,Yann Gérard,M'Vila,32,France,182 cm,80 kg,False,746,Sunderland,37,36,3189,Midfielder,7.197297,False,1,4,1,26,5,1,0,4,,1470,47,66,99,9,86,325,200,19,15,,43,18,1,0,0,,,0,0,,2015/2016
+393,26904,Adil,Nabi,28,England,175 cm,68 kg,False,60,West Brom,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+394,35533,Enner Remberto,Valencia Lastra,33,Ecuador,174 cm,74 kg,False,48,West Ham,19,10,1007,Attacker,6.811111,False,9,7,12,32,12,4,0,2,,191,12,64,19,2,10,196,79,45,15,,22,11,1,0,0,,,0,0,,2015/2016
+395,35928,Juan Manuel,Iturbe Arévalo,29,Paraguay,172 cm,64 kg,False,35,Bournemouth,2,0,55,Attacker,6.800000,False,2,0,11,1,1,0,,,,18,1,75,,0,2,9,5,5,3,,1,0,0,0,0,,,0,0,,2015/2016
+396,44355,Bafétimbi Fredius,Gomis,37,France,184 cm,77 kg,False,76,Swansea,33,18,1696,Attacker,6.790625,False,15,8,18,52,17,6,0,,,467,17,53,7,0,6,205,81,33,23,,20,17,0,0,0,,,1,0,,2015/2016
+397,44975,Anthony,Andreu,34,France,178 cm,72 kg,False,71,Norwich,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+398,47508,Marc,Muniesa Martínez,30,Spain,179 cm,72 kg,False,75,Stoke City,15,12,1112,Defender,6.680000,False,3,1,11,3,0,0,0,,,471,5,66,28,11,35,99,53,11,6,,8,10,2,0,0,,,0,0,,2015/2016
+399,49946,Papiss Demba,Cissé,37,Senegal,183 cm,73 kg,False,34,Newcastle,21,14,1071,Attacker,6.757894,False,7,11,11,23,9,3,0,,,329,11,49,10,1,3,140,46,12,3,,8,13,1,0,0,,,0,0,,2015/2016
+400,119,Radamel Falcao,García Zárate,36,Colombia,177 cm,72 kg,False,49,Chelsea,10,1,228,Attacker,6.666666,False,9,0,13,9,5,1,0,,,80,2,11,2,0,3,48,19,5,2,,5,7,1,0,0,,,0,0,,2015/2016
+401,407,Benjamin,Stambouli,32,France,180 cm,82 kg,False,47,Tottenham,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+402,634,David Josué,Jiménez Silva,36,Spain,173 cm,67 kg,False,50,Manchester City,24,22,1801,Midfielder,7.245833,False,2,12,2,25,4,2,0,11,,1242,70,77,36,0,16,253,110,48,31,,34,19,1,0,0,1,,0,0,,2015/2016
+403,915,Gabriel Armando,de Abreu,32,Brazil,185 cm,72 kg,False,42,Arsenal,21,18,1761,Defender,7.223809,False,3,0,17,11,4,1,0,,,1035,1,76,42,13,62,161,105,4,3,,11,9,4,0,1,,,0,0,,2015/2016
+404,1290,Guillermo,Varela Olivera,29,Uruguay,173 cm,70 kg,False,33,Manchester United,4,3,314,Defender,6.650000,False,1,0,9,1,0,0,,,,115,2,79,13,0,12,53,25,9,4,,7,5,1,0,0,,,0,0,,2015/2016
+405,1439,Héctor,Bellerín Moruno,27,Spain,178 cm,74 kg,False,42,Arsenal,36,36,3240,Defender,6.947222,False,0,0,0,12,3,1,0,5,,1524,25,70,57,7,66,312,166,95,63,,8,19,3,0,0,,,0,0,,2015/2016
+406,1447,Ignacio,Monreal Eraso,36,Spain,179 cm,72 kg,False,42,Arsenal,37,36,3248,Defender,7.083783,False,1,0,2,12,5,0,0,3,,1675,28,69,79,11,106,334,205,24,16,,41,28,1,0,0,,1,0,0,,2015/2016
+407,1477,Sebastián,Coates Nión,32,Uruguay,196 cm,92 kg,False,746,Sunderland,16,14,1229,Defender,6.733333,False,2,2,8,6,2,0,0,1,,332,2,39,45,9,41,141,81,10,7,,2,17,4,0,0,,1,0,0,,2015/2016
+408,1558,Joel,Robles Blázquez,32,Spain,195 cm,78 kg,False,45,Everton,13,13,1170,Goalkeeper,6.784615,False,0,0,25,0,0,0,20,,46,194,0,46,,0,0,5,3,1,1,,1,0,1,0,0,,,0,0,0,2015/2016
+409,1917,Mario,Barwuah Balotelli,32,Italy,189 cm,88 kg,False,40,Liverpool,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+410,18792,Miguel Ángel,Britos Cabrera,36,Uruguay,188 cm,82 kg,False,38,Watford,24,24,2076,Defender,6.845833,False,0,3,5,6,0,0,0,,,534,0,62,25,15,60,177,109,7,7,,18,19,7,0,0,,,0,0,,2015/2016
+411,19304,Claudio Ariel,Yacob,35,Argentina,181 cm,77 kg,False,60,West Brom,34,33,2853,Midfielder,6.888235,False,1,8,2,8,0,0,0,1,,941,8,57,108,15,117,390,201,10,9,,41,62,8,0,0,,,0,0,,2015/2016
+412,19511,Mame Biram,Diouf,35,Senegal,185 cm,79 kg,False,75,Stoke City,26,12,1269,Attacker,6.725000,False,14,5,22,29,16,5,0,1,,222,10,56,18,1,5,190,88,21,12,,26,21,3,0,0,,,0,0,,2015/2016
+413,22240,Loïc Alex Teliére,Hubert Rémy,35,France,185 cm,80 kg,False,49,Chelsea,13,3,284,Attacker,6.691666,False,10,3,22,11,5,1,0,,,91,4,57,,0,1,45,19,12,7,,6,1,0,0,0,,,0,0,,2015/2016
+414,26302,Pablo Carmine,Maffeo Becerra,25,Spain,172 cm,70 kg,False,50,Manchester City,0,0,0,Defender,,False,0,0,2,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+415,47320,Juan Miguel,Jiménez López,29,Spain,172 cm,69 kg,False,41,Southampton,12,0,161,Attacker,6.472727,False,12,0,28,5,1,0,0,,,42,3,58,1,1,0,23,7,2,1,,5,1,0,0,0,,,0,0,,2015/2016
+416,47516,Aleix,García Serrano,25,Spain,173 cm,68 kg,False,50,Manchester City,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+417,47550,Mario,Suárez Mata,35,Spain,188 cm,80 kg,False,38,Watford,15,8,745,Midfielder,6.671428,False,7,3,7,8,1,0,,,,332,7,81,21,2,18,99,45,16,10,,5,14,2,0,0,,,0,0,,2015/2016
+418,49854,Gökhan,İnler,38,Switzerland,183 cm,79 kg,False,46,Leicester,5,3,195,Midfielder,6.800000,False,2,3,22,2,0,0,0,,,111,1,40,10,1,10,39,20,1,1,,4,3,0,0,0,,,0,0,,2015/2016
+419,51704,Leandro Joaquín,Rodríguez Telechea,30,Uruguay,179 cm,70 kg,False,45,Everton,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+420,176,Erik,Lamela,30,Argentina,181 cm,79 kg,False,47,Tottenham,34,28,2384,Midfielder,7.021212,False,6,19,8,52,20,5,0,9,,823,75,56,81,2,27,408,167,69,40,,35,66,9,0,0,,,0,0,,2015/2016
+421,288,Alberto,Moreno Pérez,30,Spain,171 cm,65 kg,False,40,Liverpool,32,28,2547,Defender,7.106666,False,4,3,6,32,8,1,0,4,,1136,62,60,92,5,63,265,143,34,16,,22,29,3,0,0,,1,0,0,,2015/2016
+422,452,Fernando Francisco,Reges,35,Brazil,183 cm,76 kg,False,50,Manchester City,24,17,1711,Midfielder,6.950000,False,7,3,11,12,5,2,0,,,838,8,74,60,5,43,228,122,20,16,,9,27,4,0,0,,,0,0,,2015/2016
+423,730,Thibaut Nicolas Marc,Courtois,30,Belgium,199 cm,91 kg,False,49,Chelsea,23,23,2020,Goalkeeper,6.721739,False,0,0,1,0,0,0,30,,66,283,0,44,,0,1,10,8,0,0,,1,2,1,0,2,,,0,0,0,2015/2016
+424,908,Anthony,Martial,27,France,181 cm,76 kg,False,33,Manchester United,31,29,2632,Attacker,6.790322,False,2,2,2,54,25,11,0,4,,764,36,60,21,4,9,553,213,182,84,,56,40,2,0,0,,,0,0,,2015/2016
+425,924,Francis,Coquelin,31,France,176 cm,74 kg,False,42,Arsenal,26,21,1647,Midfielder,7.165384,False,5,8,6,6,0,0,0,,,1041,7,68,72,7,77,229,145,36,30,,24,24,6,1,0,,,0,0,,2015/2016
+426,1375,Roberto,Soldado Rillo,37,Spain,180 cm,74 kg,False,47,Tottenham,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+427,1890,David,Faupala,25,France,183 cm,72 kg,False,50,Manchester City,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+428,2054,Jesús,Navas González,37,Spain,172 cm,60 kg,False,50,Manchester City,34,24,2280,Defender,6.811764,False,10,8,12,27,8,0,0,7,,1132,55,63,29,0,21,247,110,70,48,,24,18,1,0,0,,,0,0,,2015/2016
+429,2296,Eden Michael,Hazard,31,Belgium,175 cm,74 kg,False,49,Chelsea,31,25,2191,Attacker,7.145161,False,6,6,6,31,14,4,0,3,,1304,67,69,21,1,13,346,191,144,89,,70,15,2,0,0,1,,0,0,,2015/2016
+430,9972,Alexandre,Rodrigues da Silva,33,Brazil,180 cm,72 kg,False,49,Chelsea,2,1,131,Attacker,6.700000,False,1,1,9,4,2,1,,,,24,1,92,3,0,0,19,6,3,0,,3,2,0,0,0,1,,1,0,,2015/2016
+431,18753,Adama,Traoré Diarra,26,Spain,178 cm,86 kg,False,66,Aston Villa,10,0,184,Attacker,6.400000,False,10,1,14,2,0,0,0,1,,26,1,40,1,0,0,66,37,41,25,,11,4,1,0,0,,,0,0,,2015/2016
+432,18787,Shinji,Okazaki,36,Japan,174 cm,70 kg,False,46,Leicester,36,28,2071,Attacker,6.688888,False,8,25,10,42,12,5,0,,,436,20,50,37,3,15,416,152,53,17,,47,31,1,0,0,1,,0,0,,2015/2016
+433,18802,Etienne,Capoue,34,France,189 cm,80 kg,False,38,Watford,33,33,2822,Midfielder,6.954545,False,0,8,0,29,8,0,0,1,,1341,24,62,95,7,82,434,235,87,49,,55,53,7,0,0,,1,0,0,,2015/2016
+434,18907,José Luis,Sanmartín Mato,32,Spain,192 cm,80 kg,False,75,Stoke City,22,10,1089,Attacker,6.740909,False,12,4,24,28,16,4,0,1,,301,10,54,14,1,6,193,92,16,6,,18,19,0,0,0,,,0,0,,2015/2016
+435,19607,Matthew,Miazga,27,USA,193 cm,84 kg,False,49,Chelsea,2,2,136,Defender,6.500000,False,0,1,3,0,0,0,,,,72,0,80,3,0,2,21,11,0,0,,2,1,1,0,0,,,0,0,,2015/2016
+436,22146,Manuel,García Alonso,24,Spain,169 cm,65 kg,False,50,Manchester City,1,0,10,Midfielder,6.500000,False,1,0,8,0,0,0,0,,,18,0,100,,0,1,2,0,0,0,,0,0,0,0,0,,,0,0,,2015/2016
+437,47253,Ignasi,Miquel i Pons,30,Spain,188 cm,82 kg,False,71,Norwich,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+438,47407,Allan Roméo,Nyom,34,Cameroon,188 cm,78 kg,False,38,Watford,32,29,2475,Defender,6.725806,False,3,9,9,4,1,0,0,1,,692,7,44,84,7,60,258,147,42,27,,23,36,8,0,0,,,0,0,,2015/2016
+439,50869,Bradley Edwin,Guzan,38,USA,193 cm,94 kg,False,66,Aston Villa,28,28,2520,Goalkeeper,6.646428,False,0,0,10,0,0,0,58,,89,548,1,34,3,0,4,7,7,0,0,,1,0,2,0,0,,,0,0,0,2015/2016
+440,162,Toby Albertine Maurits,Alderweireld,33,Belgium,186 cm,81 kg,False,47,Tottenham,38,38,3420,Defender,7.244736,False,0,1,0,38,14,4,0,2,,1787,10,67,45,33,66,190,116,10,7,,5,9,3,0,0,,,0,0,,2015/2016
+441,181,Victor,Mugubi Wanyama,31,Kenya,188 cm,80 kg,False,41,Southampton,30,29,2500,Midfielder,7.030000,False,1,3,1,30,5,1,0,1,,1203,16,66,94,6,68,398,209,34,23,,28,50,6,2,1,,,0,0,,2015/2016
+442,313,David,Ospina Ramírez,34,Colombia,183 cm,80 kg,False,42,Arsenal,4,4,360,Goalkeeper,7.225000,False,0,0,30,0,0,0,5,,17,61,0,55,,0,0,1,1,0,0,,1,0,0,0,0,,,0,0,0,2015/2016
+443,315,Vlad Iulian,Chiricheș,33,Romania,184 cm,75 kg,False,47,Tottenham,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+444,554,Dušan,Tadić,34,Serbia,181 cm,76 kg,False,41,Southampton,34,27,2291,Attacker,7.097058,False,7,19,11,49,16,7,0,12,,718,75,54,37,2,24,260,116,52,37,,35,25,2,0,0,,,1,0,,2015/2016
+445,866,Juan Guillermo,Cuadrado Bello,34,Colombia,179 cm,72 kg,False,49,Chelsea,1,0,26,Midfielder,6.700000,False,1,0,1,1,1,0,0,,,9,,9,,,1,5,3,2,1,,2,,0,0,0,,,0,0,,2015/2016
+446,2851,Bo Kristoffer,Nordfeldt,33,Sweden,190 cm,85 kg,False,76,Swansea,1,1,90,Goalkeeper,6.800000,False,0,0,36,0,0,0,1,,4,18,0,72,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,0,2015/2016
+447,2886,Javier,Hernández Balcázar,34,Mexico,175 cm,73 kg,False,33,Manchester United,1,0,23,Attacker,6.700000,False,1,0,4,1,1,0,0,,,14,1,12,,,1,3,2,1,1,,1,,0,0,0,,,0,0,,2015/2016
+448,18773,Christian,Fuchs,36,Austria,187 cm,89 kg,False,46,Leicester,32,30,2710,Defender,7.303125,False,2,1,4,19,8,0,0,4,,909,44,60,99,11,98,304,167,12,7,,12,33,4,0,0,,,0,0,,2015/2016
+449,18881,Joshua Christian,Kojo King,30,Norway,180 cm,74 kg,False,35,Bournemouth,31,24,1924,Attacker,6.793548,False,7,18,7,53,20,6,0,2,,373,25,53,29,1,10,330,127,99,45,,28,37,1,0,0,,,0,0,,2015/2016
+450,18897,DeAndre Roselle,Yedlin,29,USA,172 cm,75 kg,False,746,Sunderland,23,21,1812,Defender,6.865217,False,2,3,10,4,1,0,0,1,,379,12,53,39,13,25,181,97,37,22,,12,21,2,0,0,,,0,0,,2015/2016
+451,19148,Kieran,Gibbs,33,England,179 cm,70 kg,False,42,Arsenal,15,3,381,Defender,6.615384,False,12,2,29,5,1,1,0,,,155,1,42,12,0,11,56,28,5,2,,6,3,0,0,0,,,0,0,,2015/2016
+452,19319,Martin Tony Waikwa,Olsson,34,Sweden,178 cm,81 kg,False,71,Norwich,24,20,1773,Defender,6.479166,False,4,2,13,7,6,1,0,2,,324,7,47,26,5,25,151,77,24,6,,18,18,2,0,0,,,0,0,,2015/2016
+453,19575,Geoff,Cameron,37,USA,191 cm,84 kg,False,75,Stoke City,30,27,2361,Defender,6.740000,False,3,5,3,11,2,0,0,,,969,9,55,60,19,56,294,166,43,28,,8,27,0,0,1,,1,0,0,,2015/2016
+454,19601,Tyler,Blackett,28,England,188 cm,87 kg,False,33,Manchester United,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+455,33409,Segundo Víctor,Ibarbo Guerrero,32,Colombia,188 cm,79 kg,False,38,Watford,4,0,64,Attacker,6.275000,False,4,0,10,0,0,0,0,,,20,0,22,2,0,0,12,5,2,0,,1,2,0,0,0,,,0,0,,2015/2016
+456,51012,Carles,Gil de Pareja Vicent,30,Spain,171 cm,65 kg,False,66,Aston Villa,23,17,1441,Midfielder,6.769565,False,6,12,17,16,5,2,0,,,668,25,63,22,2,10,168,79,63,29,,27,3,3,0,0,,,0,0,,2015/2016
+457,51106,Bradley Shaun,Smith,28,Australia,178 cm,70 kg,False,40,Liverpool,4,3,285,Defender,6.600000,False,1,0,10,0,0,0,0,,,85,2,59,11,1,3,43,22,6,4,,5,7,2,1,0,,,0,0,,2015/2016
+458,51279,Doneil Jor-Dee,Ashley Henry,29,Canada,188 cm,82 kg,False,48,West Ham,0,0,0,Defender,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+459,78466,Jordan Antonio,Brown,26,England,173 cm,68 kg,False,48,West Ham,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+460,159,Hugo,Lloris,36,France,188 cm,82 kg,False,47,Tottenham,37,37,3330,Goalkeeper,6.872972,False,0,0,1,0,0,0,34,,88,780,1,50,2,0,1,10,10,0,0,,5,0,0,0,0,,,0,0,0,2015/2016
+461,282,Simon Luc Hildebert,Mignolet,34,Belgium,193 cm,87 kg,False,40,Liverpool,34,34,3060,Goalkeeper,6.691176,False,0,0,3,0,0,0,42,,70,606,1,42,1,0,2,14,12,4,4,,3,0,2,0,0,,,0,0,1,2015/2016
+462,287,Dejan,Lovren,33,Croatia,188 cm,84 kg,False,40,Liverpool,24,22,1897,Defender,7.147826,False,2,3,4,19,6,0,0,,,934,8,68,34,14,37,184,124,2,1,,12,23,2,0,0,,,0,0,,2015/2016
+463,305,Divock,Okoth Origi,27,Belgium,185 cm,75 kg,False,40,Liverpool,16,7,666,Attacker,6.706250,False,9,5,16,24,12,5,0,1,,132,9,59,5,0,0,117,39,23,14,,13,11,0,0,0,,,0,0,,2015/2016
+464,726,Andrej,Kramarić,31,Croatia,177 cm,73 kg,False,46,Leicester,2,0,22,Attacker,6.500000,False,2,0,9,1,1,0,0,,,8,1,27,1,0,0,3,2,1,1,,0,1,0,0,0,,,0,0,,2015/2016
+465,891,Luke,Shaw,27,England,185 cm,75 kg,False,33,Manchester United,5,5,450,Defender,6.900000,False,0,0,0,1,1,0,0,1,,271,4,46,9,2,5,75,32,11,6,,3,8,1,0,0,,,0,0,,2015/2016
+466,1370,André Morgan Rami,Ayew,33,Ghana,176 cm,72 kg,False,76,Swansea,34,34,2940,Attacker,6.894117,False,0,15,1,67,27,12,0,2,,952,24,60,55,2,23,468,206,60,28,,78,35,5,0,0,3,,0,0,,2015/2016
+467,1688,José Ramiro,Funes Mori,31,Argentina,186 cm,79 kg,False,45,Everton,28,24,2190,Defender,7.222222,False,4,0,7,23,9,4,0,1,,1078,6,71,41,11,66,213,138,16,12,,9,8,4,0,1,,1,0,0,,2015/2016
+468,1695,Santiago,Cazorla González,38,Spain,168 cm,65 kg,False,42,Arsenal,15,15,1293,Midfielder,7.593333,False,0,2,2,18,8,0,0,3,,1197,39,74,28,1,26,153,80,46,37,,14,13,3,1,0,,,0,1,,2015/2016
+469,2290,N'Golo,Kanté,31,France,168 cm,68 kg,False,46,Leicester,37,33,3020,Midfielder,7.348648,False,4,2,4,20,5,1,0,4,,1257,31,62,175,11,156,494,277,81,47,,17,43,3,0,0,,,0,0,,2015/2016
+470,2295,Olivier,Giroud,36,France,192 cm,93 kg,False,42,Arsenal,38,26,2425,Attacker,7.113157,False,12,8,12,94,43,16,0,6,,641,36,47,34,4,11,385,178,25,11,,33,40,2,0,0,,,1,0,,2015/2016
+471,2924,Adnan,Januzaj,27,Belgium,186 cm,76 kg,False,33,Manchester United,3,0,17,Midfielder,6.580000,False,3,0,5,2,1,0,0,,,41,1,59,1,0,0,23,7,6,3,,3,5,1,0,0,,,0,0,,2015/2016
+472,2928,Christian,Benteke Liolo,32,Belgium,190 cm,83 kg,False,40,Liverpool,29,14,1517,Attacker,6.975862,False,15,3,16,55,20,9,0,3,,421,31,49,8,0,0,340,175,26,14,,26,29,2,0,0,1,,1,0,,2015/2016
+473,2932,Jordan,Pickford,28,England,185 cm,77 kg,False,746,Sunderland,2,2,180,Goalkeeper,6.950000,False,0,0,16,0,0,0,6,,11,22,0,30,,0,0,1,1,0,0,,1,0,0,0,0,,,0,0,0,2015/2016
+474,18758,Séamus,Coleman,34,Republic of Ireland,177 cm,67 kg,False,45,Everton,28,27,2386,Defender,6.746428,False,1,4,1,26,6,1,0,3,,938,19,66,58,11,36,262,142,75,43,,28,20,4,0,0,,,0,0,,2015/2016
+475,18772,Jonathan Grant,Evans,34,Northern Ireland,188 cm,77 kg,False,60,West Brom,30,30,2593,Defender,7.200000,False,0,3,0,7,1,1,0,1,,816,9,59,75,28,91,263,173,24,22,,22,23,4,0,0,,,0,0,,2015/2016
+476,18793,Craig George,Cathcart,33,Northern Ireland,188 cm,73 kg,False,38,Watford,35,34,3034,Defender,6.817142,False,1,1,2,4,2,1,0,,,826,3,49,45,25,63,199,132,8,8,,12,9,3,0,0,,,0,0,,2015/2016
+477,18932,Fraser,Forster,34,England,201 cm,93 kg,False,41,Southampton,18,18,1620,Goalkeeper,6.844444,False,0,0,0,0,0,0,17,,51,233,0,51,,0,0,4,3,1,1,,0,0,0,0,0,,,0,0,0,2015/2016
+478,19179,Tyrone,Mings,29,England,196 cm,77 kg,False,35,Bournemouth,1,0,11,Defender,6.200000,False,1,1,4,,,0,0,,,3,,3,,,2,1,,,,,,,0,0,0,,,0,0,,2015/2016
+479,19827,Joshua Jon,Cullen,26,Republic of Ireland,175 cm,70 kg,False,48,West Ham,1,0,0,Midfielder,,False,1,0,11,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+480,121,Stevan,Jovetić,33,Montenegro,183 cm,79 kg,False,50,Manchester City,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+481,171,Kyle,Walker-Peters,25,England,173 cm,62 kg,False,47,Tottenham,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+482,174,Christian,Dannemann Eriksen,30,Denmark,182 cm,76 kg,False,47,Tottenham,35,33,2941,Midfielder,7.411428,False,2,10,2,96,42,6,0,13,,1575,116,68,47,0,34,281,116,66,35,,17,13,2,0,0,,,0,0,,2015/2016
+483,184,Harry,Kane,29,England,188 cm,86 kg,False,47,Tottenham,38,38,3370,Attacker,7.394736,False,0,9,0,144,74,25,0,1,,775,46,54,29,9,21,537,204,95,48,,55,42,5,0,0,1,,5,0,,2015/2016
+484,290,Virgil,van Dijk,31,Netherlands,193 cm,92 kg,False,41,Southampton,34,34,3060,Defender,7.382352,False,0,0,0,29,10,3,0,,,1220,9,70,59,22,96,352,249,22,16,,16,28,2,0,0,,,0,0,,2015/2016
+485,292,Jordan,Henderson,32,England,182 cm,67 kg,False,40,Liverpool,17,15,1293,Midfielder,7.282352,False,2,5,4,26,6,2,0,3,,763,19,74,41,1,22,129,74,14,8,,8,10,1,0,0,,,0,0,,2015/2016
+486,307,Xherdan,Shaqiri,31,Switzerland,169 cm,72 kg,False,75,Stoke City,27,27,2030,Midfielder,6.814814,False,0,18,2,36,11,3,0,6,,565,50,59,19,1,12,219,85,78,36,,28,25,3,0,0,,,0,0,,2015/2016
+487,531,Daley,Blind,32,Netherlands,180 cm,72 kg,False,33,Manchester United,35,35,3117,Defender,7.180000,False,0,3,2,3,2,1,0,1,,1774,26,71,95,20,80,288,165,26,21,,15,27,2,0,0,,,0,0,,2015/2016
+488,626,John,Stones,28,England,188 cm,70 kg,False,45,Everton,33,31,2779,Defender,7.018181,False,2,2,2,8,1,0,0,,,1442,6,74,46,34,56,221,147,31,23,,26,11,3,0,0,,1,0,0,,2015/2016
+489,645,Raheem,Sterling,28,England,170 cm,69 kg,False,50,Manchester City,31,23,1927,Attacker,6.764516,False,8,15,11,45,22,6,0,2,,779,35,62,34,0,16,303,136,79,41,,53,26,1,0,0,,1,0,0,,2015/2016
+490,667,Memphis,Depay,28,Netherlands,176 cm,78 kg,False,33,Manchester United,29,16,1477,Attacker,6.455172,False,13,6,21,50,17,2,0,,,570,12,60,13,1,10,228,84,59,28,,35,20,2,0,0,,,0,0,,2015/2016
+491,946,Melingo Kevin,Mbabu,27,Switzerland,184 cm,83 kg,False,34,Newcastle,3,2,143,Defender,6.600000,False,1,1,9,1,1,0,0,,,41,1,12,11,,3,28,17,4,1,,2,3,0,0,0,,,0,0,,2015/2016
+492,2280,César,Azpilicueta Tanco,33,Spain,178 cm,76 kg,False,49,Chelsea,37,36,3201,Defender,7.102777,False,1,3,2,8,5,2,0,3,,1603,21,66,114,16,86,306,182,20,6,,18,39,7,0,0,,,0,0,,2015/2016
+493,2728,Kasper Peter,Schmeichel,36,Denmark,189 cm,89 kg,False,46,Leicester,38,38,3420,Goalkeeper,6.886842,False,0,0,0,0,0,0,36,,99,664,5,27,1,0,3,17,12,1,1,,1,0,2,0,0,,,0,0,0,2015/2016
+494,2938,James,Ward-Prowse,28,England,173 cm,66 kg,False,41,Southampton,33,14,1531,Midfielder,6.770967,False,19,5,24,25,7,2,0,4,,630,33,58,14,6,22,115,37,8,6,,8,21,5,0,0,,,1,0,,2015/2016
+495,18861,Nathan Benjamin,Aké,27,Netherlands,180 cm,75 kg,False,38,Watford,24,20,1872,Defender,7.170833,False,4,1,7,15,5,1,0,,,480,9,56,79,8,76,208,135,16,10,,12,28,4,0,1,,,0,0,,2015/2016
+496,19061,Tim,Krul,34,Netherlands,188 cm,84 kg,False,34,Newcastle,8,8,720,Goalkeeper,6.750000,False,0,0,0,,,0,17,,33,259,,18,,,1,6,3,,,,1,,0,0,0,,,0,0,0,2015/2016
+497,19187,Jack,Grealish,27,England,175 cm,68 kg,False,66,Aston Villa,16,9,831,Midfielder,6.637500,False,7,5,16,10,4,1,0,,,308,12,53,6,0,14,102,48,46,24,,17,6,1,0,0,,,0,0,,2015/2016
+498,37154,Jordy,Clasie,31,Netherlands,169 cm,68 kg,False,41,Southampton,22,20,1552,Midfielder,6.818181,False,2,16,8,13,1,0,0,,,662,14,70,42,5,55,152,62,5,4,,8,18,5,0,0,,,0,0,,2015/2016
+499,37160,Steven,Berghuis,31,Netherlands,182 cm,75 kg,False,38,Watford,9,0,222,Attacker,6.800000,False,9,0,16,8,4,0,0,2,,73,8,36,6,0,2,35,12,7,4,,2,7,2,0,0,,,0,0,,2015/2016
+500,34,Filipe Luís,Kasmirski,37,Brazil,181 cm,77 kg,False,49,Chelsea,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+501,164,Benjamin,Thomas Davies,29,Wales,181 cm,76 kg,False,47,Tottenham,17,14,1288,Defender,6.823529,False,3,0,19,8,2,0,0,2,,539,15,52,32,6,28,135,69,11,6,,8,16,3,0,0,,,0,0,,2015/2016
+502,635,Riyad,Mahrez,31,Algeria,179 cm,67 kg,False,46,Leicester,37,36,3057,Attacker,7.351351,False,1,24,2,76,39,17,0,11,,843,69,54,53,5,38,644,302,232,131,,83,19,1,0,0,,,4,2,,2015/2016
+503,655,Rafael,Pereira da Silva,32,Brazil,172 cm,78 kg,False,33,Manchester United,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+504,899,Andreas Hugo,Hoelgebaum Pereira,26,Brazil,178 cm,71 kg,False,33,Manchester United,4,0,80,Midfielder,6.566666,False,4,0,21,0,0,0,0,,,42,3,87,1,0,1,18,6,5,4,,1,2,2,0,0,,,0,0,,2015/2016
+505,1901,Jordan Kévin,Amavi,28,France,176 cm,70 kg,False,66,Aston Villa,10,9,836,Defender,6.820000,False,1,0,3,2,1,0,0,2,,370,7,29,36,3,37,177,92,57,25,,11,18,2,0,0,,,0,0,,2015/2016
+506,2294,Willian,Borges da Silva,34,Brazil,175 cm,77 kg,False,49,Chelsea,35,32,2750,Attacker,7.177142,False,3,14,3,55,20,5,0,6,,1293,83,64,42,1,20,367,196,126,84,,67,27,5,0,0,1,,0,0,,2015/2016
+507,3173,Ismaël,Bennacer,25,Algeria,175 cm,70 kg,False,42,Arsenal,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+508,12692,Oscar,dos Santos Emboaba Júnior,31,Brazil,181 cm,71 kg,False,49,Chelsea,27,20,1774,Midfielder,6.973076,False,7,12,10,48,16,3,0,3,,896,29,69,62,2,13,272,134,61,25,,35,18,4,0,0,,,1,1,,2015/2016
+509,12753,Marouane,Fellaini-Bakkioui,35,Belgium,194 cm,85 kg,False,33,Manchester United,18,12,1068,Midfielder,6.683333,False,6,6,15,22,8,1,0,,,507,11,60,25,2,10,226,103,26,17,,13,33,2,0,0,,,0,0,,2015/2016
+510,18764,Morgan,Schneiderlin,33,France,181 cm,75 kg,False,33,Manchester United,29,25,2205,Midfielder,7.031034,False,4,4,12,9,1,1,0,,,1362,9,72,71,5,73,235,114,14,9,,15,52,3,0,0,,,0,0,,2015/2016
+511,18830,Marko,Arnautović,33,Austria,192 cm,83 kg,False,75,Stoke City,34,33,2820,Attacker,7.047058,False,1,14,1,69,22,11,0,6,,916,51,58,53,0,28,329,143,108,60,,23,49,2,0,0,1,,3,0,,2015/2016
+512,18836,Wayne Robert,Hennessey,35,Wales,198 cm,90 kg,False,52,Crystal Palace,29,29,2610,Goalkeeper,6.689655,False,0,0,6,0,0,0,36,,80,429,0,37,,0,2,6,3,0,0,,1,0,1,0,0,,,0,0,0,2015/2016
+513,19321,Joe,Rodon,25,Wales,180 cm,70 kg,False,76,Swansea,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+514,19329,Daniel,James,25,Wales,171 cm,76 kg,False,76,Swansea,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+515,19492,Jakob,Let Haugaard,30,Denmark,199 cm,87 kg,False,75,Stoke City,5,4,404,Goalkeeper,6.360000,False,1,0,25,0,0,0,13,,11,70,0,55,,0,0,1,0,0,0,,0,0,0,0,0,,,0,0,0,2015/2016
+516,39247,Martin,Samuelsen,25,Norway,189 cm,72 kg,False,48,West Ham,0,0,0,Attacker,,False,0,0,1,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+517,44775,Daniel,Bachmann,28,Austria,191 cm,81 kg,False,75,Stoke City,0,0,0,Goalkeeper,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+518,66347,Jindřich,Staněk,26,Czech Republic,192 cm,84 kg,False,45,Everton,0,0,0,Goalkeeper,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+519,90497,Winston Wiremu,Reid,34,New Zealand,190 cm,87 kg,False,48,West Ham,24,24,2136,Defender,7.170833,False,0,1,2,15,5,1,0,1,,742,8,60,44,26,77,188,122,2,2,,27,23,5,0,0,1,,0,0,,2015/2016
+520,108,Francesc,Fàbregas i Soler,35,Spain,180 cm,77 kg,False,49,Chelsea,37,33,2899,Midfielder,7.372972,False,4,8,4,41,19,5,0,7,,2513,69,74,103,7,23,368,190,42,23,,42,38,5,0,0,,,2,0,,2015/2016
+521,186,Heung-Min,Son,30,Korea Republic,183 cm,78 kg,False,47,Tottenham,28,13,1104,Midfielder,6.616666,False,15,12,17,34,13,4,0,1,,382,18,64,27,1,12,178,63,32,17,,11,12,0,0,0,,,0,0,,2015/2016
+522,409,Nabil,Bentaleb,28,Algeria,187 cm,78 kg,False,47,Tottenham,5,2,168,Midfielder,6.600000,False,3,1,9,3,2,0,0,,,97,2,19,2,2,2,16,8,2,1,,0,3,1,0,0,,,0,0,,2015/2016
+523,649,Jason Grégory Marianne,Denayer,27,Belgium,184 cm,70 kg,False,50,Manchester City,0,0,0,Defender,,False,0,0,2,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+524,671,Bertrand Isidore,Traoré,27,Burkina Faso,181 cm,73 kg,False,49,Chelsea,10,4,373,Attacker,7.050000,False,6,4,19,17,6,2,0,1,,113,5,82,9,1,2,50,26,11,9,,4,3,0,0,0,,,0,0,,2015/2016
+525,1452,Mohamed Naser,Elsayed Elneny,30,Egypt,180 cm,70 kg,False,42,Arsenal,11,9,794,Midfielder,6.900000,False,2,4,6,13,2,0,,1,,685,3,92,10,3,16,65,30,5,4,,11,9,3,0,0,,,0,0,,2015/2016
+526,1912,Dimitri,Payet,35,France,175 cm,77 kg,False,48,West Ham,30,29,2573,Midfielder,7.670000,False,1,6,1,62,28,9,0,12,,1113,119,57,24,0,23,280,132,118,67,,39,13,3,0,0,,,0,0,,2015/2016
+527,2675,José Miguel,da Rocha Fonte,39,Portugal,187 cm,81 kg,False,41,Southampton,37,37,3169,Defender,7.086486,False,0,3,0,19,8,2,0,1,,1457,7,69,53,32,80,239,154,2,2,,11,21,4,0,1,,,0,0,,2015/2016
+528,2771,Temitayo Olufisayo Olaoluwa,Aina,26,Nigeria,184 cm,82 kg,False,49,Chelsea,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+529,2778,Kelechi Promise,Ịheanachọ,26,Nigeria,185 cm,82 kg,False,50,Manchester City,26,7,752,Attacker,6.895454,False,19,5,28,27,12,8,0,1,,273,14,52,14,0,3,162,46,18,13,,5,17,1,0,0,2,,0,0,,2015/2016
+530,3244,Max-Alain,Gradel,35,Côte d'Ivoire,175 cm,70 kg,False,35,Bournemouth,14,11,899,Midfielder,6.600000,False,3,11,3,15,6,1,0,2,,237,10,57,23,1,13,153,73,49,19,,26,11,1,0,0,,,0,0,,2015/2016
+531,3247,Wilfried,Zaha,30,Côte d'Ivoire,180 cm,66 kg,False,52,Crystal Palace,34,30,2496,Attacker,6.664705,False,4,12,4,29,9,2,0,1,,458,41,49,46,0,26,543,272,244,127,,90,40,5,0,0,1,,0,0,,2015/2016
+532,3333,Massadio,Haïdara,30,Mali,179 cm,76 kg,False,34,Newcastle,7,6,555,Defender,6.685714,False,1,1,3,2,,0,0,,,230,2,26,12,3,19,62,34,7,5,,10,9,1,0,0,,,0,0,,2015/2016
+533,12709,Guangtai,Jiang,28,China PR,180 cm,76 kg,False,45,Everton,5,3,299,Defender,6.600000,False,2,1,5,1,,0,0,,,92,2,15,9,,6,24,14,,,,2,4,1,0,0,,,0,0,,2015/2016
+534,12975,Odion Jude,Ighalo,33,Nigeria,188 cm,73 kg,False,38,Watford,37,36,3153,Attacker,7.016216,False,1,8,1,101,48,15,0,3,,608,37,53,27,2,15,416,152,98,49,,56,47,4,0,0,2,,0,0,,2015/2016
+535,18842,Mamadou,Sakho,32,France,187 cm,83 kg,False,40,Liverpool,22,21,1855,Defender,7.109090,False,1,2,4,6,1,1,0,,,1138,4,73,30,22,37,191,123,9,8,,14,9,1,0,0,,,0,0,,2015/2016
+536,18944,Maya,Yoshida,34,Japan,189 cm,78 kg,False,41,Southampton,20,10,1012,Defender,6.710526,False,10,2,27,2,2,1,0,,,446,0,47,13,9,33,69,40,1,0,,7,7,0,0,0,,,0,0,,2015/2016
+537,21152,Jeff,Reine-Adélaïde,24,France,183 cm,75 kg,False,42,Arsenal,0,0,0,Midfielder,,False,0,0,6,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+538,51146,Vito,Mannone,34,Italy,191 cm,73 kg,False,746,Sunderland,19,19,1710,Goalkeeper,6.973684,False,0,0,19,0,0,0,23,,74,240,0,37,,0,0,13,10,0,0,,4,0,2,0,0,,,0,0,0,2015/2016
+539,93671,Pedro,Chirivella Burgos,25,Spain,178 cm,66 kg,False,40,Liverpool,1,1,46,Midfielder,6.000000,False,0,1,2,0,0,0,,,,24,0,72,,0,0,2,0,0,0,,0,0,0,0,0,,,0,0,,2015/2016
+540,300,Georginio Gregion Emile,Wijnaldum,32,Netherlands,175 cm,69 kg,False,34,Newcastle,38,36,3168,Midfielder,6.936842,False,2,7,2,51,29,11,0,5,,1130,48,65,38,6,27,341,164,83,50,,51,16,1,0,0,,,1,0,,2015/2016
+541,304,Sadio,Mané,30,Senegal,175 cm,69 kg,False,41,Southampton,37,30,2606,Attacker,7.113513,False,7,15,8,77,34,11,0,6,,844,41,60,54,2,35,452,226,140,77,,69,44,5,1,1,1,,0,1,,2015/2016
+542,375,Chancel,Mbemba Mangulu,28,Congo DR,182 cm,81 kg,False,34,Newcastle,33,33,2924,Defender,6.939393,False,0,1,0,9,2,0,0,,,973,4,54,77,25,96,269,157,30,20,,12,21,5,0,0,,1,0,0,,2015/2016
+543,898,Ander,Herrera Agüera,33,Spain,182 cm,71 kg,False,33,Manchester United,27,17,1533,Midfielder,6.938461,False,10,11,15,22,6,3,0,2,,974,22,68,56,6,24,213,103,30,19,,21,28,4,0,0,,,1,0,,2015/2016
+544,1432,Yannick,Bolasie Yala,33,Congo DR,188 cm,84 kg,False,52,Crystal Palace,26,23,2076,Attacker,6.815384,False,3,4,3,51,26,5,0,3,,422,24,46,26,6,10,345,153,142,75,,33,25,2,0,0,,,0,0,,2015/2016
+545,1441,Carl,Jenkinson,30,England,185 cm,77 kg,False,48,West Ham,20,13,1224,Defender,6.452631,False,7,2,8,6,3,2,0,,,461,6,46,24,5,20,103,48,18,7,,4,13,3,0,1,,1,0,0,,2015/2016
+546,2990,Idrissa Gana,Gueye,33,Senegal,174 cm,66 kg,False,66,Aston Villa,35,35,3076,Midfielder,7.285714,False,0,5,0,29,4,0,0,1,,1677,28,74,144,6,141,494,295,109,69,,51,68,10,0,0,,,0,0,,2015/2016
+547,2991,Cheikhou,Kouyaté,33,Senegal,189 cm,83 kg,False,48,West Ham,34,34,3010,Midfielder,7.082352,False,0,3,0,40,18,5,0,2,,1085,21,61,95,13,77,434,248,45,29,,40,36,5,0,1,1,,0,0,,2015/2016
+548,3421,Daniel,Amartey,28,Ghana,186 cm,79 kg,False,46,Leicester,5,1,101,Defender,6.575000,False,4,1,11,1,1,0,,,,54,1,72,1,0,2,10,4,2,1,,0,0,0,0,0,,,0,0,,2015/2016
+549,3428,Jordan,Ayew,31,Ghana,182 cm,80 kg,False,66,Aston Villa,30,27,2353,Attacker,6.756666,False,3,7,7,55,21,7,0,,,681,18,63,40,2,23,534,214,170,75,,38,48,6,0,1,,,1,0,,2015/2016
+550,18798,Adrian Joseph,Mariappa,36,Jamaica,180 cm,78 kg,False,52,Crystal Palace,3,3,256,Defender,6.466666,False,0,1,13,0,0,0,0,,,106,0,67,4,1,10,27,15,3,3,,3,3,0,0,0,,1,0,0,,2015/2016
+551,18856,Bakary,Sako,34,Mali,183 cm,85 kg,False,52,Crystal Palace,20,11,1069,Attacker,6.631578,False,9,8,12,28,15,2,0,1,,308,10,53,18,4,14,151,58,35,20,,12,13,1,0,0,,,0,0,,2015/2016
+552,19400,Gary,Hooper,34,England,175 cm,71 kg,False,71,Norwich,2,0,11,Attacker,6.200000,False,2,0,4,1,,0,0,,,5,,4,,,,1,1,,,,1,,0,0,0,,,0,0,,2015/2016
+553,22085,Mathieu,Debuchy,37,France,176 cm,76 kg,False,42,Arsenal,2,2,144,Defender,6.750000,False,0,2,15,,,0,0,,,79,1,29,9,,3,27,17,1,1,,1,3,0,0,0,,,0,0,,2015/2016
+554,22102,Wahbi,Khazri,31,Tunisia,182 cm,76 kg,False,746,Sunderland,14,13,1077,Attacker,6.685714,False,1,7,2,24,5,2,,1,,241,27,71,27,0,14,174,64,42,21,,12,18,3,0,0,,,0,0,,2015/2016
+555,30968,Alessandro,Diamanti,39,Italy,180 cm,75 kg,False,38,Watford,3,0,64,Midfielder,7.000000,False,3,0,16,1,,0,0,,,51,2,12,3,,1,12,7,2,1,,3,1,0,0,0,,,0,0,,2015/2016
+556,34739,Jordon,Mutch,31,England,188 cm,82 kg,False,52,Crystal Palace,20,7,794,Midfielder,6.670000,False,13,4,21,15,2,0,0,,,253,7,59,18,1,15,105,49,13,11,,10,11,0,0,0,,,0,0,,2015/2016
+557,44995,Jordan Thomas,Holmes,25,Australia,190 cm,85 kg,False,35,Bournemouth,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+558,49931,Steven Roy,Caulker,31,Sierra Leone,191 cm,76 kg,False,40,Liverpool,3,0,2,Defender,,False,3,0,4,1,0,0,,,,4,0,50,,0,0,5,3,0,0,,0,0,0,0,0,,,0,0,,2015/2016
+559,90498,Eliaquim,Mangala,31,France,188 cm,84 kg,False,50,Manchester City,23,23,2011,Defender,6.856521,False,0,2,5,7,1,0,0,,,923,0,66,32,7,66,160,84,6,5,,6,36,8,0,0,,,0,0,,2015/2016
+560,308,Daniel Andre,Sturridge,33,England,188 cm,76 kg,False,40,Liverpool,14,11,980,Attacker,7.150000,False,3,5,7,44,23,8,0,1,,268,7,66,3,0,3,103,33,21,13,,12,2,0,0,0,,,0,0,,2015/2016
+561,1459,Aaron James,Ramsey,32,Wales,178 cm,76 kg,False,42,Arsenal,31,29,2623,Midfielder,7.100000,False,2,2,3,58,21,5,0,4,,1947,39,75,78,11,57,419,190,65,39,,47,47,4,0,0,,,0,0,,2015/2016
+562,1749,Steven,Davis,37,Northern Ireland,173 cm,70 kg,False,41,Southampton,34,31,2612,Midfielder,7.041176,False,3,14,3,19,9,5,0,3,,1344,54,64,56,10,42,254,106,25,20,,18,19,4,0,0,,,0,0,,2015/2016
+563,1756,Ryan,Kent,26,England,172 cm,65 kg,False,40,Liverpool,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+564,2905,Chung-Yong,Lee,34,Korea Republic,180 cm,70 kg,False,52,Crystal Palace,13,4,385,Midfielder,6.763636,False,9,4,21,5,2,1,0,,,154,7,65,15,0,6,66,34,10,8,,6,4,0,0,0,,,0,0,,2015/2016
+565,8465,Dieudonné,Mbokani Bezua,37,Congo DR,185 cm,79 kg,False,71,Norwich,29,15,1586,Attacker,6.921428,False,14,5,17,36,20,7,0,1,,354,25,52,11,1,3,418,194,32,22,,45,17,0,0,0,,,0,0,,2015/2016
+566,8552,Gabriele,Angella,33,Italy,193 cm,79 kg,False,38,Watford,0,0,0,Defender,,False,0,0,2,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+567,18859,Artur,Boruc,42,Poland,193 cm,87 kg,False,35,Bournemouth,32,32,2880,Goalkeeper,6.584375,False,0,0,1,0,0,0,51,,76,511,1,41,,0,0,7,5,1,1,,1,1,2,0,0,,,0,0,1,2015/2016
+568,18868,Jack Benjamin,Simpson,26,England,190 cm,83 kg,False,35,Bournemouth,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+569,18900,Sung-Yeung,Ki,33,Korea Republic,189 cm,75 kg,False,76,Swansea,28,21,1851,Midfielder,6.942857,False,7,8,11,22,7,2,0,1,,1106,23,71,32,4,28,168,84,14,11,,25,19,4,0,0,,,0,0,,2015/2016
+570,19210,Andre,Wisdom,29,England,186 cm,,False,71,Norwich,10,9,824,Defender,6.560000,False,1,1,8,2,0,0,0,,,263,4,62,19,1,8,66,39,11,8,,3,3,1,0,0,,1,0,0,,2015/2016
+571,19243,Mikel John,Obi,35,Nigeria,188 cm,86 kg,False,49,Chelsea,25,19,1780,Midfielder,6.904347,False,6,4,16,7,0,0,0,1,,1131,5,75,52,8,32,209,100,23,20,,11,32,6,0,0,,,0,0,,2015/2016
+572,19252,Rudy,Gestede,34,Benin,193 cm,86 kg,False,66,Aston Villa,32,14,1654,Attacker,6.950000,False,18,3,20,55,18,5,0,2,,463,15,40,11,3,6,433,239,22,11,,12,24,2,0,0,1,,0,0,,2015/2016
+573,19399,Fernando Martín,Forestieri,32,Italy,172 cm,67 kg,False,38,Watford,0,0,0,Attacker,,False,0,0,1,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+574,19481,Jack Christian,Rodwell,31,England,188 cm,70 kg,False,746,Sunderland,22,9,1157,Midfielder,6.647619,False,13,1,20,22,7,1,0,,,368,14,56,25,7,14,118,63,7,6,,7,17,5,0,0,,,0,0,,2015/2016
+575,19512,Bojan,Krkíc Pérez,32,Spain,170 cm,65 kg,False,75,Stoke City,27,22,1709,Attacker,6.840740,False,5,17,13,34,15,7,0,1,,659,27,62,18,0,15,232,96,95,47,,29,9,2,0,0,,,2,0,,2015/2016
+576,19622,Modou,Secka Barrow,30,Gambia,176 cm,63 kg,False,76,Swansea,22,6,779,Attacker,6.630000,False,16,4,22,11,4,1,0,2,,172,13,52,18,0,8,153,67,47,23,,24,3,0,0,0,,,0,0,,2015/2016
+577,30455,Gastón Exequiel,Ramírez Pereyra,32,Uruguay,183 cm,78 kg,False,41,Southampton,3,0,28,Midfielder,6.850000,False,3,0,6,0,0,0,0,1,,14,2,46,2,0,1,8,5,4,2,,0,0,0,0,0,,,0,0,,2015/2016
+578,30805,Valon,Behrami,37,Switzerland,183 cm,80 kg,False,38,Watford,21,14,1278,Midfielder,6.705000,False,7,6,12,1,0,0,0,1,,431,5,51,66,5,49,203,100,8,4,,18,33,3,0,1,,1,0,0,,2015/2016
+579,30854,Filippo,Costa,27,Italy,175 cm,70 kg,False,35,Bournemouth,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+580,158,Paulo Dino,Gazzaniga,30,Argentina,196 cm,90 kg,False,41,Southampton,2,2,180,Goalkeeper,6.800000,False,0,0,6,0,0,0,3,,7,31,0,56,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,0,2015/2016
+581,3106,Saido,Berahino,29,Burundi,180 cm,82 kg,False,60,West Brom,31,17,1742,Attacker,6.650000,False,14,10,18,34,11,4,0,,,385,18,49,18,1,7,188,69,27,19,,24,18,0,0,0,1,,0,2,,2015/2016
+582,17357,Joshua Anthony,Vickers,27,England,193 cm,72 kg,False,76,Swansea,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+583,17601,Hiram Kojo Kwarteng,Boateng,26,England,183 cm,70 kg,False,52,Crystal Palace,1,0,18,Midfielder,6.300000,False,1,0,3,1,0,0,,,,3,0,75,,0,0,4,0,1,0,,0,2,0,0,0,,,0,0,,2015/2016
+584,18803,Nathaniel,Chalobah,28,England,187 cm,80 kg,False,49,Chelsea,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+585,18857,Connor Neil Ralph,Wickham,29,England,191 cm,90 kg,False,52,Crystal Palace,21,15,1324,Attacker,6.795238,False,6,10,6,34,9,5,0,3,,277,12,55,13,3,4,276,93,15,8,,19,32,1,0,0,,,1,0,,2015/2016
+586,19145,Oluwatosin,Adarabioyo,25,England,196 cm,80 kg,False,50,Manchester City,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+587,19324,George William,Byers,26,Scotland,180 cm,73 kg,False,38,Watford,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+588,19393,Josh,Onomah,25,England,185 cm,70 kg,False,47,Tottenham,8,0,75,Midfielder,6.375000,False,8,0,15,3,2,0,0,,,34,1,53,4,0,1,9,5,2,1,,0,1,0,0,0,,,0,0,,2015/2016
+589,19480,Harrison,Reed,27,England,181 cm,72 kg,False,41,Southampton,1,0,10,Midfielder,6.200000,False,1,0,7,,,0,0,,,9,,7,1,,,4,2,,,,,,0,0,0,,,0,0,,2015/2016
+590,19507,James Joseph,McClean,33,Republic of Ireland,180 cm,70 kg,False,60,West Brom,35,28,2414,Defender,6.608571,False,7,8,7,28,9,2,0,2,,483,30,46,69,7,32,419,202,61,38,,39,36,7,0,1,,,0,0,,2015/2016
+591,19549,Antonee,Robinson,25,USA,176 cm,70 kg,False,45,Everton,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+592,19745,William David,Keane,29,Republic of Ireland,188 cm,78 kg,False,33,Manchester United,1,0,4,Attacker,6.300000,False,1,0,1,0,0,0,,,,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,,2015/2016
+593,20179,Daniel Tan,Barlaser,25,England,184 cm,62 kg,False,34,Newcastle,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+594,20268,Jason Sean,McCarthy,27,England,186 cm,80 kg,False,41,Southampton,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+595,20403,Conor James,Grant,27,England,176 cm,80 kg,False,45,Everton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+596,38700,Sulaiman Borbor,Kaikai,27,Sierra Leone,182 cm,73 kg,False,52,Crystal Palace,1,0,44,Attacker,6.900000,False,1,0,1,3,1,0,,,,12,2,92,2,0,0,4,2,0,0,,0,1,0,0,0,,,0,0,,2015/2016
+597,82140,Brendan Joel,Zibusiso Galloway,26,Zimbabwe,188 cm,87 kg,False,45,Everton,15,14,1223,Defender,6.800000,False,1,4,7,6,0,0,0,1,,373,4,36,50,5,21,149,93,13,7,,29,9,2,0,0,,,0,0,,2015/2016
+598,82251,Jonathan,Maddison,28,England,183 cm,76 kg,False,46,Leicester,0,0,0,Goalkeeper,,False,0,0,1,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,0,2015/2016
+599,82481,Callum Dylan,Williams,25,England,180 cm,64 kg,False,34,Newcastle,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+600,1758,Jermain Colin,Defoe,40,England,171 cm,65 kg,False,746,Sunderland,33,28,2550,Attacker,6.993939,False,5,5,9,78,39,15,0,1,,360,22,54,17,0,2,193,78,36,18,,35,17,3,0,0,1,,1,0,,2015/2016
+601,2281,Gary,Cahill,37,England,193 cm,86 kg,False,49,Chelsea,23,21,1955,Defender,6.873913,False,2,0,12,13,4,2,0,1,,694,3,60,22,34,36,180,113,5,3,,21,17,2,0,0,,,0,0,,2015/2016
+602,2825,Aleksandar,Mitrović,28,Serbia,187 cm,90 kg,False,34,Newcastle,34,22,2114,Attacker,6.855882,False,12,8,14,74,30,9,0,4,,578,30,52,24,6,7,432,173,33,16,,52,50,4,0,2,1,,2,0,,2015/2016
+603,17365,Harry,Toffolo,27,England,183 cm,71 kg,False,71,Norwich,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+604,18869,Adam,Smith,31,England,180 cm,78 kg,False,35,Bournemouth,31,22,2093,Defender,6.872413,False,9,2,10,12,4,2,0,,,803,15,56,71,5,44,328,189,75,46,,51,33,5,0,0,,,0,0,,2015/2016
+605,18878,Junior,Stanislas,33,England,183 cm,76 kg,False,35,Bournemouth,21,17,1440,Midfielder,6.952380,False,4,9,7,40,10,3,0,2,,548,34,67,29,1,17,191,88,72,32,,13,11,1,0,0,,,0,0,,2015/2016
+606,18889,Freddie,Woodman,25,England,188 cm,83 kg,False,34,Newcastle,0,0,0,Goalkeeper,,False,0,0,13,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,0,2015/2016
+607,18921,Robbie,Brady,30,Republic of Ireland,176 cm,71 kg,False,71,Norwich,36,34,2988,Midfielder,6.983333,False,2,6,2,47,19,3,0,2,,934,56,52,101,3,57,379,211,80,52,,18,41,3,0,0,,1,0,0,,2015/2016
+608,19051,Alex David,Pritchard,29,England,171 cm,62 kg,False,60,West Brom,2,0,61,Midfielder,,False,2,0,8,,,0,0,,,3,,3,,,,1,,,,,,1,0,0,0,,,0,0,,2015/2016
+609,19111,Jamal,Blackman,29,England,199 cm,93 kg,False,49,Chelsea,0,0,0,Goalkeeper,,False,0,0,7,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,0,2015/2016
+610,19184,Thomas James,Carroll,30,England,177 cm,71 kg,False,47,Tottenham,19,4,503,Midfielder,6.646666,False,15,3,28,5,3,1,0,,,291,9,61,15,1,14,59,23,5,2,,3,8,3,0,0,,,0,0,,2015/2016
+611,19334,Bersant,Celina,26,Kosovo,181 cm,60 kg,False,50,Manchester City,1,0,13,Midfielder,7.300000,False,1,0,3,0,0,0,,1,,12,2,100,1,0,0,1,1,0,0,,0,0,0,0,0,,,0,0,,2015/2016
+612,19386,Rolando,Aarons,27,England,178 cm,76 kg,False,34,Newcastle,10,3,375,Attacker,6.466666,False,7,1,13,2,1,1,0,1,,101,5,51,13,2,6,63,29,15,5,,8,9,1,0,0,,1,0,0,,2015/2016
+613,19408,Reece,Burke,26,England,188 cm,81 kg,False,48,West Ham,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+614,19429,Fraizer,Campbell,35,England,172 cm,82 kg,False,52,Crystal Palace,11,4,359,Attacker,6.354545,False,7,4,19,4,1,0,0,,,63,1,51,3,0,4,50,15,7,3,,2,8,1,0,0,,,0,0,,2015/2016
+615,19901,Lynden Jack,Gooch,27,USA,173 cm,69 kg,False,746,Sunderland,0,0,0,Midfielder,,False,0,0,1,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+616,19907,Aiden John,McGeady,36,Republic of Ireland,180 cm,71 kg,False,45,Everton,0,0,0,Attacker,,False,0,0,1,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+617,20111,Cameron Mark Thomas,Brannagan,26,England,180 cm,71 kg,False,40,Liverpool,3,1,112,Midfielder,6.900000,False,2,0,4,1,1,0,0,,,116,3,94,5,1,2,16,7,3,2,,0,0,0,0,0,,,0,0,,2015/2016
+618,20112,Marcus,Browne,25,England,178 cm,74 kg,False,48,West Ham,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+619,47521,Patrick John Joseph,Roberts,25,England,168 cm,58 kg,False,50,Manchester City,1,0,4,Midfielder,6.700000,False,1,0,8,,,0,0,,,3,,3,,,,1,1,,,,1,,0,0,0,,,0,0,,2015/2016
+620,17947,Liam Christian James,O'Neil,29,England,180 cm,80 kg,False,60,West Brom,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+621,18863,Steve,Cook,31,England,185 cm,82 kg,False,35,Bournemouth,36,36,3196,Defender,7.027777,False,0,1,1,25,8,4,0,,,1391,6,66,33,35,82,263,166,4,3,,8,15,5,0,0,,,0,0,,2015/2016
+622,18871,Matthew David,Butcher,25,England,188 cm,83 kg,False,35,Bournemouth,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+623,18884,Sam,Surridge,24,England,191 cm,77 kg,False,35,Bournemouth,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+624,19155,Kyle Hakeem,Edwards,24,England,173 cm,64 kg,False,60,West Brom,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+625,19156,Sam,Field,24,England,191 cm,90 kg,False,60,West Brom,1,0,4,Midfielder,,False,1,0,2,0,0,0,,,,1,0,50,,0,0,2,1,0,0,,1,0,0,0,0,,,0,0,,2015/2016
+626,19158,Wesley,Hoolahan,40,Republic of Ireland,168 cm,71 kg,False,71,Norwich,30,25,2006,Midfielder,6.840000,False,5,20,11,23,8,4,0,8,,986,49,63,27,0,15,272,104,63,34,,40,19,1,0,0,,,1,0,,2015/2016
+627,19181,Neil,Taylor,33,Wales,176 cm,64 kg,False,76,Swansea,34,33,2947,Defender,6.600000,False,1,1,1,9,0,0,0,1,,1099,16,58,41,11,63,231,107,24,12,,27,38,4,0,0,,1,0,0,,2015/2016
+628,19185,Keinan,Davis,24,England,191 cm,68 kg,False,66,Aston Villa,0,0,0,Attacker,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+629,19216,Bradley,Johnson,35,England,178 cm,68 kg,False,71,Norwich,4,1,151,Midfielder,6.625000,False,3,0,3,5,2,0,0,,,67,2,11,5,,,29,14,2,,,4,4,0,0,0,,,0,0,,2015/2016
+630,19240,Jonathan,Howson,34,England,180 cm,76 kg,False,71,Norwich,36,33,2953,Midfielder,6.825000,False,3,5,3,29,9,3,0,4,,1083,26,55,76,9,42,355,154,45,28,,18,27,7,0,0,,,0,0,,2015/2016
+631,19242,Patrick James,Coleman McNair,27,Northern Ireland,183 cm,72 kg,False,33,Manchester United,8,3,311,Midfielder,6.257142,False,5,2,20,3,1,0,0,,,157,1,43,9,0,5,55,19,6,0,,2,4,0,0,0,,,0,0,,2015/2016
+632,19299,Jack,Colback,33,England,177 cm,77 kg,False,34,Newcastle,29,28,2396,Midfielder,7.017241,False,1,10,1,13,4,1,0,1,,950,16,65,81,13,63,281,156,12,7,,44,49,11,0,0,,,0,0,,2015/2016
+633,19308,Lewis,Grabban,34,England,183 cm,78 kg,False,35,Bournemouth,15,4,568,Attacker,6.533333,False,11,2,12,15,7,0,,,,196,3,82,11,1,2,77,27,28,10,,2,8,2,0,0,,,0,0,,2015/2016
+634,19482,Joe,Rothwell,27,England,185 cm,77 kg,False,33,Manchester United,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+635,19865,Lloyd Jeffrey,Isgrove,29,Wales,178 cm,72 kg,False,41,Southampton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+636,19913,Duncan,Watmore,28,England,175 cm,72 kg,False,746,Sunderland,23,7,906,Midfielder,6.577272,False,16,3,19,14,8,3,0,1,,134,12,56,7,0,2,135,52,55,25,,15,5,0,0,0,,,0,0,,2015/2016
+637,20389,Lloyd Richard,Jones,27,England,190 cm,75 kg,False,40,Liverpool,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+638,48098,Charlie,Colkett,26,England,175 cm,74 kg,False,49,Chelsea,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+639,50188,Cameron,Jerome,36,England,185 cm,85 kg,False,71,Norwich,34,19,1775,Attacker,6.561764,False,15,13,19,45,11,3,0,2,,317,8,46,11,0,6,278,107,30,12,,10,36,2,0,0,,,0,0,,2015/2016
+640,3032,Benik,Afobe,29,Congo DR,183 cm,78 kg,False,35,Bournemouth,15,12,937,Attacker,6.573333,False,3,10,3,14,5,4,,,,196,12,86,5,0,2,105,29,17,5,,9,15,0,0,0,,,0,0,,2015/2016
+641,18841,Pape,N'Diaye Souaré,32,Senegal,178 cm,68 kg,False,52,Crystal Palace,34,34,3016,Defender,6.711764,False,0,1,0,11,1,0,0,1,,941,27,58,32,16,84,205,105,39,17,,32,25,6,0,1,,,0,0,,2015/2016
+642,18952,Charlie,Austin,33,England,188 cm,84 kg,False,41,Southampton,7,2,208,Attacker,6.700000,False,5,2,8,8,2,1,,,,32,1,58,5,0,0,51,22,2,1,,7,3,0,0,0,,,0,0,,2015/2016
+643,19143,Sam,Johnstone,29,England,193 cm,85 kg,False,33,Manchester United,0,0,0,Goalkeeper,,False,0,0,5,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,0,2015/2016
+644,19167,Jonathan Kisolokele,Leko,23,England,182 cm,75 kg,False,60,West Brom,5,3,271,Attacker,6.380000,False,2,2,5,0,0,0,,1,,41,2,51,9,0,4,58,24,18,11,,4,7,0,0,0,,,0,0,,2015/2016
+645,19213,George,Evans,28,England,184 cm,,False,50,Manchester City,0,0,0,Defender,,False,0,0,1,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+646,19301,Adlène,Guédioura,37,Algeria,186 cm,81 kg,False,38,Watford,18,3,417,Midfielder,6.716666,False,15,2,26,13,3,0,0,2,,178,10,43,13,1,16,95,43,22,12,,7,13,2,0,0,,,0,0,,2015/2016
+647,19303,Benjamin,Watson,37,England,178 cm,68 kg,False,38,Watford,35,31,2815,Midfielder,6.958823,False,4,3,7,15,4,2,0,,,1197,33,58,71,13,88,284,131,9,4,,15,36,4,0,0,,,0,0,,2015/2016
+648,19474,Elliott,Bennett,34,England,179 cm,73 kg,False,71,Norwich,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+649,19728,Matthew,Pennington,28,England,185 cm,77 kg,False,45,Everton,4,4,299,Defender,6.850000,False,0,1,0,2,1,0,0,,,140,0,75,1,8,7,17,11,3,3,,0,2,1,0,0,,1,0,0,,2015/2016
+650,19776,Elliot Robert,Lee,28,England,180 cm,72 kg,False,48,West Ham,0,0,0,Attacker,,False,0,0,1,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+651,19893,Adam James,Matthews,30,Wales,178 cm,71 kg,False,746,Sunderland,1,0,36,Defender,6.900000,False,1,0,6,,,0,0,,,13,1,11,2,,,4,3,1,1,,,,0,0,0,,,0,0,,2015/2016
+652,20436,George David,Dobson,25,England,185 cm,73 kg,False,48,West Ham,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+653,20450,Corey Josiah Paul,Blackett-Taylor,25,England,180 cm,67 kg,False,66,Aston Villa,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+654,20456,Cameron Jake,Borthwick-Jackson,25,England,183 cm,78 kg,False,33,Manchester United,10,6,692,Defender,6.600000,False,4,1,10,1,1,0,0,1,,291,8,70,8,4,11,74,29,12,9,,2,8,0,0,0,,,0,0,,2015/2016
+655,22010,Oluwaseyi Babajide,Ojo,25,England,177 cm,64 kg,False,40,Liverpool,8,5,397,Attacker,6.757142,False,3,3,3,5,1,0,,3,,121,12,89,9,0,2,63,32,24,13,,8,3,0,0,0,,,0,0,,2015/2016
+656,37116,Jake,Clarke-Salter,25,England,188 cm,70 kg,False,49,Chelsea,1,0,16,Defender,6.800000,False,1,0,2,0,0,0,,,,6,0,100,2,0,0,3,2,0,0,,0,0,0,0,0,,,0,0,,2015/2016
+657,41597,Chris Anthony,Willock,24,England,178 cm,67 kg,False,42,Arsenal,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+658,82097,Alex,Palmer,26,England,191 cm,72 kg,False,60,West Brom,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+659,88457,Ben,Sheaf,24,England,185 cm,64 kg,False,42,Arsenal,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+660,1133,Scott,Sinclair,33,England,175 cm,64 kg,False,66,Aston Villa,27,19,1597,Midfielder,6.448000,False,8,10,18,15,7,2,0,,,311,5,57,14,0,9,178,67,69,26,,21,5,0,0,0,,,1,0,,2015/2016
+661,17406,Jordan Bernard,Rossiter,25,England,178 cm,68 kg,False,40,Liverpool,1,0,14,Midfielder,6.700000,False,1,0,4,,,0,0,,,5,,4,1,,1,3,1,,,,,,0,0,0,,,0,0,,2015/2016
+662,17438,Conor,McGrandles,27,Scotland,183 cm,63 kg,False,71,Norwich,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+663,17538,Regan Leslie,Poole,24,Wales,180 cm,70 kg,False,33,Manchester United,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+664,18738,Ryan,Bennett,32,England,188 cm,77 kg,False,71,Norwich,22,20,1837,Defender,6.831818,False,2,2,12,8,3,0,0,,,439,4,63,20,14,36,132,79,1,1,,5,14,7,0,0,,,0,0,,2015/2016
+665,18831,Andrew Thomas,Carroll,33,England,193 cm,79 kg,False,48,West Ham,27,13,1431,Attacker,7.069230,False,14,5,15,54,25,9,0,2,,297,22,46,9,7,7,299,149,14,7,,25,38,2,0,0,,1,1,0,,2015/2016
+666,19002,Josh,Murphy,27,England,173 cm,67 kg,False,71,Norwich,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+667,19009,El-Hadji Baye Oumar,Niasse,32,Senegal,182 cm,75 kg,False,45,Everton,5,2,142,Attacker,6.500000,False,3,2,9,2,1,0,,,,34,3,64,4,0,3,27,10,3,1,,3,2,0,0,0,,,0,0,,2015/2016
+668,19146,Kyle,Bartley,31,England,185 cm,76 kg,False,76,Swansea,5,3,284,Defender,7.000000,False,2,0,14,2,0,0,0,,,101,1,72,9,7,6,32,24,1,1,,4,4,2,0,0,,,0,0,,2015/2016
+669,19175,James,Chester,33,Wales,180 cm,75 kg,False,60,West Brom,13,9,962,Defender,6.823076,False,4,2,28,0,0,0,0,,,247,4,55,32,5,24,104,62,5,3,,6,11,5,0,0,,,0,0,,2015/2016
+670,19297,Liam Robert,Bridcutt,33,Scotland,175 cm,73 kg,False,746,Sunderland,0,0,0,Midfielder,,False,0,0,3,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+671,19318,Kyle,Naughton,34,England,180 cm,73 kg,False,76,Swansea,27,19,1762,Defender,6.676923,False,8,1,18,8,2,0,0,3,,969,20,61,40,2,48,208,105,26,13,,21,23,2,0,1,,,0,0,,2015/2016
+672,19327,Jay,Fulton,28,Scotland,178 cm,68 kg,False,76,Swansea,2,0,19,Midfielder,6.900000,False,2,0,4,0,0,0,,,,10,0,100,3,0,0,5,3,1,0,,0,1,0,0,0,,,0,0,,2015/2016
+673,19328,Matt,Grimes,27,England,178 cm,70 kg,False,76,Swansea,1,1,90,Midfielder,6.300000,False,0,0,3,1,0,0,0,,,32,1,72,1,0,0,11,3,0,0,,1,3,0,0,0,,,0,0,,2015/2016
+674,19434,Declan,Rudd,31,England,191 cm,85 kg,False,71,Norwich,11,11,990,Goalkeeper,6.609090,False,0,0,27,0,0,0,23,,34,134,0,38,1,0,1,4,1,0,0,,0,2,2,0,0,,,0,0,0,2015/2016
+675,19452,Ryan,Ledson,25,England,178 cm,69 kg,False,45,Everton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+676,19608,Liam Simon,Moore,29,Jamaica,186 cm,,False,46,Leicester,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+677,20168,Liam Steven,Gibson,25,England,185 cm,71 kg,False,34,Newcastle,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+678,104777,Lee,Lucas,30,Wales,175 cm,,False,76,Swansea,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+679,118970,Amos Lawrence,Nasha,27,England,178 cm,69 kg,False,48,West Ham,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+680,1877,Mustapha Soon,Carayol,34,Gambia,177 cm,74 kg,False,63,Leeds,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+681,2804,Timm,Klose,34,Switzerland,193 cm,87 kg,False,71,Norwich,10,10,850,Defender,7.100000,False,0,2,1,3,1,1,,,,168,0,64,14,10,24,89,61,2,2,,7,6,3,0,0,,,0,0,,2015/2016
+682,17582,Mikaël Yann Mathieu,Mandron,28,France,191 cm,82 kg,False,746,Sunderland,0,0,0,Attacker,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+683,17710,Kyle,Knoyle,26,England,173 cm,63 kg,False,48,West Ham,0,0,0,Defender,,False,0,0,1,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+684,18759,Philip Nikodem,Jagielka,40,England,180 cm,87 kg,False,45,Everton,21,21,1852,Defender,7.166666,False,0,2,1,9,1,0,0,,,963,2,63,39,21,50,177,111,4,3,,15,9,0,0,0,,,0,0,,2015/2016
+685,18782,Matty,James,31,England,181 cm,86 kg,False,46,Leicester,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+686,18808,Troy,Deeney,34,England,183 cm,90 kg,False,38,Watford,38,36,3292,Attacker,7.286842,False,2,3,2,80,32,13,0,7,,958,57,46,49,4,17,698,338,46,22,,36,50,6,0,0,1,,6,1,,2015/2016
+687,18997,Leandro Jones Johan,Bacuna,31,Curaçao,187 cm,77 kg,False,66,Aston Villa,31,27,2418,Midfielder,6.770967,False,4,5,11,30,9,1,0,,,956,16,60,48,3,56,234,110,48,25,,12,36,8,0,0,,,0,0,,2015/2016
+688,19217,Andrew Philip,King,34,Wales,194 cm,79 kg,False,46,Leicester,25,9,1047,Midfielder,6.865000,False,16,1,27,19,4,2,0,1,,403,9,52,27,4,29,105,59,12,7,,8,7,2,0,0,,,0,0,,2015/2016
+689,19259,Nathan,Baker,31,England,189 cm,82 kg,False,66,Aston Villa,0,0,0,Defender,,False,0,0,3,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+690,19398,Steven,Fletcher,35,Scotland,185 cm,76 kg,False,746,Sunderland,16,11,1014,Attacker,6.731250,False,5,9,10,19,10,4,0,,,249,8,26,11,2,3,249,98,17,7,,18,19,0,0,0,,,0,0,,2015/2016
+691,19425,Kevin Linford,Stewart,29,Jamaica,181 cm,73 kg,False,40,Liverpool,7,6,564,Midfielder,7.071428,False,1,0,2,5,0,0,,,,398,4,88,19,2,15,70,43,5,3,,16,9,1,0,0,,,0,0,,2015/2016
+692,19502,Joseph Michael,Allen,32,Wales,168 cm,62 kg,False,40,Liverpool,19,8,729,Midfielder,6.917647,False,11,5,21,12,4,2,0,1,,346,12,61,28,1,14,115,59,10,7,,21,14,0,0,0,,,0,0,,2015/2016
+693,19562,Nick,Powell,28,England,183 cm,65 kg,False,33,Manchester United,1,0,16,Midfielder,6.500000,False,1,0,1,0,0,0,,,,1,0,50,,0,0,4,1,0,0,,0,0,0,0,0,,,0,0,,2015/2016
+694,19689,Callum,Connolly,25,England,183 cm,70 kg,False,45,Everton,1,0,36,Defender,6.300000,False,1,0,3,0,0,0,,,,8,0,100,,0,0,1,0,0,0,,0,0,0,0,0,,,0,0,,2015/2016
+695,19712,Joe,Williams,26,England,185 cm,80 kg,False,45,Everton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+696,19890,Reece,James,29,England,182 cm,71 kg,False,33,Manchester United,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+697,20065,Joseph,Dodoo,27,England,183 cm,70 kg,False,46,Leicester,1,0,19,Attacker,6.300000,False,1,0,2,,,0,0,,,6,,3,,,,6,1,,,,1,2,0,0,0,,,0,0,,2015/2016
+698,20104,Luke,Garbutt,29,England,179 cm,73 kg,False,45,Everton,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+699,20297,Roshaun Omar Stuart,Williams,24,England,184 cm,85 kg,False,33,Manchester United,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+700,2288,Daniel Noel,Drinkwater,32,England,178 cm,79 kg,False,46,Leicester,35,35,3039,Midfielder,7.197142,False,0,6,0,37,9,2,0,7,,1685,44,62,106,17,55,394,191,48,31,,25,54,4,1,0,,,0,0,,2015/2016
+701,17422,Baily James,Cargill,27,England,189 cm,87 kg,False,35,Bournemouth,0,0,0,Defender,,False,0,0,7,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+702,18782,Matty,James,31,England,181 cm,86 kg,False,46,Leicester,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+703,18839,Scott,Dann,35,England,188 cm,76 kg,False,52,Crystal Palace,35,35,3150,Defender,7.048571,False,0,0,1,29,11,5,0,1,,917,10,57,35,45,62,283,170,11,10,,13,20,7,0,0,,,0,0,,2015/2016
+704,19193,Glenn David,Whelan,38,Republic of Ireland,180 cm,79 kg,False,75,Stoke City,37,37,3174,Midfielder,6.900000,False,0,8,0,10,3,0,0,1,,1892,25,72,71,22,73,266,139,16,10,,20,25,6,0,0,,1,0,0,,2015/2016
+705,19217,Andrew Philip,King,34,Wales,194 cm,79 kg,False,46,Leicester,25,9,1047,Midfielder,6.865000,False,16,1,27,19,4,2,0,1,,403,9,52,27,4,29,105,59,12,7,,8,7,2,0,0,,,0,0,,2015/2016
+706,19218,Tom,Lawrence,28,Wales,175 cm,75 kg,False,46,Leicester,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+707,19274,Kasey,Palmer,26,Jamaica,175 cm,70 kg,False,49,Chelsea,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+708,19443,Brandon Lee Colin,Barker,26,England,180 cm,68 kg,False,50,Manchester City,0,0,0,Attacker,,False,0,0,1,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+709,19556,Callum Henry,McManaman,31,England,175 cm,74 kg,False,60,West Brom,12,2,273,Midfielder,6.810000,False,10,2,24,6,1,0,0,1,,75,8,23,6,0,2,48,31,19,14,,8,2,2,0,0,,,0,0,,2015/2016
+710,19712,Joe,Williams,26,England,185 cm,80 kg,False,45,Everton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+711,19826,Krystian,Bielik,24,Poland,189 cm,78 kg,False,42,Arsenal,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+712,19847,Luke Paul,McGee,27,England,193 cm,80 kg,False,47,Tottenham,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+713,19903,George,Honeyman,28,England,173 cm,72 kg,False,746,Sunderland,1,0,38,Midfielder,6.700000,False,1,0,2,0,0,0,,,,5,1,100,,0,0,2,2,1,1,,1,0,0,0,0,,,0,0,,2015/2016
+714,20258,Ryan,Allsop,30,England,189 cm,80 kg,False,35,Bournemouth,1,0,44,Goalkeeper,6.200000,False,1,0,4,0,0,0,3,,0,7,0,87,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,0,2015/2016
+715,21996,Abdul Rahman,Baba,28,Ghana,180 cm,72 kg,False,49,Chelsea,15,11,1017,Defender,6.753333,False,4,3,18,6,2,0,0,1,,452,3,70,47,4,23,132,67,11,8,,4,14,1,0,0,,,0,0,,2015/2016
+716,44826,James Anthony,Wilson,27,England,183 cm,73 kg,False,33,Manchester United,1,0,8,Attacker,6.700000,False,1,0,1,,,0,0,,,7,,6,,,,2,1,1,1,,,,0,0,0,,,0,0,,2015/2016
+717,82169,Lloyd,Doyley,40,Jamaica,178 cm,87 kg,False,38,Watford,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+718,87918,Joshua David,Pask,25,England,187 cm,56 kg,False,48,West Ham,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+719,156887,Jorell,Johnson,26,England,183 cm,70 kg,False,38,Watford,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+720,17486,Liam,Shephard,28,Wales,178 cm,67 kg,False,76,Swansea,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+721,17592,Luke,Croll,27,England,185 cm,76 kg,False,52,Crystal Palace,0,0,0,Defender,,False,0,0,1,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+722,18712,Shaun,Donnellan,26,Republic of Ireland,183 cm,64 kg,False,60,West Brom,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+723,18996,Harry Nicholas,Arter,33,Republic of Ireland,176 cm,70 kg,False,35,Bournemouth,21,21,1674,Midfielder,7.095238,False,0,13,0,33,7,1,0,,,906,26,77,57,1,25,212,103,39,22,,16,23,7,0,0,,,0,0,,2015/2016
+724,19514,Lee,Camp,38,Northern Ireland,183 cm,75 kg,False,35,Bournemouth,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+725,19816,Lewis Robert,Page,26,England,178 cm,72 kg,False,48,West Ham,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+726,19837,Jonathan Peter,Williams,29,Wales,168 cm,60 kg,False,52,Crystal Palace,1,0,10,Midfielder,6.300000,False,1,0,1,0,0,0,,,,5,0,100,,,0,1,0,0,0,,0,0,0,0,0,,,0,0,,2015/2016
+727,19892,Donald Alistair,Love,28,Scotland,179 cm,72 kg,False,33,Manchester United,1,0,53,Defender,6.900000,False,1,0,1,0,0,0,,,,19,0,73,4,0,1,9,6,2,2,,0,1,0,0,0,,,0,0,,2015/2016
+728,19973,Lee,Tomlin,33,England,180 cm,74 kg,False,35,Bournemouth,6,3,289,Attacker,6.916666,False,3,2,7,4,3,0,0,,,116,7,14,6,,2,52,24,12,6,,8,2,1,0,0,,,0,0,,2015/2016
+729,20375,Kwesi,Appiah,32,Ghana,180 cm,80 kg,False,52,Crystal Palace,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+730,20478,Olufela Oladele,Olomola,25,England,170 cm,80 kg,False,41,Southampton,0,0,0,Attacker,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+731,20506,Joe,Riley,26,England,183 cm,71 kg,False,33,Manchester United,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+732,44796,Conor Michael,McAleny,30,England,178 cm,78 kg,False,45,Everton,0,0,0,Attacker,,False,0,0,1,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,,2015/2016
+733,45233,Thomas,Beadling,26,Australia,185 cm,80 kg,False,746,Sunderland,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+734,68125,Luke Garry,Dreher,24,England,184 cm,76 kg,False,52,Crystal Palace,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+735,82063,Jordan David,Lyden,26,Australia,178 cm,70 kg,False,66,Aston Villa,4,2,153,Midfielder,6.450000,False,2,2,16,1,0,0,,,,53,1,84,2,0,4,12,4,1,0,,2,1,0,0,0,,,0,0,,2015/2016
+736,82100,Jamie Michael,Sterry,27,England,175 cm,76 kg,False,34,Newcastle,1,0,6,Defender,6.300000,False,1,0,9,0,0,0,,,,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,,,0,0,,2015/2016
+737,82128,Connor Michael,Smith,29,Republic of Ireland,181 cm,73 kg,False,38,Watford,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+738,90522,Jack Joseph,Rose,27,England,190 cm,87 kg,False,60,West Brom,0,0,0,Goalkeeper,,False,0,0,4,,,0,0,,,,,,,,,,,,,,,,0,0,0,,,0,0,0,2015/2016
+739,114756,Corey,Jordan,23,England,185 cm,80 kg,False,35,Bournemouth,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+740,17664,George,Glendon,27,England,177 cm,70 kg,False,50,Manchester City,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+741,17892,Joshua Edward,Doherty,26,Northern Ireland,179 cm,70 kg,False,38,Watford,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+742,18172,Russell John,Griffiths,26,England,192 cm,85 kg,False,45,Everton,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+743,18343,Jacob Matthew,Blyth,30,England,191 cm,77 kg,False,46,Leicester,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+744,18642,Bernard Ayitey,Mensah,28,Ghana,173 cm,59 kg,False,38,Watford,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+745,27401,Harrison Andreas,Panayiotou,28,St. Kitts and Nevis,178 cm,72 kg,False,46,Leicester,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+746,45026,James,Horsfield,27,England,178 cm,70 kg,False,50,Manchester City,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+747,57460,Joshua Paul,Robson,24,England,180 cm,73 kg,False,746,Sunderland,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+748,82230,Jack Anthony,Dunn,28,England,172 cm,67 kg,False,40,Liverpool,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+749,82810,Connor,Dymond,28,England,175 cm,,False,52,Crystal Palace,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+750,82834,Oliver Gregory,Shenton,25,England,175 cm,77 kg,False,75,Stoke City,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
+751,105863,Djair Terraii Carl,Parfitt-Williams,26,Bermuda,168 cm,64 kg,False,48,West Ham,0,0,0,Attacker,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2015/2016
