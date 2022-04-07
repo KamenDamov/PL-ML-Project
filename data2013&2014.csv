@@ -1,0 +1,671 @@
+,id,firstname,lastname,age,nationality,height,weight,injured,teamID,teamname,appearences,lineups,minutes,position,rating,captain,subIn,subOut,bench,totalShots,shotsOn,totalGoals,goalsConceded,goalAssists,goalSaves,totalPasses,keyPasses,passAccuracy,totalTackles,blocks,interceptions,duelsTotal,duelsWon,dribbleAttempts,dribblesSuccess,dribblesPast,foulsDrawn,foulsCommitted,cardsYel,cardsYelRed,cardsRed,penaltyWon,penaltyCommited,penaltyScored,penaltyMissed,penaltySaved,season
+0,18206,Liam,Agnew,26,England,178 cm,72 kg,False,746,Sunderland,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+1,18982,Glenn,Murray,38,England,183 cm,80 kg,False,52,Crystal Palace,14,3,394,Attacker,,False,11,2,11,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+2,19203,Ashley,Cole,41,England,176 cm,66 kg,False,49,Chelsea,17,15,1386,Defender,,False,2,2,17,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+3,19289,Michael,Dawson,38,England,189 cm,79 kg,False,47,Tottenham,32,31,2838,Defender,,False,1,1,3,,,0,,,,,,,,,,,,,,,,,7,0,0,,,,,,2013/2014
+4,19325,Nathan,Dyer,34,England,165 cm,60 kg,False,76,Swansea,27,19,1749,Midfielder,,False,8,10,10,,,6,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+5,19388,George,Boyd,36,Scotland,186 cm,79 kg,False,64,Hull City,29,9,1198,Midfielder,,False,20,5,26,,,2,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+6,19476,Craig Ian,Conway,36,Scotland,171 cm,67 kg,False,43,Cardiff,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+7,19488,Danny,Graham,36,England,185 cm,88 kg,False,64,Hull City,18,12,1002,Attacker,,False,6,8,7,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+8,19553,Darron,Gibson,34,Republic of Ireland,183 cm,90 kg,False,45,Everton,1,0,27,Midfielder,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+9,19660,Billy,Jones,34,England,181 cm,77 kg,False,60,West Brom,21,21,1741,Defender,,False,0,3,3,,,0,,,,,,,,,,,,,,,,,5,0,0,,,,,,2013/2014
+10,20439,Matt,Jarvis,35,England,170 cm,72 kg,False,48,West Ham,32,23,1950,Midfielder,,False,9,17,14,,,2,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+11,30749,Emanuele,Giaccherini,36,Italy,167 cm,60 kg,False,746,Sunderland,24,16,1356,Midfielder,,False,8,9,18,,,4,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+12,36891,Ron Peter,Vlaar,36,Netherlands,189 cm,80 kg,False,66,Aston Villa,32,32,2806,Defender,,False,0,3,0,,,0,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+13,37162,Robin,van Persie,36,Netherlands,183 cm,71 kg,False,33,Manchester United,21,18,1584,Attacker,,False,3,8,3,,,12,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+14,47261,Mathieu,Flamini,35,France,178 cm,67 kg,False,42,Arsenal,27,18,1604,Midfielder,,False,9,6,12,,,2,,,,,,,,,,,,,,,,,8,0,1,,,,,,2013/2014
+15,50102,Arouna,Koné,38,Côte d'Ivoire,181 cm,78 kg,False,45,Everton,5,0,81,Attacker,,False,5,0,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+16,81774,Joe,Ledley,33,Wales,183 cm,73 kg,False,52,Crystal Palace,14,14,1249,Midfielder,,False,0,1,0,,,2,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+17,90489,Per,Mertesacker,37,Germany,198 cm,90 kg,False,42,Arsenal,35,35,3150,Defender,,False,0,0,0,,,2,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+18,105800,Tomáš,Rosický,41,Czech Republic,178 cm,65 kg,False,42,Arsenal,27,17,1573,Midfielder,,False,10,12,15,,,2,,,,,,,,,,,,,,,,,7,0,0,,,,,,2013/2014
+19,114745,Mikel,Arteta Amatriain,34,Spain,175 cm,64 kg,False,42,Arsenal,31,27,2407,Midfielder,,False,4,3,5,,,2,,,,,,,,,,,,,,,,,3,0,1,,,,,,2013/2014
+20,1187,Nicklas,Bendtner,33,Denmark,193 cm,84 kg,False,42,Arsenal,9,1,157,Attacker,,False,8,2,19,,,2,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+21,18928,Peter,Crouch,40,England,201 cm,75 kg,False,75,Stoke City,34,30,2642,Attacker,,False,4,7,8,,,7,,,,,,,,,,,,,,,,,7,0,0,,,,,,2013/2014
+22,18988,Matthew,Connolly,32,England,188 cm,84 kg,False,43,Cardiff,3,3,270,Defender,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+23,19153,Gareth,Barry,39,England,183 cm,78 kg,False,45,Everton,32,32,2849,Midfielder,,False,0,1,0,,,3,,,,,,,,,,,,,,,,,10,0,0,,,,,,2013/2014
+24,19171,Mark,Bunn,35,England,183 cm,77 kg,False,71,Norwich,0,0,0,Goalkeeper,,False,0,0,32,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+25,19189,Mile,Jedinak,37,Australia,189 cm,87 kg,False,52,Crystal Palace,38,38,3389,Midfielder,,False,0,1,0,,,1,,,,,,,,,,,,,,,,,7,0,0,,,,,,2013/2014
+26,19417,Liam,Ridgewell,37,England,188 cm,77 kg,False,60,West Brom,33,33,2871,Defender,,False,0,3,1,,,1,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+27,19722,James,Collins,38,Wales,188 cm,83 kg,False,48,West Ham,24,22,1899,Defender,,False,2,3,6,,,1,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+28,77110,Thomas,Løvendahl Sørensen,45,Denmark,196 cm,89 kg,False,75,Stoke City,4,4,316,Goalkeeper,,False,0,1,34,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+29,82009,John,Terry,41,England,187 cm,90 kg,False,49,Chelsea,34,34,3060,Defender,,False,0,0,0,,,3,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+30,82011,Darren,Bent,37,England,180 cm,73 kg,False,36,Fulham,24,11,1240,Attacker,,False,13,4,20,,,3,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+31,82435,Gabriel,Imuetinyan Agbonlahor,32,England,180 cm,78 kg,False,66,Aston Villa,30,29,2445,Attacker,,False,1,7,1,,,4,,,,,,,,,,,,,,,,,7,0,0,,,,,,2013/2014
+32,83018,Steve,Sidwell,39,England,178 cm,70 kg,False,36,Fulham,38,36,3233,Midfielder,,False,2,4,2,,,7,,,,,,,,,,,,,,,,,5,0,0,,,,,,2013/2014
+33,83019,Micah,Richards,30,England,180 cm,83 kg,False,50,Manchester City,2,2,161,Defender,,False,0,1,16,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+34,83026,Peter,Whittingham,34,England,178 cm,63 kg,False,43,Cardiff,32,30,2661,Midfielder,,False,2,2,4,,,3,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+35,87877,Jermaine,Pennant,35,England,173 cm,68 kg,False,75,Stoke City,8,0,179,Midfielder,,False,8,0,13,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+36,90492,Stephen,Ireland,32,Republic of Ireland,173 cm,67 kg,False,75,Stoke City,12,7,648,Midfielder,,False,5,4,8,,,2,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+37,90516,Shay,Given,41,Republic of Ireland,185 cm,84 kg,False,66,Aston Villa,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+38,114790,Kevin,Phillips,41,England,170 cm,70 kg,False,52,Crystal Palace,4,0,77,Attacker,,False,4,0,17,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+39,114814,Luke,Moore,30,England,180 cm,76 kg,False,76,Swansea,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+40,18357,Roger,Johnson,38,England,191 cm,78 kg,False,48,West Ham,4,2,272,Defender,,False,2,0,7,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+41,18371,Kyle,De Silva,28,England,170 cm,,False,52,Crystal Palace,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+42,19144,Glyn Oliver,Myhill,39,Wales,191 cm,91 kg,False,60,West Brom,14,14,1260,Goalkeeper,,False,0,0,23,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+43,19526,Craig,Gardner,34,England,178 cm,71 kg,False,746,Sunderland,18,7,763,Midfielder,,False,11,4,21,,,2,,,,,,,,,,,,,,,,,5,0,0,,,,,,2013/2014
+44,20401,David,Fox,38,England,175 cm,76 kg,False,71,Norwich,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+45,27543,Wilson Roberto,Palacios Suazo,37,Honduras,178 cm,71 kg,False,75,Stoke City,16,5,514,Midfielder,,False,11,4,30,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+46,82490,Aaron,McLean,35,England,171 cm,78 kg,False,64,Hull City,1,0,6,Attacker,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+47,83131,Wes,Brown,39,England,185 cm,77 kg,False,746,Sunderland,25,24,2064,Defender,,False,1,0,2,,,0,,,,,,,,,,,,,,,,,2,0,3,,,,,,2013/2014
+48,87315,Kieran,Richardson,32,England,175 cm,69 kg,False,36,Fulham,31,28,2380,Defender,,False,3,9,6,,,4,,,,,,,,,,,,,,,,,5,0,0,,,,,,2013/2014
+49,87713,Guy Roland,Demel,36,Côte d'Ivoire,188 cm,88 kg,False,48,West Ham,32,30,2637,Defender,,False,2,5,4,,,1,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+50,90507,Joleon,Lescott,35,England,188 cm,82 kg,False,50,Manchester City,10,8,783,Defender,,False,2,0,27,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+51,114752,Charles,N'Zogbia,30,France,171 cm,70 kg,False,66,Aston Villa,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+52,114759,Steven,Reid,40,Republic of Ireland,185 cm,87 kg,False,60,West Brom,16,16,1308,Defender,,False,0,4,2,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+53,114769,Andy,Wilkinson,37,England,180 cm,70 kg,False,75,Stoke City,5,2,272,Defender,,False,3,1,22,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+54,114773,Craig,Bellamy,35,Wales,173 cm,68 kg,False,43,Cardiff,22,13,1251,Attacker,,False,9,8,12,,,2,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+55,114796,Leo,Chambers,26,England,186 cm,65 kg,False,48,West Ham,0,0,0,Defender,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+56,114835,Charles,Banya,28,England,170 cm,,False,36,Fulham,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+57,230920,Alex,Marrow,26,England,185 cm,83 kg,False,52,Crystal Palace,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+58,230960,Joe,Dudgeon,31,Northern Ireland,,,False,64,Hull City,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+59,230969,Matthew,Parsons,30,England,178 cm,,False,52,Crystal Palace,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+60,19656,Lewis,Price,37,Wales,191 cm,85 kg,False,52,Crystal Palace,0,0,0,Goalkeeper,,False,0,0,17,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+61,19696,Andrew,Taylor,33,England,178 cm,69 kg,False,43,Cardiff,18,18,1574,Defender,,False,0,3,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+62,19698,Marc,Wilson,34,Republic of Ireland,188 cm,80 kg,False,75,Stoke City,33,30,2691,Defender,,False,3,1,5,,,0,,,,,,,,,,,,,,,,,6,0,1,,,,,,2013/2014
+63,19729,Jordan,Spence,30,England,180 cm,76 kg,False,48,West Ham,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+64,20256,Aaron,Wilbraham,41,England,191 cm,72 kg,False,52,Crystal Palace,4,1,81,Attacker,,False,3,1,5,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+65,20332,Michael,Turner,38,England,193 cm,85 kg,False,71,Norwich,22,22,1944,Defender,,False,0,1,2,,,0,,,,,,,,,,,,,,,,,7,0,0,,,,,,2013/2014
+66,44863,Aaron,Hughes,42,Northern Ireland,183 cm,70 kg,False,36,Fulham,13,11,1063,Defender,,False,2,0,7,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+67,45064,Don,Cowie,38,Scotland,180 cm,73 kg,False,43,Cardiff,18,10,964,Midfielder,,False,8,3,19,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+68,82138,Shola,Ameobi,37,Nigeria,188 cm,76 kg,False,34,Newcastle,26,14,1281,Attacker,,False,12,7,19,,,2,,,,,,,,,,,,,,,,,1,1,0,,,,,,2013/2014
+69,82563,Grant,Holt,37,England,183 cm,79 kg,False,66,Aston Villa,10,3,376,Attacker,,False,7,1,14,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+70,83020,Liam,Rosenior,37,England,178 cm,72 kg,False,64,Hull City,29,22,1988,Defender,,False,7,7,15,,,1,,,,,,,,,,,,,,,,,5,0,0,,,,,,2013/2014
+71,104759,Kevin,McNaughton,39,Scotland,178 cm,66 kg,False,43,Cardiff,5,3,281,Defender,,False,2,1,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+72,105409,Kenwyne,Jones,34,Trinidad and Tobago,187 cm,85 kg,False,43,Cardiff,11,6,583,Attacker,,False,5,2,7,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+73,114743,Kevin,Nolan,39,England,180 cm,88 kg,False,48,West Ham,33,33,2694,Midfielder,,False,0,16,0,,,7,,,,,,,,,,,,,,,,,7,0,2,,,,,,2013/2014
+74,114747,Sylvain,Distin,39,France,192 cm,85 kg,False,45,Everton,33,33,2926,Defender,,False,0,1,1,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+75,114760,Steve,Harper,41,England,190 cm,82 kg,False,64,Hull City,13,11,1099,Goalkeeper,,False,2,0,27,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+76,114765,Jussi,Jääskeläinen,46,Finland,191 cm,81 kg,False,48,West Ham,18,18,1620,Goalkeeper,,False,0,0,20,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+77,114772,Nicolas,Anelka,36,France,185 cm,77 kg,False,60,West Brom,12,11,854,Attacker,,False,1,8,2,,,2,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+78,114789,Tommy,Smith,35,England,179 cm,80 kg,False,43,Cardiff,0,0,0,Attacker,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+79,114792,Abdoulaye,Diagne-Fayé,43,Senegal,187 cm,87 kg,False,64,Hull City,3,3,270,Defender,,False,0,0,15,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+80,12788,Ramires,Santos do Nascimento,34,Brazil,180 cm,70 kg,False,49,Chelsea,30,29,2609,Midfielder,,False,1,3,2,,,1,,,,,,,,,,,,,,,,,8,0,1,,,,,,2013/2014
+81,18837,Julián,Speroni,42,Argentina,186 cm,87 kg,False,52,Crystal Palace,37,37,3330,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+82,19500,Ashley,Williams,36,Wales,183 cm,77 kg,False,76,Swansea,34,34,3040,Defender,,False,0,1,2,,,1,,,,,,,,,,,,,,,,,5,0,0,,,,,,2013/2014
+83,19770,George,Thorne,28,England,188 cm,83 kg,False,60,West Brom,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+84,19996,David,Meyler,30,Republic of Ireland,189 cm,81 kg,False,64,Hull City,30,27,2136,Midfielder,,False,3,12,10,,,2,,,,,,,,,,,,,,,,,8,0,0,,,,,,2013/2014
+85,20340,Michael,Kightly,35,England,173 cm,71 kg,False,75,Stoke City,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+86,33413,Fernando José,Torres Sanz,35,Spain,186 cm,79 kg,False,49,Chelsea,28,16,1572,Attacker,,False,12,9,14,,,5,,,,,,,,,,,,,,,,,4,1,0,,,,,,2013/2014
+87,69388,Damien,Delaney,40,Republic of Ireland,191 cm,89 kg,False,52,Crystal Palace,37,37,3286,Defender,,False,0,1,0,,,1,,,,,,,,,,,,,,,,,9,0,0,,,,,,2013/2014
+88,81993,Jonathan,Walters,38,Republic of Ireland,183 cm,79 kg,False,75,Stoke City,32,27,2241,Attacker,,False,5,11,7,,,5,,,,,,,,,,,,,,,,,8,0,1,,,,,,2013/2014
+89,83027,Rickie,Lambert,35,England,188 cm,76 kg,False,41,Southampton,37,31,2815,Attacker,,False,6,11,6,,,13,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+90,83032,Scott,Parker,37,England,175 cm,69 kg,False,36,Fulham,29,27,2318,Midfielder,,False,2,7,3,,,2,,,,,,,,,,,,,,,,,7,0,0,,,,,,2013/2014
+91,87873,Jerome,Thomas,38,England,178 cm,74 kg,False,52,Crystal Palace,9,3,365,Midfielder,,False,6,2,7,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+92,90491,Glen,Johnson,37,England,182 cm,78 kg,False,40,Liverpool,29,29,2522,Defender,,False,0,5,0,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+93,90512,Robert,Huth,37,Germany,191 cm,99 kg,False,75,Stoke City,12,12,1067,Defender,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+94,104311,Mark,Schwarzer,44,Australia,194 cm,85 kg,False,49,Chelsea,4,4,360,Goalkeeper,,False,0,0,33,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+95,114751,Brede,Hangeland,35,Norway,195 cm,92 kg,False,36,Fulham,23,23,1908,Defender,,False,0,3,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+96,114775,Damien,Duff,36,Republic of Ireland,177 cm,70 kg,False,36,Fulham,15,9,694,Goalkeeper,,False,6,7,12,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+97,114798,Henrique Hilário,Meireles Alves Sampaio,46,Portugal,189 cm,88 kg,False,49,Chelsea,0,0,0,Goalkeeper,,False,0,0,5,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+98,230956,Darcy,Blake,33,Wales,165 cm,68 kg,False,52,Crystal Palace,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+99,231221,Cameron,Gayle,29,England,181 cm,,False,60,West Brom,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+100,405,Sascha,Riether,38,Germany,176 cm,72 kg,False,36,Fulham,31,30,2647,Defender,,False,1,2,3,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+101,1296,William Vitved,Kvist Jørgensen,36,Denmark,184 cm,80 kg,False,36,Fulham,8,7,594,Midfielder,,False,1,3,5,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+102,18757,Leighton,Baines,37,England,170 cm,74 kg,False,45,Everton,32,32,2840,Defender,,False,0,2,0,,,5,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+103,20080,Ryan,Taylor,37,England,173 cm,65 kg,False,34,Newcastle,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+104,82062,Larnell,Cole,28,England,168 cm,66 kg,False,36,Fulham,1,0,10,Midfielder,,False,1,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+105,82939,Mason,Springthorpe,27,England,188 cm,,False,45,Everton,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+106,88748,Derek,Owusu Boateng,34,Ghana,183 cm,78 kg,False,36,Fulham,3,2,155,Midfielder,,False,1,2,10,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+107,89051,Zoltán,Gera,42,Hungary,183 cm,75 kg,False,60,West Brom,14,5,483,Attacker,,False,9,4,12,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+108,90511,Victor Chinedu,Anichebe,29,Nigeria,191 cm,85 kg,False,60,West Brom,24,11,1215,Attacker,,False,13,7,15,,,3,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+109,90513,Steven,Pienaar,39,South Africa,170 cm,71 kg,False,45,Everton,23,19,1632,Midfielder,,False,4,13,4,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+110,105378,Clint,Dempsey,35,USA,185 cm,77 kg,False,36,Fulham,5,4,355,Attacker,,False,1,2,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+111,114746,Leon,Osman,35,England,174 cm,63 kg,False,45,Everton,38,27,2173,Midfielder,,False,11,19,11,,,3,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+112,114753,Richard,Wright,39,England,188 cm,89 kg,False,50,Manchester City,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+113,114755,Tony,Hibbert,35,England,173 cm,70 kg,False,45,Everton,1,0,3,Defender,,False,1,0,17,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+114,114780,Giorgios,Karagounis,37,Greece,176 cm,74 kg,False,36,Fulham,14,6,656,Midfielder,,False,8,6,16,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+115,114787,John Arne,Semundseth Riise,41,Norway,185 cm,77 kg,False,36,Fulham,20,17,1487,Defender,,False,3,2,7,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+116,114794,Carlo,Nash,48,England,197 cm,89 kg,False,71,Norwich,0,0,0,Goalkeeper,,False,0,0,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+117,114797,Joseph Phillip,Yobo,34,Nigeria,188 cm,76 kg,False,71,Norwich,8,8,720,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+118,114801,Phil,Neville,36,England,180 cm,76 kg,False,45,Everton,,,,Midfielder,,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2013/2014
+119,114838,Simon,Davies,34,Wales,178 cm,76 kg,False,36,Fulham,,,,Midfielder,,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2013/2014
+120,17048,Mohamed Nagy Ismail,Afash,37,Egypt,184 cm,,False,64,Hull City,2,0,29,Attacker,,False,2,0,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+121,18818,Pablo Javier,Zabaleta Girod,35,Argentina,176 cm,74 kg,False,50,Manchester City,35,34,3079,Defender,,False,1,0,2,,,1,,,,,,,,,,,,,,,,,11,0,0,,,,,,2013/2014
+122,19162,James,Morrison,33,Scotland,178 cm,64 kg,False,60,West Brom,32,23,2210,Midfielder,,False,9,4,12,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+123,19504,Darren,Fletcher,35,Scotland,183 cm,83 kg,False,33,Manchester United,12,9,780,Midfielder,,False,3,2,11,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+124,19609,John,O'Shea,38,Republic of Ireland,191 cm,75 kg,False,746,Sunderland,33,33,2922,Defender,,False,0,2,1,,,1,,,,,,,,,,,,,,,,,2,0,1,,,,,,2013/2014
+125,36846,Oussama,Assaidi,31,Morocco,178 cm,79 kg,False,75,Stoke City,19,12,1111,Attacker,,False,7,6,12,,,4,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+126,61998,Anderson Luis,de Abreu Oliveira,33,Brazil,175 cm,69 kg,False,33,Manchester United,4,2,154,Midfielder,,False,2,2,7,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+127,70546,Fernando Gabriel,Amorebieta Mardaras,35,Venezuela,192 cm,86 kg,False,36,Fulham,23,20,1845,Defender,,False,3,1,4,,,1,,,,,,,,,,,,,,,,,5,0,1,,,,,,2013/2014
+128,90490,Michael,Carrick,40,England,188 cm,74 kg,False,33,Manchester United,29,26,2411,Midfielder,,False,3,1,3,,,1,,,,,,,,,,,,,,,,,5,0,0,,,,,,2013/2014
+129,105044,José Enrique,de la Sánchez Diaz,35,Spain,184 cm,80 kg,False,40,Liverpool,8,6,602,Defender,,False,2,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+130,114744,Adam,Johnson,29,England,178 cm,62 kg,False,746,Sunderland,36,28,2442,Midfielder,,False,8,15,9,,,8,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+131,114764,Rio,Ferdinand,43,England,189 cm,82 kg,False,33,Manchester United,14,12,1127,Defender,,False,2,0,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+132,114774,Ryan,Giggs,41,Wales,180 cm,68 kg,False,33,Manchester United,11,6,483,Midfielder,,False,5,5,13,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+133,114776,Robert,Koren,41,Slovenia,175 cm,68 kg,False,64,Hull City,22,10,1130,Midfielder,,False,12,6,24,,,2,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+134,114778,Daniel Munthe,Agger,32,Denmark,191 cm,84 kg,False,40,Liverpool,20,16,1419,Defender,,False,4,2,14,,,2,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+135,114783,Andrea,Dossena,36,Italy,180 cm,77 kg,False,746,Sunderland,7,6,491,Defender,,False,1,2,6,,,0,,,,,,,,,,,,,,,,,1,0,1,,,,,,2013/2014
+136,114784,Matt,Fryatt,35,England,178 cm,69 kg,False,64,Hull City,10,0,216,Attacker,,False,10,0,19,,,2,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+137,114785,Javier,Garrido Behovide,35,Spain,180 cm,75 kg,False,71,Norwich,6,6,516,Defender,,False,0,1,12,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+138,114788,George,McCartney,40,Northern Ireland,183 cm,79 kg,False,48,West Ham,22,20,1841,Defender,,False,2,1,7,,,0,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+139,114843,Adam,Mitchell,20,Ireland Republic,,,False,746,Sunderland,,,,Midfielder,,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2013/2014
+140,160,Michel,Vorm,38,Netherlands,183 cm,84 kg,False,76,Swansea,26,26,2340,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,2,0,1,,,,,,2013/2014
+141,1970,Markus,Rosenberg,39,Sweden,185 cm,76 kg,False,60,West Brom,4,1,89,Attacker,,False,3,1,7,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+142,10447,Pablo Estífer,Armero,35,Colombia,174 cm,81 kg,False,48,West Ham,5,3,321,Defender,,False,2,0,11,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+143,18789,Heurelho,da Silva Gomes,40,Brazil,191 cm,91 kg,False,47,Tottenham,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+144,19548,Jonas,Olsson,38,Sweden,193 cm,84 kg,False,60,West Brom,32,32,2819,Defender,,False,0,2,1,,,1,,,,,,,,,,,,,,,,,10,0,0,,,,,,2013/2014
+145,19583,Àngel,Rangel Zaragoza,38,Spain,188 cm,84 kg,False,76,Swansea,30,29,2632,Defender,,False,1,1,2,,,0,,,,,,,,,,,,,,,,,8,0,0,,,,,,2013/2014
+146,19899,Lee,Cattermole,32,England,178 cm,76 kg,False,746,Sunderland,24,21,1758,Midfielder,,False,3,8,7,,,1,,,,,,,,,,,,,,,,,5,0,1,,,,,,2013/2014
+147,56017,Goran,Popov,37,North Macedonia,188 cm,80 kg,False,60,West Brom,2,1,84,Defender,,False,1,1,11,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+148,87348,Cheik Ismaël,Tioté,35,Côte d'Ivoire,180 cm,76 kg,False,34,Newcastle,33,31,2764,Midfielder,,False,2,3,2,,,0,,,,,,,,,,,,,,,,,10,0,0,,,,,,2013/2014
+149,87809,Dwight,Tiendalli,36,Netherlands,180 cm,69 kg,False,76,Swansea,10,9,752,Defender,,False,1,3,13,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+150,87853,Remie,Streete,27,England,187 cm,,False,34,Newcastle,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+151,90508,Gerhard,Tremmel,43,Germany,190 cm,89 kg,False,76,Swansea,12,12,1080,Goalkeeper,,False,0,0,26,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+152,91302,Antonio,Nocerino,36,Italy,175 cm,75 kg,False,48,West Ham,10,2,254,Midfielder,,False,8,1,13,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+153,91319,Marco,Borriello,37,Italy,180 cm,73 kg,False,48,West Ham,2,0,88,Attacker,,False,2,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+154,103479,Charlie,Ward,22,England,,,False,75,Stoke City,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+155,105057,Răzvan Dincă,Raț,37,Romania,178 cm,72 kg,False,48,West Ham,15,11,1132,Defender,,False,4,2,8,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+156,105060,Miguel,Pérez Cuesta,31,Spain,185 cm,78 kg,False,76,Swansea,17,15,1289,Attacker,,False,2,5,2,,,2,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+157,113953,Pablo Daniel,Osvaldo,35,Italy,185 cm,81 kg,False,41,Southampton,13,9,856,Attacker,,False,4,4,4,,,3,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+158,114791,Guilherme,do Prado Raymundo,40,Brazil,191 cm,82 kg,False,41,Southampton,9,0,77,Attacker,,False,9,0,19,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+159,114832,Garry,Monk,35,England,183 cm,80 kg,False,76,Swansea,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+160,1200,Branislav,Ivanović,37,Serbia,185 cm,89 kg,False,49,Chelsea,36,36,3180,Defender,,False,0,1,0,,,3,,,,,,,,,,,,,,,,,8,0,0,,,,,,2013/2014
+161,18898,Mohamed,Diamé,34,Senegal,184 cm,86 kg,False,48,West Ham,35,29,2483,Midfielder,,False,6,14,7,,,4,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+162,19031,André,Schürrle,30,Germany,184 cm,73 kg,False,49,Chelsea,30,15,1325,Midfielder,,False,15,12,19,,,8,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+163,19154,Chris,Brunt,37,Northern Ireland,185 cm,84 kg,False,60,West Brom,28,25,2243,Midfielder,,False,3,2,7,,,3,,,,,,,,,,,,,,,,,7,0,0,,,,,,2013/2014
+164,19186,Ahmed Eissa,El Mohamady Abdel Fattah,34,Egypt,183 cm,75 kg,False,64,Hull City,38,38,3329,Defender,,False,0,5,0,,,2,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+165,19238,Stewart,Downing,37,England,180 cm,64 kg,False,48,West Ham,32,29,2510,Midfielder,,False,3,7,3,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+166,19284,Costel Fane,Pantilimon,34,Romania,203 cm,90 kg,False,50,Manchester City,7,7,630,Goalkeeper,,False,0,0,31,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+167,19332,Wayne,Routledge,36,England,170 cm,64 kg,False,76,Swansea,35,32,2702,Midfielder,,False,3,12,5,,,2,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+168,20126,Jerome,Sinclair,25,England,181 cm,78 kg,False,40,Liverpool,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+169,42432,Samuel,Eto'o Fils,38,Cameroon,180 cm,75 kg,False,49,Chelsea,21,16,1304,Attacker,,False,5,12,11,,,9,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+170,44780,Alex,Bruce,37,Northern Ireland,180 cm,73 kg,False,64,Hull City,20,19,1593,Defender,,False,1,6,18,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+171,51298,Timothy Matthew,Howard,42,USA,191 cm,95 kg,False,45,Everton,37,37,3263,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,4,0,1,,,,,,2013/2014
+172,78738,Ricardo Jorge,Vaz Tê,35,Portugal,188 cm,79 kg,False,48,West Ham,8,3,256,Attacker,,False,5,3,10,,,2,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+173,82826,Simon,Lappin,38,Scotland,180 cm,60 kg,False,43,Cardiff,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+174,93586,Jos,Hooiveld,36,Netherlands,193 cm,86 kg,False,41,Southampton,3,3,270,Defender,,False,0,0,31,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+175,104129,Kolo Habib,Touré,36,Côte d'Ivoire,180 cm,74 kg,False,40,Liverpool,20,15,1438,Defender,,False,5,0,16,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+176,104629,Emmanuel Yaw,Frimpong,29,Ghana,178 cm,67 kg,False,42,Arsenal,0,0,0,Midfielder,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+177,106799,Michael,Essien,38,Ghana,177 cm,85 kg,False,49,Chelsea,5,2,147,Midfielder,,False,3,1,13,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+178,114758,Carlton,Cole Okirie,38,England,191 cm,78 kg,False,48,West Ham,26,9,848,Attacker,,False,17,6,22,,,5,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+179,114782,Nemanja,Vidic,35,Serbia,189 cm,84 kg,False,33,Manchester United,25,23,2084,Defender,,False,2,1,4,,,0,,,,,,,,,,,,,,,,,6,1,1,,,,,,2013/2014
+180,140,Thomas,Vermaelen,37,Belgium,183 cm,80 kg,False,42,Arsenal,14,7,781,Defender,,False,7,0,19,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+181,642,Sergio Leonel,Agüero del Castillo,33,Argentina,173 cm,70 kg,False,50,Manchester City,23,20,1538,Attacker,,False,3,15,3,,,17,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+182,2693,Ashkan,Dejagah,35,Iran,181 cm,74 kg,False,36,Fulham,22,13,1297,Midfielder,,False,9,8,11,,,5,,,,,,,,,,,,,,,,,5,0,0,,,,,,2013/2014
+183,2795,Gylfi Þór,Sigurðsson,33,Iceland,186 cm,79 kg,False,47,Tottenham,25,14,1276,Midfielder,,False,11,9,18,,,5,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+184,5946,Jonás Manuel,Gutiérrez,38,Argentina,183 cm,78 kg,False,71,Norwich,4,2,197,Midfielder,,False,2,2,5,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+185,6015,Ignacio Martín,Scocco,36,Argentina,175 cm,71 kg,False,746,Sunderland,6,0,93,Attacker,,False,6,0,13,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+186,6599,Fabricio,Coloccini,39,Argentina,183 cm,76 kg,False,34,Newcastle,27,27,2405,Defender,,False,0,1,1,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+187,6929,Steven Vincent,Taylor,35,England,188 cm,91 kg,False,34,Newcastle,10,9,730,Defender,,False,1,2,13,,,1,,,,,,,,,,,,,,,,,0,0,1,,,,,,2013/2014
+188,18995,Jazz,Richards,30,Wales,185 cm,78 kg,False,76,Swansea,0,0,0,Defender,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+189,19234,Ryan,Shotton,33,England,191 cm,85 kg,False,75,Stoke City,0,0,0,Defender,,False,0,0,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+190,19498,Ryan,Shawcross,35,England,191 cm,76 kg,False,75,Stoke City,37,37,3292,Defender,,False,0,0,0,,,1,,,,,,,,,,,,,,,,,6,1,0,,,,,,2013/2014
+191,19543,Daniel,Fox,35,Scotland,183 cm,79 kg,False,41,Southampton,3,3,258,Defender,,False,0,1,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+192,50228,Santiago,Vergini,33,Argentina,191 cm,83 kg,False,746,Sunderland,11,10,978,Defender,,False,1,0,6,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+193,50988,Roland Conde,Lamah,33,Belgium,180 cm,71 kg,False,76,Swansea,9,4,455,Midfielder,,False,5,4,13,,,2,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+194,60154,Christopher,Herd,32,Australia,173 cm,76 kg,False,66,Aston Villa,2,2,171,Midfielder,,False,0,1,5,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+195,69261,Joseph Martin,O'Brien,36,Republic of Ireland,180 cm,70 kg,False,48,West Ham,17,13,1234,Defender,,False,4,1,10,,,0,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+196,82123,Matthew Anthony,Briggs,30,Guyana,184 cm,76 kg,False,36,Fulham,2,0,87,Defender,,False,2,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+197,82984,Joe,Mason,30,Republic of Ireland,178 cm,73 kg,False,43,Cardiff,0,0,0,Attacker,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+198,102480,Charles Patrick,Ward,26,England,175 cm,78 kg,False,75,Stoke City,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+199,114010,Luciano,Becchio,39,Argentina,187 cm,84 kg,False,71,Norwich,5,0,53,Goalkeeper,,False,5,0,24,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+200,893,Luis Antonio,Valencia Mosquera,36,Ecuador,180 cm,83 kg,False,33,Manchester United,29,20,1939,Midfielder,,False,9,3,13,,,2,,,,,,,,,,,,,,,,,7,1,0,,,,,,2013/2014
+201,1436,Petr,Čech,40,Czech Republic,196 cm,90 kg,False,49,Chelsea,34,34,3060,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+202,1739,Jonathon Patrick,Flanagan,29,England,181 cm,79 kg,False,40,Liverpool,23,23,1898,Defender,,False,0,8,2,,,1,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+203,1742,Gareth,McAuley,42,Northern Ireland,191 cm,90 kg,False,60,West Brom,32,32,2860,Defender,,False,0,2,3,,,2,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+204,3444,Francisco,Santos da Silva Júnior,30,Guinea-Bissau,172 cm,65 kg,False,45,Everton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+205,12464,Nikica,Jelavić,36,Croatia,188 cm,88 kg,False,64,Hull City,16,16,1318,Attacker,,False,0,10,1,,,5,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+206,17426,Russell,Martin,33,Scotland,183 cm,74 kg,False,71,Norwich,31,29,2615,Defender,,False,2,0,8,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+207,18910,Anders,Rosenkrantz Lindegaard,38,Denmark,193 cm,80 kg,False,33,Manchester United,1,1,90,Goalkeeper,,False,0,0,29,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+208,19178,Alan,Hutton,35,Scotland,185 cm,72 kg,False,66,Aston Villa,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+209,19606,Paul,McShane,36,Republic of Ireland,183 cm,72 kg,False,64,Hull City,10,9,687,Defender,,False,1,3,12,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+210,39329,Jonathan,Parr,34,Norway,182 cm,75 kg,False,52,Crystal Palace,15,7,752,Defender,,False,8,1,12,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+211,44839,Steven Gordon,Whittaker,37,Scotland,185 cm,87 kg,False,71,Norwich,20,16,1421,Defender,,False,4,2,22,,,1,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+212,44881,Steven John,Naismith,35,Scotland,178 cm,72 kg,False,45,Everton,31,13,1409,Attacker,,False,18,5,24,,,5,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+213,48280,Abdul,Razak,30,Côte d'Ivoire,180 cm,76 kg,False,50,Manchester City,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+214,51079,Maynor Alexis,Figueroa Róchez,38,Honduras,182 cm,85 kg,False,64,Hull City,32,31,2716,Defender,,False,1,6,4,,,0,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+215,53455,Daniel,Alfei,30,Wales,180 cm,77 kg,False,76,Swansea,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+216,53466,Leon,Britton,40,England,168 cm,64 kg,False,76,Swansea,25,23,2023,Midfielder,,False,2,6,11,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+217,80463,Wallace,Oliveira dos Santos,28,Brazil,175 cm,,False,49,Chelsea,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+218,103219,Maurice,Edu,32,USA,180 cm,85 kg,False,75,Stoke City,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+219,111312,Carlos Javier,Cuéllar Jiménez,40,Spain,190 cm,84 kg,False,746,Sunderland,4,4,342,Defender,,False,0,1,9,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+220,147,Philippe,Coutinho Correia,30,Brazil,172 cm,68 kg,False,40,Liverpool,33,28,2336,Midfielder,,False,5,17,5,,,5,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+221,894,Ashley,Young,37,England,175 cm,65 kg,False,33,Manchester United,20,13,1030,Defender,,False,7,8,18,,,2,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+222,1571,Francisco Javier,García Fernández,35,Spain,187 cm,82 kg,False,50,Manchester City,29,14,1526,Midfielder,,False,15,2,19,,,0,,,,,,,,,,,,,,,,,7,0,0,,,,,,2013/2014
+223,1750,Graham,Dorrans,35,Scotland,177 cm,65 kg,False,60,West Brom,14,12,1105,Midfielder,,False,2,3,7,,,2,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+224,1991,Shinji,Kagawa,33,Japan,175 cm,68 kg,False,33,Manchester United,18,14,1170,Midfielder,,False,4,9,16,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+225,2859,Bengt Ulf Sebastian,Larsson,37,Sweden,178 cm,70 kg,False,746,Sunderland,31,24,2218,Midfielder,,False,7,10,12,,,1,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+226,2921,Mousa Sidi Yaya,Dembélé,35,Belgium,185 cm,82 kg,False,47,Tottenham,28,22,1821,Midfielder,,False,6,11,6,,,1,,,,,,,,,,,,,,,,,5,0,0,,,,,,2013/2014
+227,15718,Tetchi Jores Charlemagne,Ulrich Okore,30,Denmark,183 cm,80 kg,False,66,Aston Villa,3,2,167,Defender,,False,1,1,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+228,15864,Nicklas,Helenius Jensen,31,Denmark,196 cm,85 kg,False,66,Aston Villa,3,0,50,Attacker,,False,3,0,20,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+229,19016,Calum,Chambers,27,England,182 cm,66 kg,False,41,Southampton,22,18,1641,Defender,,False,4,3,19,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+230,19501,Charles Graham,Adam,37,Scotland,185 cm,83 kg,False,75,Stoke City,31,20,1771,Midfielder,,False,11,11,15,,,7,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+231,19895,Bryan Josué,Oviedo Jiménez,32,Costa Rica,172 cm,60 kg,False,45,Everton,9,8,718,Defender,,False,1,2,7,,,2,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+232,20451,Jak,Alnwick,29,England,187 cm,82 kg,False,34,Newcastle,0,0,0,Goalkeeper,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+233,22155,Yaya,Sanogo,28,France,191 cm,74 kg,False,42,Arsenal,8,0,71,Attacker,,False,8,0,16,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+234,36845,Haris,Vučkić,30,Slovenia,187 cm,80 kg,False,34,Newcastle,0,0,0,Attacker,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+235,44789,Youssouf Chafiq,Mulumbu Ngangu,34,Congo DR,177 cm,65 kg,False,60,West Brom,37,33,3079,Midfielder,,False,4,3,4,,,2,,,,,,,,,,,,,,,,,7,0,0,,,,,,2013/2014
+236,44802,Joseph Peter,Lewis,35,England,198 cm,85 kg,False,43,Cardiff,1,1,90,Goalkeeper,,False,0,0,37,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+237,44901,Matthew,Kennedy,28,Northern Ireland,175 cm,68 kg,False,45,Everton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+238,97958,Neil,Alexander,44,Scotland,185 cm,73 kg,False,52,Crystal Palace,0,0,0,Goalkeeper,,False,0,0,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+239,114793,Mladen,Petrić,40,Croatia,184 cm,81 kg,False,48,West Ham,3,0,65,Attacker,,False,3,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+240,1443,Laurent,Koscielny,37,France,186 cm,75 kg,False,42,Arsenal,32,32,2742,Defender,,False,0,3,0,,,2,,,,,,,,,,,,,,,,,2,1,0,,,,,,2013/2014
+241,1473,Tiago Abiola Delfim,Almeida Ilori,29,Portugal,190 cm,80 kg,False,40,Liverpool,0,0,0,Defender,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+242,18829,Jack,Wilshere,30,England,172 cm,68 kg,False,42,Arsenal,24,19,1722,Midfielder,,False,5,6,5,,,3,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+243,20926,Sylvain,Marveaux,36,France,172 cm,69 kg,False,34,Newcastle,9,2,224,Midfielder,,False,7,2,11,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+244,23600,Elliot,Grandin,34,France,178 cm,67 kg,False,52,Crystal Palace,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+245,42357,Yannick Anister,Sagbo-Latte,33,Côte d'Ivoire,178 cm,71 kg,False,64,Hull City,28,16,1499,Attacker,,False,12,7,20,,,2,,,,,,,,,,,,,,,,,2,0,1,,,,,,2013/2014
+246,48643,Adilson,Tavares Varela,33,Switzerland,180 cm,78 kg,False,746,Sunderland,1,1,90,Midfielder,,False,0,0,8,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+247,48671,Elsad,Zverotić,35,Montenegro,179 cm,78 kg,False,36,Fulham,6,5,405,Midfielder,,False,1,2,12,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+248,49862,Demba,Ba,36,Senegal,189 cm,90 kg,False,49,Chelsea,19,5,659,Attacker,,False,14,4,20,,,5,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+249,50179,Yoan,Gouffran,36,France,175 cm,76 kg,False,34,Newcastle,35,31,2620,Midfielder,,False,4,17,4,,,6,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+250,50207,Gabriel Antoine,Obertan,33,France,186 cm,79 kg,False,34,Newcastle,3,0,34,Midfielder,,False,3,0,15,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+251,50785,Bacary,Sagna,38,France,176 cm,72 kg,False,42,Arsenal,35,34,3060,Defender,,False,1,1,1,,,1,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+252,85757,Morgan,Amalfitano,36,France,176 cm,68 kg,False,60,West Brom,28,26,2151,Midfielder,,False,2,15,5,,,4,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+253,87210,Florian,Marange,35,France,181 cm,78 kg,False,52,Crystal Palace,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+254,90488,Yohan,Cabaye,35,France,174 cm,71 kg,False,34,Newcastle,19,17,1507,Midfielder,,False,2,7,2,,,7,,,,,,,,,,,,,,,,,5,0,0,,,,,,2013/2014
+255,90503,Younes,Kaboul,35,France,193 cm,87 kg,False,47,Tottenham,13,11,943,Defender,,False,2,0,8,,,1,,,,,,,,,,,,,,,,,1,0,2,,,,,,2013/2014
+256,90608,Vassiriki Abou,Diaby,31,France,190 cm,78 kg,False,42,Arsenal,1,0,16,Midfielder,,False,1,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+257,102748,Joe,Cole,40,England,175 cm,63 kg,False,48,West Ham,20,6,740,Midfielder,,False,14,5,23,,,3,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+258,104522,Gabriel Sebastian,Tamaș,39,Romania,188 cm,79 kg,False,60,West Brom,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+259,104780,Philippe,Senderos,36,Switzerland,190 cm,84 kg,False,36,Fulham,12,12,1027,Defender,,False,0,1,5,,,1,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+260,1350,Martin,Škrtel,38,Slovakia,191 cm,81 kg,False,40,Liverpool,36,36,3222,Defender,,False,0,1,0,,,7,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+261,2930,Jack,Butland,29,England,196 cm,95 kg,False,75,Stoke City,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+262,3389,Stéphane,Sessègnon,37,Benin,172 cm,72 kg,False,60,West Brom,26,23,1961,Midfielder,,False,3,13,5,,,5,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+263,18844,James,Tomkins,33,England,192 cm,74 kg,False,48,West Ham,31,31,2602,Defender,,False,0,3,5,,,0,,,,,,,,,,,,,,,,,6,1,0,,,,,,2013/2014
+264,18847,Joel,Ward,33,England,188 cm,83 kg,False,52,Crystal Palace,36,36,3240,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+265,19079,Alexander Banor,Tettey,36,Norway,180 cm,76 kg,False,71,Norwich,21,17,1487,Midfielder,,False,4,6,9,,,1,,,,,,,,,,,,,,,,,7,0,0,,,,,,2013/2014
+266,20406,Jamie,Ness,31,Scotland,177 cm,70 kg,False,75,Stoke City,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+267,28434,David,N'Gog,32,France,190 cm,76 kg,False,76,Swansea,3,0,43,Attacker,,False,3,0,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+268,47531,Jordi,Amat Maas,30,Spain,184 cm,83 kg,False,76,Swansea,17,13,1245,Defender,,False,4,1,25,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+269,48125,Alexander,Kačaniklić,31,Sweden,180 cm,66 kg,False,36,Fulham,23,15,1301,Midfielder,,False,8,10,15,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+270,48925,Modibo,Maïga,34,Mali,185 cm,76 kg,False,48,West Ham,14,11,1006,Attacker,,False,3,5,10,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+271,49861,Emmanuel,Adebayor,36,Togo,192 cm,70 kg,False,47,Tottenham,21,20,1808,Attacker,,False,1,4,1,,,11,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+272,49958,Aly,Cissokho,35,France,181 cm,75 kg,False,40,Liverpool,15,12,1090,Defender,,False,3,2,14,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+273,80379,Diego Alfredo,Lugano Morena,37,Uruguay,186 cm,83 kg,False,60,West Brom,9,7,659,Defender,,False,2,1,20,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+274,87077,Patrice,Evra,37,France,174 cm,75 kg,False,33,Manchester United,33,33,2884,Defender,,False,0,4,2,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+275,87259,Mapou,Yanga-Mbiwa,31,France,184 cm,77 kg,False,34,Newcastle,23,17,1499,Defender,,False,6,4,20,,,0,,,,,,,,,,,,,,,,,5,0,1,,,,,,2013/2014
+276,87909,Adam,King,27,Scotland,180 cm,75 kg,False,76,Swansea,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+277,105161,Kim,Källström,39,Sweden,185 cm,87 kg,False,42,Arsenal,3,1,128,Midfielder,,False,2,0,8,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+278,113639,Dimitar,Ivanov Berbatov,37,Bulgaria,188 cm,79 kg,False,36,Fulham,18,18,1569,Attacker,,False,0,5,0,,,4,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+279,113928,Mahamadou,Diarra,40,Mali,182 cm,80 kg,False,36,Fulham,4,4,338,Midfielder,,False,0,2,1,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+280,182,Harry,Winks,26,England,178 cm,65 kg,False,47,Tottenham,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+281,295,Adam David,Lallana,34,England,172 cm,73 kg,False,41,Southampton,38,37,3099,Midfielder,,False,1,19,1,,,9,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+282,1469,Daniel Nii,Tackie Mensah Welbeck,32,England,185 cm,73 kg,False,33,Manchester United,25,15,1457,Attacker,,False,10,7,13,,,9,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+283,15889,Lasse,Vigen Christensen,28,Denmark,178 cm,80 kg,False,36,Fulham,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+284,18737,John,Ruddy,36,England,192 cm,96 kg,False,71,Norwich,38,38,3420,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+285,18769,Theo,Walcott,33,England,176 cm,68 kg,False,42,Arsenal,13,9,857,Attacker,,False,4,3,4,,,5,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+286,18791,Ben,Foster,39,England,193 cm,79 kg,False,60,West Brom,24,24,2148,Goalkeeper,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+287,18840,Martin,Kelly,32,England,191 cm,77 kg,False,40,Liverpool,5,0,108,Defender,,False,5,0,16,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+288,18862,Nathaniel Edwin,Clyne,31,England,175 cm,67 kg,False,41,Southampton,25,20,1860,Defender,,False,5,3,13,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+289,18912,Phil,Bardsley,37,Scotland,180 cm,74 kg,False,746,Sunderland,26,26,2247,Defender,,False,0,4,3,,,2,,,,,,,,,,,,,,,,,9,0,0,,,,,,2013/2014
+290,18916,Matthew,Lowton,33,England,180 cm,78 kg,False,66,Aston Villa,23,18,1661,Defender,,False,5,3,13,,,0,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+291,18922,Jack,Cork,33,England,183 cm,70 kg,False,41,Southampton,28,21,1732,Midfielder,,False,7,11,13,,,0,,,,,,,,,,,,,,,,,5,0,0,,,,,,2013/2014
+292,18925,Aaron,Lennon,35,England,165 cm,63 kg,False,47,Tottenham,27,26,2184,Midfielder,,False,1,11,3,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+293,18926,Ashley,Westwood,32,England,175 cm,80 kg,False,66,Aston Villa,35,35,3081,Midfielder,,False,0,4,0,,,3,,,,,,,,,,,,,,,,,7,0,0,,,,,,2013/2014
+294,18930,Matěj,Vydra,30,Czech Republic,180 cm,71 kg,False,60,West Brom,23,7,667,Attacker,,False,16,7,25,,,3,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+295,18948,Nathan,Redmond,28,England,173 cm,69 kg,False,71,Norwich,34,23,2155,Midfielder,,False,11,11,13,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+296,18956,Shane Patrick,Long,35,Republic of Ireland,178 cm,81 kg,False,64,Hull City,15,15,1209,Attacker,,False,0,6,1,,,4,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+297,19169,Jay,Rodriguez,33,England,185 cm,80 kg,False,41,Southampton,33,30,2571,Attacker,,False,3,12,3,,,15,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+298,19484,Adam,Armstrong,25,England,174 cm,69 kg,False,34,Newcastle,4,0,30,Attacker,,False,4,0,9,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+299,21383,Erik,Pieters,34,Netherlands,183 cm,84 kg,False,75,Stoke City,36,34,2903,Defender,,False,2,5,3,,,1,,,,,,,,,,,,,,,,,5,0,0,,,,,,2013/2014
+300,167,Danny,Rose,32,England,173 cm,72 kg,False,47,Tottenham,22,22,1901,Defender,,False,0,4,0,,,1,,,,,,,,,,,,,,,,,4,0,1,,,,,,2013/2014
+301,179,Moussa,Sissoko,33,France,187 cm,83 kg,False,34,Newcastle,35,35,3036,Midfielder,,False,0,6,0,,,3,,,,,,,,,,,,,,,,,8,0,0,,,,,,2013/2014
+302,775,Davide,Santon,31,Italy,187 cm,77 kg,False,34,Newcastle,27,26,2223,Defender,,False,1,6,2,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+303,892,Chris,Smalling,33,England,194 cm,81 kg,False,33,Manchester United,25,21,1938,Defender,,False,4,2,9,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+304,1982,Gary Alexis,Medel Soto,35,Chile,171 cm,65 kg,False,43,Cardiff,34,34,2873,Defender,,False,0,11,0,,,0,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+305,2713,Karim,El Ahmadi Al Aroos,37,Morocco,185 cm,78 kg,False,66,Aston Villa,31,26,2188,Midfielder,,False,5,15,10,,,2,,,,,,,,,,,,,,,,,7,0,0,,,,,,2013/2014
+306,18804,Tom,Cleverley,33,England,175 cm,67 kg,False,33,Manchester United,22,18,1580,Midfielder,,False,4,6,11,,,1,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+307,18809,Gerard,Deulofeu Lázaro,28,Spain,177 cm,73 kg,False,45,Everton,25,9,891,Attacker,,False,16,7,21,,,3,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+308,18874,Dan,Gosling,32,England,183 cm,79 kg,False,34,Newcastle,8,4,361,Midfielder,,False,4,3,11,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+309,18887,Rob,Elliot,36,Republic of Ireland,190 cm,94 kg,False,34,Newcastle,2,2,180,Goalkeeper,,False,0,0,34,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+310,18891,Ciaran,Clark,33,Republic of Ireland,185 cm,88 kg,False,66,Aston Villa,27,23,2202,Defender,,False,4,2,13,,,0,,,,,,,,,,,,,,,,,8,0,0,,,,,,2013/2014
+311,18892,Paul,Dummett,31,Wales,183 cm,82 kg,False,34,Newcastle,18,11,1139,Defender,,False,7,1,16,,,1,,,,,,,,,,,,,,,,,1,0,1,,,,,,2013/2014
+312,18899,Isaac,Hayden,27,England,185 cm,79 kg,False,42,Arsenal,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+313,18904,Jonjo,Shelvey,30,England,184 cm,80 kg,False,76,Swansea,32,29,2477,Midfielder,,False,3,9,4,,,6,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+314,18941,Matt,Targett,27,England,183 cm,70 kg,False,41,Southampton,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+315,18961,Dan,Burn,30,England,198 cm,87 kg,False,36,Fulham,9,6,605,Defender,,False,3,1,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+316,19166,Dwight,Gayle,33,England,174 cm,78 kg,False,52,Crystal Palace,23,8,881,Attacker,,False,15,5,28,,,7,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+317,37114,Alexander,Büttner,33,Netherlands,174 cm,75 kg,False,33,Manchester United,8,5,497,Defender,,False,3,0,11,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+318,44580,Filip,Kiss,32,Slovakia,186 cm,,False,43,Cardiff,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+319,50940,Luís Carlos,Almeida da Cunha,36,Portugal,177 cm,72 kg,False,33,Manchester United,11,7,560,Midfielder,,False,4,6,11,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+320,1858,Lucas,Pezzini Leiva,35,Brazil,179 cm,74 kg,False,40,Liverpool,27,20,1870,Midfielder,,False,7,5,10,,,0,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+321,1859,Luis Alberto,Romero Alconchel,30,Spain,182 cm,70 kg,False,40,Liverpool,9,0,135,Midfielder,,False,9,0,25,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+322,2997,Łukasz,Fabiański,37,Poland,190 cm,83 kg,False,42,Arsenal,1,1,90,Goalkeeper,,False,0,0,35,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+323,18146,Danny,Ward,29,Wales,191 cm,88 kg,False,40,Liverpool,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+324,18770,Eldin,Jakupovic,38,Switzerland,191 cm,85 kg,False,64,Hull City,1,1,90,Goalkeeper,,False,0,0,5,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+325,18777,Marc,Albrighton,33,England,175 cm,74 kg,False,66,Aston Villa,19,9,968,Midfielder,,False,10,4,15,,,0,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+326,18815,Ryan,Fredericks,30,England,181 cm,74 kg,False,47,Tottenham,0,0,0,Defender,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+327,18826,Mark,Noble,35,England,180 cm,70 kg,False,48,West Ham,38,38,3344,Midfielder,,False,0,4,0,,,3,,,,,,,,,,,,,,,,,7,1,0,,,,,,2013/2014
+328,18936,Ryan,Bertrand,33,England,179 cm,85 kg,False,66,Aston Villa,16,16,1391,Defender,,False,0,5,0,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+329,19000,Kadeem Raymond,Mathurin-Harris,29,England,175 cm,67 kg,False,43,Cardiff,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+330,19147,Craig,Dawson,32,England,188 cm,82 kg,False,60,West Brom,12,10,949,Defender,,False,2,1,14,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+331,20496,Jacob,Butterfield,32,England,180 cm,77 kg,False,71,Norwich,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+332,28406,Lacina,Emeghara Traoré,32,Côte d'Ivoire,203 cm,87 kg,False,45,Everton,1,0,1,Attacker,,False,1,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+333,30412,Kevin,Mirallas,35,Belgium,182 cm,72 kg,False,45,Everton,32,28,2334,Midfielder,,False,4,17,7,,,8,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+334,30813,Sandro,Raniere Guimarães Cordeiro,33,Brazil,187 cm,82 kg,False,47,Tottenham,17,10,828,Midfielder,,False,7,6,13,,,1,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+335,36788,Vurnon San Benito,Anita,33,Curaçao,168 cm,63 kg,False,34,Newcastle,34,28,2464,Midfielder,,False,6,11,10,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+336,41158,João Carlos,Vilaça Teixeira,29,Portugal,176 cm,69 kg,False,40,Liverpool,1,0,8,Midfielder,,False,1,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+337,42246,Wilfried Guemiand,Bony,34,Côte d'Ivoire,182 cm,88 kg,False,76,Swansea,34,27,2467,Attacker,,False,7,8,8,,,17,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+338,48390,Ricky,van Wolfswinkel,33,Netherlands,186 cm,70 kg,False,71,Norwich,25,16,1392,Attacker,,False,9,11,12,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+339,66054,Libor,Kozák,33,Czech Republic,193 cm,84 kg,False,66,Aston Villa,14,8,780,Attacker,,False,6,5,8,,,4,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+340,106,Nacer,Chadli,33,Belgium,187 cm,80 kg,False,47,Tottenham,24,15,1453,Midfielder,,False,9,9,13,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+341,462,Konstantinos,Mitroglou,34,Greece,188 cm,86 kg,False,36,Fulham,3,1,151,Attacker,,False,2,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+342,1458,Mesut,Özil,34,Germany,180 cm,76 kg,False,42,Arsenal,26,25,2149,Midfielder,,False,1,11,1,,,5,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+343,1648,Fabio,Borini,31,Italy,180 cm,73 kg,False,746,Sunderland,32,25,2145,Attacker,,False,7,9,8,,,7,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+344,1815,Jonathan,de Guzmán,35,Netherlands,173 cm,70 kg,False,76,Swansea,34,26,2356,Midfielder,,False,8,10,8,,,4,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+345,2369,José Alberto,Cañas Ruiz Herrera,35,Spain,178 cm,69 kg,False,76,Swansea,23,19,1666,Midfielder,,False,4,6,11,,,0,,,,,,,,,,,,,,,,,5,0,0,,,,,,2013/2014
+346,2380,Chuba,Akpom,27,England,183 cm,70 kg,False,42,Arsenal,0,0,0,Attacker,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+347,8740,Apostolos,Vellios,30,Greece,191 cm,79 kg,False,45,Everton,0,0,0,Attacker,,False,0,0,5,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+348,18876,Jordon,Ibe,27,England,176 cm,81 kg,False,40,Liverpool,1,0,14,Attacker,,False,1,0,10,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+349,19326,Leroy Johan,Fer,32,Netherlands,188 cm,79 kg,False,71,Norwich,29,28,2465,Midfielder,,False,1,4,3,,,3,,,,,,,,,,,,,,,,,6,1,0,,,,,,2013/2014
+350,26904,Adil,Nabi,28,England,175 cm,68 kg,False,60,West Brom,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+351,30852,Emiliano,Viviano,37,Italy,195 cm,90 kg,False,42,Arsenal,0,0,0,Goalkeeper,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+352,48132,Muamer,Tankovic,27,Sweden,179 cm,74 kg,False,36,Fulham,3,1,60,Attacker,,False,2,1,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+353,48521,Pajtim,Kasami,30,Switzerland,188 cm,90 kg,False,36,Fulham,29,20,1806,Midfielder,,False,9,5,14,,,3,,,,,,,,,,,,,,,,,5,0,0,,,,,,2013/2014
+354,48679,Raphael Simon,Spiegel,30,Switzerland,197 cm,89 kg,False,48,West Ham,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+355,49840,Gaël Dimitri,Clichy,37,France,176 cm,65 kg,False,50,Manchester City,20,18,1660,Defender,,False,2,0,16,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+356,49905,Thievy Guivane,Bifouma Koulossa,30,Congo,180 cm,74 kg,False,60,West Brom,6,3,253,Attacker,,False,3,3,7,,,2,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+357,49946,Papiss Demba,Cissé,37,Senegal,183 cm,73 kg,False,34,Newcastle,24,15,1381,Attacker,,False,9,6,16,,,2,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+358,83023,Kerim,Frei Koyunlu,29,Turkey,171 cm,70 kg,False,36,Fulham,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+359,93699,Etien,Velikonja,34,Slovenia,178 cm,72 kg,False,43,Cardiff,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+360,634,David Josué,Jiménez Silva,36,Spain,173 cm,67 kg,False,50,Manchester City,27,26,2173,Midfielder,,False,1,14,1,,,7,,,,,,,,,,,,,,,,,5,0,0,,,,,,2013/2014
+361,1375,Roberto,Soldado Rillo,37,Spain,180 cm,74 kg,False,47,Tottenham,28,22,1931,Attacker,,False,6,10,14,,,6,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+362,1439,Héctor,Bellerín Moruno,27,Spain,178 cm,74 kg,False,42,Arsenal,0,0,0,Defender,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+363,1447,Ignacio,Monreal Eraso,36,Spain,179 cm,72 kg,False,42,Arsenal,23,13,1180,Defender,,False,10,4,18,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+364,1558,Joel,Robles Blázquez,32,Spain,195 cm,78 kg,False,45,Everton,2,1,156,Goalkeeper,,False,1,0,37,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+365,19129,Pablo,Hernández Domínguez,37,Spain,173 cm,64 kg,False,76,Swansea,27,17,1428,Midfielder,,False,10,11,10,,,2,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+366,19148,Kieran,Gibbs,33,England,179 cm,70 kg,False,42,Arsenal,28,24,2054,Defender,,False,4,3,6,,,0,,,,,,,,,,,,,,,,,2,0,1,,,,,,2013/2014
+367,19575,Geoff,Cameron,37,USA,191 cm,84 kg,False,75,Stoke City,37,37,3286,Defender,,False,0,1,0,,,2,,,,,,,,,,,,,,,,,7,0,0,,,,,,2013/2014
+368,22240,Loïc Alex Teliére,Hubert Rémy,35,France,185 cm,80 kg,False,34,Newcastle,26,24,2103,Attacker,,False,2,7,2,,,14,,,,,,,,,,,,,,,,,2,0,1,,,,,,2013/2014
+369,39341,Yacouba,Sylla,32,Mali,184 cm,79 kg,False,66,Aston Villa,11,5,547,Midfielder,,False,6,2,31,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+370,46998,Juan,Torres Ruiz,33,Spain,185 cm,78 kg,False,43,Cardiff,7,7,585,Defender,,False,0,0,5,,,2,,,,,,,,,,,,,,,,,3,0,1,,,,,,2013/2014
+371,47066,Álvaro,Vázquez García,31,Spain,182 cm,75 kg,False,76,Swansea,12,5,411,Attacker,,False,7,3,20,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+372,47371,John,Guidetti,30,Sweden,185 cm,79 kg,False,75,Stoke City,6,0,59,Attacker,,False,6,1,12,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+373,47445,Iago,Aspas Juncal,35,Spain,176 cm,67 kg,False,40,Liverpool,14,5,378,Attacker,,False,9,5,28,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+374,47455,Antonio Manuel,Luna Rodríguez,31,Spain,178 cm,68 kg,False,66,Aston Villa,17,16,1381,Defender,,False,1,2,3,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+375,47464,José Ángel,Gómez Campaña,29,Spain,179 cm,70 kg,False,52,Crystal Palace,6,4,311,Midfielder,,False,2,4,8,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+376,50502,Álvaro,Negredo Sánchez,37,Spain,186 cm,71 kg,False,50,Manchester City,32,21,1724,Attacker,,False,11,13,17,,,9,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+377,50818,Alejandro,Pozuelo Melero,31,Spain,170 cm,75 kg,False,76,Swansea,22,7,876,Midfielder,,False,15,5,17,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+378,50869,Bradley Edwin,Guzan,38,USA,193 cm,94 kg,False,66,Aston Villa,38,38,3420,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+379,95571,Óscar Alfredo,Ustari,36,Argentina,184 cm,82 kg,False,746,Sunderland,0,0,0,Goalkeeper,,False,0,0,16,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+380,121,Stevan,Jovetić,33,Montenegro,183 cm,79 kg,False,50,Manchester City,13,2,361,Attacker,,False,11,3,17,,,3,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+381,159,Hugo,Lloris,36,France,188 cm,82 kg,False,47,Tottenham,37,37,3330,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+382,174,Christian,Dannemann Eriksen,30,Denmark,182 cm,76 kg,False,47,Tottenham,25,23,1982,Midfielder,,False,2,9,5,,,7,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+383,184,Harry,Kane,29,England,188 cm,86 kg,False,47,Tottenham,10,6,498,Attacker,,False,4,2,10,,,3,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+384,315,Vlad Iulian,Chiricheș,33,Romania,184 cm,75 kg,False,47,Tottenham,17,16,1413,Defender,,False,1,2,6,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+385,403,Matija,Nastasić,29,Serbia,188 cm,83 kg,False,50,Manchester City,13,11,1028,Defender,,False,2,1,5,,,1,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+386,780,Steven N'Kemboanza Mike Christ,Nzonzi,34,France,196 cm,75 kg,False,75,Stoke City,36,34,3042,Midfielder,,False,2,2,3,,,2,,,,,,,,,,,,,,,,,5,1,0,,,,,,2013/2014
+387,1108,Anga Dedryck,Boyata,32,Belgium,188 cm,84 kg,False,50,Manchester City,1,1,55,Defender,,False,0,1,7,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+388,1274,Andreas Evald,Cornelius,29,Denmark,193 cm,91 kg,False,43,Cardiff,8,0,105,Attacker,,False,8,0,11,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+389,1695,Santiago,Cazorla González,38,Spain,168 cm,65 kg,False,42,Arsenal,31,30,2596,Midfielder,,False,1,10,3,,,4,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+390,2924,Adnan,Januzaj,27,Belgium,186 cm,76 kg,False,33,Manchester United,27,15,1640,Midfielder,,False,12,7,16,,,4,,,,,,,,,,,,,,,,,7,0,0,,,,,,2013/2014
+391,2928,Christian,Benteke Liolo,32,Belgium,190 cm,83 kg,False,66,Aston Villa,26,24,2127,Attacker,,False,2,4,2,,,10,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+392,2938,James,Ward-Prowse,28,England,173 cm,66 kg,False,41,Southampton,34,16,1604,Midfielder,,False,18,7,22,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+393,18741,Conor,Coady,29,England,185 cm,75 kg,False,40,Liverpool,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+394,18772,Jonathan Grant,Evans,34,Northern Ireland,188 cm,77 kg,False,33,Manchester United,17,17,1378,Defender,,False,0,3,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+395,18830,Marko,Arnautović,33,Austria,192 cm,83 kg,False,75,Stoke City,30,27,2258,Attacker,,False,3,13,5,,,4,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+396,18836,Wayne Robert,Hennessey,35,Wales,198 cm,90 kg,False,52,Crystal Palace,1,1,90,Goalkeeper,,False,0,0,14,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+397,18962,Shane Patrick Michael,Duffy,30,Republic of Ireland,193 cm,76 kg,False,45,Everton,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+398,19061,Tim,Krul,34,Netherlands,188 cm,84 kg,False,34,Newcastle,36,36,3240,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+399,50889,Brek,Shea,32,USA,191 cm,86 kg,False,75,Stoke City,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+400,164,Benjamin,Thomas Davies,29,Wales,181 cm,76 kg,False,76,Swansea,34,32,2873,Defender,,False,2,1,3,,,2,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+401,409,Nabil,Bentaleb,28,Algeria,187 cm,78 kg,False,47,Tottenham,15,11,1068,Midfielder,,False,4,1,11,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+402,655,Rafael,Pereira da Silva,32,Brazil,172 cm,78 kg,False,33,Manchester United,19,18,1421,Defender,,False,1,9,3,,,0,,,,,,,,,,,,,,,,,5,0,0,,,,,,2013/2014
+403,666,Moussa,Dembélé,26,France,183 cm,73 kg,False,36,Fulham,2,1,88,Attacker,,False,1,1,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+404,1432,Yannick,Bolasie Yala,33,Congo DR,188 cm,84 kg,False,52,Crystal Palace,29,23,2040,Attacker,,False,6,14,6,,,0,,,,,,,,,,,,,,,,,1,0,1,,,,,,2013/2014
+405,3247,Wilfried,Zaha,30,Côte d'Ivoire,180 cm,66 kg,False,43,Cardiff,12,5,582,Attacker,,False,7,4,9,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+406,3333,Massadio,Haïdara,30,Mali,179 cm,76 kg,False,34,Newcastle,11,3,425,Defender,,False,8,0,22,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+407,12692,Oscar,dos Santos Emboaba Júnior,31,Brazil,181 cm,71 kg,False,49,Chelsea,33,24,2140,Midfielder,,False,9,16,10,,,8,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+408,12709,Guangtai,Jiang,28,China PR,180 cm,76 kg,False,45,Everton,0,0,0,Defender,,False,0,0,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+409,12753,Marouane,Fellaini-Bakkioui,35,Belgium,194 cm,85 kg,False,33,Manchester United,16,12,1105,Midfielder,,False,4,5,9,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+410,18764,Morgan,Schneiderlin,33,France,181 cm,75 kg,False,41,Southampton,33,31,2766,Midfielder,,False,2,3,2,,,2,,,,,,,,,,,,,,,,,8,0,0,,,,,,2013/2014
+411,18842,Mamadou,Sakho,32,France,187 cm,83 kg,False,40,Liverpool,18,17,1480,Defender,,False,1,3,9,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+412,18944,Maya,Yoshida,34,Japan,189 cm,78 kg,False,41,Southampton,8,7,632,Defender,,False,1,0,14,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+413,19006,Rhys James,Evitt-Healey,28,England,180 cm,72 kg,False,43,Cardiff,1,0,14,Attacker,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+414,20664,El-Hadji,Ba,29,France,183 cm,75 kg,False,746,Sunderland,1,0,19,Midfielder,,False,1,0,10,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+415,21089,Fábio,Pereira da Silva,32,Brazil,172 cm,65 kg,False,43,Cardiff,13,13,1002,Defender,,False,0,9,1,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+416,21705,Romain,Amalfitano,33,France,175 cm,72 kg,False,34,Newcastle,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+417,22085,Mathieu,Debuchy,37,France,176 cm,76 kg,False,34,Newcastle,29,28,2494,Defender,,False,1,4,1,,,1,,,,,,,,,,,,,,,,,8,0,1,,,,,,2013/2014
+418,49892,Hugo,Rodallega Martínez,37,Colombia,181 cm,72 kg,False,36,Fulham,13,6,621,Attacker,,False,7,1,14,,,2,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+419,90497,Winston Wiremu,Reid,34,New Zealand,190 cm,87 kg,False,48,West Ham,22,18,1674,Defender,,False,4,0,6,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+420,2821,Miloš,Veljković,27,Serbia,184 cm,77 kg,False,47,Tottenham,2,0,30,Defender,,False,2,0,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+421,3106,Saido,Berahino,29,Burundi,180 cm,82 kg,False,60,West Brom,32,11,1404,Attacker,,False,21,6,27,,,5,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+422,17454,Ben Howard,Turner,34,England,193 cm,91 kg,False,43,Cardiff,31,30,2721,Defender,,False,1,1,7,,,0,,,,,,,,,,,,,,,,,5,0,0,,,,,,2013/2014
+423,17601,Hiram Kojo Kwarteng,Boateng,26,England,183 cm,70 kg,False,52,Crystal Palace,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+424,18025,David Owen,Vaughan,39,Wales,171 cm,70 kg,False,746,Sunderland,3,2,173,Midfielder,,False,1,1,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+425,18857,Connor Neil Ralph,Wickham,29,England,191 cm,90 kg,False,746,Sunderland,9,9,703,Attacker,,False,0,4,1,,,5,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+426,18987,Joe,Bennett,32,England,177 cm,74 kg,False,66,Aston Villa,5,3,244,Defender,,False,2,3,10,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+427,19210,Andre,Wisdom,29,England,186 cm,,False,40,Liverpool,2,1,81,Defender,,False,1,1,6,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+428,19243,Mikel John,Obi,35,Nigeria,188 cm,86 kg,False,49,Chelsea,24,11,1063,Midfielder,,False,13,4,20,,,1,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+429,19252,Rudy,Gestede,34,Benin,193 cm,86 kg,False,43,Cardiff,3,0,50,Attacker,,False,3,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+430,19261,Jack Paul,Hunt,32,England,175 cm,70 kg,False,52,Crystal Palace,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+431,19357,Joshua Mark,McEachran,29,England,178 cm,65 kg,False,49,Chelsea,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+432,19387,Barry Ryan,Bannan,33,Scotland,169 cm,61 kg,False,52,Crystal Palace,15,13,1004,Midfielder,,False,2,11,12,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+433,19507,James Joseph,McClean,33,Republic of Ireland,180 cm,70 kg,False,746,Sunderland,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+434,19627,Benjamin Paul,Amos,32,England,180 cm,69 kg,False,33,Manchester United,0,0,0,Goalkeeper,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+435,19979,David Adam,Stockdale,37,England,191 cm,84 kg,False,36,Fulham,21,19,1738,Goalkeeper,,False,2,0,19,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+436,20403,Conor James,Grant,27,England,176 cm,80 kg,False,45,Everton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+437,24876,Lewis Harry,Holtby,32,Germany,176 cm,72 kg,False,36,Fulham,13,11,923,Midfielder,,False,2,4,2,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+438,24941,Mats,Møller Dæhli,27,Norway,177 cm,72 kg,False,43,Cardiff,13,5,624,Midfielder,,False,8,4,10,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+439,49931,Steven Roy,Caulker,31,Sierra Leone,191 cm,76 kg,False,43,Cardiff,38,38,3420,Defender,,False,0,0,0,,,5,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+440,158,Paulo Dino,Gazzaniga,30,Argentina,196 cm,90 kg,False,41,Southampton,8,7,662,Goalkeeper,,False,1,0,13,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+441,1758,Jermain Colin,Defoe,40,England,171 cm,65 kg,False,47,Tottenham,14,3,426,Attacker,,False,11,0,17,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+442,2281,Gary,Cahill,37,England,193 cm,86 kg,False,49,Chelsea,30,29,2623,Defender,,False,1,0,8,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+443,13109,Omatsone Folarin,Aluko,33,Nigeria,173 cm,62 kg,False,64,Hull City,17,10,933,Attacker,,False,7,8,9,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+444,18828,Robert,Snodgrass,35,Scotland,182 cm,82 kg,False,71,Norwich,30,29,2571,Midfielder,,False,1,4,1,,,6,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+445,18921,Robbie,Brady,30,Republic of Ireland,176 cm,71 kg,False,64,Hull City,16,11,892,Midfielder,,False,5,8,6,,,3,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+446,19051,Alex David,Pritchard,29,England,171 cm,62 kg,False,47,Tottenham,1,0,7,Midfielder,,False,1,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+447,19097,Enda,Stevens,32,Republic of Ireland,183 cm,78 kg,False,66,Aston Villa,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+448,19174,Jed John,Steer,30,England,183 cm,80 kg,False,66,Aston Villa,0,0,0,Goalkeeper,,False,0,0,38,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+449,19184,Thomas James,Carroll,30,England,177 cm,71 kg,False,47,Tottenham,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+450,19294,Jack,Robinson,29,England,180 cm,67 kg,False,1356,Blackpool,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+451,19429,Fraizer,Campbell,35,England,172 cm,82 kg,False,43,Cardiff,37,32,2772,Attacker,,False,5,18,6,,,6,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+452,19480,Harrison,Reed,27,England,181 cm,72 kg,False,41,Southampton,4,0,8,Midfielder,,False,4,0,11,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+453,19645,Ryan,Tunnicliffe,30,England,183 cm,90 kg,False,36,Fulham,1,0,11,Midfielder,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+454,19756,Daniel,Potts,28,England,173 cm,76 kg,False,48,West Ham,0,0,0,Defender,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+455,19767,Pelly-Ruddock,Mpanzu,28,Congo DR,175 cm,63 kg,False,48,West Ham,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+456,19907,Aiden John,McGeady,36,Republic of Ireland,180 cm,71 kg,False,45,Everton,16,4,469,Attacker,,False,12,4,13,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+457,20167,Janoi,Donacien,29,St. Lucia,183 cm,75 kg,False,66,Aston Villa,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+458,47521,Patrick John Joseph,Roberts,25,England,168 cm,58 kg,False,36,Fulham,2,0,43,Midfielder,,False,2,0,7,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+459,50188,Cameron,Jerome,36,England,185 cm,85 kg,False,52,Crystal Palace,28,20,1756,Attacker,,False,8,15,9,,,2,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+460,17947,Liam Christian James,O'Neil,29,England,180 cm,80 kg,False,60,West Brom,3,0,15,Defender,,False,3,0,7,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+461,18954,Sam,Gallagher,27,England,194 cm,75 kg,False,41,Southampton,18,3,379,Attacker,,False,15,3,21,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+462,19089,Simon,Moore,32,England,191 cm,83 kg,False,43,Cardiff,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+463,19158,Wesley,Hoolahan,40,Republic of Ireland,168 cm,71 kg,False,71,Norwich,16,10,802,Midfielder,,False,6,9,19,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+464,19181,Neil,Taylor,33,Wales,176 cm,64 kg,False,76,Swansea,10,6,589,Defender,,False,4,1,26,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+465,19216,Bradley,Johnson,35,England,178 cm,68 kg,False,71,Norwich,32,28,2461,Midfielder,,False,4,5,9,,,3,,,,,,,,,,,,,,,,,6,0,1,,,,,,2013/2014
+466,19233,Daniel,Sanchez Ayala,32,Spain,190 cm,84 kg,False,71,Norwich,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+467,19240,Jonathan,Howson,34,England,180 cm,76 kg,False,71,Norwich,27,23,2086,Midfielder,,False,4,3,5,,,2,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+468,19299,Jack,Colback,33,England,177 cm,77 kg,False,746,Sunderland,33,28,2425,Midfielder,,False,5,7,9,,,3,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+469,19317,Declan Christopher,John,27,Wales,178 cm,75 kg,False,43,Cardiff,20,16,1487,Defender,,False,4,1,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+470,19342,Luke,Daniels,34,England,185 cm,81 kg,False,60,West Brom,1,0,12,Goalkeeper,,False,1,0,14,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+471,19368,Keiren,Westwood,38,Republic of Ireland,187 cm,92 kg,False,746,Sunderland,10,10,853,Goalkeeper,,False,0,1,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+472,19407,David James,Marshall,37,Scotland,187 cm,83 kg,False,43,Cardiff,37,37,3330,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+473,19474,Elliott,Bennett,34,England,179 cm,73 kg,False,71,Norwich,2,1,105,Midfielder,,False,1,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+474,19699,Sammy,Ameobi,30,England,190 cm,66 kg,False,34,Newcastle,10,4,373,Midfielder,,False,6,3,18,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+475,19776,Elliot Robert,Lee,28,England,180 cm,72 kg,False,48,West Ham,1,0,2,Attacker,,False,1,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+476,19865,Lloyd Jeffrey,Isgrove,29,Wales,178 cm,72 kg,False,41,Southampton,0,0,0,Midfielder,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+477,20389,Lloyd Richard,Jones,27,England,190 cm,75 kg,False,40,Liverpool,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+478,37256,Stephen,Sama,29,Germany,189 cm,87 kg,False,40,Liverpool,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+479,45027,Ryan Stuart Clayton,Inniss,27,England,197 cm,82 kg,False,52,Crystal Palace,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+480,1133,Scott,Sinclair,33,England,175 cm,64 kg,False,60,West Brom,8,4,301,Midfielder,,False,4,4,13,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+481,17406,Jordan Bernard,Rossiter,25,England,178 cm,68 kg,False,40,Liverpool,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+482,18738,Ryan,Bennett,32,England,188 cm,77 kg,False,71,Norwich,16,14,1348,Defender,,False,2,0,15,,,1,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+483,18831,Andrew Thomas,Carroll,33,England,193 cm,79 kg,False,48,West Ham,15,12,1094,Attacker,,False,3,5,3,,,2,,,,,,,,,,,,,,,,,0,0,1,,,,,,2013/2014
+484,19002,Josh,Murphy,27,England,173 cm,67 kg,False,71,Norwich,9,0,130,Midfielder,,False,9,0,17,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+485,19143,Sam,Johnstone,29,England,193 cm,85 kg,False,33,Manchester United,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+486,19146,Kyle,Bartley,31,England,185 cm,76 kg,False,76,Swansea,2,1,90,Defender,,False,1,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+487,19160,Jake,Livermore,33,England,180 cm,76 kg,False,64,Hull City,36,34,3055,Midfielder,,False,2,2,2,,,3,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+488,19297,Liam Robert,Bridcutt,33,Scotland,175 cm,73 kg,False,746,Sunderland,12,9,847,Midfielder,,False,3,1,3,,,0,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+489,19301,Adlène,Guédioura,37,Algeria,186 cm,81 kg,False,52,Crystal Palace,8,4,317,Midfielder,,False,4,3,7,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+490,19318,Kyle,Naughton,34,England,180 cm,73 kg,False,47,Tottenham,22,19,1744,Defender,,False,3,2,14,,,0,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+491,19327,Jay,Fulton,28,Scotland,178 cm,68 kg,False,76,Swansea,2,1,80,Midfielder,,False,1,1,4,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+492,19451,Daniel Anthony,Johnson,30,Jamaica,174 cm,67 kg,False,66,Aston Villa,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+493,19452,Ryan,Ledson,25,England,178 cm,69 kg,False,45,Everton,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+494,19462,Callum Jack,Robinson,27,Republic of Ireland,178 cm,75 kg,False,66,Aston Villa,4,0,46,Attacker,,False,4,0,11,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+495,19561,Anthony Neil James,Pilkington,34,Republic of Ireland,181 cm,81 kg,False,71,Norwich,15,10,832,Midfielder,,False,5,8,9,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+496,20018,John Robert,Brayford,35,England,173 cm,71 kg,False,43,Cardiff,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+497,20361,Abdulyussuf Adedeji Adeniyi,Oshilaja,29,England,180 cm,76 kg,False,43,Cardiff,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+498,100943,Leroy,Lita,38,England,176 cm,80 kg,False,76,Swansea,2,0,34,Attacker,,False,2,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+499,104777,Lee,Lucas,30,Wales,175 cm,,False,76,Swansea,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+500,18759,Philip Nikodem,Jagielka,40,England,180 cm,87 kg,False,45,Everton,26,26,2316,Defender,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+501,18839,Scott,Dann,35,England,188 cm,76 kg,False,52,Crystal Palace,14,14,1260,Defender,,False,0,0,0,,,1,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+502,18983,Neil Leonard,Dula Etheridge,32,Philippines,188 cm,90 kg,False,36,Fulham,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+503,18997,Leandro Jones Johan,Bacuna,31,Curaçao,187 cm,77 kg,False,66,Aston Villa,35,28,2596,Midfielder,,False,7,3,9,,,5,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+504,19003,Joe,Ralls,29,England,178 cm,70 kg,False,43,Cardiff,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+505,19175,James,Chester,33,Wales,180 cm,75 kg,False,64,Hull City,24,22,1869,Defender,,False,2,3,3,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+506,19215,Tom,Huddlestone,36,England,188 cm,71 kg,False,64,Hull City,36,35,3145,Midfielder,,False,1,2,2,,,2,,,,,,,,,,,,,,,,,5,1,0,,,,,,2013/2014
+507,19259,Nathan,Baker,31,England,189 cm,82 kg,False,66,Aston Villa,30,29,2479,Defender,,False,1,2,4,,,0,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+508,19262,Tomáš,Kalas,29,Czech Republic,183 cm,80 kg,False,49,Chelsea,2,2,180,Defender,,False,0,0,7,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+509,19283,Andreas,Weimann,31,Austria,188 cm,76 kg,False,66,Aston Villa,37,31,2657,Attacker,,False,6,17,6,,,5,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+510,19398,Steven,Fletcher,35,Scotland,185 cm,76 kg,False,746,Sunderland,20,13,1238,Attacker,,False,7,7,7,,,3,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+511,19502,Joseph Michael,Allen,32,Wales,168 cm,62 kg,False,40,Liverpool,24,15,1440,Midfielder,,False,9,4,15,,,1,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+512,19505,Thomas,Ince,30,England,178 cm,66 kg,False,52,Crystal Palace,8,5,411,Midfielder,,False,3,4,9,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+513,19527,Gary,Gardner,30,England,186 cm,82 kg,False,66,Aston Villa,0,0,0,Midfielder,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+514,19562,Nick,Powell,28,England,183 cm,65 kg,False,33,Manchester United,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+515,19611,Lewis Renard,Baker,27,England,182 cm,72 kg,False,49,Chelsea,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+516,19619,John,Swift,27,England,182 cm,73 kg,False,49,Chelsea,1,0,1,Midfielder,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+517,20104,Luke,Garbutt,29,England,179 cm,73 kg,False,45,Everton,1,0,0,Defender,,False,1,0,13,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+518,20232,Ryan,McLaughlin,28,Northern Ireland,183 cm,75 kg,False,40,Liverpool,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+519,87303,Stuart Antony Alan,O'Keefe,31,England,173 cm,64 kg,False,52,Crystal Palace,12,2,389,Midfielder,,False,10,0,21,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+520,17414,Nicholas David,Maynard,36,England,180 cm,70 kg,False,43,Cardiff,8,0,121,Attacker,,False,8,0,15,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+521,17596,Dean William,Moxey,36,England,180 cm,70 kg,False,52,Crystal Palace,20,18,1519,Defender,,False,2,2,5,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+522,17698,Jordan Nathaniel,Bowery,31,England,185 cm,76 kg,False,66,Aston Villa,4,2,172,Attacker,,False,2,2,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+523,17767,David,Cornell,31,Wales,180 cm,73 kg,False,76,Swansea,0,0,0,Goalkeeper,,False,0,0,5,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+524,18040,Thomas Lynn,James,26,Wales,180 cm,65 kg,False,43,Cardiff,1,0,1,Defender,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+525,18121,Ibou Omar,Touray,28,Gambia,177 cm,68 kg,False,45,Everton,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+526,19193,Glenn David,Whelan,38,Republic of Ireland,180 cm,79 kg,False,75,Stoke City,31,28,2346,Midfielder,,False,3,10,9,,,0,,,,,,,,,,,,,,,,,5,1,0,,,,,,2013/2014
+527,19204,Curtis,Davies,37,England,188 cm,76 kg,False,64,Hull City,37,37,3326,Defender,,False,0,1,0,,,2,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+528,19218,Tom,Lawrence,28,Wales,175 cm,75 kg,False,33,Manchester United,1,1,70,Midfielder,,False,0,1,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+529,19514,Lee,Camp,38,Northern Ireland,183 cm,75 kg,False,60,West Brom,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+530,19808,Cauley,Woodrow,28,England,184 cm,78 kg,False,36,Fulham,6,5,410,Attacker,,False,1,3,4,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+531,19837,Jonathan Peter,Williams,29,Wales,168 cm,60 kg,False,52,Crystal Palace,9,0,179,Midfielder,,False,9,0,15,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+532,20033,Stephen Jude,Quinn,36,Republic of Ireland,168 cm,60 kg,False,64,Hull City,15,4,503,Midfielder,,False,11,2,22,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+533,20045,Donervon Joseph,Daniels,29,Montserrat,186 cm,91 kg,False,60,West Brom,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+534,20059,Jay Francis,Spearing,34,England,171 cm,70 kg,False,68,Bolton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+535,20375,Kwesi,Appiah,32,Ghana,180 cm,80 kg,False,52,Crystal Palace,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+536,44796,Conor Michael,McAleny,30,England,178 cm,78 kg,False,45,Everton,0,0,0,Attacker,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+537,44826,James Anthony,Wilson,27,England,183 cm,73 kg,False,33,Manchester United,1,1,64,Attacker,,False,0,1,1,,,2,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+538,48105,Ravel Ryan,Morrison,29,Jamaica,175 cm,71 kg,False,48,West Ham,16,12,1154,Midfielder,,False,4,2,7,,,3,,,,,,,,,,,,,,,,,5,0,0,,,,,,2013/2014
+539,82359,Jamar Kasheef,Loza,28,Jamaica,178 cm,71 kg,False,71,Norwich,1,0,31,Attacker,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+540,626,John,Stones,28,England,188 cm,70 kg,False,45,Everton,21,15,1366,Defender,,False,6,1,22,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+541,627,Kyle,Walker,32,England,178 cm,70 kg,False,47,Tottenham,26,26,2298,Defender,,False,0,1,1,,,1,,,,,,,,,,,,,,,,,5,0,0,,,,,,2013/2014
+542,629,Kevin,De Bruyne,31,Belgium,181 cm,68 kg,False,49,Chelsea,3,2,132,Midfielder,,False,1,2,7,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+543,640,Fernando Luiz,Rosa,37,Brazil,179 cm,67 kg,False,50,Manchester City,33,29,2609,Midfielder,,False,4,5,6,,,5,,,,,,,,,,,,,,,,,8,0,0,,,,,,2013/2014
+544,17492,George Christopher,Williams,27,Wales,172 cm,73 kg,False,36,Fulham,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+545,17628,Ben William,Nugent,30,England,193 cm,83 kg,False,43,Cardiff,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+546,17674,Hallam Robert,Hope,28,Barbados,179 cm,76 kg,False,45,Everton,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+547,17877,Adam,Campbell,27,England,169 cm,73 kg,False,34,Newcastle,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+548,18000,Ross Alan Richard Frank,Fitzsimons,28,England,189 cm,75 kg,False,52,Crystal Palace,0,0,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+549,18230,Alex James,Wynter,29,England,183 cm,84 kg,False,52,Crystal Palace,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+550,18417,Joshua Jordan,Passley,28,England,184 cm,78 kg,False,36,Fulham,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+551,18703,Ibra,Sekajja,30,Uganda,,,False,52,Crystal Palace,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+552,18861,Nathan Benjamin,Aké,27,Netherlands,180 cm,75 kg,False,49,Chelsea,1,0,11,Defender,,False,1,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+553,19784,Ezekiel David,Fryers,30,England,183 cm,75 kg,False,47,Tottenham,7,3,397,Defender,,False,4,0,13,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+554,44841,Gaël,Bigirimana,29,Burundi,173 cm,71 kg,False,34,Newcastle,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+555,45306,Stephen,Dobbie,40,Scotland,178 cm,65 kg,False,52,Crystal Palace,1,1,66,Attacker,,False,0,1,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+556,57146,Jernade Ronnel,Meade,30,Montserrat,160 cm,70 kg,False,76,Swansea,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+557,82488,Adam Joseph,Morgan,28,England,179 cm,71 kg,False,40,Liverpool,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+558,87876,Rory,Donnelly,30,Northern Ireland,188 cm,,False,76,Swansea,0,0,0,Attacker,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+559,114795,Gregor,Zabret,27,Slovenia,187 cm,82 kg,False,76,Swansea,0,0,0,Goalkeeper,,False,0,0,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+560,157,Luis Alberto,Suárez Díaz,35,Uruguay,182 cm,86 kg,False,40,Liverpool,33,33,2964,Attacker,,False,0,3,0,,,31,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+561,170,Jan Bert Lieve,Vertonghen,35,Belgium,189 cm,79 kg,False,47,Tottenham,23,23,2004,Defender,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+562,282,Simon Luc Hildebert,Mignolet,34,Belgium,193 cm,87 kg,False,40,Liverpool,38,38,3420,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+563,292,Jordan,Henderson,32,England,182 cm,67 kg,False,40,Liverpool,35,35,3130,Midfielder,,False,0,1,0,,,4,,,,,,,,,,,,,,,,,4,0,1,,,,,,2013/2014
+564,296,James Philip,Milner,36,England,175 cm,70 kg,False,50,Manchester City,31,12,1358,Midfielder,,False,19,3,25,,,1,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+565,297,Alex,Oxlade-Chamberlain,29,England,180 cm,70 kg,False,42,Arsenal,14,6,524,Midfielder,,False,8,4,10,,,2,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+566,306,Mohamed,Salah Ghaly,30,Egypt,175 cm,71 kg,False,49,Chelsea,10,6,501,Attacker,,False,4,4,8,,,2,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+567,510,Serge David,Gnabry,27,Germany,176 cm,77 kg,False,42,Arsenal,9,5,464,Midfielder,,False,4,6,21,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+568,578,Adel,Taarabt,33,Morocco,185 cm,77 kg,False,36,Fulham,12,7,593,Midfielder,,False,5,4,9,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+569,645,Raheem,Sterling,28,England,170 cm,69 kg,False,40,Liverpool,33,24,2217,Attacker,,False,9,9,14,,,9,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+570,758,Gareth Frank,Bale,33,Wales,185 cm,81 kg,False,47,Tottenham,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+571,771,Aleksandar,Kolarov,37,Serbia,187 cm,81 kg,False,50,Manchester City,30,21,1970,Defender,,False,9,1,16,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+572,790,Edin,Džeko,36,Bosnia and Herzegovina,193 cm,80 kg,False,50,Manchester City,31,23,1992,Attacker,,False,8,13,14,,,16,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+573,1477,Sebastián,Coates Nión,32,Uruguay,196 cm,92 kg,False,40,Liverpool,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+574,2295,Olivier,Giroud,36,France,192 cm,93 kg,False,42,Arsenal,36,36,3083,Attacker,,False,0,16,1,,,16,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+575,2296,Eden Michael,Hazard,31,Belgium,175 cm,74 kg,False,49,Chelsea,35,32,2896,Attacker,,False,3,11,3,,,14,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+576,2792,Aron Einar,Malmquist Gunnarsson,33,Iceland,177 cm,95 kg,False,43,Cardiff,23,17,1539,Midfielder,,False,6,7,16,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+577,18756,Maarten,Stekelenburg,40,Netherlands,197 cm,92 kg,False,36,Fulham,19,19,1682,Goalkeeper,,False,0,2,7,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+578,18812,Adrián,San Miguel del Castillo,35,Spain,190 cm,80 kg,False,48,West Ham,20,20,1800,Goalkeeper,,False,0,0,18,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+579,47508,Marc,Muniesa Martínez,30,Spain,179 cm,72 kg,False,75,Stoke City,13,7,826,Defender,,False,6,1,23,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+580,176,Erik,Lamela,30,Argentina,181 cm,79 kg,False,47,Tottenham,9,3,327,Midfielder,,False,6,2,14,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+581,246,Luuk,de Jong,32,Netherlands,188 cm,86 kg,False,34,Newcastle,12,8,670,Attacker,,False,4,7,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+582,851,Wojciech Tomasz,Szczęsny,32,Poland,195 cm,90 kg,False,42,Arsenal,37,37,3330,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+583,882,David,de Gea Quintana,32,Spain,192 cm,76 kg,False,33,Manchester United,37,37,3330,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+584,888,Phil,Jones,30,England,180 cm,71 kg,False,33,Manchester United,26,26,2175,Defender,,False,0,3,0,,,1,,,,,,,,,,,,,,,,,5,0,0,,,,,,2013/2014
+585,891,Luke,Shaw,27,England,185 cm,75 kg,False,41,Southampton,35,35,2994,Defender,,False,0,5,1,,,0,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+586,900,Jesse,Lingard,30,England,175 cm,62 kg,False,33,Manchester United,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+587,901,Juan Manuel,Mata García,34,Spain,170 cm,63 kg,False,33,Manchester United,15,14,1229,Midfielder,,False,1,6,2,,,6,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+588,902,Nemanja,Matić,34,Serbia,194 cm,85 kg,False,49,Chelsea,17,15,1364,Midfielder,,False,2,1,2,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+589,907,Romelu,Lukaku Menama,29,Belgium,190 cm,93 kg,False,45,Everton,31,29,2561,Attacker,,False,2,9,2,,,15,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+590,924,Francis,Coquelin,31,France,176 cm,74 kg,False,42,Arsenal,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+591,2054,Jesús,Navas González,37,Spain,172 cm,60 kg,False,50,Manchester City,30,18,1775,Defender,,False,12,8,13,,,4,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+592,2205,Hatem,Ben Arfa,35,France,178 cm,65 kg,False,34,Newcastle,27,13,1305,Midfielder,,False,14,6,17,,,3,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+593,2278,Marcos,Alonso Mendoza,32,Spain,188 cm,84 kg,False,746,Sunderland,16,16,1440,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,5,1,0,,,,,,2013/2014
+594,2280,César,Azpilicueta Tanco,33,Spain,178 cm,76 kg,False,49,Chelsea,29,26,2325,Defender,,False,3,2,9,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+595,2287,Ross,Barkley,29,England,189 cm,76 kg,False,45,Everton,34,25,2290,Midfielder,,False,9,13,10,,,6,,,,,,,,,,,,,,,,,5,0,0,,,,,,2013/2014
+596,2675,José Miguel,da Rocha Fonte,39,Portugal,187 cm,81 kg,False,41,Southampton,36,35,3181,Defender,,False,1,0,3,,,3,,,,,,,,,,,,,,,,,7,0,0,,,,,,2013/2014
+597,18802,Etienne,Capoue,34,France,189 cm,80 kg,False,47,Tottenham,12,8,685,Midfielder,,False,4,4,11,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+598,19012,Marcus,Bettinelli,30,England,194 cm,82 kg,False,36,Fulham,0,0,0,Goalkeeper,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+599,19319,Martin Tony Waikwa,Olsson,34,Sweden,178 cm,81 kg,False,71,Norwich,34,33,2965,Defender,,False,1,1,3,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+600,111,Marcos Paulo,Mesquita Lopes,27,Portugal,174 cm,68 kg,False,50,Manchester City,0,0,0,Attacker,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+601,630,Fabian,Delph,33,England,174 cm,60 kg,False,66,Aston Villa,34,33,3003,Midfielder,,False,1,0,1,,,3,,,,,,,,,,,,,,,,,7,0,0,,,,,,2013/2014
+602,1316,Kévin,Théophile-Catherine,33,France,183 cm,86 kg,False,43,Cardiff,28,26,2355,Defender,,False,2,0,3,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+603,1459,Aaron James,Ramsey,32,Wales,178 cm,76 kg,False,42,Arsenal,23,20,1764,Midfielder,,False,3,6,3,,,10,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+604,1737,Allan James,McGregor,40,Scotland,183 cm,74 kg,False,64,Hull City,26,26,2230,Goalkeeper,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,0,0,2,,,,,,2013/2014
+605,1744,James Henry,Tavernier,31,England,182 cm,75 kg,False,34,Newcastle,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+606,1749,Steven,Davis,37,Northern Ireland,173 cm,70 kg,False,41,Southampton,34,28,2499,Midfielder,,False,6,14,9,,,2,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+607,1968,Jo Inge,Berget,32,Norway,184 cm,78 kg,False,43,Cardiff,1,0,11,Midfielder,,False,1,0,5,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+608,2932,Jordan,Pickford,28,England,185 cm,77 kg,False,746,Sunderland,0,0,0,Goalkeeper,,False,0,0,11,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+609,2934,Michael,Keane,29,England,191 cm,82 kg,False,33,Manchester United,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+610,18758,Séamus,Coleman,34,Republic of Ireland,177 cm,67 kg,False,45,Everton,36,36,3229,Defender,,False,0,1,1,,,6,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+611,18763,James Patrick,McCarthy,32,Republic of Ireland,180 cm,72 kg,False,45,Everton,34,31,2854,Midfielder,,False,3,2,3,,,1,,,,,,,,,,,,,,,,,5,0,0,,,,,,2013/2014
+612,18854,Andros,Townsend,31,England,181 cm,77 kg,False,47,Tottenham,25,12,1227,Midfielder,,False,13,5,16,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+613,18858,Asmir,Begović,35,Bosnia and Herzegovina,199 cm,101 kg,False,75,Stoke City,32,32,2880,Goalkeeper,,False,0,0,0,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+614,18908,Charles Joseph John,Hart,35,England,196 cm,91 kg,False,50,Manchester City,31,31,2790,Goalkeeper,,False,0,0,7,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+615,19140,Kemar,Roofe,29,Jamaica,178 cm,65 kg,False,60,West Brom,0,0,0,Attacker,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+616,19304,Claudio Ariel,Yacob,35,Argentina,181 cm,77 kg,False,60,West Brom,27,22,1842,Midfielder,,False,5,8,11,,,1,,,,,,,,,,,,,,,,,7,0,0,,,,,,2013/2014
+617,19457,Graham Dylan,Burke,29,Republic of Ireland,180 cm,75 kg,False,66,Aston Villa,0,0,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+618,51146,Vito,Mannone,34,Italy,191 cm,73 kg,False,746,Sunderland,29,28,2567,Goalkeeper,,False,1,0,10,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+619,93587,Marco Wulfert Cornelis,van Ginkel,30,Netherlands,180 cm,67 kg,False,49,Chelsea,2,0,12,Midfielder,,False,2,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+620,181,Victor,Mugubi Wanyama,31,Kenya,188 cm,80 kg,False,41,Southampton,23,19,1660,Midfielder,,False,4,5,7,,,0,,,,,,,,,,,,,,,,,7,0,0,,,,,,2013/2014
+621,1441,Carl,Jenkinson,30,England,185 cm,77 kg,False,42,Arsenal,14,7,798,Defender,,False,7,0,26,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+622,2283,David Luiz,Moreira Marinho,35,Brazil,189 cm,84 kg,False,49,Chelsea,19,15,1358,Defender,,False,4,2,10,,,0,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+623,2294,Willian,Borges da Silva,34,Brazil,175 cm,77 kg,False,49,Chelsea,25,18,1679,Attacker,,False,7,9,12,,,4,,,,,,,,,,,,,,,,,4,1,0,,,,,,2013/2014
+624,2849,Bryan Jafet,Ruíz González,37,Costa Rica,186 cm,81 kg,False,36,Fulham,12,8,774,Attacker,,False,4,5,10,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+625,2886,Javier,Hernández Balcázar,34,Mexico,175 cm,73 kg,False,33,Manchester United,24,6,840,Attacker,,False,18,3,26,,,4,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+626,6900,Curtis Edward,Good,29,Australia,187 cm,85 kg,False,34,Newcastle,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+627,12719,José Paulo,Bezzera Maciel Júnior,34,Brazil,181 cm,81 kg,False,47,Tottenham,30,28,2380,Midfielder,,False,2,8,3,,,6,,,,,,,,,,,,,,,,,4,0,1,,,,,,2013/2014
+628,18798,Adrian Joseph,Mariappa,36,Jamaica,180 cm,78 kg,False,52,Crystal Palace,24,23,2113,Defender,,False,1,1,8,,,1,,,,,,,,,,,,,,,,,6,0,0,,,,,,2013/2014
+629,19400,Gary,Hooper,34,England,175 cm,71 kg,False,71,Norwich,32,22,2021,Attacker,,False,10,12,13,,,6,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+630,19481,Jack Christian,Rodwell,31,England,188 cm,70 kg,False,50,Manchester City,5,1,108,Midfielder,,False,4,0,14,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+631,19707,Craig,Noone,35,England,177 cm,69 kg,False,43,Cardiff,17,13,1224,Attacker,,False,4,3,14,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+632,20397,Scott,Wootton,31,England,188 cm,78 kg,False,33,Manchester United,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+633,34739,Jordon,Mutch,31,England,188 cm,82 kg,False,43,Cardiff,35,26,2260,Midfielder,,False,9,7,10,,,7,,,,,,,,,,,,,,,,,5,0,0,,,,,,2013/2014
+634,50820,Jozy,Altidore,33,USA,183 cm,79 kg,False,746,Sunderland,31,19,1777,Attacker,,False,12,6,16,,,1,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+635,50997,Cody,Cropper,29,USA,191 cm,91 kg,False,41,Southampton,0,0,0,Goalkeeper,,False,0,0,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+636,51066,Sebastian Francisco,Lletget,30,USA,178 cm,69 kg,False,48,West Ham,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+637,51106,Bradley Shaun,Smith,28,Australia,178 cm,70 kg,False,40,Liverpool,1,0,30,Defender,,False,1,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+638,51265,Gedion,Zelalem,25,USA,180 cm,74 kg,False,42,Arsenal,0,0,0,Midfielder,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+639,70752,Antolín,Alcáraz Viveros,40,Paraguay,187 cm,78 kg,False,45,Everton,6,5,494,Defender,,False,1,0,12,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+640,308,Daniel Andre,Sturridge,33,England,188 cm,76 kg,False,40,Liverpool,29,26,2276,Attacker,,False,3,13,3,,,21,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+641,1282,Jesse Pekka,Joronen,29,Finland,197 cm,89 kg,False,36,Fulham,0,0,0,Goalkeeper,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+642,1874,Valentin,Roberge,35,France,185 cm,73 kg,False,746,Sunderland,9,7,667,Defender,,False,2,1,11,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+643,2911,Dong-Won,Ji,31,Korea Republic,188 cm,81 kg,False,746,Sunderland,5,2,201,Attacker,,False,3,2,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+644,10533,André Francisco,Moritz,36,Brazil,187 cm,83 kg,False,52,Crystal Palace,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+645,11069,Buomesca,Tué Na Bangna,29,Guinea-Bissau,175 cm,,False,36,Fulham,1,0,18,Attacker,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+646,15386,Charalampos,Mavrias,28,Greece,178 cm,,False,746,Sunderland,4,1,149,Midfielder,,False,3,1,8,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+647,18900,Sung-Yeung,Ki,33,Korea Republic,189 cm,75 kg,False,746,Sunderland,27,25,2185,Midfielder,,False,2,5,3,,,3,,,,,,,,,,,,,,,,,3,0,0,,,,,,2013/2014
+648,19052,Jason David Ian,Puncheon,36,England,173 cm,70 kg,False,52,Crystal Palace,14,12,1029,Midfielder,,False,2,6,2,,,4,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+649,24939,Ryo,Miyaichi,30,Japan,183 cm,71 kg,False,42,Arsenal,1,0,17,Midfielder,,False,1,0,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+650,30455,Gastón Exequiel,Ramírez Pereyra,32,Uruguay,183 cm,78 kg,False,41,Southampton,18,3,510,Midfielder,,False,15,3,20,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+651,31255,Modibo,Diakité,35,France,192 cm,84 kg,False,746,Sunderland,7,7,630,Defender,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+652,33025,Tadanari,Lee,37,Japan,182 cm,73 kg,False,41,Southampton,0,0,0,Attacker,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+653,34428,Bo-Kyung,Kim,33,Korea Republic,178 cm,73 kg,False,43,Cardiff,28,21,1678,Midfielder,,False,7,13,10,,,1,,,,,,,,,,,,,,,,,4,0,0,,,,,,2013/2014
+654,34522,Joo-Young,Park,37,Korea Republic,182 cm,75 kg,False,42,Arsenal,0,0,0,Attacker,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+655,44297,Bradley Scott,Jones,40,Australia,194 cm,76 kg,False,40,Liverpool,0,0,0,Goalkeeper,,False,0,0,37,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+656,61920,Magaye Serigne Falilou Dit Nel,Gueye,32,Senegal,183 cm,73 kg,False,45,Everton,0,0,0,Attacker,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+657,66027,Jens David Joacim,Moberg Karlsson,28,Sweden,179 cm,75 kg,False,746,Sunderland,0,0,0,Midfielder,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+658,83022,Marvin,Emnes,34,Netherlands,180 cm,66 kg,False,76,Swansea,7,2,136,Attacker,,False,5,2,8,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2013/2014
+659,104092,Emmanuel,Mayuka,32,Zambia,178 cm,75 kg,False,41,Southampton,0,0,0,Attacker,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+660,287,Dejan,Lovren,33,Croatia,188 cm,84 kg,False,41,Southampton,31,31,2788,Defender,,False,0,1,1,,,2,,,,,,,,,,,,,,,,,7,0,0,,,,,,2013/2014
+661,1290,Guillermo,Varela Olivera,29,Uruguay,173 cm,70 kg,False,33,Manchester United,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+662,1347,Victor,Moses,32,Nigeria,177 cm,79 kg,False,40,Liverpool,19,6,644,Midfielder,,False,13,4,26,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+663,18859,Artur,Boruc,42,Poland,193 cm,87 kg,False,41,Southampton,29,29,2578,Goalkeeper,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+664,26473,Nick,Proschwitz,36,Germany,192 cm,82 kg,False,64,Hull City,2,0,23,Attacker,,False,2,0,5,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+665,33255,Łukasz Józef,Podolski,37,Germany,182 cm,80 kg,False,42,Arsenal,20,14,1170,Attacker,,False,6,9,10,,,8,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+666,39049,Magnus,Wolff Eikrem,32,Norway,173 cm,69 kg,False,43,Cardiff,6,1,199,Midfielder,,False,5,0,12,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
+667,46280,Christofer,David,29,Netherlands,171 cm,70 kg,False,36,Fulham,1,0,67,Midfielder,,False,1,0,2,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+668,49957,Ondřej,Čelůstka,33,Czech Republic,186 cm,80 kg,False,746,Sunderland,21,14,1332,Defender,,False,7,3,13,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2013/2014
+669,55949,Ľubomír,Šatka,27,Slovakia,188 cm,78 kg,False,34,Newcastle,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2013/2014
