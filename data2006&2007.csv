@@ -1,0 +1,474 @@
+,id,firstname,lastname,age,nationality,height,weight,injured,teamID,teamname,appearences,lineups,minutes,position,rating,captain,subIn,subOut,bench,totalShots,shotsOn,totalGoals,goalsConceded,goalAssists,goalSaves,totalPasses,keyPasses,passAccuracy,totalTackles,blocks,interceptions,duelsTotal,duelsWon,dribbleAttempts,dribblesSuccess,dribblesPast,foulsDrawn,foulsCommitted,cardsYel,cardsYelRed,cardsRed,penaltyWon,penaltyCommited,penaltyScored,penaltyMissed,penaltySaved,season
+0,5982,Carlos Alberto,Tevez,37,Argentina,173 cm,75 kg,False,48,West Ham,26,19,1753,Attacker,,False,7,9,11,,,7,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+1,18032,Jon,Stead,38,England,191 cm,76 kg,False,62,Sheffield Utd,14,12,1062,Attacker,,False,2,5,3,,,5,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+2,18241,Mark,Yeates,36,Republic of Ireland,175 cm,66 kg,False,46,Leicester,9,9,0,Midfielder,,False,0,0,0,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+3,19289,Michael,Dawson,38,England,189 cm,79 kg,False,47,Tottenham,37,37,3283,Defender,,False,0,2,0,,,1,,,,,,,,,,,,,,,,,6,0,0,,,,,,2006/2007
+4,19448,Paul,Gallagher,37,Scotland,183 cm,79 kg,False,67,Blackburn,16,2,328,Midfielder,,False,14,2,19,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+5,19488,Danny,Graham,36,England,185 cm,88 kg,False,70,Middlesbrough,1,0,10,Attacker,,False,1,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+6,19879,James,Vaughan,33,England,180 cm,79 kg,False,45,Everton,14,7,651,Attacker,,False,7,6,10,,,4,,,,,,,,,,,,,,,,,5,0,0,,,,,,2006/2007
+7,20165,Anthony Randolph,Warner,45,Trinidad and Tobago,193 cm,86 kg,False,36,Fulham,0,0,0,Goalkeeper,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+8,20462,Anthony,McMahon,35,England,180 cm,71 kg,False,70,Middlesbrough,0,0,0,Defender,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+9,20511,Billy,Clarke,34,Republic of Ireland,170 cm,64 kg,False,57,Ipswich,27,27,0,Attacker,,False,0,0,0,,,3,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+10,25444,Jaroslav,Drobný,42,Czech Republic,192 cm,90 kg,False,36,Fulham,0,0,0,Goalkeeper,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+11,44499,Ahmed Hossam Hussein,Abdelhamid,30,Egypt,188 cm,83 kg,False,47,Tottenham,12,7,651,Attacker,,False,5,2,8,,,1,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+12,117093,Jerzy,Dudek,40,Poland,188 cm,83 kg,False,40,Liverpool,2,2,180,Goalkeeper,,False,0,0,30,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+13,118634,Elliot Junior,Omozusi,33,England,180 cm,80 kg,False,36,Fulham,0,0,0,Defender,,False,0,0,5,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+14,155217,Matthew,Pattison,35,South Africa,173 cm,78 kg,False,34,Newcastle,7,2,298,Midfielder,,False,5,0,9,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+15,230933,Jack David,Smith,34,England,180 cm,78 kg,False,38,Watford,3,3,270,Defender,,False,0,0,0,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+16,230989,David,Connolly,44,Republic of Ireland,172 cm,67 kg,False,61,Wigan,2,0,70,Attacker,,False,2,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+17,231015,Danny,Webber,40,England,178 cm,71 kg,False,62,Sheffield Utd,22,13,1155,Attacker,,False,9,7,15,,,3,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+18,232209,Anthony,McNamee,37,England,168 cm,64 kg,False,38,Watford,7,4,349,Midfielder,,False,3,4,8,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+19,232939,Nathan,Ashton,26,England,"
+    ","
+    ",False,1335,Charlton,0,0,0,Midfielder,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+20,18988,Matthew,Connolly,32,England,188 cm,84 kg,False,42,Arsenal,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+21,19203,Ashley,Cole,41,England,176 cm,66 kg,False,49,Chelsea,23,21,1847,Defender,,False,2,3,2,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+22,37162,Robin,van Persie,36,Netherlands,183 cm,71 kg,False,42,Arsenal,22,17,1461,Attacker,,False,5,9,5,,,11,,,,,,,,,,,,,,,,,8,0,0,,,,,,2006/2007
+23,43003,Júlio César Clement,Baptista,38,Brazil,183 cm,86 kg,False,42,Arsenal,24,11,1131,Attacker,,False,13,6,16,,,3,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+24,47261,Mathieu,Flamini,35,France,178 cm,67 kg,False,42,Arsenal,20,9,957,Midfielder,,False,11,3,14,,,3,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+25,50031,Armand,Traoré,31,Senegal,185 cm,82 kg,False,42,Arsenal,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+26,50978,Justin,Hoyte,36,Trinidad and Tobago,180 cm,68 kg,False,42,Arsenal,21,18,1513,Defender,,False,3,6,10,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+27,87877,Jermaine,Pennant,35,England,173 cm,68 kg,False,40,Liverpool,34,20,1968,Midfielder,,False,14,9,15,,,1,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+28,90505,Stuart,Taylor,41,England,198 cm,85 kg,False,66,Aston Villa,6,4,424,Goalkeeper,,False,2,0,29,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+29,105800,Tomáš,Rosický,41,Czech Republic,178 cm,65 kg,False,42,Arsenal,26,22,1845,Midfielder,,False,4,13,4,,,3,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+30,106805,Yossi Shai,Benayoun,41,Israel,173 cm,70 kg,False,48,West Ham,29,25,2302,Midfielder,,False,4,5,6,,,3,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+31,114571,Gilberto,Aparecido da Silva,45,Brazil,184 cm,74 kg,False,42,Arsenal,34,34,2937,Midfielder,,False,0,3,0,,,10,,,,,,,,,,,,,,,,,2,0,1,,,,,,2006/2007
+32,114745,Mikel,Arteta Amatriain,34,Spain,175 cm,64 kg,False,45,Everton,35,35,3139,Midfielder,,False,0,5,0,,,9,,,,,,,,,,,,,,,,,7,0,0,,,,,,2006/2007
+33,114808,William,Gallas,37,France,183 cm,72 kg,False,42,Arsenal,21,21,1881,Defender,,False,0,1,0,,,3,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+34,114876,Thierry,Henry,37,France,188 cm,83 kg,False,42,Arsenal,17,16,1474,Attacker,,False,1,1,1,,,10,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+35,114900,Manuel,Almunia Rivero,37,Spain,190 cm,80 kg,False,42,Arsenal,1,1,90,Goalkeeper,,False,0,0,35,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+36,115062,Mikaël,Silvestre,38,France,180 cm,83 kg,False,33,Manchester United,14,6,604,Defender,,False,8,1,13,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+37,115980,Jens,Lehmann,44,Germany,190 cm,87 kg,False,42,Arsenal,36,36,3240,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,8,0,0,,,,,,2006/2007
+38,117973,Nwankwo Christian,Kanu,37,Nigeria,197 cm,80 kg,False,1355,Portsmouth,36,32,2727,Attacker,,False,4,22,5,,,10,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+39,210627,Kerrea,Gilbert,34,England,175 cm,70 kg,False,43,Cardiff,24,24,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+40,19153,Gareth,Barry,39,England,183 cm,78 kg,False,66,Aston Villa,35,35,3121,Midfielder,,False,0,0,0,,,8,,,,,,,,,,,,,,,,,7,0,1,,,,,,2006/2007
+41,28607,Gábor,Király,43,Hungary,191 cm,89 kg,False,66,Aston Villa,5,5,450,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+42,77110,Thomas,Løvendahl Sørensen,45,Denmark,196 cm,89 kg,False,66,Aston Villa,29,29,2546,Goalkeeper,,False,0,2,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+43,82009,John,Terry,41,England,187 cm,90 kg,False,49,Chelsea,28,27,2414,Defender,,False,1,0,1,,,1,,,,,,,,,,,,,,,,,2,1,0,,,,,,2006/2007
+44,82340,Stephen,Warnock,37,England,178 cm,75 kg,False,67,Blackburn,13,13,1168,Defender,,False,0,0,0,,,1,,,,,,,,,,,,,,,,,2,1,0,,,,,,2006/2007
+45,83018,Steve,Sidwell,39,England,178 cm,70 kg,False,53,Reading,35,35,3093,Midfielder,,False,0,1,0,,,4,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+46,83019,Micah,Richards,30,England,180 cm,83 kg,False,50,Manchester City,28,28,2348,Defender,,False,0,5,0,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+47,83026,Peter,Whittingham,34,England,178 cm,63 kg,False,43,Cardiff,19,19,0,Midfielder,,False,0,0,0,,,4,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+48,90516,Shay,Given,41,Republic of Ireland,185 cm,84 kg,False,34,Newcastle,22,22,1885,Goalkeeper,,False,0,4,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+49,105424,Robbie,Keane,38,Republic of Ireland,175 cm,72 kg,False,47,Tottenham,27,18,1655,Attacker,,False,9,8,12,,,11,,,,,,,,,,,,,,,,,2,0,1,,,,,,2006/2007
+50,114757,Richard,Dunne,36,Republic of Ireland,188 cm,95 kg,False,50,Manchester City,38,38,3420,Defender,,False,0,0,0,,,1,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+51,114814,Luke,Moore,30,England,180 cm,76 kg,False,66,Aston Villa,13,7,641,Attacker,,False,6,4,8,,,4,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+52,114817,Jermaine,Jenas,38,England,179 cm,76 kg,False,47,Tottenham,25,24,2162,Midfielder,,False,1,2,1,,,6,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+53,115933,Marlon,Harewood,42,England,185 cm,85 kg,False,48,West Ham,32,19,1799,Attacker,,False,13,11,13,,,3,,,,,,,,,,,,,,,,,6,0,0,,,,,,2006/2007
+54,115938,Emmanuel,Eboué,33,Côte d'Ivoire,178 cm,72 kg,False,42,Arsenal,24,23,2062,Defender,,False,1,3,1,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+55,116217,Wilfred,Bouma,43,Netherlands,179 cm,83 kg,False,66,Aston Villa,25,23,1977,Defender,,False,2,6,7,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+56,117327,Eric Daniel,Djemba-Djemba,37,Cameroon,174 cm,75 kg,False,66,Aston Villa,1,0,1,Midfielder,,False,1,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+57,231000,Darius,Vassell,33,England,171 cm,74 kg,False,50,Manchester City,32,28,2566,Attacker,,False,4,11,4,,,3,,,,,,,,,,,,,,,,,6,0,0,,,,,,2006/2007
+58,240320,Juan Pablo,Ángel Arango,39,Colombia,186 cm,80 kg,False,66,Aston Villa,23,18,1498,Attacker,,False,5,9,8,,,4,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+59,252757,Ulises Hernán,de la Cruz Bernardo,47,Ecuador,178 cm,80 kg,False,53,Reading,9,9,750,Defender,,False,0,2,4,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+60,18928,Peter,Crouch,40,England,201 cm,75 kg,False,40,Liverpool,32,19,1512,Attacker,,False,13,14,15,,,9,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+61,19417,Liam,Ridgewell,37,England,188 cm,77 kg,False,66,Aston Villa,21,19,1764,Defender,,False,2,0,7,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+62,19526,Craig,Gardner,34,England,178 cm,71 kg,False,66,Aston Villa,13,11,971,Midfielder,,False,2,2,6,,,2,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+63,19722,James,Collins,38,Wales,188 cm,83 kg,False,48,West Ham,16,16,1361,Defender,,False,0,1,2,,,0,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+64,82011,Darren,Bent,37,England,180 cm,73 kg,False,1335,Charlton,32,32,2776,Attacker,,False,0,5,0,,,14,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+65,82435,Gabriel,Imuetinyan Agbonlahor,32,England,180 cm,78 kg,False,66,Aston Villa,38,37,3327,Attacker,,False,1,3,1,,,9,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+66,87315,Kieran,Richardson,32,England,175 cm,69 kg,False,33,Manchester United,15,8,780,Defender,,False,7,4,11,,,1,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+67,87798,Nigel,Reo-Coker,37,England,175 cm,77 kg,False,48,West Ham,35,35,3090,Midfielder,,False,0,6,0,,,1,,,,,,,,,,,,,,,,,13,0,0,,,,,,2006/2007
+68,90492,Stephen,Ireland,32,Republic of Ireland,173 cm,67 kg,False,50,Manchester City,24,14,1333,Midfielder,,False,10,5,12,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+69,90507,Joleon,Lescott,35,England,188 cm,82 kg,False,45,Everton,38,36,3317,Defender,,False,2,1,2,,,2,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+70,114752,Charles,N'Zogbia,30,France,171 cm,70 kg,False,34,Newcastle,22,10,1122,Midfielder,,False,12,4,14,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+71,114790,Kevin,Phillips,41,England,170 cm,70 kg,False,66,Aston Villa,0,0,0,Attacker,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+72,114829,Nicky,Shorey,40,England,175 cm,67 kg,False,53,Reading,37,37,3330,Defender,,False,0,0,0,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+73,114850,Luke,Young,42,England,183 cm,78 kg,False,1335,Charlton,29,29,2588,Defender,,False,0,1,0,,,1,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+74,114851,Emile,Heskey,43,England,187 cm,83 kg,False,61,Wigan,34,33,2704,Attacker,,False,1,11,1,,,9,,,,,,,,,,,,,,,,,6,0,0,,,,,,2006/2007
+75,114884,Zat,Knight,41,England,198 cm,86 kg,False,36,Fulham,22,22,1968,Defender,,False,0,1,4,,,2,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+76,231288,Kevin,Lisbie,43,Jamaica,178 cm,69 kg,False,1335,Charlton,8,1,185,Attacker,,False,7,0,9,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+77,231472,Steve,Kabba,40,England,178 cm,71 kg,False,38,Watford,11,6,618,Attacker,,False,5,4,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+78,232119,Lee,Hendrie,36,England,178 cm,64 kg,False,66,Aston Villa,1,0,7,Midfielder,,False,1,0,4,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+79,232495,Edgar,Davids,40,Netherlands,169 cm,68 kg,False,47,Tottenham,9,6,515,Midfielder,,False,3,2,6,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+80,17925,Michael,Tonge,38,England,180 cm,78 kg,False,62,Sheffield Utd,27,23,2014,Midfielder,,False,4,5,4,,,2,,,,,,,,,,,,,,,,,6,0,0,,,,,,2006/2007
+81,19683,Ben,Alnwick,33,England,188 cm,81 kg,False,746,Sunderland,11,11,0,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+82,60072,Matt,Mills,34,England,191 cm,82 kg,False,50,Manchester City,1,1,60,Defender,,False,0,1,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+83,82882,Iain,Turner,34,Scotland,193 cm,88 kg,False,45,Everton,1,1,90,Goalkeeper,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+84,87726,Ross,Turnbull,32,England,193 cm,85 kg,False,70,Middlesbrough,0,0,0,Goalkeeper,,False,0,0,12,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+85,87893,Liam,Lawrence,40,Republic of Ireland,180 cm,71 kg,False,746,Sunderland,12,12,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+86,87896,Paul,Konchesky,40,England,178 cm,69 kg,False,48,West Ham,22,22,1966,Defender,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,7,0,1,,,,,,2006/2007
+87,87925,Jamie,O'Hara,33,England,178 cm,82 kg,False,47,Tottenham,0,0,0,Midfielder,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+88,114827,Mike,Pollitt,49,England,193 cm,89 kg,False,61,Wigan,2,2,180,Goalkeeper,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+89,114859,David,Dunn,37,England,178 cm,88 kg,False,67,Blackburn,11,7,590,Midfielder,,False,4,3,4,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+90,115936,Stephen,Carr,37,Ireland Republic,175 cm,77 kg,False,34,Newcastle,23,23,2056,Defender,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+91,155651,Lee,Sawyer,31,England,175 cm,75 kg,False,49,Chelsea,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+92,208961,Keith,Treacy,33,Republic of Ireland,183 cm,79 kg,False,67,Blackburn,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+93,230906,Darren,Ambrose,37,England,183 cm,78 kg,False,1335,Charlton,26,21,1803,Midfielder,,False,5,10,9,,,3,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+94,230940,Martin,Taylor,42,England,193 cm,95 kg,False,54,Birmingham,31,31,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+95,231004,John,Oster,43,Wales,175 cm,67 kg,False,53,Reading,25,6,838,Midfielder,,False,19,5,27,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+96,231010,James,Harper,41,England,178 cm,81 kg,False,53,Reading,38,36,3202,Midfielder,,False,2,5,2,,,3,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+97,232277,Francino Rousseu,Francis,32,Jamaica,188 cm,90 kg,False,38,Watford,1,1,90,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+98,232646,Jonathan,Fortune,41,England,188 cm,76 kg,False,1335,Charlton,1,1,90,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+99,232828,Robert,Kozluk,44,England,173 cm,64 kg,False,62,Sheffield Utd,19,17,1489,Defender,,False,2,2,10,,,0,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+100,18497,David Edward,Edgar,34,Canada,191 cm,84 kg,False,34,Newcastle,3,2,241,Defender,,False,1,0,7,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+101,45024,Andrew,Davies,36,England,188 cm,82 kg,False,70,Middlesbrough,23,21,1903,Defender,,False,2,5,7,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+102,82000,Tomasz,Kuszczak,36,Poland,191 cm,84 kg,False,33,Manchester United,6,6,540,Goalkeeper,,False,0,0,31,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+103,83131,Wes,Brown,39,England,185 cm,77 kg,False,33,Manchester United,22,17,1600,Defender,,False,5,1,13,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+104,90517,Paul,Robinson,42,England,193 cm,90 kg,False,47,Tottenham,38,38,3420,Goalkeeper,,False,0,0,0,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+105,97947,Christian,Nadé,37,France,186 cm,80 kg,False,62,Sheffield Utd,25,7,914,Attacker,,False,18,7,26,,,3,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+106,104259,Brett,Emerton,35,Australia,185 cm,85 kg,False,67,Blackburn,34,32,2928,Midfielder,,False,2,1,2,,,0,,,,,,,,,,,,,,,,,5,0,0,,,,,,2006/2007
+107,114759,Steven,Reid,40,Republic of Ireland,185 cm,87 kg,False,67,Blackburn,3,3,270,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+108,114763,Matthew,Upson,37,England,185 cm,72 kg,False,48,West Ham,2,2,41,Defender,,False,0,2,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+109,114773,Craig,Bellamy,35,Wales,173 cm,68 kg,False,40,Liverpool,27,23,1919,Attacker,,False,4,12,4,,,7,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+110,114811,Jason,Roberts,43,Grenada,185 cm,92 kg,False,67,Blackburn,18,9,1026,Attacker,,False,9,3,10,,,4,,,,,,,,,,,,,,,,,3,1,0,,,,,,2006/2007
+111,114866,Danny,Murphy,36,England,175 cm,69 kg,False,47,Tottenham,12,5,580,Midfielder,,False,7,2,12,,,2,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+112,115941,Stuart,Parnaby,33,England,181 cm,77 kg,False,70,Middlesbrough,18,9,852,Defender,,False,9,3,15,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+113,115988,Marcus,Bent,43,England,188 cm,76 kg,False,1335,Charlton,30,17,1571,Attacker,,False,13,9,16,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+114,116362,Teemu,Tainio,36,Finland,180 cm,71 kg,False,47,Tottenham,21,20,1501,Midfielder,,False,1,12,1,,,2,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+115,118000,Aaron,Mokoena,41,South Africa,187 cm,79 kg,False,67,Blackburn,27,18,1681,Defender,,False,9,4,15,,,0,,,,,,,,,,,,,,,,,5,0,0,,,,,,2006/2007
+116,217278,Chris,Brown,33,England,185 cm,70 kg,False,746,Sunderland,16,16,0,Attacker,,False,0,0,0,,,3,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+117,230912,Richard,Lee,39,England,183 cm,85 kg,False,38,Watford,10,9,854,Goalkeeper,,False,1,0,24,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+118,230939,Ian,Bennett,50,England,183 cm,80 kg,False,62,Sheffield Utd,2,2,180,Goalkeeper,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+119,230953,Marlon,King,41,Jamaica,190 cm,77 kg,False,38,Watford,13,12,1121,Attacker,,False,1,0,1,,,4,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+120,17447,Robert,Olejnik,35,Austria,188 cm,82 kg,False,66,Aston Villa,0,0,0,Goalkeeper,,False,0,0,9,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+121,17528,Ishmael,Miller,33,England,191 cm,89 kg,False,50,Manchester City,16,3,444,Attacker,,False,13,3,17,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+122,17862,James,Sinclair,34,England,175 cm,80 kg,False,68,Bolton,2,0,45,Defender,,False,2,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+123,19696,Andrew,Taylor,33,England,178 cm,69 kg,False,70,Middlesbrough,34,34,2969,Defender,,False,0,3,0,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+124,104312,Lucas,Neill,36,Australia,190 cm,76 kg,False,48,West Ham,11,11,932,Defender,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+125,114765,Jussi,Jääskeläinen,46,Finland,191 cm,81 kg,False,68,Bolton,38,38,3420,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+126,114772,Nicolas,Anelka,36,France,185 cm,77 kg,False,68,Bolton,35,35,3017,Attacker,,False,0,8,0,,,11,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+127,114804,Emmerson Orlando,Boyce,42,Barbados,180 cm,73 kg,False,61,Wigan,34,34,3022,Defender,,False,0,2,0,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+128,114862,Yakubu,Aiyegbeni,35,Nigeria,183 cm,83 kg,False,70,Middlesbrough,37,36,3172,Attacker,,False,1,9,1,,,12,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+129,114869,Heidar,Helguson,44,Iceland,178 cm,78 kg,False,36,Fulham,29,16,1461,Attacker,,False,13,9,21,,,3,,,,,,,,,,,,,,,,,10,0,1,,,,,,2006/2007
+130,114883,Paddy,Kenny,43,Republic of Ireland,185 cm,89 kg,False,62,Sheffield Utd,34,34,3031,Goalkeeper,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+131,115953,Andy,Reid,39,Republic of Ireland,170 cm,75 kg,False,1335,Charlton,16,15,1208,Midfielder,,False,1,7,1,,,2,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+132,115966,Andy,O'Brien,42,Republic of Ireland,191 cm,74 kg,False,1355,Portsmouth,2,1,90,Defender,,False,1,0,15,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+133,116294,André,Ooijer,47,Netherlands,185 cm,74 kg,False,67,Blackburn,20,20,1714,Defender,,False,0,2,0,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+134,117726,Stephen,Jordan,37,England,183 cm,71 kg,False,50,Manchester City,13,12,1041,Defender,,False,1,1,2,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+135,118007,Daniel Olusola 'Danny',Shittu,41,Nigeria,191 cm,95 kg,False,38,Watford,30,27,2343,Defender,,False,3,3,5,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+136,225949,Henrik,Pedersen,46,Denmark,185 cm,84 kg,False,68,Bolton,17,10,916,Attacker,,False,7,3,10,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+137,231008,Trésor,Lomana LuaLua,41,Congo DR,178 cm,73 kg,False,1355,Portsmouth,22,8,946,Attacker,,False,14,3,16,,,2,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+138,231014,Sean,Davis,42,England,178 cm,76 kg,False,1355,Portsmouth,31,29,2494,Midfielder,,False,2,7,4,,,0,,,,,,,,,,,,,,,,,5,0,0,,,,,,2006/2007
+139,248173,Johann,Smith,34,USA,178 cm,79 kg,False,68,Bolton,1,0,5,Defender,,False,1,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+140,18494,Matthew,Bates,33,England,178 cm,76 kg,False,70,Middlesbrough,1,1,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+141,19691,Jack,Hobbs,33,England,191 cm,86 kg,False,40,Liverpool,0,0,0,Defender,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+142,19708,Gary,O'Neil,38,England,173 cm,60 kg,False,1355,Portsmouth,35,35,3115,Midfielder,,False,0,5,0,,,1,,,,,,,,,,,,,,,,,7,0,0,,,,,,2006/2007
+143,20259,Yves Makabu,Ma-Kalambay,35,Belgium,198 cm,96 kg,False,49,Chelsea,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+144,44837,Jonathan,Spector,35,USA,183 cm,76 kg,False,48,West Ham,25,17,1783,Defender,,False,8,3,13,,,0,,,,,,,,,,,,,,,,,5,0,0,,,,,,2006/2007
+145,44863,Aaron,Hughes,42,Northern Ireland,183 cm,70 kg,False,66,Aston Villa,19,15,1290,Defender,,False,4,2,15,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+146,44968,Matthew,Kilgallon,36,England,188 cm,80 kg,False,62,Sheffield Utd,6,6,540,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+147,82138,Shola,Ameobi,37,Nigeria,188 cm,76 kg,False,34,Newcastle,11,9,738,Attacker,,False,2,6,3,,,3,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+148,82406,Graham,Stack,40,Republic of Ireland,188 cm,79 kg,False,53,Reading,0,0,0,Goalkeeper,,False,0,0,9,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+149,89733,Bjarni Þór,Viðarsson,33,Iceland,187 cm,76 kg,False,45,Everton,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+150,97943,James,McFadden,35,Scotland,178 cm,79 kg,False,45,Everton,19,6,784,Attacker,,False,13,4,18,,,2,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+151,103381,Liam,Miller,37,Republic of Ireland,170 cm,66 kg,False,746,Sunderland,30,30,0,Midfielder,,False,0,0,0,,,2,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+152,114743,Kevin,Nolan,39,England,180 cm,88 kg,False,68,Bolton,31,31,2680,Midfielder,,False,0,6,0,,,3,,,,,,,,,,,,,,,,,10,0,1,,,,,,2006/2007
+153,114747,Sylvain,Distin,39,France,192 cm,85 kg,False,50,Manchester City,37,37,3256,Defender,,False,0,2,0,,,2,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+154,114789,Tommy,Smith,35,England,179 cm,80 kg,False,38,Watford,29,29,2339,Attacker,,False,0,12,0,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+155,114792,Abdoulaye,Diagne-Fayé,43,Senegal,187 cm,87 kg,False,68,Bolton,32,29,2520,Defender,,False,3,3,3,,,2,,,,,,,,,,,,,,,,,9,0,0,,,,,,2006/2007
+156,117424,Peter,Enckelman,44,Finland,188 cm,89 kg,False,67,Blackburn,0,0,0,Goalkeeper,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+157,230924,Richard,Hughes,42,Scotland,180 cm,62 kg,False,1355,Portsmouth,18,11,1049,Midfielder,,False,7,0,11,,,0,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+158,232314,Osei,Sankofa,36,England,,,False,1335,Charlton,9,9,749,Defender,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,3,0,1,,,,,,2006/2007
+159,234066,Caleb Colman,Folan,30,Ireland Republic,190 cm,80 kg,False,61,Wigan,13,8,690,Attacker,,False,5,3,5,,,2,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+160,45001,Anton,Ferdinand,36,England,183 cm,71 kg,False,48,West Ham,31,31,2650,Defender,,False,0,4,0,,,0,,,,,,,,,,,,,,,,,5,0,0,,,,,,2006/2007
+161,67647,Will,Hoskins,35,England,178 cm,78 kg,False,38,Watford,9,4,421,Attacker,,False,5,3,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+162,82242,Chris,Eagles,36,England,183 cm,67 kg,False,33,Manchester United,2,1,94,Midfielder,,False,1,0,2,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+163,82446,Jay,McEveley,36,Scotland,186 cm,84 kg,False,67,Blackburn,4,3,235,Defender,,False,1,1,6,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+164,83020,Liam,Rosenior,37,England,178 cm,72 kg,False,36,Fulham,38,38,3398,Defender,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+165,83032,Scott,Parker,37,England,175 cm,69 kg,False,34,Newcastle,29,28,2424,Midfielder,,False,1,3,1,,,3,,,,,,,,,,,,,,,,,8,0,0,,,,,,2006/2007
+166,87873,Jerome,Thomas,38,England,178 cm,74 kg,False,1335,Charlton,20,16,1364,Midfielder,,False,4,9,4,,,2,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+167,105412,Oguchi Chijioke,Onyewu,36,USA,194 cm,95 kg,False,34,Newcastle,11,7,744,Defender,,False,4,0,5,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+168,113941,Omar Heber,Pouso Osores,41,Uruguay,183 cm,75 kg,False,1335,Charlton,1,1,57,Midfielder,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+169,114760,Steve,Harper,41,England,190 cm,82 kg,False,34,Newcastle,18,15,1442,Goalkeeper,,False,3,0,14,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+170,114761,Bobby,Zamora,40,England,183 cm,74 kg,False,48,West Ham,32,27,2212,Attacker,,False,5,17,7,,,11,,,,,,,,,,,,,,,,,4,1,0,,,,,,2006/2007
+171,114798,Henrique Hilário,Meireles Alves Sampaio,46,Portugal,189 cm,88 kg,False,49,Chelsea,11,11,990,Goalkeeper,,False,0,0,11,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+172,114875,Rob,Hulse,42,England,187 cm,78 kg,False,62,Sheffield Utd,29,28,2453,Attacker,,False,1,4,1,,,8,,,,,,,,,,,,,,,,,6,0,0,,,,,,2006/2007
+173,114879,Wayne,Bridge,41,England,180 cm,68 kg,False,49,Chelsea,22,17,1547,Defender,,False,5,3,8,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+174,115984,Dean,Kiely,51,Republic of Ireland,185 cm,79 kg,False,1355,Portsmouth,0,0,0,Goalkeeper,,False,0,0,10,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+175,117966,Dennis,Rommedahl,43,Denmark,178 cm,73 kg,False,1335,Charlton,28,19,1748,Attacker,,False,9,8,15,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+176,118048,Andriy,Shevchenko,37,Ukraine,180 cm,73 kg,False,49,Chelsea,30,22,1808,Attacker,,False,8,18,9,,,4,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+177,155566,Omar Alieu,Koroma,31,Gambia,,,False,1355,Portsmouth,1,0,17,Attacker,,False,1,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+178,231371,Clarke,Carlisle,42,England,191 cm,79 kg,False,38,Watford,4,4,360,Defender,,False,0,1,1,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+179,231477,Sam,Sodje,42,Nigeria,183 cm,74 kg,False,53,Reading,3,2,190,Defender,,False,1,1,4,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+180,2277,Robert,Green,41,England,187 cm,93 kg,False,48,West Ham,26,26,2340,Goalkeeper,,False,0,0,9,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+181,15295,Nuno Miguel,Morais Barbosa,37,Portugal,185 cm,76 kg,False,49,Chelsea,2,0,18,Midfielder,,False,2,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+182,82894,Jimmy,Walker,48,England,180 cm,69 kg,False,48,West Ham,0,0,0,Goalkeeper,,False,0,0,8,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+183,90491,Glen,Johnson,37,England,182 cm,78 kg,False,1355,Portsmouth,26,25,2257,Defender,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+184,90512,Robert,Huth,37,Germany,191 cm,99 kg,False,70,Middlesbrough,12,8,792,Defender,,False,4,1,5,,,1,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+185,102731,Didier Yves,Drogba Tébily,40,Côte d'Ivoire,189 cm,80 kg,False,49,Chelsea,36,32,2947,Attacker,,False,4,6,3,,,20,,,,,,,,,,,,,,,,,8,0,0,,,,,,2006/2007
+186,103147,Seb,Hines,31,England,188 cm,78 kg,False,70,Middlesbrough,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+187,103163,Jordan,Stewart,39,England,183 cm,84 kg,False,38,Watford,31,30,2681,Defender,,False,1,1,3,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+188,103165,Shaun,Wright-Phillips,40,England,168 cm,64 kg,False,49,Chelsea,27,13,1266,Midfielder,,False,14,7,20,,,2,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+189,104311,Mark,Schwarzer,44,Australia,194 cm,85 kg,False,70,Middlesbrough,36,36,3240,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+190,114775,Damien,Duff,36,Republic of Ireland,177 cm,70 kg,False,34,Newcastle,22,20,1729,Goalkeeper,,False,2,5,2,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+191,114825,Carlo,Cudicini,48,Italy,186 cm,79 kg,False,49,Chelsea,8,7,715,Goalkeeper,,False,1,0,18,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+192,114828,Paulo Renato,Rebocho Ferreira,34,Portugal,183 cm,76 kg,False,49,Chelsea,24,18,1707,Defender,,False,6,2,8,,,0,,,,,,,,,,,,,,,,,5,0,0,,,,,,2006/2007
+193,115025,Michael,Ballack,45,Germany,188 cm,89 kg,False,49,Chelsea,26,23,2017,Midfielder,,False,3,4,3,,,4,,,,,,,,,,,,,,,,,7,0,1,,,,,,2006/2007
+194,115034,Khalid,Boulahrouz,40,Netherlands,183 cm,80 kg,False,49,Chelsea,13,10,815,Defender,,False,3,5,15,,,0,,,,,,,,,,,,,,,,,2,0,1,,,,,,2006/2007
+195,115931,Luís,Boa Morte Pereira,36,Portugal,178 cm,73 kg,False,48,West Ham,14,8,769,Midfielder,,False,6,2,6,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+196,118023,Gérémi Sorele,N'Djitap Fotso,43,Cameroon,180 cm,78 kg,False,49,Chelsea,19,15,1159,Midfielder,,False,4,8,7,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+197,230996,Kevin,Kilbane,36,Ireland Republic,183 cm,79 kg,False,61,Wigan,31,26,2359,Midfielder,,False,5,6,9,,,1,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+198,232859,Philip,Ifil,35,England,175 cm,73 kg,False,47,Tottenham,1,1,90,Defender,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+199,234123,Mark,Crossley,52,Wales,191 cm,100 kg,False,36,Fulham,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+200,38976,Paul,Ifill,42,Barbados,183 cm,80 kg,False,62,Sheffield Utd,3,3,169,Attacker,,False,0,3,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+201,82194,Darius,Henderson,40,England,185 cm,83 kg,False,38,Watford,35,24,2195,Attacker,,False,11,11,11,,,3,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+202,104686,Hossam El Sayed,Ghaly,37,Egypt,181 cm,78 kg,False,47,Tottenham,21,17,1443,Midfielder,,False,4,7,7,,,1,,,,,,,,,,,,,,,,,4,0,1,,,,,,2006/2007
+203,105391,Kevin,Doyle,38,Republic of Ireland,183 cm,81 kg,False,53,Reading,32,28,2471,Attacker,,False,4,6,5,,,13,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+204,114746,Leon,Osman,35,England,174 cm,63 kg,False,45,Everton,34,31,2810,Midfielder,,False,3,5,3,,,3,,,,,,,,,,,,,,,,,5,0,0,,,,,,2006/2007
+205,114755,Tony,Hibbert,35,England,173 cm,70 kg,False,45,Everton,13,12,1015,Defender,,False,1,1,6,,,0,,,,,,,,,,,,,,,,,1,1,0,,,,,,2006/2007
+206,114768,Andy,Johnson,34,England,172 cm,64 kg,False,45,Everton,32,32,2718,Attacker,,False,0,7,0,,,11,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+207,114797,Joseph Phillip,Yobo,34,Nigeria,188 cm,76 kg,False,45,Everton,38,38,3420,Defender,,False,0,0,0,,,2,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+208,114801,Phil,Neville,36,England,180 cm,76 kg,False,45,Everton,35,35,3113,Midfielder,,False,0,2,0,,,1,,,,,,,,,,,,,,,,,7,0,0,,,,,,2006/2007
+209,114838,Simon,Davies,34,Wales,178 cm,76 kg,False,36,Fulham,14,14,1238,Midfielder,,False,0,1,0,,,2,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+210,114845,Stephen,Hunt,40,Republic of Ireland,172 cm,72 kg,False,53,Reading,35,28,2431,Midfielder,,False,7,11,9,,,4,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+211,114857,Fitz,Hall,41,England,193 cm,82 kg,False,61,Wigan,24,22,1825,Defender,,False,2,5,2,,,0,,,,,,,,,,,,,,,,,3,0,1,,,,,,2006/2007
+212,116023,Tomasz,Radziński,48,Canada,174 cm,75 kg,False,36,Fulham,35,25,2238,Attacker,,False,10,12,13,,,2,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+213,230926,Anthony,Gardner,34,England,196 cm,88 kg,False,47,Tottenham,8,6,595,Defender,,False,2,0,10,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+214,230938,Jamie,Ashdown,41,England,190 cm,92 kg,False,1355,Portsmouth,0,0,0,Goalkeeper,,False,0,0,25,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+215,230994,Andy,Griffin,42,England,173 cm,68 kg,False,1355,Portsmouth,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+216,231282,Claude,Davis,42,Jamaica,191 cm,79 kg,False,62,Sheffield Utd,21,18,1495,Defender,,False,3,4,6,,,0,,,,,,,,,,,,,,,,,3,0,1,,,,,,2006/2007
+217,231328,Gavin,Mahon,44,England,185 cm,83 kg,False,38,Watford,34,33,2941,Midfielder,,False,1,4,1,,,1,,,,,,,,,,,,,,,,,7,0,0,,,,,,2006/2007
+218,232497,Moses,Ashikodi,28,Antigua and Barbuda,183 cm,,False,38,Watford,1,0,11,Goalkeeper,,False,1,0,3,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+219,280956,Alan,Stubbs,42,England,"
+    ","
+    ",False,45,Everton,23,23,1999,Defender,,False,0,2,3,,,2,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+220,18757,Leighton,Baines,37,England,170 cm,74 kg,False,61,Wigan,35,35,3150,Defender,,False,0,0,0,,,4,,,,,,,,,,,,,,,,,8,0,0,,,,,,2006/2007
+221,20080,Ryan,Taylor,37,England,173 cm,65 kg,False,61,Wigan,15,12,1114,Defender,,False,3,3,5,,,1,,,,,,,,,,,,,,,,,5,0,0,,,,,,2006/2007
+222,20140,Gabriel,Zakuani,35,Congo DR,185 cm,68 kg,False,36,Fulham,0,0,0,Defender,,False,0,0,8,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+223,77105,Tim,Cahill,40,Australia,178 cm,64 kg,False,45,Everton,18,17,1406,Attacker,,False,1,4,1,,,5,,,,,,,,,,,,,,,,,5,0,0,,,,,,2006/2007
+224,90511,Victor Chinedu,Anichebe,29,Nigeria,191 cm,85 kg,False,45,Everton,19,5,618,Attacker,,False,14,5,17,,,3,,,,,,,,,,,,,,,,,5,0,0,,,,,,2006/2007
+225,105378,Clint,Dempsey,35,USA,185 cm,77 kg,False,36,Fulham,9,1,244,Attacker,,False,8,0,12,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+226,114753,Richard,Wright,39,England,188 cm,89 kg,False,45,Everton,1,1,90,Goalkeeper,,False,0,0,29,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+227,114787,John Arne,Semundseth Riise,41,Norway,185 cm,77 kg,False,40,Liverpool,33,29,2579,Defender,,False,4,2,4,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+228,114794,Carlo,Nash,48,England,197 cm,89 kg,False,61,Wigan,0,0,0,Goalkeeper,,False,0,0,7,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+229,114820,Louis,Saha,35,France,185 cm,86 kg,False,33,Manchester United,24,18,1631,Attacker,,False,6,6,10,,,8,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+230,115095,Moritz,Volz,38,Germany,179 cm,80 kg,False,36,Fulham,29,24,2034,Defender,,False,5,9,8,,,2,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+231,115956,John,Paintsil,35,Ghana,178 cm,68 kg,False,48,West Ham,5,3,343,Defender,,False,2,0,4,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+232,115976,Marcus,Hahnemann,42,USA,191 cm,99 kg,False,53,Reading,38,38,3309,Goalkeeper,,False,0,2,0,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+233,115977,Edwin,van der Sar,51,Netherlands,197 cm,84 kg,False,33,Manchester United,32,32,2880,Goalkeeper,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+234,118028,Simon,Elliott,47,New Zealand,180 cm,80 kg,False,36,Fulham,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+235,118378,Matthew,Spring,42,England,183 cm,72 kg,False,38,Watford,6,2,259,Midfielder,,False,4,1,10,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+236,155779,Ian,Pearce,47,England,191 cm,90 kg,False,36,Fulham,22,22,1906,Defender,,False,0,0,1,,,1,,,,,,,,,,,,,,,,,3,0,1,,,,,,2006/2007
+237,230999,Jimmy,Bullard,43,England,178 cm,73 kg,False,36,Fulham,4,4,304,Midfielder,,False,0,1,0,,,2,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+238,231479,Alan,O'Brien,33,Republic of Ireland,178 cm,71 kg,False,34,Newcastle,2,1,113,Midfielder,,False,1,0,7,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+239,240316,Björn Sandro,Runström,37,Sweden,186 cm,77 kg,False,36,Fulham,1,0,5,Attacker,,False,1,0,7,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+240,13073,Javier Alejandro,Mascherano,37,Argentina,174 cm,73 kg,False,40,Liverpool,7,7,617,Defender,,False,0,2,1,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+241,82150,Alan,Smith,38,England,178 cm,69 kg,False,33,Manchester United,9,6,480,Attacker,,False,3,4,4,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+242,83261,Dexter,Blackstock,35,Antigua and Barbuda,185 cm,76 kg,False,72,QPR,39,39,0,Attacker,,False,0,0,0,,,13,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+243,90521,Álvaro,Arbeloa Coca,34,Spain,183 cm,79 kg,False,40,Liverpool,9,8,705,Defender,,False,1,1,1,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+244,90657,Xabier,Alonso Olano,36,Spain,183 cm,80 kg,False,40,Liverpool,32,29,2660,Midfielder,,False,3,2,3,,,4,,,,,,,,,,,,,,,,,9,0,0,,,,,,2006/2007
+245,93990,Dirk,Kuijt,37,Netherlands,184 cm,83 kg,False,40,Liverpool,34,27,2582,Attacker,,False,7,13,8,,,12,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+246,104255,Harry,Kewell,39,Australia,180 cm,70 kg,False,40,Liverpool,2,0,46,Attacker,,False,2,0,2,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+247,114577,Fábio,Aurélio Rodrigues,35,Brazil,173 cm,73 kg,False,40,Liverpool,17,10,1012,Defender,,False,7,1,7,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+248,114744,Adam,Johnson,29,England,178 cm,62 kg,False,70,Middlesbrough,9,2,260,Midfielder,,False,7,1,10,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+249,114778,Daniel Munthe,Agger,32,Denmark,191 cm,84 kg,False,40,Liverpool,27,23,2164,Defender,,False,4,0,11,,,2,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+250,114788,George,McCartney,40,Northern Ireland,183 cm,79 kg,False,48,West Ham,22,16,1453,Defender,,False,6,3,9,,,0,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+251,114815,Michael,Owen,42,England,173 cm,70 kg,False,34,Newcastle,3,3,247,Attacker,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+252,114819,Jamie,Carragher,43,England,185 cm,83 kg,False,40,Liverpool,35,34,2980,Defender,,False,1,3,1,,,1,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+253,114822,Kieron,Dyer,35,England,170 cm,64 kg,False,34,Newcastle,22,20,1710,Midfielder,,False,2,8,1,,,5,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+254,115080,Sami,Hyypia,40,Finland,195 cm,88 kg,False,40,Liverpool,23,23,2033,Defender,,False,0,2,12,,,2,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+255,115439,Bernardo,Corradi,37,Italy,190 cm,83 kg,False,50,Manchester City,25,19,1587,Attacker,,False,6,8,9,,,3,,,,,,,,,,,,,,,,,4,2,0,,,,,,2006/2007
+256,219697,Luis Javier,García Sanz,38,Spain,177 cm,65 kg,False,40,Liverpool,17,11,999,Midfielder,,False,6,6,6,,,3,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+257,230997,George,Boateng,38,Netherlands,182 cm,76 kg,False,70,Middlesbrough,35,35,3026,Midfielder,,False,0,6,0,,,1,,,,,,,,,,,,,,,,,5,0,2,,,,,,2006/2007
+258,231006,Michael,Johnson,25,England,190 cm,79 kg,False,50,Manchester City,10,10,900,Midfielder,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+259,231009,Ívar,Ingimarsson,44,Iceland,185 cm,84 kg,False,53,Reading,38,38,3420,Defender,,False,0,0,0,,,2,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+260,19162,James,Morrison,33,Scotland,178 cm,64 kg,False,70,Middlesbrough,28,15,1524,Midfielder,,False,13,13,14,,,2,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+261,19504,Darren,Fletcher,35,Scotland,183 cm,83 kg,False,33,Manchester United,24,16,1427,Midfielder,,False,8,5,12,,,3,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+262,19609,John,O'Shea,38,Republic of Ireland,191 cm,75 kg,False,33,Manchester United,32,16,1722,Defender,,False,16,0,20,,,4,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+263,19899,Lee,Cattermole,32,England,178 cm,76 kg,False,70,Middlesbrough,31,22,1960,Midfielder,,False,9,11,8,,,1,,,,,,,,,,,,,,,,,10,0,0,,,,,,2006/2007
+264,32138,Massimo,Maccarone,41,Italy,180 cm,78 kg,False,70,Middlesbrough,7,1,175,Attacker,,False,6,1,10,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+265,34401,Dong-Gook,Lee,42,Korea Republic,187 cm,83 kg,False,70,Middlesbrough,9,3,279,Attacker,,False,6,3,8,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+266,49849,Emre,Belözoğlu,40,Turkey,169 cm,68 kg,False,34,Newcastle,24,21,1825,Midfielder,,False,3,10,4,,,2,,,,,,,,,,,,,,,,,6,0,0,,,,,,2006/2007
+267,90490,Michael,Carrick,40,England,188 cm,74 kg,False,33,Manchester United,33,29,2511,Midfielder,,False,4,10,5,,,3,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+268,104256,Ji-Sung,Park,33,Korea Republic,178 cm,72 kg,False,33,Manchester United,14,8,772,Midfielder,,False,6,4,8,,,5,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+269,114764,Rio,Ferdinand,43,England,189 cm,82 kg,False,33,Manchester United,33,33,2926,Defender,,False,0,1,1,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+270,114774,Ryan,Giggs,41,Wales,180 cm,68 kg,False,33,Manchester United,30,25,2307,Midfielder,,False,5,10,6,,,4,,,,,,,,,,,,,,,,,5,0,0,,,,,,2006/2007
+271,114802,Paul,Scholes,39,England,168 cm,70 kg,False,33,Manchester United,30,29,2596,Midfielder,,False,1,3,3,,,6,,,,,,,,,,,,,,,,,8,0,1,,,,,,2006/2007
+272,114818,Titus Malachi,Bramble,32,England,185 cm,87 kg,False,34,Newcastle,17,17,1495,Defender,,False,0,1,3,,,0,,,,,,,,,,,,,,,,,6,1,0,,,,,,2006/2007
+273,114854,Jonathan,Woodgate,36,England,183 cm,80 kg,False,70,Middlesbrough,30,30,2599,Defender,,False,0,2,0,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+274,115674,Fábio,Rochemback,33,Brazil,183 cm,83 kg,False,70,Middlesbrough,20,17,1538,Midfielder,,False,3,4,9,,,2,,,,,,,,,,,,,,,,,5,0,0,,,,,,2006/2007
+275,117104,Albert Marcos,Luque,35,Spain,183 cm,80 kg,False,34,Newcastle,7,0,105,Attacker,,False,7,0,16,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+276,117983,Jay,DeMerit,42,USA,180 cm,81 kg,False,38,Watford,32,29,2755,Defender,,False,3,0,5,,,2,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+277,155214,Julio,Arca,38,Argentina,175 cm,69 kg,False,70,Middlesbrough,21,18,1542,Midfielder,,False,3,6,6,,,2,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+278,230991,Dave,Kitson,41,England,191 cm,79 kg,False,53,Reading,13,9,804,Attacker,,False,4,5,6,,,2,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+279,231507,Paul,Gerrard,40,England,188 cm,83 kg,False,62,Sheffield Utd,2,2,180,Goalkeeper,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+280,90510,Shaun,Maloney,34,Scotland,170 cm,70 kg,False,66,Aston Villa,8,5,450,Midfielder,,False,3,4,5,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+281,104129,Kolo Habib,Touré,36,Côte d'Ivoire,180 cm,74 kg,False,42,Arsenal,35,35,3150,Defender,,False,0,0,0,,,3,,,,,,,,,,,,,,,,,7,0,0,,,,,,2006/2007
+282,104323,Young-Pyo,Lee,37,Korea Republic,178 cm,67 kg,False,47,Tottenham,21,20,1767,Defender,,False,1,4,4,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+283,114758,Carlton,Cole Okirie,38,England,191 cm,78 kg,False,48,West Ham,16,5,512,Attacker,,False,11,4,15,,,2,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+284,114839,Paul,Scharner,41,Austria,191 cm,80 kg,False,61,Wigan,25,22,2050,Midfielder,,False,3,0,3,,,3,,,,,,,,,,,,,,,,,9,0,0,,,,,,2006/2007
+285,114846,Stiliyan Alyoshev,Petrov,34,Bulgaria,180 cm,77 kg,False,66,Aston Villa,30,30,2636,Midfielder,,False,0,2,0,,,2,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+286,114865,Ledley,King,33,England,188 cm,86 kg,False,47,Tottenham,21,21,1881,Defender,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+287,114898,Radek,Cerný,40,Czech Republic,187 cm,87 kg,False,47,Tottenham,0,0,0,Goalkeeper,,False,0,0,38,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+288,116259,Denny,Landzaat,38,Netherlands,178 cm,70 kg,False,61,Wigan,33,29,2527,Midfielder,,False,4,11,8,,,2,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+289,116996,Noé Elias,Pamarot,42,France,180 cm,86 kg,False,1355,Portsmouth,23,21,1821,Defender,,False,2,3,11,,,2,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+290,117328,Nicky,Weaver,35,England,191 cm,83 kg,False,50,Manchester City,25,25,2151,Goalkeeper,,False,0,2,10,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+291,117365,Gary,Naysmith,35,Scotland,178 cm,73 kg,False,45,Everton,15,10,944,Defender,,False,5,4,13,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+292,118149,Michael,Duberry,38,England,186 cm,94 kg,False,53,Reading,8,8,676,Defender,,False,0,1,4,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+293,158905,Josh,Walker,30,England,181 cm,76 kg,False,70,Middlesbrough,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+294,210695,Andreas,Johansson,43,Sweden,181 cm,80 kg,False,61,Wigan,12,4,445,Midfielder,,False,8,1,16,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+295,224883,Luton,Shelton,33,Jamaica,181 cm,75 kg,False,62,Sheffield Utd,4,2,201,Attacker,,False,2,2,5,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+296,230985,Ricardo Sérgio,Rocha Azevedo,35,Portugal,180 cm,80 kg,False,47,Tottenham,9,9,766,Defender,,False,0,1,2,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+297,240213,Bobby,Convey,31,USA,175 cm,72 kg,False,53,Reading,9,8,619,Attacker,,False,1,6,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+298,242026,Julius,Aghahowa,31,Nigeria,179 cm,73 kg,False,61,Wigan,6,3,311,Attacker,,False,3,3,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+299,255383,Jürgen,Colin,40,Netherlands,183 cm,76 kg,False,71,Norwich,30,30,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+300,516,Arjen,Robben,37,Netherlands,180 cm,80 kg,False,49,Chelsea,21,16,1349,Attacker,,False,5,13,5,,,2,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+301,2312,Aleksandr,Hleb,38,Belarus,185 cm,73 kg,False,42,Arsenal,33,27,2362,Midfielder,,False,6,15,7,,,2,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+302,2853,Andreas,Granqvist,36,Sweden,192 cm,84 kg,False,61,Wigan,0,0,0,Defender,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+303,7526,Emanuel,Pogatetz,37,Austria,191 cm,90 kg,False,70,Middlesbrough,35,35,3004,Defender,,False,0,3,0,,,2,,,,,,,,,,,,,,,,,10,0,0,,,,,,2006/2007
+304,19238,Stewart,Downing,37,England,180 cm,64 kg,False,70,Middlesbrough,34,34,3041,Midfielder,,False,0,4,0,,,2,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+305,19332,Wayne,Routledge,36,England,170 cm,64 kg,False,36,Fulham,24,13,1413,Midfielder,,False,11,5,18,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+306,30082,Andranik,Timotian-Samarani,36,Iran,180 cm,73 kg,False,68,Bolton,17,6,825,Midfielder,,False,11,3,14,,,2,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+307,40576,Jarosław,Fojut,34,Poland,188 cm,83 kg,False,68,Bolton,0,0,0,Defender,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+308,51199,Chinedum,Onuoha,35,England,183 cm,78 kg,False,50,Manchester City,18,15,1325,Defender,,False,3,4,7,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+309,51298,Timothy Matthew,Howard,42,USA,191 cm,95 kg,False,45,Everton,36,36,3240,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+310,78738,Ricardo Jorge,Vaz Tê,35,Portugal,188 cm,79 kg,False,68,Bolton,4,0,133,Attacker,,False,4,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+311,87780,Lloyd Ekow,Sam,37,Ghana,173 cm,74 kg,False,1335,Charlton,2,1,101,Attacker,,False,1,1,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+312,106799,Michael,Essien,38,Ghana,177 cm,85 kg,False,49,Chelsea,33,33,2970,Midfielder,,False,0,0,0,,,2,,,,,,,,,,,,,,,,,5,0,0,,,,,,2006/2007
+313,111327,Tal,Ben Haim,39,Israel,183 cm,75 kg,False,68,Bolton,31,30,2662,Defender,,False,1,2,2,,,0,,,,,,,,,,,,,,,,,6,0,0,,,,,,2006/2007
+314,114782,Nemanja,Vidic,35,Serbia,189 cm,84 kg,False,33,Manchester United,25,25,2142,Defender,,False,0,3,2,,,3,,,,,,,,,,,,,,,,,7,0,0,,,,,,2006/2007
+315,115954,David,Bentley,37,England,173 cm,76 kg,False,67,Blackburn,36,36,3080,Midfielder,,False,0,10,0,,,4,,,,,,,,,,,,,,,,,7,0,0,,,,,,2006/2007
+316,153869,Robert,Sissons,33,England,,,False,68,Bolton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+317,167494,James Ashley,Chambers,41,England,178 cm,74 kg,False,38,Watford,11,7,638,Defender,,False,4,3,5,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+318,232407,Alhassan,Bangura,33,Sierra Leone,175 cm,66 kg,False,38,Watford,16,12,1084,Midfielder,,False,4,2,12,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+319,232494,Collins,John,36,Netherlands,180 cm,79 kg,False,36,Fulham,23,9,912,Attacker,,False,14,8,17,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+320,893,Luis Antonio,Valencia Mosquera,36,Ecuador,180 cm,83 kg,False,61,Wigan,22,17,1380,Midfielder,,False,5,10,6,,,1,,,,,,,,,,,,,,,,,6,0,1,,,,,,2006/2007
+321,6929,Steven Vincent,Taylor,35,England,188 cm,91 kg,False,34,Newcastle,27,26,2384,Defender,,False,1,0,5,,,2,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+322,9215,Denílson,Pereira Neves,33,Brazil,180 cm,68 kg,False,42,Arsenal,10,4,376,Midfielder,,False,6,1,10,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+323,12313,Mark Dennis,González Hoffmann,36,Chile,176 cm,74 kg,False,40,Liverpool,25,14,1215,Midfielder,,False,11,12,12,,,2,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+324,18070,Charlie,Lee,35,England,175 cm,79 kg,False,47,Tottenham,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+325,19491,Adam,Federici,37,Australia,188 cm,90 kg,False,53,Reading,2,0,111,Goalkeeper,,False,2,0,29,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+326,20169,Mark Anthony,Hughes,36,England,188 cm,88 kg,False,45,Everton,1,0,0,Defender,,False,1,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+327,44326,Ali Abdullah Harib,Al Habsi,40,Oman,194 cm,79 kg,False,68,Bolton,0,0,0,Goalkeeper,,False,0,0,12,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+328,60043,André Stéphane,Bikey-Amougou,35,Cameroon,182 cm,80 kg,False,53,Reading,15,7,826,Defender,,False,8,0,19,,,0,,,,,,,,,,,,,,,,,2,1,0,,,,,,2006/2007
+329,61289,Ľubomír,Michalík,39,Slovakia,200 cm,98 kg,False,68,Bolton,4,3,339,Defender,,False,1,0,1,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+330,69261,Joseph Martin,O'Brien,36,Republic of Ireland,180 cm,70 kg,False,68,Bolton,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+331,82123,Matthew Anthony,Briggs,30,Guyana,184 cm,76 kg,False,36,Fulham,1,0,13,Defender,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+332,82925,David Rhys George,Cotterill,35,Wales,175 cm,71 kg,False,61,Wigan,16,5,642,Midfielder,,False,11,4,17,,,1,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+333,89043,Zoltán,Harsányi,35,Slovakia,185 cm,76 kg,False,68,Bolton,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+334,98020,Andy,Webster,35,Scotland,182 cm,63 kg,False,61,Wigan,4,3,274,Defender,,False,1,2,4,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+335,115949,James,Beattie,36,England,185 cm,84 kg,False,45,Everton,33,15,1460,Attacker,,False,18,11,22,,,2,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+336,115962,El-Hadji Ousseynou,Diouf,40,Senegal,180 cm,75 kg,False,68,Bolton,33,32,2708,Attacker,,False,1,17,1,,,5,,,,,,,,,,,,,,,,,7,0,1,,,,,,2006/2007
+337,124184,Roy,Carroll,44,Northern Ireland,188 cm,80 kg,False,48,West Ham,12,12,1080,Goalkeeper,,False,0,0,15,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+338,124634,Zurab,Khizanishvili,40,Georgia,180 cm,89 kg,False,67,Blackburn,18,17,1567,Defender,,False,1,1,4,,,0,,,,,,,,,,,,,,,,,6,0,0,,,,,,2006/2007
+339,154212,Tony,Stokes,34,England,178 cm,74 kg,False,48,West Ham,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+340,1280,Stephan,Maigaard Andersen,40,Denmark,188 cm,80 kg,False,1335,Charlton,0,0,0,Goalkeeper,,False,0,0,5,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+341,20950,Johan Etienne Anthony,Cavalli,39,France,170 cm,65 kg,False,38,Watford,3,2,147,Midfielder,,False,1,2,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+342,25352,Salomon Armand Magloire,Kalou,36,Côte d'Ivoire,184 cm,77 kg,False,49,Chelsea,32,19,1891,Midfielder,,False,13,6,14,,,7,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+343,48528,Alexandre Dimitri,Song-Billong,35,Cameroon,185 cm,76 kg,False,1335,Charlton,12,12,985,Midfielder,,False,0,4,0,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+344,51076,DaMarcus,Beasley,38,USA,173 cm,66 kg,False,50,Manchester City,18,11,1026,Defender,,False,7,6,12,,,3,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+345,90608,Vassiriki Abou,Diaby,31,France,190 cm,78 kg,False,42,Arsenal,12,9,732,Midfielder,,False,3,4,3,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+346,91303,Johan Danon,Djourou-Gbadjere,34,Switzerland,191 cm,87 kg,False,42,Arsenal,21,18,1539,Defender,,False,3,3,9,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+347,102748,Joe,Cole,40,England,175 cm,63 kg,False,49,Chelsea,13,3,471,Midfielder,,False,10,2,11,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+348,104130,Madjid,Bougherra,35,Algeria,190 cm,93 kg,False,1335,Charlton,5,2,218,Defender,,False,3,0,7,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+349,104745,Niko,Kranjčar,34,Croatia,185 cm,80 kg,False,1355,Portsmouth,24,11,1282,Midfielder,,False,13,6,16,,,2,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+350,104780,Philippe,Senderos,36,Switzerland,190 cm,84 kg,False,42,Arsenal,14,9,805,Defender,,False,5,0,18,,,0,,,,,,,,,,,,,,,,,3,1,1,,,,,,2006/2007
+351,115946,Benjamin 'Benjani',Mwaruwari,43,Zimbabwe,188 cm,78 kg,False,1355,Portsmouth,30,25,2030,Attacker,,False,5,17,6,,,6,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+352,115967,Pascal,Chimbonda,36,Guadeloupe,180 cm,75 kg,False,47,Tottenham,33,33,2915,Defender,,False,0,3,0,,,1,,,,,,,,,,,,,,,,,5,0,0,,,,,,2006/2007
+353,116663,Pedro Miguel,da Silva Mendes,42,Portugal,177 cm,77 kg,False,1355,Portsmouth,26,25,2084,Midfielder,,False,1,9,1,,,2,,,,,,,,,,,,,,,,,3,1,0,,,,,,2006/2007
+354,117522,David,Weir,43,Scotland,191 cm,85 kg,False,45,Everton,5,2,150,Defender,,False,3,1,16,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+355,230965,Papa Bouba,Diop,43,Senegal,194 cm,94 kg,False,36,Fulham,23,20,1706,Midfielder,,False,3,6,3,,,0,,,,,,,,,,,,,,,,,4,1,0,,,,,,2006/2007
+356,230986,Christian,Dailly,48,Scotland,183 cm,80 kg,False,48,West Ham,14,10,990,Defender,,False,4,0,8,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+357,233861,Michael,Ball,42,England,180 cm,70 kg,False,50,Manchester City,12,12,1076,Defender,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+358,233869,Bruno,Berner,41,Switzerland,185 cm,84 kg,False,67,Blackburn,1,1,90,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+359,258155,Henri,Camara,44,Senegal,176 cm,67 kg,False,61,Wigan,23,18,1617,Attacker,,False,5,6,7,,,6,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+360,1436,Petr,Čech,40,Czech Republic,196 cm,90 kg,False,49,Chelsea,20,20,1715,Goalkeeper,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+361,19151,Tyrone,Mears,38,Jamaica,181 cm,74 kg,False,48,West Ham,5,3,216,Defender,,False,2,2,2,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+362,38686,Dorian,Dervite,34,France,192 cm,85 kg,False,47,Tottenham,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+363,42346,Arnold,Mvuemba,35,France,172 cm,67 kg,False,1355,Portsmouth,7,1,221,Midfielder,,False,6,0,9,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+364,49861,Emmanuel,Adebayor,36,Togo,192 cm,70 kg,False,42,Arsenal,29,21,1988,Attacker,,False,8,7,10,,,8,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+365,66078,Milan,Baroš,40,Czech Republic,183 cm,83 kg,False,66,Aston Villa,17,10,874,Attacker,,False,7,6,11,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+366,83021,Danny Sean,Guthrie,35,England,176 cm,72 kg,False,40,Liverpool,3,0,32,Midfielder,,False,3,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+367,87077,Patrice,Evra,37,France,174 cm,75 kg,False,33,Manchester United,24,22,1861,Defender,,False,2,10,7,,,1,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+368,90514,Joey,Barton,35,England,172 cm,70 kg,False,50,Manchester City,33,33,2967,Midfielder,,False,0,0,0,,,6,,,,,,,,,,,,,,,,,10,0,1,,,,,,2006/2007
+369,101849,Anderson,Silva de França,40,Brazil,188 cm,81 kg,False,45,Everton,1,0,2,Midfielder,,False,1,0,5,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+370,105131,Andreas,Isaksson,40,Sweden,200 cm,86 kg,False,50,Manchester City,14,12,1179,Goalkeeper,,False,2,0,11,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+371,106087,Tony,Kane,35,Northern Ireland,183 cm,76 kg,False,67,Blackburn,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+372,113639,Dimitar,Ivanov Berbatov,37,Bulgaria,188 cm,79 kg,False,47,Tottenham,33,30,2715,Attacker,,False,3,3,4,,,12,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+373,113811,Djimi,Traoré,41,Mali,190 cm,83 kg,False,1355,Portsmouth,10,10,808,Defender,,False,0,4,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+374,113823,Carlos Manuel,Bocanegra,35,USA,183 cm,78 kg,False,36,Fulham,30,26,2332,Defender,,False,4,3,6,,,5,,,,,,,,,,,,,,,,,5,0,0,,,,,,2006/2007
+375,113868,Claude,Makelele,40,France,174 cm,70 kg,False,49,Chelsea,29,26,2325,Midfielder,,False,3,9,5,,,1,,,,,,,,,,,,,,,,,5,0,0,,,,,,2006/2007
+376,115707,Gonzalo,Sorondo Amaro,42,Uruguay,190 cm,82 kg,False,1335,Charlton,1,0,61,Defender,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+377,115945,Boudewijn,Zenden,37,Netherlands,174 cm,70 kg,False,40,Liverpool,16,9,810,Midfielder,,False,7,4,9,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+378,116043,Roudolphe  M'Bele,Douala,36,Cameroon,176 cm,75 kg,False,1355,Portsmouth,7,1,244,Midfielder,,False,6,0,8,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+379,117083,Alain Didier,Zokora-Déguy,37,Côte d'Ivoire,179 cm,72 kg,False,47,Tottenham,31,26,2305,Midfielder,,False,5,7,6,,,0,,,,,,,,,,,,,,,,,2,0,1,,,,,,2006/2007
+380,490,Manuel Henrique,Tavares Fernandes,36,Portugal,176 cm,75 kg,False,45,Everton,9,8,718,Midfielder,,False,1,4,1,,,2,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+381,894,Ashley,Young,37,England,175 cm,65 kg,False,66,Aston Villa,13,11,984,Defender,,False,2,4,2,,,2,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+382,1244,Miroslav,Stoch,33,Slovakia,169 cm,66 kg,False,49,Chelsea,0,0,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+383,12730,Zhi,Zheng,42,China PR,181 cm,75 kg,False,1335,Charlton,12,8,844,Midfielder,,False,4,1,4,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+384,15390,Matthew Anthony,Derbyshire,36,England,178 cm,71 kg,False,67,Blackburn,22,8,744,Attacker,,False,14,6,15,,,5,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+385,16803,Ahmed Fathy Abdel Meneim,Ibrahim,38,Egypt,175 cm,76 kg,False,62,Sheffield Utd,3,2,198,Defender,,False,1,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+386,17360,Neal,Eardley,34,Wales,180 cm,74 kg,False,1349,Oldham,37,37,0,Defender,,False,0,0,0,,,2,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+387,17608,Nicholas Alexander,Law,34,England,173 cm,71 kg,False,62,Sheffield Utd,4,2,210,Midfielder,,False,2,0,5,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+388,19148,Kieran,Gibbs,33,England,179 cm,70 kg,False,42,Arsenal,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+389,19243,Mikel John,Obi,35,Nigeria,188 cm,86 kg,False,49,Chelsea,22,10,946,Midfielder,,False,12,7,15,,,0,,,,,,,,,,,,,,,,,5,1,0,,,,,,2006/2007
+390,20939,Cédric Mickael,Avinel,36,Guadeloupe,187 cm,85 kg,False,38,Watford,1,1,46,Defender,,False,0,1,1,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+391,26299,Emiliano Adrián,Insúa Zapata,33,Argentina,180 cm,79 kg,False,40,Liverpool,2,2,165,Defender,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+392,40439,Błażej Szczepan,Augustyn,34,Poland,191 cm,85 kg,False,68,Bolton,0,0,0,Defender,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+393,40556,Tomasz Wojciech,Cywka,34,Poland,180 cm,76 kg,False,61,Wigan,0,0,0,Midfielder,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+394,47411,Nabil,El Zhar,36,Morocco,171 cm,66 kg,False,40,Liverpool,3,0,50,Midfielder,,False,3,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+395,66059,Jan,Laštůvka,40,Czech Republic,191 cm,91 kg,False,36,Fulham,8,7,659,Goalkeeper,,False,1,0,27,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+396,70338,Ben,Sahar,33,Israel,180 cm,72 kg,False,49,Chelsea,3,0,64,Attacker,,False,3,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+397,82055,Mark,Randall,33,England,183 cm,81 kg,False,42,Arsenal,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+398,87295,Steed,Malbranque,42,France,171 cm,75 kg,False,47,Tottenham,25,18,1589,Midfielder,,False,7,9,7,,,2,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+399,138285,Marc James Peter,Laird,36,Scotland,180 cm,82 kg,False,50,Manchester City,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+400,296,James Philip,Milner,36,England,175 cm,70 kg,False,34,Newcastle,35,31,2682,Midfielder,,False,4,7,5,,,3,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+401,874,Cristiano Ronaldo,dos Santos Aveiro,37,Portugal,187 cm,83 kg,False,33,Manchester United,34,31,2725,Attacker,,False,3,11,4,,,17,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+402,2281,Gary,Cahill,37,England,193 cm,86 kg,False,66,Aston Villa,20,19,1744,Defender,,False,1,0,6,,,0,,,,,,,,,,,,,,,,,3,0,0,,,,,,2006/2007
+403,2931,Tom,Heaton,36,England,188 cm,85 kg,False,33,Manchester United,0,0,0,Goalkeeper,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+404,18737,John,Ruddy,36,England,192 cm,96 kg,False,45,Everton,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+405,18759,Philip Nikodem,Jagielka,40,England,180 cm,87 kg,False,62,Sheffield Utd,38,38,3420,Defender,,False,0,0,0,,,4,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+406,18769,Theo,Walcott,33,England,176 cm,68 kg,False,42,Arsenal,16,5,640,Attacker,,False,11,4,16,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+407,18791,Ben,Foster,39,England,193 cm,79 kg,False,38,Watford,29,29,2566,Goalkeeper,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+408,18831,Andrew Thomas,Carroll,33,England,193 cm,79 kg,False,34,Newcastle,4,0,87,Attacker,,False,4,0,12,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+409,18887,Rob,Elliot,36,Republic of Ireland,190 cm,94 kg,False,1335,Charlton,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+410,18912,Phil,Bardsley,37,Scotland,180 cm,74 kg,False,66,Aston Villa,13,13,1147,Defender,,False,0,2,0,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+411,18925,Aaron,Lennon,35,England,165 cm,63 kg,False,47,Tottenham,26,22,1976,Midfielder,,False,4,6,4,,,3,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+412,18956,Shane Patrick,Long,35,Republic of Ireland,178 cm,81 kg,False,53,Reading,21,9,811,Attacker,,False,12,8,18,,,2,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+413,19061,Tim,Krul,34,Netherlands,188 cm,84 kg,False,34,Newcastle,0,0,0,Goalkeeper,,False,0,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+414,19197,Scott,Carson,37,England,183 cm,85 kg,False,1335,Charlton,36,36,3240,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+415,19635,Alex,Pearce,34,Republic of Ireland,188 cm,84 kg,False,53,Reading,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+416,20033,Stephen Jude,Quinn,36,Republic of Ireland,168 cm,60 kg,False,62,Sheffield Utd,15,15,1207,Midfielder,,False,0,7,0,,,2,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+417,36026,Colin,Kazim-Richards,36,Turkey,185 cm,74 kg,False,62,Sheffield Utd,27,15,1501,Attacker,,False,12,8,18,,,1,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+418,39358,Morten,Gamst Pedersen,41,Norway,183 cm,74 kg,False,67,Blackburn,36,36,3111,Midfielder,,False,0,7,0,,,6,,,,,,,,,,,,,,,,,5,0,0,,,,,,2006/2007
+419,98014,Patrick Joseph Gerard,Boyle,35,Scotland,180 cm,74 kg,False,45,Everton,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+420,108,Francesc,Fàbregas i Soler,35,Spain,180 cm,77 kg,False,42,Arsenal,38,34,3184,Midfielder,,False,4,3,4,,,2,,,,,,,,,,,,,,,,,7,0,0,,,,,,2006/2007
+421,189,Daniele,Padelli,37,Italy,191 cm,82 kg,False,40,Liverpool,1,1,90,Goalkeeper,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+422,1133,Scott,Sinclair,33,England,175 cm,64 kg,False,49,Chelsea,2,1,64,Midfielder,,False,1,1,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+423,1749,Steven,Davis,37,Northern Ireland,173 cm,70 kg,False,66,Aston Villa,27,17,1646,Midfielder,,False,10,8,18,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+424,1758,Jermain Colin,Defoe,40,England,171 cm,65 kg,False,47,Tottenham,34,20,1929,Attacker,,False,14,8,17,,,10,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+425,12774,Gabriel Alejandro,Paletta,36,Italy,190 cm,88 kg,False,40,Liverpool,3,2,209,Defender,,False,1,0,7,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+426,17609,Lee Robert,Martin,35,England,180 cm,80 kg,False,75,Stoke City,13,13,0,Midfielder,,False,0,0,0,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+427,17684,Edward William,Nolan,34,Republic of Ireland,183 cm,77 kg,False,67,Blackburn,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+428,17732,Theo Larayan Ronaldo,Robinson,33,Jamaica,175 cm,64 kg,False,38,Watford,1,0,3,Attacker,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+429,18793,Craig George,Cathcart,33,Northern Ireland,188 cm,73 kg,False,33,Manchester United,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+430,19215,Tom,Huddlestone,36,England,188 cm,71 kg,False,47,Tottenham,20,15,1459,Midfielder,,False,5,0,15,,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+431,19374,Samuel Edward,Hutchinson,33,England,182 cm,73 kg,False,49,Chelsea,1,0,1,Defender,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+432,19392,Kieran Christopher,Lee,34,England,185 cm,76 kg,False,33,Manchester United,1,1,90,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+433,19439,Paul,Huntington,35,England,191 cm,80 kg,False,34,Newcastle,11,10,901,Defender,,False,1,1,8,,,1,,,,,,,,,,,,,,,,,4,0,0,,,,,,2006/2007
+434,19697,David,Wheater,35,England,196 cm,81 kg,False,70,Middlesbrough,1,1,90,Defender,,False,0,0,0,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+435,20116,James,Henry,33,England,182 cm,77 kg,False,65,Nottingham Forest,1,1,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+436,44806,Gregory,Halford,38,England,193 cm,85 kg,False,53,Reading,3,2,180,Defender,,False,1,0,4,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+437,51004,Michael Ian,Mancienne,34,England,184 cm,80 kg,False,49,Chelsea,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+438,51146,Vito,Mannone,34,Italy,191 cm,73 kg,False,42,Arsenal,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+439,91429,Giuseppe,Rossi,35,Italy,173 cm,72 kg,False,34,Newcastle,11,3,379,Attacker,,False,8,0,13,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+440,578,Adel,Taarabt,33,Morocco,185 cm,77 kg,False,47,Tottenham,2,0,29,Midfielder,,False,2,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+441,1624,José Manuel,Reina Páez,40,Spain,188 cm,92 kg,False,40,Liverpool,35,35,3150,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+442,2728,Kasper Peter,Schmeichel,36,Denmark,189 cm,89 kg,False,50,Manchester City,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+443,17681,Nicholas Brett,Hunt,39,England,185 cm,86 kg,False,68,Bolton,33,32,2647,Defender,,False,1,5,3,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+444,18491,Scott James,Loach,34,England,191 cm,83 kg,False,38,Watford,0,0,0,Goalkeeper,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+445,18772,Jonathan Grant,Evans,34,Northern Ireland,188 cm,77 kg,False,746,Sunderland,18,18,0,Defender,,False,0,0,0,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+446,18826,Mark,Noble,35,England,180 cm,70 kg,False,48,West Ham,10,10,839,Midfielder,,False,0,2,1,,,2,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+447,18908,Charles Joseph John,Hart,35,England,196 cm,91 kg,False,50,Manchester City,0,0,0,Goalkeeper,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+448,19229,Darren,Randolph,35,Republic of Ireland,188 cm,98 kg,False,1335,Charlton,1,1,90,Goalkeeper,,False,0,0,14,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+449,19390,David Frank Llwyd,Jones,38,England,183 cm,80 kg,False,33,Manchester United,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+450,19629,David Edward,Martin,36,England,186 cm,86 kg,False,40,Liverpool,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+451,20443,Isaiah,Osbourne,35,England,188 cm,79 kg,False,66,Aston Villa,11,6,644,Midfielder,,False,5,2,6,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+452,28632,Tamás,Priskin,36,Hungary,189 cm,73 kg,False,38,Watford,16,7,752,Attacker,,False,9,4,19,,,2,,,,,,,,,,,,,,,,,2,1,0,,,,,,2006/2007
+453,41310,Aymen,Tahar,33,Algeria,178 cm,68 kg,False,37,Huddersfield,8,8,0,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+454,43147,Ricardo Jorge,Cecília Batista,36,Angola,190 cm,,False,36,Fulham,0,0,0,Goalkeeper,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+455,49840,Gaël Dimitri,Clichy,37,France,176 cm,65 kg,False,42,Arsenal,27,26,2349,Defender,,False,1,0,2,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+456,51128,Reto,Ziegler,36,Switzerland,183 cm,79 kg,False,47,Tottenham,1,0,33,Defender,,False,1,0,6,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+457,82169,Lloyd,Doyley,40,Jamaica,178 cm,87 kg,False,38,Watford,21,17,1618,Defender,,False,4,1,14,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+458,100943,Leroy,Lita,38,England,176 cm,80 kg,False,53,Reading,33,22,2001,Attacker,,False,11,8,12,,,7,,,,,,,,,,,,,,,,,1,0,0,,,,,,2006/2007
+459,154710,Ibrahima,Sonko,41,Senegal,190 cm,82 kg,False,53,Reading,23,23,1930,Defender,,False,0,2,0,,,1,,,,,,,,,,,,,,,,,3,0,1,,,,,,2006/2007
+460,308,Daniel Andre,Sturridge,33,England,188 cm,76 kg,False,50,Manchester City,2,0,20,Attacker,,False,2,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+461,6869,James,Troisi,34,Australia,176 cm,75 kg,False,34,Newcastle,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+462,6902,Scott Alexander,Jamieson,34,Australia,177 cm,71 kg,False,68,Bolton,0,0,0,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+463,18798,Adrian Joseph,Mariappa,36,Jamaica,180 cm,78 kg,False,38,Watford,19,17,1557,Defender,,False,2,1,5,,,0,,,,,,,,,,,,,,,,,2,0,0,,,,,,2006/2007
+464,19400,Gary,Hooper,34,England,175 cm,71 kg,False,1373,Leyton Orient,4,4,0,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+465,44297,Bradley Scott,Jones,40,Australia,194 cm,76 kg,False,70,Middlesbrough,2,2,180,Goalkeeper,,False,0,0,25,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+466,83372,Lee,Williamson,40,Jamaica,178 cm,65 kg,False,38,Watford,5,4,376,Midfielder,,False,1,1,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+467,154125,Joe,O'Cearuill,35,Republic of Ireland,,,False,42,Arsenal,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
+468,156077,Nick,Jordan,33,England,180 cm,,False,1355,Portsmouth,0,0,0,Goalkeeper,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2006/2007
