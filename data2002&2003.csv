@@ -1,0 +1,101 @@
+,id,firstname,lastname,age,nationality,height,weight,injured,teamID,teamname,appearences,lineups,minutes,position,rating,captain,subIn,subOut,bench,totalShots,shotsOn,totalGoals,goalsConceded,goalAssists,goalSaves,totalPasses,keyPasses,passAccuracy,totalTackles,blocks,interceptions,duelsTotal,duelsWon,dribbleAttempts,dribblesSuccess,dribblesPast,foulsDrawn,foulsCommitted,cardsYel,cardsYelRed,cardsRed,penaltyWon,penaltyCommited,penaltyScored,penaltyMissed,penaltySaved,season
+0,18241,Mark,Yeates,36,Republic of Ireland,175 cm,66 kg,False,47,Tottenham,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+1,19153,Gareth,Barry,39,England,183 cm,78 kg,False,66,Aston Villa,1,1,90,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+2,19203,Ashley,Cole,41,England,176 cm,66 kg,False,42,Arsenal,2,2,180,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+3,19417,Liam,Ridgewell,37,England,188 cm,77 kg,False,66,Aston Villa,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+4,50978,Justin,Hoyte,36,Trinidad and Tobago,180 cm,68 kg,False,42,Arsenal,1,0,1,Defender,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+5,77110,Thomas,Løvendahl Sørensen,45,Denmark,196 cm,89 kg,False,746,Sunderland,1,1,90,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+6,83026,Peter,Whittingham,34,England,178 cm,63 kg,False,66,Aston Villa,2,1,123,Midfielder,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+7,87907,Paul,Rachubka,40,England,185 cm,84 kg,False,1335,Charlton,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+8,90505,Stuart,Taylor,41,England,198 cm,85 kg,False,42,Arsenal,1,1,90,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+9,114571,Gilberto,Aparecido da Silva,45,Brazil,184 cm,74 kg,False,42,Arsenal,2,2,180,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+10,114817,Jermaine,Jenas,38,England,179 cm,76 kg,False,34,Newcastle,2,2,180,Midfielder,,False,0,0,0,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+11,114850,Luke,Young,42,England,183 cm,78 kg,False,1335,Charlton,2,2,180,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2002/2003
+12,114851,Emile,Heskey,43,England,187 cm,83 kg,False,40,Liverpool,2,0,56,Attacker,,False,2,0,2,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2002/2003
+13,114884,Zat,Knight,41,England,198 cm,86 kg,False,36,Fulham,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+14,114896,Danny,Higginbotham,43,Gibraltar,185 cm,77 kg,False,41,Southampton,3,1,115,Defender,,False,2,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+15,118128,Marcus,Allbäck,48,Sweden,180 cm,79 kg,False,66,Aston Villa,2,2,180,Attacker,,False,0,0,0,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+16,208998,Stephen,McPhail,42,Republic of Ireland,173 cm,77 kg,False,63,Leeds,1,0,44,Midfielder,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+17,231004,John,Oster,43,Wales,175 cm,67 kg,False,746,Sunderland,1,0,44,Midfielder,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+18,231288,Kevin,Lisbie,43,Jamaica,178 cm,69 kg,False,1335,Charlton,2,2,174,Attacker,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+19,232646,Jonathan,Fortune,41,England,188 cm,76 kg,False,1335,Charlton,2,2,180,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2002/2003
+20,45024,Andrew,Davies,36,England,188 cm,82 kg,False,70,Middlesbrough,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+21,83131,Wes,Brown,39,England,185 cm,77 kg,False,33,Manchester United,2,2,130,Defender,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+22,87896,Paul,Konchesky,40,England,178 cm,69 kg,False,1335,Charlton,2,2,180,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+23,90517,Paul,Robinson,42,England,193 cm,90 kg,False,63,Leeds,2,2,180,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+24,105166,Nils-Eric,Johansson,41,Sweden,187 cm,83 kg,False,67,Blackburn,2,0,47,Defender,,False,2,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+25,114811,Jason,Roberts,43,Grenada,185 cm,92 kg,False,60,West Brom,1,1,90,Attacker,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+26,115964,Jonathan,Greening,42,England,180 cm,70 kg,False,70,Middlesbrough,2,2,136,Midfielder,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2002/2003
+27,115966,Andy,O'Brien,42,Republic of Ireland,191 cm,74 kg,False,34,Newcastle,1,1,90,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+28,115975,Maik,Taylor,50,Northern Ireland,193 cm,90 kg,False,36,Fulham,2,2,180,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+29,115985,Steven,Caldwell,41,Scotland,180 cm,72 kg,False,34,Newcastle,2,2,180,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+30,117530,Michael,Chopra,38,England,175 cm,76 kg,False,34,Newcastle,1,0,9,Attacker,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+31,118905,Darren,Purse,44,England,188 cm,79 kg,False,54,Birmingham,2,2,180,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+32,225949,Henrik,Pedersen,46,Denmark,185 cm,84 kg,False,68,Bolton,2,2,145,Attacker,,False,0,2,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+33,230906,Darren,Ambrose,37,England,183 cm,78 kg,False,34,Newcastle,1,0,15,Midfielder,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+34,230939,Ian,Bennett,50,England,183 cm,80 kg,False,54,Birmingham,2,2,180,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+35,230940,Martin,Taylor,42,England,193 cm,95 kg,False,67,Blackburn,2,2,180,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+36,231008,Trésor,Lomana LuaLua,41,Congo DR,178 cm,73 kg,False,34,Newcastle,1,1,81,Attacker,,False,0,1,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+37,231014,Sean,Davis,42,England,178 cm,76 kg,False,36,Fulham,2,2,173,Midfielder,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+38,231357,Nick,Chadwick,39,England,183 cm,,False,45,Everton,1,0,15,Attacker,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+39,233992,Jamie,Clapham,46,England,175 cm,68 kg,False,54,Birmingham,2,2,180,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+40,44863,Aaron,Hughes,42,Northern Ireland,183 cm,70 kg,False,34,Newcastle,2,2,180,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+41,44968,Matthew,Kilgallon,36,England,188 cm,80 kg,False,63,Leeds,1,0,4,Defender,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+42,82017,Chris,Baird,39,Northern Ireland,185 cm,74 kg,False,41,Southampton,2,1,153,Defender,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2002/2003
+43,82255,Brian,Jensen,46,Denmark,185 cm,78 kg,False,60,West Brom,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+44,82446,Jay,McEveley,36,Scotland,186 cm,84 kg,False,67,Blackburn,2,2,133,Defender,,False,0,2,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+45,90491,Glen,Johnson,37,England,182 cm,78 kg,False,48,West Ham,2,2,180,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+46,103165,Shaun,Wright-Phillips,40,England,168 cm,64 kg,False,50,Manchester City,2,2,180,Midfielder,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+47,114743,Kevin,Nolan,39,England,180 cm,88 kg,False,68,Bolton,2,0,21,Midfielder,,False,2,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+48,114765,Jussi,Jääskeläinen,46,Finland,191 cm,81 kg,False,68,Bolton,2,2,180,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+49,114825,Carlo,Cudicini,48,Italy,186 cm,79 kg,False,49,Chelsea,2,2,180,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+50,114879,Wayne,Bridge,41,England,180 cm,68 kg,False,41,Southampton,3,3,270,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+51,115984,Dean,Kiely,51,Republic of Ireland,185 cm,79 kg,False,1335,Charlton,2,2,120,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,1,,,,,,2002/2003
+52,117424,Peter,Enckelman,44,Finland,188 cm,89 kg,False,66,Aston Villa,1,1,90,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+53,117956,Juan Sebastián,Verón,46,Argentina,186 cm,81 kg,False,33,Manchester United,1,0,21,Midfielder,,False,1,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+54,118910,Barry,Hayles,49,Jamaica,175 cm,83 kg,False,36,Fulham,2,0,10,Attacker,,False,2,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+55,231007,Mauricio,Taricco,48,Argentina,175 cm,73 kg,False,47,Tottenham,3,3,241,Defender,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2002/2003
+56,231255,Jason,Koumas,42,Wales,178 cm,74 kg,False,60,West Brom,2,2,180,Midfielder,,False,0,0,0,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+57,231415,Jon,Harley,42,England,178 cm,73 kg,False,36,Fulham,2,2,180,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2002/2003
+58,232314,Osei,Sankofa,36,England,,,False,1335,Charlton,1,0,17,Defender,,False,1,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+59,233571,Elvis,Hammond,41,Ghana,,,False,36,Fulham,2,1,70,Attacker,,False,1,1,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+60,19609,John,O'Shea,38,Republic of Ireland,191 cm,75 kg,False,33,Manchester United,2,2,136,Defender,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+61,32138,Massimo,Maccarone,41,Italy,180 cm,78 kg,False,70,Middlesbrough,2,1,90,Attacker,,False,1,1,1,,,2,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+62,82198,Matt,Oakley,44,England,178 cm,70 kg,False,41,Southampton,3,2,214,Midfielder,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+63,114758,Carlton,Cole Okirie,38,England,191 cm,78 kg,False,49,Chelsea,2,0,28,Attacker,,False,2,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+64,114764,Rio,Ferdinand,43,England,189 cm,82 kg,False,33,Manchester United,2,2,180,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2002/2003
+65,114787,John Arne,Semundseth Riise,41,Norway,185 cm,77 kg,False,40,Liverpool,2,2,165,Defender,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+66,114788,George,McCartney,40,Northern Ireland,183 cm,79 kg,False,746,Sunderland,1,0,46,Defender,,False,1,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+67,114794,Carlo,Nash,48,England,197 cm,89 kg,False,50,Manchester City,0,0,0,Goalkeeper,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+68,114815,Michael,Owen,42,England,173 cm,70 kg,False,40,Liverpool,2,2,180,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+69,114819,Jamie,Carragher,43,England,185 cm,83 kg,False,40,Liverpool,2,2,180,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+70,114873,Jody,Craddock,46,England,185 cm,78 kg,False,746,Sunderland,2,2,180,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+71,115977,Edwin,van der Sar,51,Netherlands,197 cm,84 kg,False,36,Fulham,0,0,0,Goalkeeper,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+72,116023,Tomasz,Radziński,48,Canada,174 cm,75 kg,False,45,Everton,1,1,84,Attacker,,False,0,1,0,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+73,118052,Anders,Svensson,45,Sweden,177 cm,77 kg,False,41,Southampton,3,3,196,Midfielder,,False,0,3,0,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2002/2003
+74,167494,James Ashley,Chambers,41,England,178 cm,74 kg,False,60,West Brom,2,2,171,Defender,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+75,226005,Mikkel,Bischoff,39,Denmark,193 cm,85 kg,False,50,Manchester City,0,0,0,Defender,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+76,230994,Andy,Griffin,42,England,173 cm,68 kg,False,34,Newcastle,1,1,90,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+77,233864,Russell,Hoult,49,England,193 cm,93 kg,False,60,West Brom,2,2,180,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+78,233875,Robert,Burch,38,England,188 cm,82 kg,False,47,Tottenham,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+79,234123,Mark,Crossley,52,Wales,191 cm,100 kg,False,70,Middlesbrough,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+80,296,James Philip,Milner,36,England,175 cm,70 kg,False,63,Leeds,0,0,0,Midfielder,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+81,1758,Jermain Colin,Defoe,40,England,171 cm,65 kg,False,48,West Ham,2,2,180,Attacker,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2002/2003
+82,17387,Joseph,Murphy,41,Republic of Ireland,188 cm,80 kg,False,60,West Brom,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+83,19238,Stewart,Downing,37,England,180 cm,64 kg,False,70,Middlesbrough,2,0,56,Midfielder,,False,2,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+84,44297,Bradley Scott,Jones,40,Australia,194 cm,76 kg,False,70,Middlesbrough,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+85,66078,Milan,Baroš,40,Czech Republic,183 cm,83 kg,False,40,Liverpool,2,2,180,Attacker,,False,0,0,0,,,1,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+86,71190,Richie,Ryan,37,Republic of Ireland,178 cm,77 kg,False,746,Sunderland,1,0,44,Midfielder,,False,1,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+87,87295,Steed,Malbranque,42,France,171 cm,75 kg,False,36,Fulham,2,2,177,Midfielder,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,1,0,0,,,,,,2002/2003
+88,88760,Efstathios,Tavlaridis,41,Greece,186 cm,81 kg,False,42,Arsenal,1,0,14,Defender,,False,1,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+89,102748,Joe,Cole,40,England,175 cm,63 kg,False,48,West Ham,2,2,178,Midfielder,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+90,113755,David,Beckham,46,England,183 cm,77 kg,False,33,Manchester United,2,2,180,Midfielder,,False,0,0,0,,,2,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+91,113807,Edouard,Cissé,43,France,186 cm,76 kg,False,48,West Ham,0,0,0,Midfielder,,False,0,0,2,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+92,113811,Djimi,Traoré,41,Mali,190 cm,83 kg,False,40,Liverpool,2,2,180,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+93,115962,El-Hadji Ousseynou,Diouf,40,Senegal,180 cm,75 kg,False,40,Liverpool,2,2,141,Attacker,,False,0,2,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+94,117393,Steve,Simonsen,42,England,188 cm,79 kg,False,45,Everton,0,0,0,Goalkeeper,,False,0,0,3,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+95,118155,Kevin Alistair,Kyle,40,Scotland,193 cm,83 kg,False,746,Sunderland,2,2,174,Attacker,,False,0,1,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+96,124184,Roy,Carroll,44,Northern Ireland,188 cm,80 kg,False,33,Manchester United,2,2,180,Goalkeeper,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+97,135536,Alan,Blayney,39,Northern Ireland,,,False,41,Southampton,0,0,0,Goalkeeper,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+98,155103,Jon,Macken,45,Republic of Ireland,178 cm,78 kg,False,50,Manchester City,0,0,0,Attacker,,False,0,0,1,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
+99,230986,Christian,Dailly,48,Scotland,183 cm,80 kg,False,48,West Ham,2,2,180,Defender,,False,0,0,0,,,0,,,,,,,,,,,,,,,,,0,0,0,,,,,,2002/2003
